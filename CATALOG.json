@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "source": "sheet.html",
+  "generated_on": "2026-01-26",
+  "count": 155,
+  "books": [
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0FLTFWLFZ",
+      "title": "The Dreaming Machine: Why Robots Sometimes Make Things Up (The Bogle Doctrine Book 7)",
+      "subtitle": "",
+      "author": "Nikiki Bogle Esq",
+      "series": "The Bogle Doctrine",
+      "volume": 7,
+      "year": "",
+      "identifiers": { "asin": "B0FLTFWLFZ", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/Dreaming-Machine-Robots-Sometimes-Doctrine-ebook/dp/B0FLTFWLFZ?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0FLTFWLFZ"
+      },
+      "keywords": [
+        "computers & technology",
+        "computer science",
+        "artificial intelligence",
+        "ai & semantics",
+        "the bogle doctrine",
+        "dreaming",
+        "machine",
+        "robots",
+        "sometimes",
+        "make",
+        "things",
+        "up",
+        "nikiki",
+        "bogle",
+        "esq",
+        "doctrine",
+        "hallucinate",
+        "model"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 2" }
+    },
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0FT3RNB1L",
+      "title": "$SUE (The Bogle Doctrine Book 6)",
+      "subtitle": "",
+      "author": "$SUE Gemach DAO",
+      "series": "The Bogle Doctrine",
+      "volume": 6,
+      "year": "",
+      "identifiers": { "asin": "B0FT3RNB1L", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/SUE-Bogle-Doctrine-Book-ebook/dp/B0FT3RNB1L?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0FT3RNB1L"
+      },
+      "keywords": [
+        "politics & social sciences",
+        "social sciences",
+        "sociology",
+        "the bogle doctrine",
+        "sue",
+        "gemach",
+        "dao"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 3" }
+    },
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0F7G9DJ56",
+      "title": "The Annunaki In The Bible (The SydTek University Stacks Book 42)",
+      "subtitle": "",
+      "author": "Justin Goldston PhD",
+      "series": "The SydTek University Stacks",
+      "volume": 42,
+      "year": "",
+      "identifiers": { "asin": "B0F7G9DJ56", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/Annunaki-Bible-SydTek-University-Stacks-ebook/dp/B0F7G9DJ56?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0F7G9DJ56"
+      },
+      "keywords": [
+        "religion & spirituality",
+        "christian books & bibles",
+        "bible study",
+        "methods",
+        "the sydtek university stacks",
+        "annunaki",
+        "bible",
+        "justin",
+        "goldston",
+        "phd",
+        "sydtek",
+        "university",
+        "stacks"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 4" }
+    },
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0FT3QQVSJ",
+      "title": "The Sovereign Counsel: Lawful Innovation in a Web3 World (The Bogle Doctrine Book 5)",
+      "subtitle": "",
+      "author": "Justin Goldston PhD",
+      "series": "The Bogle Doctrine",
+      "volume": 5,
+      "year": "",
+      "identifiers": { "asin": "B0FT3QQVSJ", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/Sovereign-Counsel-Lawful-Innovation-Doctrine-ebook/dp/B0FT3QQVSJ?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0FT3QQVSJ"
+      },
+      "keywords": [
+        "politics & social sciences",
+        "politics",
+        "government",
+        "the bogle doctrine",
+        "sovereign",
+        "counsel",
+        "lawful",
+        "innovation",
+        "web3",
+        "world",
+        "justin",
+        "goldston",
+        "phd"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 6" }
+    },
+
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0FVL14HX9",
+      "title": "The Devil’s Doctrine of Distraction (The AIutobiographical Series by Dr. Justin Goldston Book 4)",
+      "subtitle": "",
+      "author": "Justin Goldston, PhD",
+      "series": "The AIutobiographical Series by Dr. Justin Goldston",
+      "volume": 4,
+      "year": "",
+      "identifiers": { "asin": "B0FVL14HX9", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/Devils-Doctrine-Distraction-AIutobiographical-Goldston-ebook/dp/B0FVL14HX9?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0FVL14HX9"
+      },
+      "keywords": [
+        "computers & technology",
+        "computer science",
+        "artificial intelligence",
+        "ai & semantics",
+        "the aiutobiographical series by dr. justin goldston",
+        "devil’s",
+        "doctrine",
+        "distraction",
+        "justin",
+        "goldston",
+        "phd"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 7" }
+    },
+
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0FTN8K5PQ",
+      "title": "$JAILSTOOL",
+      "subtitle": "",
+      "author": "$JAILSTOOL Gemach DAO",
+      "series": "",
+      "volume": "",
+      "year": "",
+      "identifiers": { "asin": "B0FTN8K5PQ", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/JAILSTOOL-Gemach-DAO-ebook/dp/B0FTN8K5PQ?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0FTN8K5PQ"
+      },
+      "keywords": [
+        "politics & social sciences",
+        "politics",
+        "government",
+        "jailstool",
+        "gemach",
+        "dao"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 8" }
+    },
+
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0FT5Z42Y4",
+      "title": "The Bogle Doctrine (The Bogle Doctrine Book 1)",
+      "subtitle": "",
+      "author": "Justin Goldston PhD",
+      "series": "The Bogle Doctrine",
+      "volume": 1,
+      "year": "",
+      "identifiers": { "asin": "B0FT5Z42Y4", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/Bogle-Doctrine-Book-ebook/dp/B0FT5Z42Y4?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0FT5Z42Y4"
+      },
+      "keywords": [
+        "business & money",
+        "job hunting & careers",
+        "careers",
+        "the bogle doctrine",
+        "bogle",
+        "doctrine",
+        "justin",
+        "goldston",
+        "phd"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 9" }
+    },
+
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0FT3MKZL3",
+      "title": "$GATEKEEPERS (The Bogle Doctrine Book 4)",
+      "subtitle": "",
+      "author": "$GATEKEEPERS Gemach DAO",
+      "series": "The Bogle Doctrine",
+      "volume": 4,
+      "year": "",
+      "identifiers": { "asin": "B0FT3MKZL3", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/GATEKEEPERS-Bogle-Doctrine-Book-ebook/dp/B0FT3MKZL3?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0FT3MKZL3"
+      },
+      "keywords": [
+        "self-help",
+        "motivational",
+        "the bogle doctrine",
+        "gatekeepers",
+        "gemach",
+        "dao"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 10" }
+    },
+
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0FT3GTW9J",
+      "title": "$KINGMAKER (The Bogle Doctrine Book 3)",
+      "subtitle": "",
+      "author": "$KINGMAKER Gemach DAO",
+      "series": "The Bogle Doctrine",
+      "volume": 3,
+      "year": "",
+      "identifiers": { "asin": "B0FT3GTW9J", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/KINGMAKER-Bogle-Doctrine-Book-ebook/dp/B0FT3GTW9J?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0FT3GTW9J"
+      },
+      "keywords": [
+        "self-help",
+        "motivational",
+        "the bogle doctrine",
+        "kingmaker",
+        "gemach",
+        "dao"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 11" }
+    },
+
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0FT3TH6XB",
+      "title": "$RIPPLES (The Bogle Doctrine Book 2)",
+      "subtitle": "",
+      "author": "$RIPPLES Gemach DAO",
+      "series": "The Bogle Doctrine",
+      "volume": 2,
+      "year": "",
+      "identifiers": { "asin": "B0FT3TH6XB", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/RIPPLES-Bogle-Doctrine-Book-ebook/dp/B0FT3TH6XB?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0FT3TH6XB"
+      },
+      "keywords": [
+        "self-help",
+        "motivational",
+        "the bogle doctrine",
+        "ripples",
+        "gemach",
+        "dao"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 12" }
+    },
+
+    {
+      "schema_version": "1.0.0",
+      "book_id": "ref-asins-B0F3VVLMVT",
+      "title": "The Final Banker: The Last Stand for Financial Freedom (The SydTek University Stacks Book 7)",
+      "subtitle": "",
+      "author": "Justin Goldston PhD",
+      "series": "The SydTek University Stacks",
+      "volume": 7,
+      "year": "",
+      "identifiers": { "asin": "B0F3VVLMVT", "isbn_print": "", "isbn_ebook": "" },
+      "links": {
+        "amazon": "https://www.amazon.com/Final-Banker-Stand-Financial-Freedom-ebook/dp/B0F3VVLMVT?ref_=ast_author_dp&th=1&psc=1&dib=eyJ2IjoiMSJ9.AICaAENTygcGBS57aMxWuzoH_VgEdPeUUGP2YHvkt_qPZhfaTCJi1QwcRc0egeNbcB8xBTYCZf_npAsn0wzJCVvmEHPpxYYvnmtrFp2NVeMje8JgPP8eqrvBuaYFMUK4rj5TDrkAywtABzeKuTSU6toNkrwTCKliNsS8LUyLrswvIWOQdH6aj95X-5lrO3dmf-xjWhIhE2V6fyCo9ngHXG2JVmbxGWzb588xkvnlpOg.N74D6i_HeMUWpzRuwoXq0X3N0drdSRtXfuhHgIRiwAQ&dib_tag=AUTHOR",
+        "canonical": "https://www.amazon.com/dp/B0F3VVLMVT"
+      },
+      "keywords": [
+        "business & money",
+        "banks & banking",
+        "the sydtek university stacks",
+        "final",
+        "banker",
+        "last",
+        "stand",
+        "financial",
+        "freedom",
+        "justin",
+        "goldston",
+        "phd",
+        "sydtek",
+        "university",
+        "stacks"
+      ],
+      "status": "published",
+      "provenance": { "source_of_truth": "sheet.html", "last_verified": "", "notes": "Spreadsheet row 22" }
+    }
