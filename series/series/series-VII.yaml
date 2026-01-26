@@ -1,0 +1,197 @@
+id: "series-VI"
+name: "The AntiChrist vs. The True Christ"
+author: "Justin Goldston, PhD"
+
+descriptor_line: "A Discernment Concordance Across History (Counterfeits, Systems, and the Test of Fruit)"
+method_alignment:
+  - "Mirror"
+  - "Water"
+  - "Fire"
+
+series_promise: >
+  A six-volume, Scripture-first discernment series that contrasts the spirit of antichrist with the
+  way of the true Christ—across the Bible, church history, modern systems, and future pressures—
+  without sensationalism, date-setting, or fear-merchandising. The goal is formation: clear eyes,
+  clean doctrine, and faithful obedience under pressure.
+
+guardrails:
+  - "No date-setting, no speculative prophecy charts as doctrine."
+  - "No fear-merchandising: the tone is sober, pastoral, and courage-building."
+  - "Scripture governs; historical examples are illustrative, clearly labeled."
+  - "Discern by fruit: humility, truth, mercy, justice, holiness, endurance."
+  - "Keep focus on Christ: resistance is secondary to worship and obedience."
+
+concordance_spine:
+  - "Purpose Thesis"
+  - "Key Texts and Definitions (antichrist / false christ / deception)"
+  - "Narrative Patterns (how counterfeits form)"
+  - "Doctrinal Tests (who is Jesus? what is the gospel?)"
+  - "Fruit Tests (what does it produce in people?)"
+  - "System Tests (power, coercion, control, idolatry)"
+  - "Cross-Links (Daniel, Gospels, Epistles, Revelation—handled soberly)"
+  - "Hard Questions (skeptics + pastoral concerns)"
+  - "Preacher’s Toolkit (teaching plan + small-group guide)"
+  - "Walk in the Word (rule + community action)"
+  - "Prayer + Practice"
+
+volumes:
+  - vol: 1
+    title: "Volume 1 — The Pattern"
+    alt_title: "How Counterfeits Form"
+    one_line: "Define antichrist biblically and map the repeatable pattern of counterfeit religion, counterfeit power, and counterfeit hope."
+    focus:
+      - "Key terms: antichrist, false christ, deception, apostasy (Scripture-first)"
+      - "Pattern language: imitation, distortion, accusation, coercion, spectacle"
+    key_text_windows:
+      - "1 John (antichrist language and tests)"
+      - "Gospel warnings about false christs"
+      - "2 Thessalonians (lawlessness theme—handled soberly)"
+    outputs:
+      - "Definition glossary + boundaries (what we can/can’t claim)"
+      - "Discernment checklist: doctrine + fruit + power"
+      - "Sermon/lesson skeletons (pastoral tone)"
+    keywords:
+      - "antichrist"
+      - "false christ"
+      - "biblical discernment"
+      - "1 John antichrist"
+      - "deception"
+      - "sound doctrine"
+      - "test of fruit"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 2
+    title: "Volume 2 — The Counterfeit Gospel"
+    alt_title: "Jesus Replaced"
+    one_line: "Expose the counterfeit gospels that replace Christ: salvation by tribe, status, secret knowledge, violence, or self-worship."
+    focus:
+      - "Doctrinal tests: incarnation, cross, resurrection, lordship"
+      - "Substitutions: moralism, nationalism, prosperity-only, despair-theology, self-deification"
+    key_text_windows:
+      - "Galatians (another gospel)"
+      - "Colossians (false spirituality + regulations)"
+      - "Pastoral letters (sound teaching and character)"
+    outputs:
+      - "Gospel clarity map (what the gospel is / isn’t)"
+      - "Red-flag library: common counterfeit moves"
+      - "Small-group plan: truth + love without quarrels"
+    keywords:
+      - "another gospel"
+      - "false doctrine"
+      - "Christian orthodoxy"
+      - "discernment"
+      - "incarnation"
+      - "resurrection"
+      - "lordship of Christ"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 3
+    title: "Volume 3 — The System"
+    alt_title: "Beast-Logic Without Hype"
+    one_line: "Identify beast-patterns in systems: coercion, surveillance, idolatry, dehumanization—while staying anchored in worship and mercy."
+    focus:
+      - "Power analysis: coercion vs service"
+      - "Idolatry analysis: who gets ultimate allegiance?"
+      - "Dehumanization markers: image-bearing denial"
+    key_text_windows:
+      - "Daniel (empires + faithfulness under pressure)"
+      - "Revelation (symbols with safety rules)"
+      - "Gospels (temptations of power)"
+    outputs:
+      - "System discernment scorecard (authority, truth, mercy, coercion)"
+      - "Case study template (history + modern) with caution labels"
+      - "Walk in the Word: mercy + courage practices"
+    keywords:
+      - "beast system"
+      - "Daniel empires"
+      - "Revelation symbols"
+      - "Christian resistance"
+      - "idolatry"
+      - "power ethics"
+      - "faith under pressure"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 4
+    title: "Volume 4 — History’s Waves"
+    alt_title: "Antichrist Dynamics Through the Ages"
+    one_line: "Survey recurring antichrist dynamics across history: persecution, propaganda, corruption, and counterfeit holiness—discerned by fruit."
+    focus:
+      - "How movements capture fear, identity, and control"
+      - "How believers endure without becoming what they hate"
+    key_text_windows:
+      - "Acts + Epistles (early pressure patterns)"
+      - "Letters to the churches (endurance, compromise, repentance)"
+    outputs:
+      - "History-wave framework (repeatable cycles)"
+      - "Teaching plan: discerning times without panic"
+      - "Prayer liturgy for courage + humility"
+    keywords:
+      - "church history discernment"
+      - "persecution"
+      - "compromise"
+      - "endurance"
+      - "false teachers"
+      - "spiritual formation"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 5
+    title: "Volume 5 — The Future Pressure Test"
+    alt_title: "Faithfulness When the World Tightens"
+    one_line: "Prepare for future pressures: economic coercion, social exclusion, propaganda, and spiritual fatigue—without speculation or dates."
+    focus:
+      - "Pressure types: fear, scarcity, shame, isolation, confusion"
+      - "Faithfulness practices: worship, community, truth, mercy"
+    key_text_windows:
+      - "2 Timothy (endurance + clarity)"
+      - "Matthew 24 warnings (handled soberly)"
+      - "Revelation endurance themes (safety rules)"
+    outputs:
+      - "Pressure readiness plan (30/90-day disciplines)"
+      - "Community resilience checklist"
+      - "Family discipleship guide under pressure"
+    keywords:
+      - "end times readiness"
+      - "Matthew 24"
+      - "Christian perseverance"
+      - "faithfulness"
+      - "community resilience"
+      - "discernment plan"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 6
+    title: "Volume 6 — The True Christ"
+    alt_title: "The Lamb’s Victory and the Walking Rule"
+    one_line: "Finish with Christ-centered clarity: the true Christ, the true gospel, the true kingdom—sealed into a lived rule of witness and mercy."
+    focus:
+      - "Christology: who Jesus is and what he reigns like"
+      - "Victory shape: cross-shaped authority, truth, mercy, holiness"
+      - "How to resist without hatred"
+    key_text_windows:
+      - "Gospels (character of Christ)"
+      - "Philippians 2 (humility and lordship)"
+      - "Revelation: Lamb imagery (worship + endurance)"
+    outputs:
+      - "Walking Rule (Mirror → Water → Fire) for discernment seasons"
+      - "Preacher’s toolkit: Christ over fear teaching cycle"
+      - "Small-group covenant: truth + love + courage"
+    keywords:
+      - "true Christ"
+      - "Lamb victory"
+      - "Christ-centered"
+      - "rule of life"
+      - "worship and endurance"
+      - "discernment"
+      - "kingdom of God"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
