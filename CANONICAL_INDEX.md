@@ -4,12 +4,6 @@
 **Canonical Repo:** https://github.com/GoldstonianConcordanceBible/canonical-index
 
 ---
-# Canonical Index (Master)
-
-**Author:** Justin Goldston, PhD  
-**Canonical Repo:** https://github.com/GoldstonianConcordanceBible/canonical-index
-
----
 
 ## Series I — Tanakh First: The Covenant Operating System (Ethiopian Canon Anchored)
 
