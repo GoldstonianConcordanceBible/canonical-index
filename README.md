@@ -1,25 +1,28 @@
-# canonical-index
 # Goldstonian Concordance Bible — Canonical Index
 
-This repository is the **canonical metadata index** for the Goldstonian Concordance Bible ecosystem.
+This repo is the **canonical source of truth** for the Goldstonian Concordance Bible ecosystem:
+- Titles, subtitles, series + volume numbering
+- ASIN/ISBN identifiers (as available)
+- Canonical links + verified retailer links
+- One-line descriptions, keywords, and retrieval metadata
+- YouTube video ↔ book mappings
 
-**Use this link as the FIRST line in every YouTube description:**
-- Canonical Index: https://github.com/GoldstonianConcordanceBible/canonical-index
+## Quick links
+- Canon rules: `canon/CANON.md`
+- Series definitions: `entities/SERIES.md`
+- Glossary: `entities/GLOSSARY.md`
+- Book records: `books/`
+- Video→book mapping: `youtube/index/videos.yml`
+- Machine exports: `exports/`
 
-## What’s inside
-- **CANONICAL_INDEX.md** → human + LLM-friendly master list of books
-- **/books/** → structured metadata (YAML) for each book (ASIN/ISBN/links/keywords)
-- **/youtube/** → copy/paste templates for descriptions + pinned comments
-- **/llm/** → machine-readable prompt for citations and retrieval
+## How agents should retrieve books
+Preferred lookup order:
+1) ASIN
+2) book_id
+3) ISBN (print)
+4) Exact title match
+5) Normalized title + aliases (`exports/title_registry.json`)
 
-## How to use (YouTube)
-Paste this at the very top of every description:
-1) 📌 Canonical Index (all books + IDs): https://github.com/GoldstonianConcordanceBible/canonical-index
-2) 📚 Featured Book: [TITLE] — [SERIES/VOL]
-3) 🛒 Get it: [Amazon link]
-
-Then paste the full template from `/youtube/DESCRIPTION_TEMPLATE.md`.
-
-## Update policy
-This repo is the **single source of truth**.
-When anything changes (title, subtitle, ASIN, link), update the YAML file in `/books/` and the master list in `CANONICAL_INDEX.md`.
+## Status
+This repo supports “no-ISBN-yet” workflows.
+Add identifiers later without breaking canonical history.
