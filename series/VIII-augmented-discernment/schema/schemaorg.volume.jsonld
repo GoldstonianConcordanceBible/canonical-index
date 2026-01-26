@@ -1,0 +1,13 @@
+// series/VIII-augmented-discernment/schema/schemaorg.volume.jsonld
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Augmented Discernment — Volume Template",
+  "identifier": "VIII-00",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Goldstonian Concordance Bible — Series VIII",
+    "identifier": "VIII"
+  },
+  "about": ["Mirror", "Water", "Fire", "Order", "Witness", "Crown"]
+}
