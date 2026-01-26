@@ -1,0 +1,21 @@
+// series/VIII-augmented-discernment/schema/series.schema.json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "series.schema.json",
+  "title": "Series",
+  "type": "object",
+  "required": ["series_id", "slug", "title", "canonical_path", "volumes"],
+  "properties": {
+    "series_id": { "type": "string" },
+    "slug": { "type": "string" },
+    "title": { "type": "string" },
+    "subtitle": { "type": "string" },
+    "canonical_path": { "type": "string" },
+    "volumes": {
+      "type": "array",
+      "items": { "$ref": "volume.schema.json" }
+    },
+    "updated_utc": { "type": "string" }
+  },
+  "additionalProperties": true
+}
