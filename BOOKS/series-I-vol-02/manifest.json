@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "book_id": "series-I-vol-02",
+  "title": "The Goldstonian Concordance Bible - Vol. II",
+  "subtitle": "Wisdom and Worship",
+  "author": "Justin Goldston, PhD",
+  "series": "The Goldstonian Concordance Bible (Series I — Tanakh First: The Covenant Operating System)",
+  "volume": 2,
+  "year": 2026,
+  "identifiers": { "asin": "B0GGZ4GJ7J", "isbn_print": "", "isbn_ebook": "" },
+  "links": {
+    "amazon": "https://www.amazon.com.br/Goldstonian-Concordance-Bible-Worship-Volumes-ebook/dp/B0GGZ4GJ7J",
+    "canonical": "https://www.amazon.com.br/Goldstonian-Concordance-Bible-Worship-Volumes-ebook/dp/B0GGZ4GJ7J"
+  },
+  "keywords": [
+    "Psalms",
+    "Proverbs",
+    "Ecclesiastes",
+    "Song of Songs",
+    "Job",
+    "Sirach",
+    "Wisdom of Solomon",
+    "Ethiopian canon",
+    "worship",
+    "spiritual disciplines",
+    "Concordance Spine"
+  ],
+  "status": "published",
+  "provenance": {
+    "source_of_truth": "CATALOG.json",
+    "last_verified": "",
+    "notes": "ASIN and links sourced from this chat’s canonical catalog build."
+  }
+}
