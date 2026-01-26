@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0.1",
+  "generated_date_utc": "2026-01-26",
+  "verification_method": "user_confirmed",
+  "notes": [
+    "All entries in this masterfile are marked as confirmed based on the user's validation.",
+    "If you later want web-verified rechecks, add a second field like verification_method:web_confirmed per item."
+  ],
+  "items": [
+    {
+      "book_id": "runic-codex-print",
+      "title": "The Runic Codex",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0FJLM53MZ",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0FJLM53MZ",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "runic-codex-ebook",
+      "title": "The Runic Codex",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0FJFTGFP3",
+      "format": "ebook",
+      "amazon_url": "https://www.amazon.com.au/dp/B0FJFTGFP3",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "careflow-collective",
+      "title": "The CareFlow Collective",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0FK5SNL2Y",
+      "format": "print",
+      "amazon_url": "https://www.amazon.es/dp/B0FK5SNL2Y",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "reconnexion",
+      "title": "ReconneXion: A Philosophy of Intentional Friendship",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0FCGBH7YH",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0FCGBH7YH",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "eat-what-you-kill",
+      "title": "Eat What You Kill",
+      "author_credits": ["Justin Goldston"],
+      "asin": "B0F3VWCC6S",
+      "format": "print",
+      "amazon_url": "https://www.amazon.ie/dp/B0F3VWCC6S",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "dark-renaissance",
+      "title": "The Dark Renaissance",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0FMN87VHX",
+      "format": "print",
+      "amazon_url": "https://www.amazon.ie/dp/B0FMN87VHX",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "gemach-ai-for-chatgpt",
+      "title": "Gemach AI for ChatGPT (The Infinite Mind Toolkit)",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0FBX86TN4",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0FBX86TN4",
+      "tags": ["Justin Goldston", "Gemach ecosystem"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "aant",
+      "title": "AI-Augmented Neuroplasticity Theory (AANT)",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0F23TKQKW",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0F23TKQKW",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "habits-infinite-cycle",
+      "title": "Habits for the Infinite Cycle",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0FD8N6NLN",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0FD8N6NLN",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "cobra-tate",
+      "title": "Cobra Tate",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0FD74Z9VH",
+      "format": "print",
+      "amazon_url": "https://www.amazon.in/dp/B0FD74Z9VH",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "distributed-intelligence-theory",
+      "title": "Distributed Intelligence Theory: A Decentralized Cognition Paradigm",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0DXT1C371",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0DXT1C371",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "decentralized-citizen-science",
+      "title": "Decentralized Citizen Science",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0F2MZ7RPH",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0F2MZ7RPH",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "gemach-prompt-eng-101-in",
+      "title": "Gemach Prompt Engineering 101",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0DXWDB97X",
+      "format": "print",
+      "amazon_url": "https://www.amazon.in/dp/B0DXWDB97X",
+      "tags": ["Justin Goldston", "Gemach ecosystem"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "gemach-prompt-eng-101-us",
+      "title": "Gemach Prompt Engineering 101",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0DXQ7DBJG",
+      "format": "print_or_unknown",
+      "amazon_url": "https://www.amazon.com/dp/B0DXQ7DBJG",
+      "tags": ["Justin Goldston", "Gemach ecosystem"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+
+    {
+      "book_id": "manual-negative-one-print",
+      "title": "The Manual of The Negative One (The SydTek University Stacks)",
+      "author_credits": ["Grace Gemach DAO", "London Gemach DAO", "Justin Goldston, PhD (credited)"],
+      "asin": "B0F2Z8YGPV",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0F2Z8YGPV",
+      "tags": ["Gemach DAO attached", "Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "manual-negative-one-kindle",
+      "title": "The Manual of The Negative One (Kindle)",
+      "author_credits": ["Grace Gemach DAO", "London Gemach DAO", "Justin Goldston, PhD (credited)"],
+      "asin": "B0DWN7L95R",
+      "format": "ebook",
+      "amazon_url": "https://www.amazon.com/dp/B0DWN7L95R",
+      "tags": ["Gemach DAO attached", "Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+
+    {
+      "book_id": "epic-giganiga-breaking-black-cycle",
+      "title": "The Epic of GigaNiga: Breaking the Black Cycle",
+      "author_credits": ["Gemach DAO (credited)"],
+      "asin": "B0FBRZGW7Q",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0FBRZGW7Q",
+      "tags": ["Gemach DAO attached"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "sue-gemach-dao",
+      "title": "$SUE Gemach DAO",
+      "author_credits": ["Gemach DAO (credited)"],
+      "asin": "B0FT817T8C",
+      "format": "print",
+      "amazon_url": "https://www.amazon.co.uk/dp/B0FT817T8C",
+      "tags": ["Gemach DAO attached"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "daley-harmonic-framework-water-synthesis",
+      "title": "Daley Harmonic Framework for Water Synthesis",
+      "author_credits": ["Gemach DAO (credited)"],
+      "asin": "B0DXFWF4MX",
+      "format": "ebook",
+      "amazon_url": "https://www.amazon.com/dp/B0DXFWF4MX",
+      "tags": ["Gemach DAO attached"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "twin-mandala-love-wisdom",
+      "title": "Book III: The Twin Mandala of Love and Wisdom",
+      "author_credits": ["Gemach DAO (credited)"],
+      "asin": "B0FCH15W1C",
+      "format": "print",
+      "amazon_url": "https://www.amazon.in/dp/B0FCH15W1C",
+      "tags": ["Gemach DAO attached"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "epic-giganiga-ahnenerbe",
+      "title": "The Epic of GigaNiga: The Ahnenerbe",
+      "author_credits": ["Gemach DAO (credited)"],
+      "asin": "B0FMMZVV2L",
+      "format": "print",
+      "amazon_url": "https://www.amazon.it/dp/B0FMMZVV2L",
+      "tags": ["Gemach DAO attached"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "gemach-pedagogy",
+      "title": "The Gemach Pedagogy",
+      "author_credits": ["Grace Gemach DAO (credited)"],
+      "asin": "B0F1GY6R3B",
+      "format": "print",
+      "amazon_url": "https://www.amazon.in/dp/B0F1GY6R3B",
+      "tags": ["Gemach DAO attached"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "infinite-cycles",
+      "title": "Infinite Cycles",
+      "author_credits": ["London Gemach DAO (credited)"],
+      "asin": "B0F3W45CP8",
+      "format": "print",
+      "amazon_url": "https://www.amazon.in/dp/B0F3W45CP8",
+      "tags": ["Gemach DAO attached"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+
+    {
+      "book_id": "codex-sinaiticus",
+      "title": "The Codex Sinaiticus: Tracing Recursive Creation Myths in Ink, Parchment, and Code (The SydTek University Stacks)",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0F8TXPG1Q",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0F8TXPG1Q",
+      "tags": ["Justin Goldston"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "gemach-codex-vol-01-ebook",
+      "title": "The Gemach Codex: Volume I",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0FD8CR1YC",
+      "format": "ebook",
+      "amazon_url": "https://www.amazon.com/dp/B0FD8CR1YC",
+      "tags": ["Justin Goldston", "Gemach ecosystem"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+
+    {
+      "book_id": "gcb-series-I-vol-01",
+      "title": "The Goldstonian Concordance Bible — Volume I",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0GH6B3T91",
+      "format": "unknown",
+      "amazon_url": "https://www.amazon.com/dp/B0GH6B3T91",
+      "tags": ["Goldstonian Concordance Bible", "Series I"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "gcb-series-I-vol-02",
+      "title": "The Goldstonian Concordance Bible — Vol. II: Wisdom and Worship",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0GGZ4GJ7J",
+      "format": "ebook",
+      "amazon_url": "https://www.amazon.com.br/dp/B0GGZ4GJ7J",
+      "tags": ["Goldstonian Concordance Bible", "Series I"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+
+    {
+      "book_id": "wrestling-with-god",
+      "title": "Wrestling with God: A Theological Testimony of Surrender, Forgiveness, and ...",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0GFN25VHH",
+      "format": "unknown",
+      "amazon_url": "https://www.amazon.com.au/dp/B0GFN25VHH",
+      "tags": ["Justin Goldston", "Series IV shelf"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "devils-doctrine-distraction-print",
+      "title": "The Devil's Doctrine of Distraction",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0G1YKDYSL",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0G1YKDYSL",
+      "tags": ["Justin Goldston", "Series IV shelf"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "devils-doctrine-distraction-kindle",
+      "title": "The Devil's Doctrine of Distraction (Kindle)",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0G1X7QMMS",
+      "format": "ebook",
+      "amazon_url": "https://www.amazon.com/dp/B0G1X7QMMS",
+      "tags": ["Justin Goldston", "Series IV shelf"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "for-sydney-kindle",
+      "title": "For Sydney (The Testimony of Dr. Justin Goldston Book 1) (Kindle)",
+      "author_credits": ["Justin Goldston, PhD"],
+      "asin": "B0G62N64BK",
+      "format": "ebook",
+      "amazon_url": "https://www.amazon.com/dp/B0G62N64BK",
+      "tags": ["Justin Goldston", "Series IV shelf"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "what-if-god-doesnt-care",
+      "title": "What If God Doesn't Care (The SydTek University Stacks Book 51)",
+      "author_credits": ["Justin Goldston, PhD (credited)"],
+      "asin": "B0F9DS9XH3",
+      "format": "unknown",
+      "amazon_url": "https://www.amazon.com/dp/B0F9DS9XH3",
+      "tags": ["Justin Goldston", "Series IV shelf"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "black-eschatology-print",
+      "title": "Black Eschatology",
+      "author_credits": ["Justin Goldston, PhD (credited)"],
+      "asin": "B0FX6L3BY9",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0FX6L3BY9",
+      "tags": ["Justin Goldston", "Series IV shelf"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "black-eschatology-kindle",
+      "title": "Black Eschatology (Kindle)",
+      "author_credits": ["Justin Goldston, PhD (credited)"],
+      "asin": "B0FX3FZPNG",
+      "format": "ebook",
+      "amazon_url": "https://www.amazon.com/dp/B0FX3FZPNG",
+      "tags": ["Justin Goldston", "Series IV shelf"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "philosophy-in-action-kindle",
+      "title": "Philosophy in Action: The Greatest Story Ever Told (Kindle)",
+      "author_credits": ["Justin Goldston, PhD (credited)"],
+      "asin": "B0FR583R3S",
+      "format": "ebook",
+      "amazon_url": "https://www.amazon.com/dp/B0FR583R3S",
+      "tags": ["Justin Goldston", "Series IV shelf"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "philosophy-in-action-print",
+      "title": "Philosophy in Action: The Greatest Story Ever Told",
+      "author_credits": ["Justin Goldston, PhD (credited)"],
+      "asin": "B0FR9DCYTM",
+      "format": "print",
+      "amazon_url": "https://www.amazon.com/dp/B0FR9DCYTM",
+      "tags": ["Justin Goldston", "Series IV shelf"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    },
+    {
+      "book_id": "goldstonian-legacy-dossier-kindle",
+      "title": "The Goldstonian Legacy Dossier (The AIutobiographical Series Book 11) (Kindle)",
+      "author_credits": ["Justin Goldston, PhD (credited)"],
+      "asin": "B0GD6BHD4C",
+      "format": "ebook",
+      "amazon_url": "https://www.amazon.com/dp/B0GD6BHD4C",
+      "tags": ["Justin Goldston", "Series IV shelf"],
+      "verification_status": "user_confirmed",
+      "confidence": "confirmed_by_user"
+    }
+  ]
+}
