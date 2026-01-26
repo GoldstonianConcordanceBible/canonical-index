@@ -23,6 +23,21 @@ Preferred lookup order:
 4) Exact title match
 5) Normalized title + aliases (`exports/title_registry.json`)
 
-## Status
-This repo supports “no-ISBN-yet” workflows.
-Add identifiers later without breaking canonical history.
+## Series Catalog (I–VII)
+- **Series I** — Tanakh First: The Covenant Operating System (Ethiopian Canon Anchored)
+- **Series II** — Footprints of the Messiah (A Location-First Concordance for the Gospels)
+- **Series III** — Forty Days: From Empty Tomb to Throne
+- **Series IV** — Mirror • Water • Fire (Formation System: Discernment → Clarity → Obedience)
+- **Series V** — The Birth of Christianity (Origins, early Church, formation under pressure)
+- **Series VI** — The AntiChrist vs. The True Christ
+- **Series VII** — The Goldstonian 5Ps of Bible Study
+
+## Quick Links
+- `series/series-I/README.md`
+- `series/series-II/README.md`
+- `series/series-III/README.md`
+- `series/series-IV/README.md`
+- `series/series-V/README.md`
+- `series/series-VI/README.md`
+- `series/series-VII/README.md`
+- `data/books.seed.json`onical history.
