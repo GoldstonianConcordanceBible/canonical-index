@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "book_id": "series-I-vol-04",
+  "title": "The Goldstonian Concordance Bible - Vol. IV",
+  "subtitle": "The Messiah Thread and the Kingdom Launch",
+  "author": "Justin Goldston, PhD",
+  "series": "The Goldstonian Concordance Bible (Series I — Tanakh First: The Covenant Operating System)",
+  "volume": 4,
+  "year": "",
+  "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "" },
+  "links": {
+    "amazon": "",
+    "canonical": "https://github.com/GoldstonianConcordanceBible"
+  },
+  "keywords": [
+    "Messiah Thread",
+    "Gospels",
+    "kingdom of God",
+    "discipleship",
+    "fulfillment patterns",
+    "Concordance Spine"
+  ],
+  "status": "planned",
+  "provenance": {
+    "source_of_truth": "CATALOG.json",
+    "last_verified": "",
+    "notes": "Planned volume; fill identifiers/amazon link when published."
+  }
+}
