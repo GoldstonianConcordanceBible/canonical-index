@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "book_id": "ref-devils-doctrine-distraction",
+  "title": "The Devil's Doctrine of Distraction",
+  "subtitle": "",
+  "author": "Justin Goldston, PhD",
+  "series": "",
+  "volume": "",
+  "year": "",
+  "identifiers": { "asin": "B0G1YKDYSL", "isbn_print": "", "isbn_ebook": "" },
+  "links": {
+    "amazon": "https://www.amazon.com/Devils-Doctrine-Distraction-AIutobiographical-Goldston/dp/B0G1YKDYSL",
+    "canonical": "https://www.amazon.com/Devils-Doctrine-Distraction-AIutobiographical-Goldston/dp/B0G1YKDYSL"
+  },
+  "keywords": ["attention warfare", "algorithms", "discipline", "guardrails"],
+  "status": "published",
+  "provenance": {
+    "source_of_truth": "CATALOG.json",
+    "last_verified": "",
+    "notes": "Reference shelf anchor for attention and distraction guardrails."
+  }
+}
