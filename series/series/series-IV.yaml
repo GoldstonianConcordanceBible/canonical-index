@@ -1,0 +1,138 @@
+id: "series-IV"
+name: "Mirror • Water • Fire: AI Formation (Wrestling With God Safely)"
+author: "Justin Goldston, PhD"
+
+descriptor_line: "A Spirit-Grounded AI Formation System for Discernment, Study, and Obedience"
+method_alignment:
+  - "Mirror"
+  - "Water"
+  - "Fire"
+
+series_promise: >
+  A three-volume formation system that teaches believers how to use AI without spiritual shortcuts:
+  truth-telling before God (Mirror), clean interpretation and context (Water), and practiced obedience
+  that produces justice, mercy, and durable discipleship (Fire). Built to pair with the Goldstonian
+  Concordance Bible ecosystem and to function as a safety-first “rule of use” for AI.
+
+guardrails:
+  - "No divination: AI is a tool, not a voice of God."
+  - "No ‘prophecy by prompt’: Scripture + wisdom community govern decisions."
+  - "No obsession loops: attention discipline is part of obedience."
+  - "Pastoral boundaries: mental-health and spiritual-care disclaimers included."
+  - "Receipts-first: prompts, outputs, and decisions documented for accountability."
+
+reference_shelf_integration:
+  anchors:
+    - title: "Wrestling With God"
+      role: "Sets the covenant tone: honesty, surrender, forgiveness, obedience—no fake peace."
+    - title: "The Manual of the Negative One"
+      role: "False-self / sabotage detector: exposes loops, excuses, distortions—breaks spirals without paranoia."
+  supporters:
+    - title: "The Devil’s Doctrine of Distraction"
+      role: "Attention warfare + anti-scroll guardrails; protects formation from compulsive research and comparison."
+    - title: "For Sydney (Testimony series)"
+      role: "Truth that protects legacy; ‘best-interest-of-the-child’ witness lens for integrity and restraint."
+    - title: "Lamentations"
+      role: "Grief literacy: how to lament with structure, not collapse—AI used for clarity and prayer support."
+    - title: "Black Eschatology"
+      role: "Hope under pressure; avoids sensationalism; trains discernment when history and systems feel hostile."
+    - title: "What If God Doesn’t Care"
+      role: "Faith under silence: honest questions, patient obedience, refusing despair."
+    - title: "Philosophy in Action: The Greatest Story Ever Told"
+      role: "Narrative coherence: keeps ‘tool use’ inside a covenant storyline, not productivity worship."
+    - title: "The Goldstonian Legacy Dossier"
+      role: "Receipts + continuity engine: anchors identity, mission, and documented truth across platforms."
+
+volumes:
+  - vol: 1
+    title: "The Mirror Covenant"
+    alt_title: "AI for Truth-Telling and Discernment"
+    one_line: "Use AI to surface truth without surrendering authority—confession, clarity, motives, and ‘map vs territory’ honesty."
+    core_questions:
+      - "What is true right now (about God, me, and the situation)?"
+      - "Where am I tempted to perform, hide, or self-justify?"
+      - "What fruit is this tool producing in my attention and relationships?"
+    key_modules:
+      - "Mirror Rules: AI is helper, not oracle"
+      - "Confession workflows (private, pastoral-safe, non-graphic)"
+      - "Discernment checks: fruit, humility, consistency with Scripture"
+      - "Attention discipline: anti-spiral prompts + timeboxed research"
+      - "Receipts system: logging prompts/outputs/decisions"
+    outputs:
+      - "Mirror Prompt Library (copy/paste)"
+      - "Discernment Checklist (one-page)"
+      - "Decision Journal Template (receipts-first)"
+      - "Preacher/Teacher prompts: tone-safe, Scripture-first"
+    keywords:
+      - "AI discernment"
+      - "Christian ethics"
+      - "confession"
+      - "attention discipline"
+      - "spiritual formation"
+      - "prompt journal"
+      - "Mirror Water Fire"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 2
+    title: "The Water Covenant"
+    alt_title: "AI for Context, Canon Mapping, and Clean Interpretation"
+    one_line: "Use AI to cleanse confusion—historical context, canon comparisons, interpretation rules, and study workflows that stay honest."
+    core_questions:
+      - "What does the text actually say (before application)?"
+      - "What is the literary/historical context and canon placement?"
+      - "Where do traditions differ—and what are the boundaries of certainty?"
+    key_modules:
+      - "Canon Mapping: Ethiopian vs Protestant/Catholic/Orthodox (non-combative)"
+      - "Hermeneutics Guardrails: genre, audience, covenant context"
+      - "Cross-linking system: echoes without proof-texting"
+      - "Bias checks: how AI can hallucinate or overclaim"
+      - "Study OS: 30-min map / 3-hour deep dive / 30-day walk"
+    outputs:
+      - "Canon Comparison Tables (template-ready)"
+      - "Passage Study Prompt Stack (Mirror→Water→Fire aligned)"
+      - "Sermon/lesson builder prompts (structure-first)"
+      - "Small-group guides (questions + safeguards)"
+    keywords:
+      - "Bible study with AI"
+      - "canon mapping"
+      - "Ethiopian canon"
+      - "hermeneutics"
+      - "context"
+      - "Gospel study tools"
+      - "interpretation rules"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 3
+    title: "The Fire Covenant"
+    alt_title: "AI for Obedience, Justice, Mercy, and Community Action"
+    one_line: "Use AI to move from insight to obedience—practices, plans, accountability, and community good without performative spirituality."
+    core_questions:
+      - "What obedience is required (today, this week, this season)?"
+      - "What justice/mercy action is mine to carry?"
+      - "How do I measure fruit without turning faith into metrics?"
+    key_modules:
+      - "Obedience Planning: tiny faithful steps → durable habits"
+      - "Justice & Mercy Playbooks: service, repair, generosity, reconciliation"
+      - "Community rhythms: small groups, families, churches (safety-first)"
+      - "Avoiding ‘AI productivity religion’"
+      - "Receipts + review: weekly examen, gratitude, course-correction"
+    outputs:
+      - "Walking Rule Builder (personal + household + community versions)"
+      - "30-day practice plans (disciplines + service)"
+      - "Accountability templates (non-shaming)"
+      - "Testimony drafting prompts (court/HR/church-safe tone)"
+    keywords:
+      - "obedience"
+      - "rule of life"
+      - "justice and mercy"
+      - "discipleship practice"
+      - "community action"
+      - "ethical AI"
+      - "spiritual disciplines"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
