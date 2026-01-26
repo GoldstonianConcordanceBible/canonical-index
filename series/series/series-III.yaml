@@ -1,0 +1,185 @@
+id: "series-III"
+name: "Forty Days: From Empty Tomb to Throne"
+author: "Justin Goldston, PhD"
+
+descriptor_line: "A Resurrection-Window Concordance (40 Days of Witness, Restoration, and Commission)"
+method_alignment:
+  - "Mirror"
+  - "Water"
+  - "Fire"
+
+series_promise: >
+  A six-volume concordance that tracks the 40-day resurrection window (empty tomb → ascension),
+  harmonizing Gospel appearance accounts with Acts 1, and translating the witness into a lived rule:
+  courage, restoration, mission, and life under the reign of Christ.
+
+volumes:
+  - vol: 1
+    title: "Forty Days — Book 1: The Empty Tomb"
+    alt_title: "From Garden to Glory"
+    one_line: "Establish the resurrection as the turning point: the empty tomb, first witnesses, and the first wave of fear-to-faith."
+    core_text_windows:
+      - "Resurrection morning accounts (Gospels)"
+      - "First witness testimonies and messengers"
+    key_themes:
+      - "witness and credibility"
+      - "grief transformed into hope"
+      - "fear-to-faith pivot"
+      - "the first confession: 'He is risen'"
+    concordance_outputs:
+      - "Appearance index (who/where/when) — Phase 1"
+      - "Timeline spine: tomb → first encounters"
+      - "Objection-handling: hallucination, legend, stolen body (gentle, sober)"
+      - "Preacher’s toolkit: Resurrection Sunday framework"
+      - "Walk in the Word: hope practice for the grieving"
+    keywords:
+      - "empty tomb"
+      - "resurrection morning"
+      - "Gospel harmony"
+      - "witness credibility"
+      - "Easter sermon"
+      - "Christian hope"
+      - "Jesus resurrection"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 2
+    title: "Forty Days — Book 2: Recognized and Restored"
+    alt_title: "The Risen Christ and the Rebuilt Disciple"
+    one_line: "Track recognition scenes and the restoration arc—faith rebuilt through encounter, not hype."
+    core_text_windows:
+      - "Post-resurrection encounters that restore identity and calling"
+      - "Failure → forgiveness → future"
+    key_themes:
+      - "restoration after collapse"
+      - "forgiveness and re-commissioning"
+      - "community repair"
+      - "peace in the presence of doubt"
+    concordance_outputs:
+      - "Restoration case studies (denial, doubt, fear, hiding)"
+      - "Character arcs: Peter/disciples/others (without speculation)"
+      - "Small-group plan: restoring trust and rebuilding habits"
+      - "Walk in the Word: confession + repair steps"
+    keywords:
+      - "restoration"
+      - "Peter restored"
+      - "doubt and faith"
+      - "forgiveness"
+      - "discipleship recovery"
+      - "resurrection appearances"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 3
+    title: "Forty Days — Book 3: Scripture Opened"
+    alt_title: "How the Risen Christ Reframes the Whole Bible"
+    one_line: "Show how the resurrection turns the Bible into one story: promise → pattern → fulfillment."
+    core_text_windows:
+      - "Emmaus road and Scripture-opening pattern"
+      - "Messiah thread across Torah, Prophets, Writings (and Ethiopian canon awareness where relevant)"
+    key_themes:
+      - "promise-to-fulfillment reading"
+      - "Messiah thread without proof-text abuse"
+      - "canon coherence"
+      - "clarity that produces worship and obedience"
+    concordance_outputs:
+      - "Messiah-thread map (prophecy → pattern → fulfillment)"
+      - "Cross-links library: covenant, exile, return, kingdom"
+      - "Study toolkit: how to read OT/NT together (Mirror → Water → Fire)"
+      - "Preacher’s toolkit: Christ-centered teaching outline"
+    keywords:
+      - "Emmaus"
+      - "Messiah thread"
+      - "Bible coherence"
+      - "prophecy fulfillment"
+      - "Christ-centered hermeneutics"
+      - "Scripture opened"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 4
+    title: "Forty Days — Book 4: Commissioned Witness"
+    alt_title: "Sent With Authority"
+    one_line: "Organize the sending texts into a single mission logic: authority, message, people, and cost."
+    core_text_windows:
+      - "Commission scenes across the Gospels"
+      - "Acts 1 bridge: witness ‘to the ends of the earth’"
+    key_themes:
+      - "authority under the Lordship of Christ"
+      - "witness vs performance"
+      - "discipleship multiplication"
+      - "suffering-ready courage"
+    concordance_outputs:
+      - "Commission concordance: who is sent, where, with what message"
+      - "Mission map: Jerusalem → Judea/Samaria → ends of earth (conceptual)"
+      - "Small-group plan: building a witness rhythm"
+      - "Walk in the Word: daily witness rule (speech, service, generosity)"
+    keywords:
+      - "Great Commission"
+      - "mission"
+      - "witness"
+      - "discipleship"
+      - "Acts 1"
+      - "kingdom of God"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 5
+    title: "Forty Days — Book 5: Waiting and Power"
+    alt_title: "Promise, Prayer, and Readiness"
+    one_line: "Define the waiting season: prayerful readiness, unity, and the promise of power without fanaticism."
+    core_text_windows:
+      - "Waiting commands and obedience in the in-between"
+      - "Prayer gatherings and unity before Acts 2"
+    key_themes:
+      - "patient obedience"
+      - "unity and reconciliation"
+      - "power as service, not status"
+      - "discernment and spiritual sobriety"
+    concordance_outputs:
+      - "Waiting-rule toolkit: what to do while you wait"
+      - "Prayer practices (weekly rhythm) + community action"
+      - "Hard questions: spiritual power, manipulation, burnout"
+      - "Walk in the Word: readiness plan (30-day)"
+    keywords:
+      - "waiting on God"
+      - "prayer"
+      - "promise of the Spirit"
+      - "unity"
+      - "spiritual sobriety"
+      - "Acts bridge"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 6
+    title: "Forty Days — Book 6: Ascension and Throne"
+    alt_title: "From Witness to Reign"
+    one_line: "Close the 40-day window with kingship: ascension, intercession, and life under the reign of Christ."
+    core_text_windows:
+      - "Ascension accounts (Gospels/Acts 1)"
+      - "Throne language across the NT (selected, sober)"
+    key_themes:
+      - "kingship and authority"
+      - "intercession and confidence"
+      - "hope under pressure"
+      - "the church as a formed people"
+    concordance_outputs:
+      - "Ascension concordance: what is said, where, to whom"
+      - "Throne cross-links (kingdom, priesthood, judgment, mercy)"
+      - "Preacher’s toolkit: Ascension Sunday + Kingdom teaching cycle"
+      - "Walk in the Word: rule-of-life under the reign"
+    keywords:
+      - "ascension"
+      - "throne of Christ"
+      - "kingship"
+      - "intercession"
+      - "kingdom theology"
+      - "Christian hope"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
