@@ -1,0 +1,20 @@
+// series/VIII-augmented-discernment/schema/schemaorg.book.jsonld
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Augmented Discernment",
+  "author": { "@type": "Person", "name": "Justin Goldston, PhD" },
+  "about": [
+    "discernment",
+    "Holy Spirit",
+    "Bible study",
+    "AI as tool",
+    "governance",
+    "witness"
+  ],
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Goldstonian Concordance Bible — Series VIII",
+    "identifier": "VIII"
+  }
+}
