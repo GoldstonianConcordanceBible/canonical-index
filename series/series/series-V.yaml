@@ -1,0 +1,194 @@
+id: "series-V"
+name: "New Testament + Ethiopian Tradition: The Birth of Christianity"
+author: "Justin Goldston, PhD"
+
+descriptor_line: "A Canon-to-Community Concordance (Gospels → Church → Walking Rule)"
+method_alignment:
+  - "Mirror"
+  - "Water"
+  - "Fire"
+
+series_promise: >
+  A New Testament concordance series read in conversation with Ethiopian tradition—without treating
+  tradition as Scripture—so readers can trace how the Gospel becomes a formed people: worship,
+  teaching, ethics, suffering, mission, and resilient obedience. Ends in a lived “Walking Rule”
+  that integrates the whole witness into daily life.
+
+positioning_notes:
+  - "Scripture-first: the New Testament governs; tradition is a companion lens, not a replacement."
+  - "Sober canon handling: Ethiopian tradition is integrated carefully and clearly labeled."
+  - "Formation focus: every volume produces practices, community rhythms, and teachable outlines."
+  - "Anti-sensational: Revelation handled with safety rules; no hype, no fear-merchandising."
+
+concordance_spine:
+  - "Purpose Thesis"
+  - "Placement + Canon Notes (Ethiopian vs Protestant/Catholic/Orthodox)"
+  - "Narrative / Argument Flow"
+  - "Core Theology"
+  - "Messiah Thread (as fulfillment and reign)"
+  - "Goldstonian Cross-Links"
+  - "Hard Questions (skeptics + pastoral concerns)"
+  - "Preacher’s Toolkit (sermon + lesson + small-group plan)"
+  - "Walk in the Word (rule + community action)"
+  - "Prayer + Practice"
+
+volumes:
+  - vol: 1
+    title: "The Birth of Christianity — Part I: The Gospel Emerges"
+    one_line: "Gospels + Acts as the engine of origin: Jesus’ life, the resurrection, and the Spirit-formed community that follows."
+    scope:
+      - "Gospels (overview + harmony map)"
+      - "Acts (church emergence + mission spine)"
+    key_themes:
+      - "kingdom of God"
+      - "resurrection witness"
+      - "Spirit and community formation"
+      - "mission routes and cultural crossings"
+    tradition_lens:
+      - "Ethiopian tradition as companion witness to early formation (clearly labeled)"
+      - "Practices and rhythms without elevating tradition to canon"
+    outputs:
+      - "Gospel/Acts timeline + map spine"
+      - "Teaching outlines for churches and small groups"
+      - "Walking Rule draft v1 (worship, word, table, service)"
+    keywords:
+      - "New Testament concordance"
+      - "Gospels and Acts"
+      - "early church"
+      - "Ethiopian tradition"
+      - "apostolic formation"
+      - "discipleship"
+      - "walking rule"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 2
+    title: "The Birth of Christianity — Part II: Apostolic Doctrine and Community Order"
+    one_line: "How the church learns to think: doctrine, unity, leadership, discipline, and love as an organized life—not vibes."
+    scope:
+      - "Pastoral-order themes across the Epistles"
+      - "Church leadership and community ethics"
+    key_themes:
+      - "sound teaching"
+      - "community holiness"
+      - "leadership and service"
+      - "unity across difference"
+    tradition_lens:
+      - "Ethiopian apostolic formation principles as companion practices"
+    outputs:
+      - "Doctrine-to-life maps (belief → behavior)"
+      - "Leader/teacher toolkits (safe, humble tone)"
+      - "Small-group rule: unity + accountability"
+    keywords:
+      - "apostolic doctrine"
+      - "church leadership"
+      - "Christian ethics"
+      - "discipleship formation"
+      - "epistles study"
+      - "community order"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 3
+    title: "The Birth of Christianity — Part III: Letters Under Pressure"
+    one_line: "Read the letters as survival manuals for faith under pressure—suffering, endurance, joy, and courage without collapse."
+    scope:
+      - "Selected pressure-texts across Pauline + General Epistles"
+    key_themes:
+      - "suffering and perseverance"
+      - "joy and hope"
+      - "faithfulness in hostile systems"
+      - "non-retaliation + resilient courage"
+    tradition_lens:
+      - "Ethiopian endurance spirituality as companion witness (clearly labeled)"
+    outputs:
+      - "Pressure-playbook (practices for stress seasons)"
+      - "Preacher’s toolkit: hope without denial"
+      - "Walking Rule v2 (endurance + mercy)"
+    keywords:
+      - "suffering in the Bible"
+      - "perseverance"
+      - "Christian hope"
+      - "epistles"
+      - "faith under pressure"
+      - "resilient discipleship"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 4
+    title: "The Birth of Christianity — Part IV: Revelation With Safety Rules"
+    one_line: "A sober, non-sensational guide to Revelation: worship, resistance, endurance, and the Lamb’s victory—without fear-hype."
+    scope:
+      - "Revelation (structure, symbols, worship scenes, warning passages)"
+      - "Acts/Epistles cross-links for grounding"
+    safety_rules:
+      - "No date-setting, no fear merchandising, no speculative charts as doctrine"
+      - "Symbols interpreted with Scripture-first boundaries"
+      - "Emphasis on worship, holiness, witness, and endurance"
+    outputs:
+      - "Revelation structure map (scenes + cycles)"
+      - "Symbol boundaries guide (what we can/can’t claim)"
+      - "Small-group plan: worship + endurance"
+      - "Walking Rule v3 (resistance + fidelity)"
+    keywords:
+      - "Book of Revelation study"
+      - "biblical apocalypse"
+      - "Lamb victory"
+      - "endurance"
+      - "worship"
+      - "discernment"
+      - "non sensational"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 5
+    title: "The Birth of Christianity — Part V: Ethiopian Apostolic Formation Companion"
+    one_line: "A companion lens on apostolic formation through Ethiopian tradition—clearly labeled and used to strengthen practice, not replace canon."
+    scope:
+      - "Tradition-as-companion framework"
+      - "Formation rhythms: prayer, fasting, community life, mercy practices"
+    key_themes:
+      - "formed worship"
+      - "community discipline"
+      - "holiness without pride"
+      - "mercy as identity"
+    outputs:
+      - "Tradition companion glossary + boundaries"
+      - "Family + small-group formation rhythms"
+      - "Walking Rule v4 (household + church)"
+    keywords:
+      - "Ethiopian Orthodox tradition"
+      - "apostolic formation"
+      - "spiritual disciplines"
+      - "rule of life"
+      - "Christian community"
+      - "discipleship rhythms"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 6
+    title: "The Birth of Christianity — Part VI: The Walking Rule (Capstone)"
+    one_line: "The capstone: a complete, usable ‘Walking Rule’ that turns the entire New Testament witness into daily practice and community action."
+    scope:
+      - "Mirror → Water → Fire rule-of-life synthesis"
+      - "Personal + household + community versions"
+    outputs:
+      - "Walking Rule (daily/weekly/seasonal)"
+      - "Accountability templates (non-shaming)"
+      - "Preacher’s toolkit: NT formation cycle"
+      - "Start-here plans (7-day / 30-day / 90-day)"
+    keywords:
+      - "rule of life"
+      - "New Testament formation"
+      - "discipleship plan"
+      - "spiritual disciplines"
+      - "Christian practice"
+      - "Mirror Water Fire"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
