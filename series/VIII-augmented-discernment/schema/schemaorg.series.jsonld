@@ -1,0 +1,8 @@
+// series/VIII-augmented-discernment/schema/schemaorg.series.jsonld
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWorkSeries",
+  "name": "Goldstonian Concordance Bible — Series VIII: Augmented Discernment",
+  "identifier": "VIII",
+  "description": "A six-volume formation system for using AI under supervision without replacing Scripture, the Holy Spirit, repentance, counsel, or obedience."
+}
