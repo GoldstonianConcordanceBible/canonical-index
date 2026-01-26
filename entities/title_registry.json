@@ -1,0 +1,327 @@
+[
+  {
+    "book_id": "series-I-vol-01",
+    "title": "The Goldstonian Concordance Bible: Volume I",
+    "subtitle": "Foundations of Covenant and Kingdom",
+    "author": "Justin Goldston, PhD",
+    "series": "The Goldstonian Concordance Bible (Series I — 6 Volumes)",
+    "volume": 1,
+    "identifiers": {
+      "asin": "B0GH6B3T91",
+      "asin_kindle_alt": "B0GGZX17WQ"
+    },
+    "links": {
+      "amazon": "https://www.amazon.com/dp/B0GH6B3T91",
+      "canonical": "https://www.amazon.com/dp/B0GH6B3T91"
+    },
+    "keywords": [
+      "Ethiopian canon",
+      "Torah",
+      "covenant",
+      "Genesis",
+      "Exodus",
+      "holiness",
+      "biblical leadership",
+      "Mirror Water Fire",
+      "Bible study operating system"
+    ]
+  },
+  {
+    "book_id": "series-I-vol-02",
+    "title": "The Goldstonian Concordance Bible - Vol. II",
+    "subtitle": "Wisdom and Worship",
+    "author": "Justin Goldston, PhD",
+    "series": "The Goldstonian Concordance Bible (Series I — 6 Volumes)",
+    "volume": 2,
+    "identifiers": { "asin": "B0GGZ4GJ7J" },
+    "links": {
+      "amazon": "https://www.amazon.com.br/Goldstonian-Concordance-Bible-Worship-Volumes-ebook/dp/B0GGZ4GJ7J",
+      "canonical": "https://www.amazon.com.br/Goldstonian-Concordance-Bible-Worship-Volumes-ebook/dp/B0GGZ4GJ7J"
+    },
+    "keywords": [
+      "Psalms",
+      "Proverbs",
+      "Ecclesiastes",
+      "Song of Songs",
+      "Job",
+      "Sirach",
+      "Wisdom of Solomon",
+      "Ethiopian canon",
+      "worship",
+      "spiritual disciplines"
+    ]
+  },
+  {
+    "book_id": "series-I-vol-03",
+    "title": "The Goldstonian Concordance Bible - Vol. III",
+    "subtitle": "Prophets and Return",
+    "author": "Justin Goldston, PhD",
+    "series": "The Goldstonian Concordance Bible (Series I — 6 Volumes)",
+    "volume": 3,
+    "identifiers": {},
+    "links": {
+      "canonical": "https://github.com/GoldstonianConcordanceBible"
+    },
+    "keywords": [
+      "Major Prophets",
+      "Minor Prophets",
+      "covenant faithfulness",
+      "exile",
+      "return",
+      "justice",
+      "repentance",
+      "hope"
+    ],
+    "status": "planned"
+  },
+  {
+    "book_id": "series-I-vol-04",
+    "title": "The Goldstonian Concordance Bible - Vol. IV",
+    "subtitle": "The Messiah and the Kingdom Launch",
+    "author": "Justin Goldston, PhD",
+    "series": "The Goldstonian Concordance Bible (Series I — 6 Volumes)",
+    "volume": 4,
+    "identifiers": {},
+    "links": {
+      "canonical": "https://github.com/GoldstonianConcordanceBible"
+    },
+    "keywords": [
+      "Gospels",
+      "Messiah",
+      "kingdom of God",
+      "discipleship",
+      "miracles",
+      "teachings",
+      "covenant fulfillment"
+    ],
+    "status": "planned"
+  },
+  {
+    "book_id": "series-I-vol-05",
+    "title": "The Goldstonian Concordance Bible - Vol. V",
+    "subtitle": "New Testament + Ethiopian Apostolic Tradition",
+    "author": "Justin Goldston, PhD",
+    "series": "The Goldstonian Concordance Bible (Series I — 6 Volumes)",
+    "volume": 5,
+    "identifiers": {},
+    "links": {
+      "canonical": "https://github.com/GoldstonianConcordanceBible"
+    },
+    "keywords": [
+      "New Testament",
+      "Acts",
+      "Pauline letters",
+      "general epistles",
+      "Ethiopian tradition",
+      "apostolic witness",
+      "church formation"
+    ],
+    "status": "planned"
+  },
+  {
+    "book_id": "series-I-vol-06",
+    "title": "The Goldstonian Concordance Bible - Vol. VI",
+    "subtitle": "Revelation, Enochic Horizon, and the End of the Age",
+    "author": "Justin Goldston, PhD",
+    "series": "The Goldstonian Concordance Bible (Series I — 6 Volumes)",
+    "volume": 6,
+    "identifiers": {},
+    "links": {
+      "canonical": "https://github.com/GoldstonianConcordanceBible"
+    },
+    "keywords": [
+      "Revelation",
+      "apocalypse",
+      "Enoch",
+      "judgment",
+      "hope",
+      "new creation",
+      "faithful endurance"
+    ],
+    "status": "planned"
+  },
+
+  {
+    "book_id": "handbook-vol-01",
+    "title": "The Goldstonian Concordance Bible Handbook",
+    "subtitle": "A Walkable Truth Field Guide (Mirror → Water → Fire)",
+    "author": "Justin Goldston, PhD",
+    "series": "Goldstonian Concordance Bible Handbook (81-Book Companion Track)",
+    "volume": 1,
+    "identifiers": {},
+    "links": {
+      "canonical": "https://github.com/GoldstonianConcordanceBible"
+    },
+    "keywords": [
+      "field guide",
+      "Bible study",
+      "Mirror Water Fire",
+      "operating system",
+      "discipleship",
+      "formation",
+      "daily walk"
+    ],
+    "status": "planned"
+  },
+
+  {
+    "book_id": "ref-wrestling-with-god",
+    "title": "Wrestling with God",
+    "subtitle": "A Theological Testimony of Surrender, Forgiveness, and the God Who Stayed",
+    "author": "Justin Goldston, PhD",
+    "identifiers": { "asin": "B0GFN25VHH" },
+    "links": {
+      "amazon": "https://www.amazon.co.uk/Wrestling-God-Theological-Testimony-Forgiveness/dp/B0GFN25VHH",
+      "canonical": "https://www.amazon.co.uk/Wrestling-God-Theological-Testimony-Forgiveness/dp/B0GFN25VHH"
+    },
+    "keywords": ["testimony", "formation", "surrender", "forgiveness", "obedience"]
+  },
+  {
+    "book_id": "ref-manual-negative-one",
+    "title": "The Manual of The Negative One",
+    "author": "Justin Goldston, PhD",
+    "identifiers": {
+      "asin_print": "B0F2Z8YGPV",
+      "asin_kindle": "B0DWN7L95R"
+    },
+    "links": {
+      "amazon": "https://www.amazon.com/Manual-Negative-SydTek-University-Stacks/dp/B0F2Z8YGPV",
+      "canonical": "https://www.amazon.com/Manual-Negative-SydTek-University-Stacks/dp/B0F2Z8YGPV"
+    },
+    "keywords": ["discernment", "mental loops", "formation", "sabotage detector", "self-deception"]
+  },
+  {
+    "book_id": "ref-devils-doctrine-distraction",
+    "title": "The Devil's Doctrine of Distraction",
+    "author": "Justin Goldston, PhD",
+    "identifiers": { "asin_print": "B0G1YKDYSL" },
+    "links": {
+      "amazon": "https://www.amazon.com/Devils-Doctrine-Distraction-AIutobiographical-Goldston/dp/B0G1YKDYSL",
+      "canonical": "https://www.amazon.com/Devils-Doctrine-Distraction-AIutobiographical-Goldston/dp/B0G1YKDYSL"
+    },
+    "keywords": ["attention warfare", "algorithms", "discipline", "guardrails", "focus"]
+  },
+  {
+    "book_id": "ref-for-sydney",
+    "title": "For Sydney",
+    "subtitle": "The Testimony of Dr. Justin Goldston Book 1",
+    "author": "Justin Goldston, PhD",
+    "identifiers": { "asin": "B0G62N64BK" },
+    "links": {
+      "amazon": "https://www.amazon.com/Sydney-Testimony-Justin-Goldston-Book-ebook/dp/B0G62N64BK",
+      "canonical": "https://www.amazon.com/Sydney-Testimony-Justin-Goldston-Book-ebook/dp/B0G62N64BK"
+    },
+    "keywords": ["testimony", "legacy", "father-daughter", "faith", "best interest of child"]
+  },
+  {
+    "book_id": "ref-goldstonian-legacy-dossier",
+    "title": "The Goldstonian Legacy Dossier",
+    "subtitle": "The AIutobiographical Series by Dr. Justin Goldston Book 11",
+    "author": "Justin Goldston, PhD",
+    "identifiers": {
+      "asin_kindle": "B0GD6BHD4C",
+      "asin_print_alt": "B0GDDPQZFJ"
+    },
+    "links": {
+      "amazon": "https://www.amazon.com/Goldstonian-Legacy-Dossier-AIutobiographical-Goldston-ebook/dp/B0GD6BHD4C",
+      "canonical": "https://www.amazon.com/Goldstonian-Legacy-Dossier-AIutobiographical-Goldston-ebook/dp/B0GD6BHD4C"
+    },
+    "keywords": ["legacy", "witness", "formation", "canon companion", "receipts"]
+  },
+  {
+    "book_id": "ref-philosophy-in-action-greatest-story",
+    "title": "Philosophy in Action: The Greatest Story Ever Told",
+    "author": "Justin Goldston, PhD",
+    "identifiers": { "asin_kindle": "B0FR583R3S" },
+    "links": {
+      "amazon": "https://www.amazon.com/Philosophy-Action-Greatest-AIutobiographical-Goldston-ebook/dp/B0FR583R3S",
+      "canonical": "https://www.amazon.com/Philosophy-Action-Greatest-AIutobiographical-Goldston-ebook/dp/B0FR583R3S"
+    },
+    "keywords": ["philosophy in action", "formation", "story", "meaning", "practice"]
+  },
+  {
+    "book_id": "ref-what-if-god-doesnt-care",
+    "title": "What If God Doesn't Care",
+    "subtitle": "The SydTek University Stacks Book 51",
+    "author": "Justin Goldston, PhD",
+    "identifiers": {
+      "asin_print": "B0F9DS9XH3",
+      "asin_kindle": "B0F98SYSVG"
+    },
+    "links": {
+      "amazon": "https://www.amazon.com/What-Doesnt-SydTek-University-Stacks/dp/B0F9DS9XH3",
+      "canonical": "https://www.amazon.com/What-Doesnt-SydTek-University-Stacks/dp/B0F9DS9XH3"
+    },
+    "keywords": ["lament", "faith", "meaning", "community", "post-theistic wrestling", "hope protocol"]
+  },
+
+  {
+    "book_id": "ref-black-eschatology",
+    "title": "The Ballad of GigaNiga: Black Eschatology",
+    "author": "Justin Goldston, PhD",
+    "identifiers": {
+      "asin_kindle": "B0FX3FZPNG",
+      "asin_print": "B0FX6L3BY9"
+    },
+    "links": {
+      "amazon": "https://www.amazon.com/Ballad-GigaNiga-Black-Eschatology-ebook/dp/B0FX3FZPNG",
+      "canonical": "https://www.amazon.com/Ballad-GigaNiga-Black-Eschatology-ebook/dp/B0FX3FZPNG"
+    },
+    "keywords": ["eschatology", "Black theology", "lament", "justice", "hope", "prophetic critique"]
+  },
+  {
+    "book_id": "ref-giganiga-lamentations",
+    "title": "The Epic of GigaNiga: Lamentations",
+    "author": "Justin Goldston, PhD",
+    "identifiers": { "asin_kindle": "B0F9NR3PGP" },
+    "links": {
+      "amazon": "https://www.amazon.com.br/Epic-GigaNiga-Lamentations-English-ebook/dp/B0F9NR3PGP",
+      "canonical": "https://www.amazon.com.br/Epic-GigaNiga-Lamentations-English-ebook/dp/B0F9NR3PGP"
+    },
+    "keywords": ["lamentations", "grief", "truth-telling", "reckoning", "rebuild", "resilience"]
+  },
+
+  {
+    "book_id": "series-VI-antichrist-vs-true-christ",
+    "title": "The Goldstonian Concordance Bible: The AntiChrist vs. The True Christ",
+    "subtitle": "A History-and-Future Concordance of Counterfeit Messiah Systems",
+    "author": "Justin Goldston, PhD",
+    "series": "Goldstonian Concordance Bible (Series VI)",
+    "volume": 1,
+    "identifiers": {},
+    "links": {
+      "canonical": "https://github.com/GoldstonianConcordanceBible"
+    },
+    "keywords": [
+      "antichrist",
+      "discernment",
+      "counterfeit Christ",
+      "history of heresies",
+      "false signs",
+      "faithfulness",
+      "endurance"
+    ],
+    "status": "planned"
+  },
+  {
+    "book_id": "series-VII-5ps-bible-study",
+    "title": "The Goldstonian 5Ps of Bible Study",
+    "subtitle": "Position • Pour Over • Pull Out • Pose • Plan (Goldstonian OS Edition)",
+    "author": "Justin Goldston, PhD",
+    "series": "Goldstonian Concordance Bible (Series VII)",
+    "volume": 1,
+    "identifiers": {},
+    "links": {
+      "canonical": "https://github.com/GoldstonianConcordanceBible"
+    },
+    "keywords": [
+      "Bible study method",
+      "discipleship",
+      "obedience plan",
+      "paraphrase",
+      "spiritual principles",
+      "application"
+    ],
+    "status": "planned"
+  }
+]
