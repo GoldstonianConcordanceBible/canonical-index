@@ -1,0 +1,36 @@
+canonical_repo: "https://github.com/GoldstonianConcordanceBible/canonical-index"
+author:
+  name: "Justin Goldston, PhD"
+last_updated: "2026-01-25"
+
+series:
+  - id: "series-I"
+    name: "Series I — Tanakh First: The Covenant Operating System"
+    notes: "Book-by-book 159-page OS concordances (Genesis → Malachi), with tradition/sect comparison + Mirror → Water → Fire walkables."
+
+  - id: "series-II"
+    name: "Series II — Footprints of the Messiah"
+    notes: "A Location-First Concordance for the Gospels (the 8.1–8.6 travel-path set: Birth/Hidden Years → Resurrection)."
+
+  - id: "series-III"
+    name: "Series III — Forty Days: From Empty Tomb to Throne"
+    notes: "Six-book resurrection-witness arc covering the 40 days: appearances, restoration, commissioning, ascension, and the throne-logic."
+
+  - id: "series-IV"
+    name: "Series IV — Mirror • Water • Fire: AI Formation (Wrestling With God Safely)"
+    notes: "Spiritually grounded AI use for discernment + transformation; integrates your ‘reference shelf’ titles as formation companions."
+
+  - id: "series-V"
+    name: "Series V — New Testament + Ethiopian Tradition: The Birth of Christianity"
+    notes: "A canon-to-tradition bridge series that reads the NT in conversation with Ethiopian tradition and the early-church formation layer."
+
+  - id: "series-VI"
+    name: "Series VI — The AntiChrist vs. The True Christ"
+    notes: "Six-book contrast series: patterns, counterfeits, beast-systems, history waves, future pressure-test, and the Lamb’s victory."
+
+  - id: "series-VII"
+    name: "Series VII — The Goldstonian 5Ps of Bible Study"
+    notes: "Goldstonian method series built from the 5Ps: Position • Pour Over • Pull Out • Pose Questions • Plan Obedience."
+
+  - id: "other"
+    name: "Other / Reference Shelf"
