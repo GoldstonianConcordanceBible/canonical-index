@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "book_id": "series-I-vol-03",
+  "title": "The Goldstonian Concordance Bible - Vol. III",
+  "subtitle": "Prophets and Return",
+  "author": "Justin Goldston, PhD",
+  "series": "The Goldstonian Concordance Bible (Series I — Tanakh First: The Covenant Operating System)",
+  "volume": 3,
+  "year": "",
+  "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "" },
+  "links": {
+    "amazon": "",
+    "canonical": "https://github.com/GoldstonianConcordanceBible"
+  },
+  "keywords": [
+    "prophets",
+    "Isaiah",
+    "Jeremiah",
+    "Ezekiel",
+    "twelve minor prophets",
+    "exile",
+    "return",
+    "justice",
+    "repentance",
+    "hope",
+    "Concordance Spine"
+  ],
+  "status": "planned",
+  "provenance": {
+    "source_of_truth": "CATALOG.json",
+    "last_verified": "",
+    "notes": "Planned volume; fill identifiers/amazon link when published."
+  }
+}
