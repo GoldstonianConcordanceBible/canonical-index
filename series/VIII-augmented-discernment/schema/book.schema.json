@@ -1,0 +1,35 @@
+// series/VIII-augmented-discernment/schema/book.schema.json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "book.schema.json",
+  "title": "Book",
+  "type": "object",
+  "required": ["book_id", "title", "author", "links", "identifiers"],
+  "properties": {
+    "book_id": { "type": "string" },
+    "title": { "type": "string" },
+    "subtitle": { "type": "string" },
+    "author": { "type": "string" },
+    "year": { "type": "integer" },
+    "volume": { "type": ["integer", "string"] },
+    "identifiers": {
+      "type": "object",
+      "properties": {
+        "asin": { "type": "string" },
+        "isbn_print": { "type": "string" },
+        "isbn_ebook": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "links": {
+      "type": "object",
+      "properties": {
+        "amazon": { "type": "string" },
+        "canonical": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "keywords": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": true
+}
