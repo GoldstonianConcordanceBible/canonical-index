@@ -1,4 +1,4 @@
-# Goldstonian Concordance Bible — Canonical Index
+# Goldstonian Concordance Bible - Canonical Index
 
 This repo is the **canonical source of truth** for the Goldstonian Concordance Bible ecosystem:
 - Titles, subtitles, series + volume numbering
