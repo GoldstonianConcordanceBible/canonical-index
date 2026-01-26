@@ -1,0 +1,14 @@
+// series/VIII-augmented-discernment/schema/volume.schema.json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "volume.schema.json",
+  "title": "Volume",
+  "type": "object",
+  "required": ["volume_id", "name", "path"],
+  "properties": {
+    "volume_id": { "type": "string" },
+    "name": { "type": "string" },
+    "path": { "type": "string" }
+  },
+  "additionalProperties": true
+}
