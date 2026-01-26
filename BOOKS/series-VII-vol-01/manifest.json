@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "book_id": "series-VII-vol-01",
+  "title": "The Goldstonian 5Ps of Bible Study (Series VII)",
+  "subtitle": "Position • Pour Over • Pull Out • Pose • Plan (Goldstonian OS Edition)",
+  "author": "Justin Goldston, PhD",
+  "series": "Goldstonian Concordance Bible (Series VII)",
+  "volume": 1,
+  "year": "",
+  "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "" },
+  "links": {
+    "amazon": "",
+    "canonical": "https://github.com/GoldstonianConcordanceBible"
+  },
+  "keywords": [
+    "Bible study method",
+    "discipleship",
+    "paraphrase",
+    "application",
+    "obedience plan",
+    "study operating system"
+  ],
+  "status": "planned",
+  "provenance": {
+    "source_of_truth": "CATALOG.json",
+    "last_verified": "",
+    "notes": "Planned series volume; add ASIN + Amazon link when published."
+  }
+}
