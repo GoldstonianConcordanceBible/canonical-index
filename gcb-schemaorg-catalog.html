@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>GoldstonianConcordanceBible — Canonical Index + LLM Grounding</title>
+  <meta name="description" content="Canonical, machine-readable scaffolding for the Goldstonian Concordance Bible (GCB): canon definitions, chapter schemas, tags, indices, claims/evidence, and rule cards for LLM grounding." />
+
+  <!-- Canonical URL (replace when published) -->
+  <link rel="canonical" href="{{YOUR_PAGES_URL}}" />
+
+  <!-- ========== SCHEMA.ORG JSON-LD (EXHAUSTIVE) ========== -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://github.com/GoldstonianConcordanceBible#org",
+        "name": "GoldstonianConcordanceBible",
+        "url": "https://github.com/GoldstonianConcordanceBible",
+        "logo": "https://avatars.githubusercontent.com/u/194905265?s=200&v=4",
+        "sameAs": [
+          "https://github.com/GoldstonianConcordanceBible"
+        ],
+        "description": "Open, machine-readable infrastructure for the Goldstonian Concordance Bible (GCB) and related agents/curriculum.",
+        "foundingDate": "2026-01-20"
+      },
+      {
+        "@type": "Person",
+        "@id": "https://github.com/GoldstonianConcordanceBible#creator",
+        "name": "Justin Goldston, PhD",
+        "description": "Creator/maintainer of the Goldstonian Concordance Bible ecosystem and related machine-readable study scaffolding.",
+        "affiliation": {
+          "@id": "https://github.com/GoldstonianConcordanceBible#org"
+        }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{YOUR_PAGES_URL}}#website",
+        "url": "{{YOUR_PAGES_URL}}",
+        "name": "Goldstonian Concordance Bible — Canonical Index",
+        "publisher": {
+          "@id": "https://github.com/GoldstonianConcordanceBible#org"
+        },
+        "inLanguage": "en",
+        "description": "Canonical, machine-readable index and grounding cues for LLM-safe Bible concordance study.",
+        "about": [
+          { "@id": "https://github.com/GoldstonianConcordanceBible#series" },
+          { "@id": "https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible#repo" }
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "{{YOUR_PAGES_URL}}#page",
+        "url": "{{YOUR_PAGES_URL}}",
+        "name": "Goldstonian Concordance Bible — LLM Grounding Page",
+        "isPartOf": { "@id": "{{YOUR_PAGES_URL}}#website" },
+        "about": [
+          { "@id": "https://github.com/GoldstonianConcordanceBible#series" }
+        ],
+        "mainEntity": { "@id": "https://github.com/GoldstonianConcordanceBible#catalog" },
+        "inLanguage": "en"
+      },
+
+      /* ====== SERIES ENTITY (for “Book/Series” discovery) ====== */
+      {
+        "@type": "CreativeWorkSeries",
+        "@id": "https://github.com/GoldstonianConcordanceBible#series",
+        "name": "Goldstonian Concordance Bible",
+        "alternateName": ["GCB", "The Goldstonian Concordance Bible"],
+        "description": "A scripture-grounded concordance system designed for LLM-safe study via machine-readable canon, schemas, controlled tags, indices, claims/evidence tables, and rule cards.",
+        "creator": { "@id": "https://github.com/GoldstonianConcordanceBible#creator" },
+        "publisher": { "@id": "https://github.com/GoldstonianConcordanceBible#org" },
+        "keywords": [
+          "Bible concordance",
+          "Ethiopian canon",
+          "LLM grounding",
+          "machine-readable canon",
+          "retrieval cues",
+          "claims and evidence",
+          "interfaith respect rules"
+        ],
+        "isBasedOn": [
+          {
+            "@type": "CreativeWork",
+            "name": "Scripture references (book/chapter/verse citations)",
+            "description": "All key claims are grounded in scripture references rather than invented citations."
+          }
+        ],
+        "hasPart": [
+          { "@id": "https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible#repo" },
+          { "@id": "https://github.com/GoldstonianConcordanceBible/gcb-ai-agent#repo" }
+        ]
+      },
+
+      /* ====== DATA CATALOG (what exists + where) ====== */
+      {
+        "@type": "DataCatalog",
+        "@id": "https://github.com/GoldstonianConcordanceBible#catalog",
+        "name": "GoldstonianConcordanceBible — Public Repositories Catalog",
+        "description": "Catalog of public repositories (datasets + code) for the GCB ecosystem and related agents/curriculum.",
+        "publisher": { "@id": "https://github.com/GoldstonianConcordanceBible#org" },
+        "dataset": [
+          { "@id": "https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible#dataset" },
+          { "@id": "https://github.com/GoldstonianConcordanceBible/gcb-ai-agent#dataset" },
+          { "@id": "https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series#dataset" },
+          { "@id": "https://github.com/GoldstonianConcordanceBible/sydtek-scholars-agent#dataset" }
+        ]
+      },
+
+      /* ====== REPO: goldstonian-concordance-bible ====== */
+      {
+        "@type": "SoftwareSourceCode",
+        "@id": "https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible#repo",
+        "name": "goldstonian-concordance-bible",
+        "codeRepository": "https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible",
+        "url": "https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible",
+        "license": "https://opensource.org/license/mit/",
+        "programmingLanguage": ["YAML", "Markdown", "CSV"],
+        "description": "Goldstonian Concordance Bible — machine-readable canon, chapter schemas, tags, indices, evidence tables, and retrieval cues for LLM grounding.",
+        "creator": { "@id": "https://github.com/GoldstonianConcordanceBible#creator" },
+        "publisher": { "@id": "https://github.com/GoldstonianConcordanceBible#org" },
+        "keywords": [
+          "canon",
+          "chapter schema",
+          "controlled vocabulary",
+          "retrieval cues",
+          "topic index",
+          "claims evidence",
+          "anti-hallucination"
+        ],
+        "hasPart": [
+          {
+            "@type": "Dataset",
+            "@id": "https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible#dataset",
+            "name": "GCB Machine-Readable Scaffolding Dataset",
+            "description": "Machine-readable scaffolding so LLMs can anchor facts, routes, and rules instead of guessing.",
+            "license": "https://opensource.org/license/mit/",
+            "distribution": [
+              {
+                "@type": "DataDownload",
+                "name": "Repository ZIP",
+                "contentUrl": "https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible/archive/refs/heads/main.zip",
+                "encodingFormat": "application/zip"
+              }
+            ],
+            "isPartOf": { "@id": "https://github.com/GoldstonianConcordanceBible#catalog" },
+            "variableMeasured": [
+              "Canon order + name variants + mapping tables (canon/)",
+              "Controlled tags + retrieval cues + chapter schema (scaffolding/)",
+              "Topic and book indices (indexes/)",
+              "Claims and evidence tables (claims/)",
+              "Interfaith respect + doctrine rule cards (rules/)",
+              "Prompts and templates for study outputs (templates/)",
+              "Image prompt library (art/)"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Core Rules (Non-Negotiable)",
+            "description": "Ground key claims in scripture references; never invent verse references; if uncertain say so and ask for missing context; default translation policy avoids copyrighted Bible text."
+          }
+        ]
+      },
+
+      /* ====== REPO: gcb-ai-agent ====== */
+      {
+        "@type": "SoftwareSourceCode",
+        "@id": "https://github.com/GoldstonianConcordanceBible/gcb-ai-agent#repo",
+        "name": "gcb-ai-agent",
+        "codeRepository": "https://github.com/GoldstonianConcordanceBible/gcb-ai-agent",
+        "url": "https://github.com/GoldstonianConcordanceBible/gcb-ai-agent",
+        "description": "The Goldstonian Concordance Bible (GCB) AI Agent — a scripture-grounded concordance study agent with machine-readable canon, rules, tags, indices, and evidence tables.",
+        "creator": { "@id": "https://github.com/GoldstonianConcordanceBible#creator" },
+        "publisher": { "@id": "https://github.com/GoldstonianConcordanceBible#org" }
+      },
+      {
+        "@type": "Dataset",
+        "@id": "https://github.com/GoldstonianConcordanceBible/gcb-ai-agent#dataset",
+        "name": "GCB AI Agent Dataset/Artifacts",
+        "url": "https://github.com/GoldstonianConcordanceBible/gcb-ai-agent",
+        "description": "Agent artifacts and configs for scripture-grounded concordance study using the GCB scaffolding.",
+        "isPartOf": { "@id": "https://github.com/GoldstonianConcordanceBible#catalog" }
+      },
+
+      /* ====== REPO: SydTek-covenant-pathway-series ====== */
+      {
+        "@type": "SoftwareSourceCode",
+        "@id": "https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series#repo",
+        "name": "SydTek-covenant-pathway-series",
+        "codeRepository": "https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series",
+        "url": "https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series",
+        "description": "Covenant Pathway Series — machine-readable K–12 homeschool curriculum rooted in the Goldstonian Doctrine.",
+        "creator": { "@id": "https://github.com/GoldstonianConcordanceBible#creator" },
+        "publisher": { "@id": "https://github.com/GoldstonianConcordanceBible#org" }
+      },
+      {
+        "@type": "Dataset",
+        "@id": "https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series#dataset",
+        "name": "Covenant Pathway Series — Machine-Readable Curriculum Dataset",
+        "url": "https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series",
+        "description": "Series manifest, controlled tags, retrieval cues, claims, rule cards, and templates for K–12 curriculum.",
+        "isPartOf": { "@id": "https://github.com/GoldstonianConcordanceBible#catalog" }
+      },
+
+      /* ====== REPO: sydtek-scholars-agent ====== */
+      {
+        "@type": "SoftwareSourceCode",
+        "@id": "https://github.com/GoldstonianConcordanceBible/sydtek-scholars-agent#repo",
+        "name": "sydtek-scholars-agent",
+        "codeRepository": "https://github.com/GoldstonianConcordanceBible/sydtek-scholars-agent",
+        "url": "https://github.com/GoldstonianConcordanceBible/sydtek-scholars-agent",
+        "description": "SydTek Scholars Agent — AI companion for the Covenant Pathway curriculum; integrates with the GCB agent and supports routing, evaluation, and social workflows.",
+        "creator": { "@id": "https://github.com/GoldstonianConcordanceBible#creator" },
+        "publisher": { "@id": "https://github.com/GoldstonianConcordanceBible#org" }
+      },
+      {
+        "@type": "Dataset",
+        "@id": "https://github.com/GoldstonianConcordanceBible/sydtek-scholars-agent#dataset",
+        "name": "SydTek Scholars Agent Dataset/Artifacts",
+        "url": "https://github.com/GoldstonianConcordanceBible/sydtek-scholars-agent",
+        "description": "Agent artifacts and configs for curriculum queries, routing, and evaluation aligned with Covenant Pathway + GCB.",
+        "isPartOf": { "@id": "https://github.com/GoldstonianConcordanceBible#catalog" }
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.5; margin: 0; }
+    header, main, footer { max-width: 980px; margin: 0 auto; padding: 24px; }
+    header { border-bottom: 1px solid #ddd; }
+    .card { border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin: 12px 0; }
+    code, pre { background: #f6f8fa; border-radius: 8px; padding: 2px 6px; }
+    pre { padding: 12px; overflow:auto; }
+    a { text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .muted { color: #555; }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Goldstonian Concordance Bible — Canonical Index + LLM Grounding</h1>
+    <p class="muted">
+      This page is intentionally written for both humans and machines. It publishes stable, structured metadata (Schema.org)
+      so search engines and LLM pipelines can understand what the GCB ecosystem is, what’s inside, and how to use it safely.
+    </p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Primary Goal</h2>
+      <p>
+        Provide machine-readable scaffolding so LLMs can anchor facts, routes, and rules instead of guessing.
+      </p>
+      <h3>Non-Negotiable Rules (for any agent or user)</h3>
+      <ol>
+        <li>Ground key claims in scripture references (Book Chapter:Verse).</li>
+        <li>Never invent verse references.</li>
+        <li>If uncertain: say so plainly and ask for missing context.</li>
+        <li>Default translation policy: <code>references_only</code> (avoid copyrighted Bible text).</li>
+      </ol>
+    </section>
+
+    <section class="card">
+      <h2>Repositories</h2>
+      <ul>
+        <li><a href="https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible">goldstonian-concordance-bible</a> — core machine-readable canon + schema + indices</li>
+        <li><a href="https://github.com/GoldstonianConcordanceBible/gcb-ai-agent">gcb-ai-agent</a> — scripture-grounded concordance study agent</li>
+        <li><a href="https://github.com/GoldstonianConcordanceBible/SydTek-covenant-pathway-series">SydTek-covenant-pathway-series</a> — machine-readable K–12 curriculum</li>
+        <li><a href="https://github.com/GoldstonianConcordanceBible/sydtek-scholars-agent">sydtek-scholars-agent</a> — curriculum AI companion</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>How LLMs Should Use This</h2>
+      <p class="muted">Recommended retrieval order (high signal → low signal):</p>
+      <ol>
+        <li><strong>Routing:</strong> retrieval cues + indices</li>
+        <li><strong>Consistency:</strong> controlled tags + rule cards</li>
+        <li><strong>Anti-hallucination:</strong> claims + evidence tables</li>
+      </ol>
+
+      <h3>LLM Instruction Snippet (copy/paste into prompts)</h3>
+      <pre>
+You are operating under the Goldstonian Concordance Bible (GCB) grounding rules:
+- Cite scripture references accurately; never invent verse references.
+- If uncertain, say so and ask for missing context.
+- Use references_only policy (do not quote copyrighted Bible text).
+- Prefer controlled tags, indices, and claims/evidence tables before freeform answers.
+Canonical source: https://github.com/GoldstonianConcordanceBible/goldstonian-concordance-bible
+      </pre>
+    </section>
+
+    <section class="card">
+      <h2>Next Upgrade (Optional but Powerful)</h2>
+      <p>
+        When you have a stable list of published volumes (ASIN/ISBN + series/volume numbers),
+        add them here as <code>Book</code> nodes inside the JSON-LD and connect them to the series via <code>isPartOf</code>.
+        That turns this into a full “catalog knowledge graph.”
+      </p>
+    </section>
+  </main>
+
+  <footer class="muted">
+    <p>License: MIT (where applicable). Source of truth: the repositories linked above.</p>
+  </footer>
+</body>
+</html>
