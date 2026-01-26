@@ -1,1 +1,250 @@
-#
+canonical_repo: "https://github.com/GoldstonianConcordanceBible/canonical-index"
+author:
+  name: "Justin Goldston, PhD"
+last_updated: "2026-01-25"
+
+method:
+  name: "Goldstonian Concordance Method"
+  steps:
+    - "Mirror"
+    - "Water"
+    - "Fire"
+
+series:
+  - id: "series-I"
+    name: "Tanakh First: The Covenant Operating System (Ethiopian Canon Anchored)"
+    volumes:
+      - vol: 1
+        title: "Foundations of Covenant and Kingdom"
+        one_line: "Torah + covenant history (Genesis → Chronicles) establishing holiness, leadership, justice, and generational formation."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords:
+          - "Ethiopian canon"
+          - "Torah"
+          - "covenant"
+          - "Genesis"
+          - "Exodus"
+          - "holiness"
+          - "biblical leadership"
+          - "Mirror Water Fire"
+      - vol: 2
+        title: "Wisdom and Worship"
+        one_line: "Wisdom + praise with Ethiopian-integrated wisdom (Wisdom of Solomon, Sirach) for daily ethics and resilient faith."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords:
+          - "Psalms"
+          - "Proverbs"
+          - "Job"
+          - "Sirach"
+          - "Wisdom of Solomon"
+          - "worship"
+          - "biblical wisdom"
+      - vol: 3
+        title: "Prophets and the Messiah Thread"
+        one_line: "Isaiah → Malachi as moral courtroom and hope-song: justice, exile, power ethics, and fulfillment concordance."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords:
+          - "prophets"
+          - "Isaiah"
+          - "Malachi"
+          - "messianic prophecy"
+          - "justice"
+          - "fulfillment"
+      - vol: 4
+        title: "Ethiopian Distinctives and the “Why Left Out” Question"
+        one_line: "Enoch, Jubilees, Meqabyan, Ezra traditions—expanded canon reading rules with sober discernment."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords:
+          - "Book of Enoch"
+          - "Jubilees"
+          - "Meqabyan"
+          - "Ethiopian Bible"
+          - "canon history"
+          - "discernment"
+      - vol: 5
+        title: "New Testament plus Ethiopian Apostolic Tradition"
+        one_line: "Jesus, the Church, and the Walk—NT read with Ethiopian apostolic formation materials, ending in a Walking Rule."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords:
+          - "New Testament"
+          - "Gospels"
+          - "Acts"
+          - "discipleship"
+          - "apostolic tradition"
+          - "Walking Rule"
+      - vol: 6
+        title: "Elohim Tov"
+        one_line: "Capstone seal: God’s goodness across the canon as a practiced confession under pressure."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords:
+          - "Elohim Tov"
+          - "God is good"
+          - "biblical theology"
+          - "justice and mercy"
+          - "formation"
+
+  - id: "series-II"
+    name: "Footprints of the Messiah (Location-First Concordance for the Gospels)"
+    volumes:
+      - vol: 1
+        title: "Footprints of the Messiah — Part I: Origins"
+        one_line: "Birth & hidden years mapped by place for Gospel clarity and lived discipleship."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["Jesus locations", "Bethlehem", "Nazareth", "Gospel concordance", "Bible geography"]
+      - vol: 2
+        title: "Footprints of the Messiah — Part II: Baptism & Wilderness"
+        one_line: "Jordan → desert launch of the kingdom, mapped by location and formation."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["Jordan River", "wilderness", "temptation", "kingdom of God", "formation"]
+      - vol: 3
+        title: "Footprints of the Messiah — Part III: Galilee: Teachings"
+        one_line: "Teachings tied to place: hillsides, synagogues, and the Sermon-shaped life."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["Galilee", "Sermon on the Mount", "parables", "synagogues", "Gospel study"]
+      - vol: 4
+        title: "Footprints of the Messiah — Part IV: Galilee: Miracles"
+        one_line: "Miracles tied to geography: shorelines of mercy, signs, healings, authority."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["Sea of Galilee", "miracles", "healing", "authority of Christ", "Bible geography"]
+      - vol: 5
+        title: "Footprints of the Messiah — Part V: Borders & Samaria"
+        one_line: "Cross-border mercy and contested ground mapped for mission clarity."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["Samaria", "Gentiles", "mission", "boundaries", "discipleship"]
+      - vol: 6
+        title: "Footprints of the Messiah — Part VI: Jerusalem & Passion"
+        one_line: "Jerusalem events mapped for coherent Passion reading and gospel unity."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["Jerusalem", "Passion Week", "crucifixion", "timeline", "Gospel harmony"]
+
+  - id: "series-III"
+    name: "Forty Days: From Empty Tomb to Throne"
+    volumes:
+      - vol: 1
+        title: "Forty Days — Book 1"
+        one_line: "Empty tomb and first appearances—hope, fear, and the first witnesses."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["resurrection", "empty tomb", "witnesses", "Gospels", "hope"]
+      - vol: 2
+        title: "Forty Days — Book 2"
+        one_line: "Recognition and restoration—faith rebuilt through encounters."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["restoration", "resurrection appearances", "renewal", "discipleship"]
+      - vol: 3
+        title: "Forty Days — Book 3"
+        one_line: "Scripture opened—how Christ reframes the whole Bible."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["Emmaus", "Scripture", "Messiah thread", "interpretation"]
+      - vol: 4
+        title: "Forty Days — Book 4"
+        one_line: "Commission and mission—authority, sending, the shape of witness."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["Great Commission", "mission", "witness", "church formation"]
+      - vol: 5
+        title: "Forty Days — Book 5"
+        one_line: "Waiting and power—promise, prayer, readiness for the Spirit."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["promise", "prayer", "readiness", "Holy Spirit", "Acts"]
+      - vol: 6
+        title: "Forty Days — Book 6"
+        one_line: "Ascension to throne—kingship, intercession, life under reign."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["ascension", "throne", "kingship", "intercession", "kingdom"]
+
+  - id: "series-IV"
+    name: "Mirror • Water • Fire: AI Formation (Wrestling With God Safely)"
+    volumes:
+      - vol: 1
+        title: "Mirror Covenant"
+        one_line: "AI for truth-telling, confession, discernment, and clarity without shortcuts."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["AI discernment", "confession", "truth", "formation", "Mirror"]
+      - vol: 2
+        title: "Water Covenant"
+        one_line: "AI for context, canon mapping, interpretation rules, and clean study workflows."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["Bible study with AI", "hermeneutics", "canon mapping", "context", "Water"]
+      - vol: 3
+        title: "Fire Covenant"
+        one_line: "AI for lived obedience—justice, mercy, repentance, worship, disciplined outputs."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["obedience", "justice", "mercy", "discipleship", "Fire"]
+
+  - id: "series-V"
+    name: "New Testament + Ethiopian Tradition: The Birth of Christianity"
+    volumes:
+      - vol: 1
+        title: "The Birth of Christianity (Ethiopian Tradition Lens)"
+        one_line: "NT formation read with Ethiopian tradition as a sober companion lens."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["early church", "Ethiopian tradition", "apostolic formation", "New Testament"]
+
+  - id: "series-VI"
+    name: "The AntiChrist vs. The True Christ"
+    volumes:
+      - vol: 1
+        title: "The AntiChrist vs. The True Christ"
+        one_line: "Counterfeit recognition across history—discernment by fruit and fidelity."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["antichrist", "false christ", "discernment", "deception", "history patterns"]
+
+  - id: "series-VII"
+    name: "The Goldstonian 5Ps of Bible Study"
+    volumes:
+      - vol: 1
+        title: "The Goldstonian 5Ps of Bible Study"
+        one_line: "Position • Pour Over • Pull Out • Pose Questions • Plan Obedience (Mirror → Water → Fire aligned)."
+        asin: "TBD"
+        isbn: "TBD"
+        amazon: "TBD"
+        keywords: ["Bible study method", "5Ps", "small groups", "sermon prep", "discipleship", "Mirror Water Fire"]
+
+  - id: "other"
+    name: "Other / Reference Shelf"
+    volumes: []
