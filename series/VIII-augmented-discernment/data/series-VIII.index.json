@@ -1,0 +1,17 @@
+// series/VIII-augmented-discernment/data/series-VIII.index.json
+{
+  "series_id": "VIII",
+  "slug": "VIII-augmented-discernment",
+  "title": "Augmented Discernment",
+  "subtitle": "AI Under the Holy Spirit (Mirror • Water • Fire • Order • Witness • Crown)",
+  "canonical_path": "series/VIII-augmented-discernment",
+  "volumes": [
+    { "volume_id": "VIII-01", "name": "MIRROR", "path": "series/VIII-augmented-discernment/volumes/VIII-01-MIRROR" },
+    { "volume_id": "VIII-02", "name": "WATER",  "path": "series/VIII-augmented-discernment/volumes/VIII-02-WATER"  },
+    { "volume_id": "VIII-03", "name": "FIRE",   "path": "series/VIII-augmented-discernment/volumes/VIII-03-FIRE"   },
+    { "volume_id": "VIII-04", "name": "ORDER",  "path": "series/VIII-augmented-discernment/volumes/VIII-04-ORDER"  },
+    { "volume_id": "VIII-05", "name": "WITNESS","path": "series/VIII-augmented-discernment/volumes/VIII-05-WITNESS"},
+    { "volume_id": "VIII-06", "name": "CROWN",  "path": "series/VIII-augmented-discernment/volumes/VIII-06-CROWN"  }
+  ],
+  "updated_utc": "2026-01-26"
+}
