@@ -1,0 +1,26 @@
+// series/VIII-augmented-discernment/data/series-VIII.crosslinks.json
+{
+  "series_id": "VIII",
+  "crosslinks": [
+    {
+      "topic": "Test the spirits / discernment",
+      "refs": ["1 John 4", "1 Thessalonians 5", "Matthew 7"]
+    },
+    {
+      "topic": "Wisdom and instruction",
+      "refs": ["Proverbs", "Psalms 1", "Psalms 119"]
+    },
+    {
+      "topic": "Spiritual warfare / attention",
+      "refs": ["Ephesians 6", "2 Corinthians 10"]
+    },
+    {
+      "topic": "Context-first study",
+      "refs": ["Acts 17", "Nehemiah 8"]
+    },
+    {
+      "topic": "Allegiance / idolatry resistance",
+      "refs": ["Exodus 20", "Revelation (themes)"]
+    }
+  ]
+}
