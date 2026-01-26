@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "book_id": "ref-for-sydney",
+  "title": "For Sydney",
+  "subtitle": "The Testimony of Dr. Justin Goldston Book 1",
+  "author": "Justin Goldston, PhD",
+  "series": "The Testimony of Dr. Justin Goldston",
+  "volume": 1,
+  "year": "",
+  "identifiers": { "asin": "B0G62N64BK", "isbn_print": "", "isbn_ebook": "" },
+  "links": {
+    "amazon": "https://www.amazon.com/Sydney-Testimony-Justin-Goldston-Book-ebook/dp/B0G62N64BK",
+    "canonical": "https://www.amazon.com/Sydney-Testimony-Justin-Goldston-Book-ebook/dp/B0G62N64BK"
+  },
+  "keywords": ["testimony", "legacy", "father-daughter", "faith"],
+  "status": "published",
+  "provenance": {
+    "source_of_truth": "CATALOG.json",
+    "last_verified": "",
+    "notes": "Reference shelf anchor for legacy framing and testimony voice."
+  }
+}
