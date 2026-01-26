@@ -1,0 +1,13 @@
+// series/VIII-augmented-discernment/data/series-VIII.books.json
+{
+  "series_id": "VIII",
+  "type": "series",
+  "books": [
+    { "book_id": "series-VIII-vol-01", "volume_id": "VIII-01", "title": "Augmented Discernment", "subtitle": "Mirror",  "author": "Justin Goldston, PhD", "identifiers": {}, "links": {} },
+    { "book_id": "series-VIII-vol-02", "volume_id": "VIII-02", "title": "Augmented Discernment", "subtitle": "Water",   "author": "Justin Goldston, PhD", "identifiers": {}, "links": {} },
+    { "book_id": "series-VIII-vol-03", "volume_id": "VIII-03", "title": "Augmented Discernment", "subtitle": "Fire",    "author": "Justin Goldston, PhD", "identifiers": {}, "links": {} },
+    { "book_id": "series-VIII-vol-04", "volume_id": "VIII-04", "title": "Augmented Discernment", "subtitle": "Order",   "author": "Justin Goldston, PhD", "identifiers": {}, "links": {} },
+    { "book_id": "series-VIII-vol-05", "volume_id": "VIII-05", "title": "Augmented Discernment", "subtitle": "Witness", "author": "Justin Goldston, PhD", "identifiers": {}, "links": {} },
+    { "book_id": "series-VIII-vol-06", "volume_id": "VIII-06", "title": "Augmented Discernment", "subtitle": "Crown",   "author": "Justin Goldston, PhD", "identifiers": {}, "links": {} }
+  ]
+}
