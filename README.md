@@ -8,9 +8,9 @@ This repo is the **canonical source of truth** for the Goldstonian Concordance B
 - YouTube video ↔ book mappings
 
 ## Quick links
-- Canon rules: `canon/CANON.md`
-- Series definitions: `entities/SERIES.md`
-- Glossary: `entities/GLOSSARY.md`
+- Canon rules: `CANON.md`
+- Series definitions: `SERIES.md`
+- Glossary: `GLOSSARY.md`
 - Book records: `books/`
 - Video→book mapping: `youtube/index/videos.yml`
 - Machine exports: `exports/`
