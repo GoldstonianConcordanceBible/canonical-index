@@ -1,0 +1,184 @@
+id: "series-II"
+name: "Footprints of the Messiah (Location-First Concordance for the Gospels)"
+author: "Justin Goldston, PhD"
+
+descriptor_line: "A Location-First Concordance for the Gospels"
+cover_stack:
+  top_line: "The Goldstonian Concordance Bible VIII"
+  title: "Footprints of the Messiah"
+  descriptor_line: "A Location-First Concordance for the Gospels"
+
+method_alignment:
+  - "Mirror"
+  - "Water"
+  - "Fire"
+
+series_promise: >
+  A geography-driven Gospel concordance that maps Jesus’ life by place so readers can follow the
+  storyline, teachings, miracles, and mission with clarity—then convert that clarity into a walking rule.
+
+volumes:
+  - vol: 1
+    title: "Footprints of the Messiah — Part I: Origins"
+    subtitle: "Birth & Hidden Years"
+    alt_subtitle: "Bethlehem to Nazareth: The Hidden Foundations of the Gospel"
+    one_line: "Trace the birthplace-to-boyhood path so the Incarnation reads as a coherent origin story, not disconnected scenes."
+    focus_locations:
+      - "Bethlehem"
+      - "Jerusalem (Temple scenes)"
+      - "Egypt (flight/return route)"
+      - "Nazareth"
+    core_outputs:
+      - "Location map + timeline spine (birth → childhood → return)"
+      - "Gospel cross-links (Matthew/Luke alignment where overlap exists)"
+      - "Prophecy and pattern notes (Messiah thread without hype)"
+      - "Walk in the Word: family formation + hidden obedience"
+    keywords:
+      - "Jesus birth"
+      - "Bethlehem"
+      - "Nazareth"
+      - "Holy Family"
+      - "Gospel harmony"
+      - "Bible geography"
+      - "Messiah thread"
+      - "discipleship formation"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 2
+    title: "Footprints of the Messiah — Part II: Baptism & Wilderness"
+    subtitle: "Baptism & Wilderness"
+    alt_subtitle: "Jordan to the Desert: The Launch of the Kingdom"
+    one_line: "Map the Jordan-to-desert transition as the public launch of Jesus’ mission and the template for tested obedience."
+    focus_locations:
+      - "Jordan River"
+      - "Judean wilderness"
+    core_outputs:
+      - "John’s ministry context map (regions + crowds)"
+      - "Temptation framework (tested identity → faithful mission)"
+      - "Covenant signals (water, Spirit, voice, obedience)"
+      - "Walk in the Word: fasting, discernment, and rule-of-life starter"
+    keywords:
+      - "baptism of Jesus"
+      - "Jordan River"
+      - "wilderness temptation"
+      - "John the Baptist"
+      - "kingdom of God"
+      - "spiritual formation"
+      - "Bible study map"
+      - "Mirror Water Fire"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 3
+    title: "Footprints of the Messiah — Part III: Galilee: Teachings"
+    subtitle: "Galilee: Teachings"
+    alt_subtitle: "Hillsides, Synagogues, and the Sermon-Shaped Life"
+    one_line: "Follow the teaching circuit by place so the Sermon and parables land as a lived curriculum, not abstract quotes."
+    focus_locations:
+      - "Galilean hillsides"
+      - "Capernaum (teaching hub)"
+      - "Synagogues across Galilee"
+      - "Lakeshore teaching sites"
+    core_outputs:
+      - "Teaching route map (where teachings cluster and why)"
+      - "Sermon-on-the-Mount field guide (themes → practices)"
+      - "Parable index by setting (crowd / house / boat / synagogue)"
+      - "Walk in the Word: discipleship habits + community practice"
+    keywords:
+      - "Galilee teachings"
+      - "Sermon on the Mount"
+      - "parables of Jesus"
+      - "Capernaum"
+      - "synagogue teachings"
+      - "Christian discipleship"
+      - "Bible concordance"
+      - "Gospel study"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 4
+    title: "Footprints of the Messiah — Part IV: Galilee: Miracles"
+    subtitle: "Galilee: Miracles"
+    alt_subtitle: "Shorelines of Mercy: Signs, Healings, and Authority"
+    one_line: "Track miracles along the shoreline and villages to see authority expressed as mercy, not spectacle."
+    focus_locations:
+      - "Sea of Galilee shoreline"
+      - "Capernaum"
+      - "Nearby villages (Galilee circuit)"
+    core_outputs:
+      - "Miracle index by location (what happened where)"
+      - "Authority patterns (compassion, restoration, deliverance, provision)"
+      - "Crowd dynamics + mission drift warnings"
+      - "Walk in the Word: mercy practices + prayer for the sick (pastoral tone)"
+    keywords:
+      - "Sea of Galilee"
+      - "miracles of Jesus"
+      - "healings"
+      - "Capernaum miracles"
+      - "signs and wonders"
+      - "mercy"
+      - "Gospel geography"
+      - "Bible study"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 5
+    title: "Footprints of the Messiah — Part V: Borders & Samaria"
+    subtitle: "Borders & Samaria"
+    alt_subtitle: "Frontiers of Mercy: From Outsiders to Open Doors"
+    one_line: "Follow Jesus into contested places to learn the kingdom’s border-crossing logic—truth with love, holiness without exclusion."
+    focus_locations:
+      - "Samaria"
+      - "Border regions (Galilee margins)"
+      - "Gentile-adjacent routes"
+    core_outputs:
+      - "Boundary map (who is ‘in/out’ in the story and why it shifts)"
+      - "Case studies (outsiders, opponents, unexpected faith)"
+      - "Interfaith and skeptic questions (gentle answers, no cheap shots)"
+      - "Walk in the Word: reconciliation + neighbor practice"
+    keywords:
+      - "Samaria"
+      - "Samaritan"
+      - "Gentiles"
+      - "mission"
+      - "reconciliation"
+      - "outsiders in the Gospels"
+      - "kingdom ethics"
+      - "discipleship"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
+
+  - vol: 6
+    title: "Footprints of the Messiah — Part VI: Jerusalem & Passion"
+    subtitle: "Jerusalem & Passion"
+    alt_subtitle: "Road to the Cross: The City, the Covenant, the Crown"
+    one_line: "Map the final road and city events so Passion week reads as one coherent covenant climax—leading toward resurrection."
+    focus_locations:
+      - "Jerusalem"
+      - "Temple"
+      - "Mount of Olives"
+      - "Upper room zone (Passover setting)"
+      - "Gethsemane"
+    core_outputs:
+      - "Passion-week map + day-by-day spine"
+      - "Temple conflict + authority analysis (truth, not theatrics)"
+      - "Covenant fulfillment notes (lamb, table, throne)"
+      - "Walk in the Word: suffering faithfulness + forgiveness practice"
+    keywords:
+      - "Jerusalem"
+      - "Passion week"
+      - "Last Supper"
+      - "Gethsemane"
+      - "crucifixion"
+      - "Gospel timeline"
+      - "Bible map"
+      - "Messiah"
+    asin: "TBD"
+    isbn: "TBD"
+    amazon: "TBD"
