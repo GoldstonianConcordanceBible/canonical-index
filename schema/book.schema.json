@@ -1,0 +1,948 @@
+[
+  {
+    "book_id": "gcb-series-i-vol-1-foundations-covenant-kingdom",
+    "title": "Foundations of Covenant and Kingdom",
+    "subtitle": "Torah + Covenant History (Genesis → Chronicles)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 1,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-i"
+    },
+    "keywords": [
+      "Goldstonian Concordance Bible",
+      "Ethiopian Canon",
+      "Torah",
+      "Covenant",
+      "Genesis",
+      "Exodus",
+      "Holiness",
+      "Biblical Leadership",
+      "Justice",
+      "Mirror Water Fire"
+    ]
+  },
+  {
+    "book_id": "gcb-series-i-vol-2-wisdom-worship",
+    "title": "Wisdom and Worship",
+    "subtitle": "Wisdom Literature + Ethiopian-Integrated Wisdom (Sirach, Wisdom of Solomon)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 2,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-i"
+    },
+    "keywords": [
+      "Goldstonian Concordance Bible",
+      "Ethiopian Canon",
+      "Psalms",
+      "Proverbs",
+      "Ecclesiastes",
+      "Song of Songs",
+      "Job",
+      "Sirach",
+      "Wisdom of Solomon",
+      "Worship",
+      "Biblical Wisdom"
+    ]
+  },
+  {
+    "book_id": "gcb-series-i-vol-3-prophets-messiah-thread",
+    "title": "Prophets and the Messiah Thread",
+    "subtitle": "Isaiah → Malachi: Justice, Exile, Fulfillment",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 3,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-i"
+    },
+    "keywords": [
+      "Goldstonian Concordance Bible",
+      "Prophets",
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel",
+      "Malachi",
+      "Messianic Prophecy",
+      "Justice",
+      "Exile",
+      "Fulfillment"
+    ]
+  },
+  {
+    "book_id": "gcb-series-i-vol-4-ethiopian-distinctives-why-left-out",
+    "title": "Ethiopian Distinctives and the “Why Left Out” Question",
+    "subtitle": "Enoch, Jubilees, Meqabyan + Sober Canon Toolkit",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 4,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-i"
+    },
+    "keywords": [
+      "Ethiopian Bible",
+      "Book of Enoch",
+      "Jubilees",
+      "Meqabyan",
+      "Canon History",
+      "Second Temple Literature",
+      "Discernment",
+      "Expanded Canon",
+      "Sober Study",
+      "Spiritual Warfare Safe"
+    ]
+  },
+  {
+    "book_id": "gcb-series-i-vol-5-nt-ethiopian-apostolic-tradition",
+    "title": "New Testament plus Ethiopian Apostolic Tradition",
+    "subtitle": "Jesus, the Church, and the Walk (Ending in a Walking Rule)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 5,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-i"
+    },
+    "keywords": [
+      "New Testament",
+      "Gospels",
+      "Acts",
+      "Epistles",
+      "Revelation Safe Reading",
+      "Discipleship",
+      "Apostolic Tradition",
+      "Ethiopia",
+      "Walking Rule",
+      "Church Formation"
+    ]
+  },
+  {
+    "book_id": "gcb-series-i-vol-6-elohim-tov",
+    "title": "Elohim Tov",
+    "subtitle": "God Is Good: The Capstone Seal Across the Canon",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 6,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-i"
+    },
+    "keywords": [
+      "Elohim Tov",
+      "God Is Good",
+      "Biblical Theology",
+      "Justice and Mercy",
+      "Holiness",
+      "Covenant",
+      "Gospel",
+      "Discipleship",
+      "Canonical Synthesis",
+      "Formation"
+    ]
+  },
+
+  {
+    "book_id": "gcb-series-ii-vol-1-footprints-origins",
+    "title": "Footprints of the Messiah",
+    "subtitle": "Part I: Origins — Birth & Hidden Years",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 1,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-ii"
+    },
+    "keywords": [
+      "Jesus Locations",
+      "Bethlehem",
+      "Nazareth",
+      "Gospel Concordance",
+      "Bible Geography",
+      "Incarnation",
+      "Messiah Thread",
+      "Discipleship",
+      "Location First",
+      "Goldstonian Concordance Bible VIII"
+    ]
+  },
+  {
+    "book_id": "gcb-series-ii-vol-2-footprints-baptism-wilderness",
+    "title": "Footprints of the Messiah",
+    "subtitle": "Part II: Baptism & Wilderness — Jordan to the Desert",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 2,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-ii"
+    },
+    "keywords": [
+      "Jordan River",
+      "John the Baptist",
+      "Wilderness Temptation",
+      "Kingdom of God",
+      "Spiritual Formation",
+      "Bible Map",
+      "Gospel Study",
+      "Mirror Water Fire",
+      "Location Concordance",
+      "Goldstonian Concordance Bible VIII"
+    ]
+  },
+  {
+    "book_id": "gcb-series-ii-vol-3-footprints-galilee-teachings",
+    "title": "Footprints of the Messiah",
+    "subtitle": "Part III: Galilee — Teachings (Sermon-Shaped Life)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 3,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-ii"
+    },
+    "keywords": [
+      "Galilee",
+      "Sermon on the Mount",
+      "Parables",
+      "Synagogues",
+      "Capernaum",
+      "Discipleship",
+      "Bible Teaching",
+      "Gospel Concordance",
+      "Location First",
+      "Goldstonian Concordance Bible VIII"
+    ]
+  },
+  {
+    "book_id": "gcb-series-ii-vol-4-footprints-galilee-miracles",
+    "title": "Footprints of the Messiah",
+    "subtitle": "Part IV: Galilee — Miracles (Shorelines of Mercy)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 4,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-ii"
+    },
+    "keywords": [
+      "Sea of Galilee",
+      "Miracles of Jesus",
+      "Healings",
+      "Authority of Christ",
+      "Mercy",
+      "Gospel Study",
+      "Bible Geography",
+      "Signs",
+      "Location Concordance",
+      "Goldstonian Concordance Bible VIII"
+    ]
+  },
+  {
+    "book_id": "gcb-series-ii-vol-5-footprints-borders-samaria",
+    "title": "Footprints of the Messiah",
+    "subtitle": "Part V: Borders & Samaria — Frontiers of Mercy",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 5,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-ii"
+    },
+    "keywords": [
+      "Samaria",
+      "Samaritan",
+      "Gentiles",
+      "Mission",
+      "Reconciliation",
+      "Kingdom Ethics",
+      "Discipleship",
+      "Gospel Narrative",
+      "Location First",
+      "Goldstonian Concordance Bible VIII"
+    ]
+  },
+  {
+    "book_id": "gcb-series-ii-vol-6-footprints-jerusalem-passion",
+    "title": "Footprints of the Messiah",
+    "subtitle": "Part VI: Jerusalem & Passion — Road to the Cross",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 6,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-ii"
+    },
+    "keywords": [
+      "Jerusalem",
+      "Passion Week",
+      "Last Supper",
+      "Gethsemane",
+      "Crucifixion",
+      "Gospel Timeline",
+      "Temple",
+      "Bible Map",
+      "Location Concordance",
+      "Goldstonian Concordance Bible VIII"
+    ]
+  },
+
+  {
+    "book_id": "gcb-series-iii-vol-1-empty-tomb",
+    "title": "Forty Days",
+    "subtitle": "Book 1: The Empty Tomb",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 1,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-iii"
+    },
+    "keywords": [
+      "resurrection",
+      "empty tomb",
+      "Easter",
+      "Gospel harmony",
+      "witness credibility",
+      "Christian hope",
+      "resurrection morning",
+      "preaching toolkit"
+    ]
+  },
+  {
+    "book_id": "gcb-series-iii-vol-2-recognized-restored",
+    "title": "Forty Days",
+    "subtitle": "Book 2: Recognized and Restored",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 2,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-iii"
+    },
+    "keywords": [
+      "restoration",
+      "Peter restored",
+      "forgiveness",
+      "doubt and faith",
+      "discipleship recovery",
+      "resurrection appearances",
+      "peace"
+    ]
+  },
+  {
+    "book_id": "gcb-series-iii-vol-3-scripture-opened",
+    "title": "Forty Days",
+    "subtitle": "Book 3: Scripture Opened",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 3,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-iii"
+    },
+    "keywords": [
+      "Emmaus",
+      "Messiah thread",
+      "Bible coherence",
+      "prophecy fulfillment",
+      "Christ-centered teaching",
+      "Scripture opened",
+      "hermeneutics"
+    ]
+  },
+  {
+    "book_id": "gcb-series-iii-vol-4-commissioned-witness",
+    "title": "Forty Days",
+    "subtitle": "Book 4: Commissioned Witness",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 4,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-iii"
+    },
+    "keywords": [
+      "Great Commission",
+      "mission",
+      "witness",
+      "Acts 1",
+      "discipleship",
+      "church formation",
+      "kingdom of God"
+    ]
+  },
+  {
+    "book_id": "gcb-series-iii-vol-5-waiting-and-power",
+    "title": "Forty Days",
+    "subtitle": "Book 5: Waiting and Power",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 5,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-iii"
+    },
+    "keywords": [
+      "waiting on God",
+      "prayer",
+      "promise",
+      "Holy Spirit",
+      "unity",
+      "Acts bridge",
+      "readiness"
+    ]
+  },
+  {
+    "book_id": "gcb-series-iii-vol-6-ascension-and-throne",
+    "title": "Forty Days",
+    "subtitle": "Book 6: Ascension and Throne",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 6,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-iii"
+    },
+    "keywords": [
+      "ascension",
+      "throne of Christ",
+      "kingship",
+      "intercession",
+      "kingdom theology",
+      "Christian hope",
+      "rule of life"
+    ]
+  },
+
+  {
+    "book_id": "gcb-series-iv-vol-1-mirror-covenant",
+    "title": "The Mirror Covenant",
+    "subtitle": "AI for Truth-Telling and Discernment (Wrestling With God Safely)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 1,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-iv"
+    },
+    "keywords": [
+      "AI discernment",
+      "Christian ethics",
+      "confession",
+      "attention discipline",
+      "spiritual formation",
+      "Wrestling with God",
+      "Mirror Water Fire",
+      "receipts"
+    ]
+  },
+  {
+    "book_id": "gcb-series-iv-vol-2-water-covenant",
+    "title": "The Water Covenant",
+    "subtitle": "AI for Context, Canon Mapping, and Clean Interpretation",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 2,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-iv"
+    },
+    "keywords": [
+      "Bible study with AI",
+      "canon mapping",
+      "Ethiopian canon",
+      "hermeneutics",
+      "context",
+      "interpretation rules",
+      "study workflows",
+      "Water"
+    ]
+  },
+  {
+    "book_id": "gcb-series-iv-vol-3-fire-covenant",
+    "title": "The Fire Covenant",
+    "subtitle": "AI for Obedience, Justice, Mercy, and Community Action",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 3,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-iv"
+    },
+    "keywords": [
+      "obedience",
+      "rule of life",
+      "justice and mercy",
+      "discipleship practice",
+      "community action",
+      "ethical AI",
+      "Fire",
+      "Mirror Water Fire"
+    ]
+  },
+
+  {
+    "book_id": "gcb-series-v-vol-1-birth-of-christianity-part-1",
+    "title": "The Birth of Christianity",
+    "subtitle": "Part I: The Gospel Emerges (Ethiopian Tradition Lens)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 1,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-v"
+    },
+    "keywords": [
+      "New Testament concordance",
+      "Gospels",
+      "Acts",
+      "early church",
+      "Ethiopian tradition",
+      "apostolic formation",
+      "discipleship",
+      "walking rule"
+    ]
+  },
+  {
+    "book_id": "gcb-series-v-vol-2-apostolic-doctrine-community-order",
+    "title": "The Birth of Christianity",
+    "subtitle": "Part II: Apostolic Doctrine and Community Order",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 2,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-v"
+    },
+    "keywords": [
+      "apostolic doctrine",
+      "church leadership",
+      "Christian ethics",
+      "epistles study",
+      "community order",
+      "discipleship formation"
+    ]
+  },
+  {
+    "book_id": "gcb-series-v-vol-3-letters-under-pressure",
+    "title": "The Birth of Christianity",
+    "subtitle": "Part III: Letters Under Pressure",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 3,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-v"
+    },
+    "keywords": [
+      "suffering in the Bible",
+      "perseverance",
+      "Christian hope",
+      "epistles",
+      "faith under pressure",
+      "resilient discipleship"
+    ]
+  },
+  {
+    "book_id": "gcb-series-v-vol-4-revelation-with-safety-rules",
+    "title": "The Birth of Christianity",
+    "subtitle": "Part IV: Revelation With Safety Rules",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 4,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-v"
+    },
+    "keywords": [
+      "Book of Revelation study",
+      "biblical apocalypse",
+      "Lamb victory",
+      "endurance",
+      "worship",
+      "discernment",
+      "non sensational"
+    ]
+  },
+  {
+    "book_id": "gcb-series-v-vol-5-ethiopian-apostolic-formation-companion",
+    "title": "The Birth of Christianity",
+    "subtitle": "Part V: Ethiopian Apostolic Formation Companion",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 5,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-v"
+    },
+    "keywords": [
+      "Ethiopian Orthodox tradition",
+      "apostolic formation",
+      "spiritual disciplines",
+      "rule of life",
+      "Christian community",
+      "discipleship rhythms"
+    ]
+  },
+  {
+    "book_id": "gcb-series-v-vol-6-walking-rule-capstone",
+    "title": "The Birth of Christianity",
+    "subtitle": "Part VI: The Walking Rule (Capstone)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 6,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-v"
+    },
+    "keywords": [
+      "rule of life",
+      "New Testament formation",
+      "discipleship plan",
+      "spiritual disciplines",
+      "Christian practice",
+      "Mirror Water Fire"
+    ]
+  },
+
+  {
+    "book_id": "gcb-series-vi-vol-1-the-pattern",
+    "title": "The AntiChrist vs. The True Christ",
+    "subtitle": "Volume 1: The Pattern (How Counterfeits Form)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 1,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vi"
+    },
+    "keywords": [
+      "antichrist",
+      "false christ",
+      "biblical discernment",
+      "1 John antichrist",
+      "deception",
+      "sound doctrine",
+      "test of fruit"
+    ]
+  },
+  {
+    "book_id": "gcb-series-vi-vol-2-counterfeit-gospel",
+    "title": "The AntiChrist vs. The True Christ",
+    "subtitle": "Volume 2: The Counterfeit Gospel (Jesus Replaced)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 2,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vi"
+    },
+    "keywords": [
+      "another gospel",
+      "false doctrine",
+      "Christian orthodoxy",
+      "discernment",
+      "incarnation",
+      "resurrection",
+      "lordship of Christ"
+    ]
+  },
+  {
+    "book_id": "gcb-series-vi-vol-3-the-system",
+    "title": "The AntiChrist vs. The True Christ",
+    "subtitle": "Volume 3: The System (Beast-Logic Without Hype)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 3,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vi"
+    },
+    "keywords": [
+      "beast system",
+      "Daniel empires",
+      "Revelation symbols",
+      "Christian resistance",
+      "idolatry",
+      "power ethics",
+      "faith under pressure"
+    ]
+  },
+  {
+    "book_id": "gcb-series-vi-vol-4-history-waves",
+    "title": "The AntiChrist vs. The True Christ",
+    "subtitle": "Volume 4: History’s Waves (Dynamics Through the Ages)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 4,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vi"
+    },
+    "keywords": [
+      "church history discernment",
+      "persecution",
+      "compromise",
+      "endurance",
+      "false teachers",
+      "spiritual formation"
+    ]
+  },
+  {
+    "book_id": "gcb-series-vi-vol-5-future-pressure-test",
+    "title": "The AntiChrist vs. The True Christ",
+    "subtitle": "Volume 5: The Future Pressure Test (Faithfulness When the World Tightens)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 5,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vi"
+    },
+    "keywords": [
+      "end times readiness",
+      "Matthew 24",
+      "Christian perseverance",
+      "faithfulness",
+      "community resilience",
+      "discernment plan"
+    ]
+  },
+  {
+    "book_id": "gcb-series-vi-vol-6-the-true-christ",
+    "title": "The AntiChrist vs. The True Christ",
+    "subtitle": "Volume 6: The True Christ (The Lamb’s Victory and the Walking Rule)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 6,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vi"
+    },
+    "keywords": [
+      "true Christ",
+      "Lamb victory",
+      "Christ-centered",
+      "rule of life",
+      "worship and endurance",
+      "discernment",
+      "kingdom of God"
+    ]
+  },
+
+  {
+    "book_id": "gcb-series-vii-vol-1-position",
+    "title": "The Goldstonian 5Ps of Bible Study",
+    "subtitle": "Volume 1: Position (Prepare to Hear)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 1,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vii"
+    },
+    "keywords": [
+      "Bible study method",
+      "how to study the Bible",
+      "prayer before reading",
+      "attention discipline",
+      "spiritual formation",
+      "Mirror Water Fire",
+      "5Ps"
+    ]
+  },
+  {
+    "book_id": "gcb-series-vii-vol-2-pour-over",
+    "title": "The Goldstonian 5Ps of Bible Study",
+    "subtitle": "Volume 2: Pour Over (Read, Re-Read, Paraphrase)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 2,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vii"
+    },
+    "keywords": [
+      "Bible paraphrase",
+      "Bible observation",
+      "scripture reading plan",
+      "context",
+      "hermeneutics basics",
+      "Bible study workflow",
+      "5Ps"
+    ]
+  },
+  {
+    "book_id": "gcb-series-vii-vol-3-pull-out",
+    "title": "The Goldstonian 5Ps of Bible Study",
+    "subtitle": "Volume 3: Pull Out (Extract Principles Without Proof-Texting)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 3,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vii"
+    },
+    "keywords": [
+      "biblical principles",
+      "Bible interpretation",
+      "Messiah thread",
+      "genre in the Bible",
+      "sound doctrine",
+      "Bible study guide",
+      "5Ps"
+    ]
+  },
+  {
+    "book_id": "gcb-series-vii-vol-4-pose-questions",
+    "title": "The Goldstonian 5Ps of Bible Study",
+    "subtitle": "Volume 4: Pose Questions (Honest Self-Examination)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 4,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vii"
+    },
+    "keywords": [
+      "Bible journaling",
+      "self examination",
+      "Christian questions",
+      "small group study",
+      "discipleship",
+      "spiritual growth",
+      "5Ps"
+    ]
+  },
+  {
+    "book_id": "gcb-series-vii-vol-5-plan-obedience",
+    "title": "The Goldstonian 5Ps of Bible Study",
+    "subtitle": "Volume 5: Plan Obedience (From Insight to Action)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 5,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vii"
+    },
+    "keywords": [
+      "rule of life",
+      "Christian habits",
+      "obedience",
+      "spiritual disciplines",
+      "justice and mercy",
+      "discipleship plan",
+      "5Ps"
+    ]
+  },
+  {
+    "book_id": "gcb-series-vii-vol-6-5ps-field-guide",
+    "title": "The Goldstonian 5Ps of Bible Study",
+    "subtitle": "Volume 6: The 5Ps Field Guide (Mirror → Water → Fire)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 6,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-vii"
+    },
+    "keywords": [
+      "Bible study field guide",
+      "5Ps of Bible study",
+      "Mirror Water Fire",
+      "sermon prep",
+      "small group leader",
+      "family discipleship",
+      "Bible workflow"
+    ]
+  },
+
+  {
+    "book_id": "gcb-series-viii-vol-1-genesis-os",
+    "title": "Genesis",
+    "subtitle": "Concordance-by-Book Guide (159-Page OS)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 1,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-viii"
+    },
+    "keywords": [
+      "Genesis Bible study",
+      "creation",
+      "Abraham covenant",
+      "Bible concordance",
+      "Ethiopian canon",
+      "Mirror Water Fire",
+      "159 page Bible guide"
+    ]
+  },
+  {
+    "book_id": "gcb-series-viii-vol-2-exodus-os",
+    "title": "Exodus",
+    "subtitle": "Concordance-by-Book Guide (159-Page OS)",
+    "author": "Justin Goldston, PhD",
+    "year": 2026,
+    "volume": 2,
+    "identifiers": { "asin": "TBD", "isbn_print": "TBD", "isbn_ebook": "TBD" },
+    "links": {
+      "amazon": "TBD",
+      "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index#series-viii"
+    },
+    "keywords": [
+      "Exodus Bible study",
+      "Moses",
+      "Passover",
+      "Ten Commandments",
+      "covenant",
+      "Bible study operating system",
+      "159 page Bible guide"
+    ]
+  }
+]
