@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "book_id": "handbook-vol-01",
+  "title": "The Goldstonian Concordance Bible Handbook",
+  "subtitle": "A Walkable Truth Field Guide (Mirror → Water → Fire)",
+  "author": "Justin Goldston, PhD",
+  "series": "Goldstonian Concordance Bible Handbook (Companion Track)",
+  "volume": 1,
+  "year": "",
+  "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "" },
+  "links": {
+    "amazon": "",
+    "canonical": "https://github.com/GoldstonianConcordanceBible"
+  },
+  "keywords": [
+    "handbook",
+    "field guide",
+    "Bible study",
+    "Mirror Water Fire",
+    "walkable truth",
+    "formation",
+    "operating system"
+  ],
+  "status": "planned",
+  "provenance": {
+    "source_of_truth": "CATALOG.json",
+    "last_verified": "",
+    "notes": "Companion track; fill identifiers/amazon link when published."
+  }
+}
