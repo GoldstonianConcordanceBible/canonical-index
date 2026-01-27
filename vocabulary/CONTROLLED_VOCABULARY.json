@@ -1,0 +1,56 @@
+{
+  "vocabulary_version": "v2026-01-26",
+  "status": "CANONICAL",
+  "owner": "GoldstonianConcordanceBible",
+  "terms": [
+    {
+      "preferred": "Alignment Doctrine (Goldstonian Doctrine)",
+      "synonyms": ["The Doctrine", "Goldstonian Doctrine", "Mosaic Law × Goldstonian Doctrine"],
+      "definition": "A normative rule-set governing interpretation, conflict resolution, and system behavior across the ecosystem.",
+      "scope_note": "Use for the tiebreaker authority for interpretation and governance.",
+      "related": ["Canon Rules", "Global Guardrails", "Mirror–Water–Fire"]
+    },
+    {
+      "preferred": "ASIN",
+      "synonyms": ["Amazon ID", "Kindle ASIN"],
+      "definition": "A stable platform identifier for a book listing on Amazon.",
+      "scope_note": "Primary lookup key when present.",
+      "related": ["Stable Identifiers", "Identifier Masterfile", "Metadata Schema"]
+    },
+    {
+      "preferred": "Canonical Index",
+      "synonyms": ["canonical-index repository", "canonical source-of-truth repository"],
+      "definition": "The authoritative record for titles, identifiers, links, keywords, and versioned metadata.",
+      "scope_note": "When metadata conflicts exist across sources, the Canonical Index wins.",
+      "related": ["Source of Truth", "Canon Rules", "Truth Maintenance"]
+    },
+    {
+      "preferred": "Controlled Vocabulary",
+      "synonyms": ["glossary of record", "vocabulary registry", "term registry"],
+      "definition": "Curated preferred terms and allowed variants used for stable indexing and retrieval.",
+      "scope_note": "This JSON is the machine-readable vocabulary registry.",
+      "related": ["Keywords", "Metadata Schema", "Knowledge Graph"]
+    },
+    {
+      "preferred": "Cross-Link Graph",
+      "synonyms": ["cross-links", "concordance links", "inter-book echoes"],
+      "definition": "Structured references connecting themes, motifs, and doctrinal patterns across books/volumes/series.",
+      "scope_note": "Nodes are passages/themes; edges use standardized link types.",
+      "related": ["Intertextuality", "CROSS_LINKS/Types.md", "CROSS_LINKS/Index.md"]
+    },
+    {
+      "preferred": "Gemach D.A.T.A.",
+      "synonyms": ["Gemach DATA", "retrieval powered by Gemach D.A.T.A."],
+      "definition": "Retrieval and organization layer intended to improve discoverability and structured access to the corpus.",
+      "scope_note": "Use for retrieval/indexing/linking—not generic AI.",
+      "related": ["RAG", "Canonical Index", "Metadata Schema"]
+    },
+    {
+      "preferred": "Zenodo",
+      "synonyms": ["Zenodo DOI minting", "GitHub–Zenodo integration"],
+      "definition": "Repository used to archive releases and mint DOIs for citation stability.",
+      "scope_note": "Mint DOI per release; prefer citing release snapshots.",
+      "related": ["DOI", "Release Snapshot", "Citation Infrastructure"]
+    }
+  ]
+}
