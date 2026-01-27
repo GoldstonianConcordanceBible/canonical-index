@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this article or its supporting artifacts, please cite using the Zenodo DOI."
+title: "Decentralized Autonomous Agents in Education and Finance: The Gemach–SydTek Concordance"
+type: article
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+    orcid: "https://orcid.org/0000-0002-3923-5072"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18379750"
+url: "https://github.com/GoldstonianConcordanceBible/canonical-index"
+keywords:
+  - "Decentralized autonomous agents"
+  - "RAG"
+  - "LLM retrieval"
+  - "DAO governance"
+  - "Canonical index"
+license: "CC-BY-4.0"
