@@ -1,0 +1,24 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Basic repo sanity checks
+        run: |
+          set -e
+          echo "Checking for common secrets..."
+          ! grep -RIn --exclude-dir=.git -E "(AKIA[0-9A-Z]{16}|BEGIN PRIVATE KEY|xox[baprs]-)" .
+
+      - name: Ensure key files exist
+        run: |
+          test -f CODEOWNERS || test -f .github/CODEOWNERS
+          test -f .github/SECURITY.md
+          echo "OK"
