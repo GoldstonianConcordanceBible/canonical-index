@@ -1,0 +1,104 @@
+{
+  "payload_version": "v2026-01-26",
+  "notes": "ASIN/ISBN/DOI intentionally blank until verified. Do not fill with guesses.",
+  "books": [
+    {
+      "book_id": "series-I-vol-01",
+      "title": "Goldstonian Concordance Bible Series I — Tanakh First",
+      "subtitle": "The Covenant Operating System (Ethiopian Canon Anchored)",
+      "author": "Justin Goldston",
+      "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": {
+        "amazon": "",
+        "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index"
+      },
+      "keywords": ["Ethiopian Canon", "Tanakh-First Reading", "Concordance Spine", "Cross-Link Graph", "Controlled Vocabulary"],
+      "zenodo": {
+        "upload_type": "publication",
+        "publication_type": "book",
+        "access_right": "open",
+        "license": "MIT",
+        "description": "Series I establishes a Tanakh-first methodology anchored in the Ethiopian Canon, using a standardized Concordance Spine, canonical metadata, and cross-links to support reproducible study and retrieval."
+      },
+      "verification": "Verify volume-specific title/subtitle (if different), then populate identifiers."
+    },
+
+    { "book_id": "series-I-vol-02", "title": "Series I — Volume 2", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine", "Cross-Link Graph"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    },
+
+    { "book_id": "series-I-vol-03", "title": "Series I — Volume 3", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine", "Cross-Link Graph"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    },
+
+    { "book_id": "series-I-vol-04", "title": "Series I — Volume 4", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine", "Cross-Link Graph"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    },
+
+    { "book_id": "series-I-vol-05", "title": "Series I — Volume 5", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine", "Cross-Link Graph"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    },
+
+    { "book_id": "series-I-vol-06", "title": "Series I — Volume 6", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine", "Cross-Link Graph"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    },
+
+    { "book_id": "series-II-vol-01", "title": "Goldstonian Concordance Bible Series II", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine", "Controlled Vocabulary"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    },
+
+    { "book_id": "series-III-vol-01", "title": "Goldstonian Concordance Bible Series III", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    },
+
+    { "book_id": "series-IV-vol-01", "title": "Goldstonian Concordance Bible Series IV", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    },
+
+    { "book_id": "series-V-vol-01", "title": "Goldstonian Concordance Bible Series V", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    },
+
+    { "book_id": "series-VI-vol-01", "title": "Goldstonian Concordance Bible Series VI", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    },
+
+    { "book_id": "series-VII-vol-01", "title": "Goldstonian Concordance Bible Series VII", "subtitle": "", "author": "Justin Goldston", "year": 2026,
+      "identifiers": { "asin": "", "isbn_print": "", "isbn_ebook": "", "doi": "" },
+      "links": { "amazon": "", "canonical": "https://github.com/GoldstonianConcordanceBible/canonical-index" },
+      "keywords": ["Concordance Spine"], "zenodo": { "upload_type": "publication", "publication_type": "book", "access_right": "open", "license": "MIT", "description": "TBD (populate after canonical verification)." },
+      "verification": "Populate official title/subtitle and identifiers after verification."
+    }
+  ]
+}
