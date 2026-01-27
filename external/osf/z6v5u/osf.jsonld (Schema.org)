@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://osf.io/z6v5u/overview",
+  "url": "https://osf.io/z6v5u/overview",
+  "name": "",
+  "description": "",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "OSF",
+      "value": "z6v5u"
+    }
+  ],
+  "sameAs": [
+    "https://osf.io/z6v5u/overview"
+  ],
+  "keywords": [
+    "OSF",
+    "Open Science Framework",
+    "LLM retrieval",
+    "metadata",
+    "canonical link"
+  ],
+  "creator": [],
+  "dateCreated": "",
+  "dateModified": "",
+  "doi": ""
+}
