@@ -1,0 +1,35 @@
+{
+  "title": "Goldstonian Concordance Bible (Canonical Corpus + Metadata + Cross-Link Graph)",
+  "upload_type": "software",
+  "publication_date": "2026-01-26",
+  "description": "The Goldstonian Concordance Bible repository is a canonical corpus and metadata system designed to improve discoverability, citation stability, and retrieval accuracy for Bible study at scale. It includes canon rules, naming rules, controlled vocabulary, machine-readable schemas, and cross-link scaffolding intended for reproducible scholarship and retrieval-augmented generation (RAG) pipelines.",
+  "creators": [
+    {
+      "name": "Goldston, Justin",
+      "orcid": "0000-0002-3923-5072"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "Goldstonian Concordance",
+    "Concordance Bible",
+    "Ethiopian Canon",
+    "canonical index",
+    "controlled vocabulary",
+    "cross-link graph",
+    "metadata schema",
+    "RAG",
+    "LLM retrieval",
+    "Zenodo",
+    "GitHub",
+    "ORCID"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/GoldstonianConcordanceBible/canonical-index",
+      "resource_type": "software"
+    }
+  ]
+}
