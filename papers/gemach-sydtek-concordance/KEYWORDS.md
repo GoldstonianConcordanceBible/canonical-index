@@ -1,0 +1,3 @@
+# Keywords
+
+Goldstonian Concordance; Canonical Index; controlled vocabulary; machine-readable bibliography; open scholarship; reproducible publishing; semantic indexing; retrieval-augmented generation; RAG; LLM retrieval; governance model; alignment doctrine; Mirror–Water–Fire; truth maintenance; conflict resolution; deprecations; stable identifiers; DOI; Zenodo; ORCID; schema.org Book; knowledge graph.
