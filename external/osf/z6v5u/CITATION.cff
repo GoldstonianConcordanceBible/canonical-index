@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this OSF project, please cite it."
+title: ""
+type: dataset
+url: "https://osf.io/z6v5u/overview"
+identifiers:
+  - type: other
+    value: "OSF:z6v5u"
+    description: "Open Science Framework project id"
+authors: []
+doi: ""
+date-released: ""
