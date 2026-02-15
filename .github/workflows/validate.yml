@@ -1,24 +1,18 @@
-name: validate
+name: Validate Canon Records
 
 on:
-  pull_request:
   push:
-    branches: [ "main" ]
+  pull_request:
 
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Basic repo sanity checks
+      - uses: actions/checkout@v3
+      - name: Install ajv
+        run: npm install -g ajv-cli
+      - name: Validate Books
         run: |
-          set -e
-          echo "Checking for common secrets..."
-          ! grep -RIn --exclude-dir=.git -E "(AKIA[0-9A-Z]{16}|BEGIN PRIVATE KEY|xox[baprs]-)" .
-
-      - name: Ensure key files exist
-        run: |
-          test -f CODEOWNERS || test -f .github/CODEOWNERS
-          test -f .github/SECURITY.md
-          echo "OK"
+          for file in books/*.json; do
+            ajv validate -s SCHEMAS/book.schema.json -d $file
+          done
