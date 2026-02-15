@@ -1,0 +1,14 @@
+[
+  {
+    "input": "Foundations of Covenant and Kingdom",
+    "expected_book_id": "series-I-vol-1"
+  },
+  {
+    "input": "B0GH6B3T91",
+    "expected_book_id": "series-I-vol-1"
+  },
+  {
+    "input": "Elohim Tov",
+    "expected_book_id": "series-I-vol-6"
+  }
+]
