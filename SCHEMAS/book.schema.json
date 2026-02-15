@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GCB Book Schema",
+  "type": "object",
+  "required": ["book_id", "title", "series", "volume"],
+  "properties": {
+    "book_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "series": {
+      "type": "string"
+    },
+    "volume": {
+      "type": "string"
+    },
+    "asin": {
+      "type": ["string", "null"]
+    },
+    "isbn": {
+      "type": ["string", "null"]
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "canonical_url": {
+      "type": "string"
+    }
+  }
+}
