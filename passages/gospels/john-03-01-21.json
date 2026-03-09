@@ -1,0 +1,32 @@
+{
+  "id": "john-03-01-21",
+  "book": "John",
+  "chapter_start": 3,
+  "verse_start": 1,
+  "chapter_end": 3,
+  "verse_end": 21,
+  "label": "New birth and eternal life",
+  "summary": "Jesus teaches Nicodemus about new birth, spiritual rebirth, and God’s redemptive love for the world.",
+  "themes": [
+    "rebirth",
+    "faith",
+    "salvation",
+    "eternal life"
+  ],
+  "entities": [
+    "Jesus",
+    "Nicodemus"
+  ],
+  "related_concepts": [
+    "salvation",
+    "faith",
+    "new birth"
+  ],
+  "cross_links": [
+    "ezekiel-36-24-28",
+    "romans-08-01-17"
+  ],
+  "media_ids": [],
+  "transcript_ids": [],
+  "canonical_priority": 99
+}
