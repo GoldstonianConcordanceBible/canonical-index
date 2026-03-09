@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "GCB Canonical Index",
+  "url": "https://goldstonianconcordancebible.github.io/gcb-canonical-index/",
+  "about": "Biblical canon, theology, Ethiopian canon, and AI retrieval"
+}
