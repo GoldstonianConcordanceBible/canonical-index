@@ -1,0 +1,24 @@
+{
+  "crosswalks": [
+    {
+      "source_passage": "genesis-01-01-02-03",
+      "target_passage": "john-01-01-18",
+      "relationship": "creation-to-word-theology"
+    },
+    {
+      "source_passage": "genesis-06-01-08",
+      "target_passage": "enoch-watchers-core",
+      "relationship": "expanded-canon-watchers-tradition"
+    },
+    {
+      "source_passage": "ezekiel-37-01-14",
+      "target_passage": "john-11-01-44",
+      "relationship": "restoration-to-resurrection-pattern"
+    },
+    {
+      "source_passage": "daniel-07-01-28",
+      "target_passage": "revelation-13-01-18",
+      "relationship": "apocalyptic-beast-symbolism"
+    }
+  ]
+}
