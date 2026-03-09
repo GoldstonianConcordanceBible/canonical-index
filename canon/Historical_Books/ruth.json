@@ -1,0 +1,43 @@
+{
+  "book": "Ruth",
+  "canonical_order": 8,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "Ruth tells the story of a Moabite widow whose loyalty to Naomi leads to redemption through Boaz and places her in the genealogy of David.",
+  "historical_context": "Set during the time of the judges, Ruth offers a counterpoint to national chaos by highlighting covenant loyalty, family restoration, and providence working through ordinary faithfulness.",
+  "major_themes": [
+    "loyalty",
+    "redemption",
+    "providence",
+    "family restoration",
+    "outsider inclusion"
+  ],
+  "philosophical_themes": [
+    "faithfulness in obscurity",
+    "ethical kindness",
+    "belonging",
+    "hope amid loss"
+  ],
+  "key_figures": [
+    "Ruth",
+    "Naomi",
+    "Boaz"
+  ],
+  "related_books": [
+    "Judges",
+    "1 Samuel",
+    "Matthew"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Loss reveals the vulnerability of human life and the need for covenant faithfulness.",
+    "water": "Acts of kindness and redemption cleanse bitterness with hope.",
+    "fire": "The story transforms grief into lineage, legacy, and royal purpose."
+  },
+  "ontology_tags": [
+    "redemption",
+    "kinsman-redeemer",
+    "davidic-line",
+    "loyalty",
+    "providence"
+  ]
+}
