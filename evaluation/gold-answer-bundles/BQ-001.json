@@ -1,0 +1,28 @@
+{
+  "id": "BQ-001",
+  "question": "What are the Watchers in the Ethiopian canon?",
+  "gold_bundle": {
+    "direct_answer": "In the Ethiopian canon, especially in the Book of Enoch, the Watchers are rebellious heavenly beings whose descent and corruption contribute to human disorder and divine judgment.",
+    "canonical_sources": [
+      "canon/ethiopian-canon/enoch.json",
+      "passages/ethiopian-canon/enoch-watchers-core.json",
+      "canon/new-testament/jude.json"
+    ],
+    "related_themes": [
+      "angelology",
+      "fallen angels",
+      "judgment",
+      "forbidden knowledge"
+    ],
+    "related_entities": [
+      "Enoch",
+      "Azazel",
+      "Watchers",
+      "Michael"
+    ],
+    "media_bundle": [
+      "yt-enoch-watchers-001",
+      "pl-ethiopian-canon"
+    ]
+  }
+}
