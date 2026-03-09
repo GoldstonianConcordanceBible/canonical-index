@@ -1,0 +1,29 @@
+{
+  "book": "Jonah",
+  "canonical_order": 34,
+  "canon_group": "Minor Prophets",
+  "summary": "Jonah tells the story of a reluctant prophet sent to Nineveh whose message leads to repentance and mercy.",
+  "historical_context": "Unlike most prophetic books, Jonah focuses on narrative and explores divine compassion for enemies.",
+  "major_themes": [
+    "mercy",
+    "repentance",
+    "obedience"
+  ],
+  "philosophical_themes": [
+    "grace",
+    "human resistance",
+    "universal compassion"
+  ],
+  "key_figures": [
+    "Jonah"
+  ],
+  "related_books": [
+    "Matthew",
+    "Luke"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Jonah reflects human resistance to divine compassion.",
+    "water": "Repentance cleanses the city.",
+    "fire": "Mercy transforms judgment."
+  }
+}
