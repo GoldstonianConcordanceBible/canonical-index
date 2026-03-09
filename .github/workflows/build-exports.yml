@@ -1,0 +1,15 @@
+name: Build Exports
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  exports:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build dataset exports
+        run: |
+          echo "Building export bundles..."
