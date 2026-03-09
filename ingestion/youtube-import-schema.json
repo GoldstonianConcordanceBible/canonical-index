@@ -1,0 +1,19 @@
+{
+  "required_fields": [
+    "youtube_id",
+    "title",
+    "url",
+    "published_at",
+    "duration_seconds",
+    "description"
+  ],
+  "optional_fields": [
+    "books",
+    "themes",
+    "entities",
+    "playlist_ids",
+    "transcript_id",
+    "keywords",
+    "hashtags"
+  ]
+}
