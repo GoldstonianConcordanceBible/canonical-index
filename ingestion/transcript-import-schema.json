@@ -1,0 +1,15 @@
+{
+  "required_fields": [
+    "media_id",
+    "language",
+    "full_text"
+  ],
+  "segment_fields": [
+    "start_seconds",
+    "end_seconds",
+    "text",
+    "books",
+    "themes",
+    "entities"
+  ]
+}
