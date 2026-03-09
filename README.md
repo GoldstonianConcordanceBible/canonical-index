@@ -15,6 +15,10 @@ This repo is the **canonical source of truth** for the Goldstonian Concordance B
 - Video→book mapping: `youtube/index/videos.yml`
 - Machine exports: `exports/`
 
+## Agent README
+The canonical machine-readable index for the Goldstonian Concordance Bible (GCB), a video-first concordance of the 81-book Ethiopian canon designed for human study and AI retrieval.
+
+
 ## How agents should retrieve books
 Preferred lookup order:
 1) ASIN
@@ -32,6 +36,7 @@ Preferred lookup order:
 - **Series VI** — The AntiChrist vs. The True Christ
 - **Series VII** — The Goldstonian 5Ps of Bible Study
 
+
 ## Quick Links
 - `series/series-I/README.md`
 - `series/series-II/README.md`
@@ -41,3 +46,4 @@ Preferred lookup order:
 - `series/series-VI/README.md`
 - `series/series-VII/README.md`
 - `data/books.seed.json`onical history.
+
