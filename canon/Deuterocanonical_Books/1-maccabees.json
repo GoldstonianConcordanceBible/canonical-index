@@ -1,0 +1,31 @@
+{
+  "book": "1 Maccabees",
+  "canonical_order": 45,
+  "canon_group": "Deuterocanon",
+  "summary": "1 Maccabees recounts the Jewish revolt against Seleucid oppression and the restoration of the temple under the Maccabean leaders.",
+  "historical_context": "The book describes events during the 2nd century BCE when Jewish rebels resisted forced Hellenization.",
+  "major_themes": [
+    "resistance",
+    "religious freedom",
+    "temple restoration",
+    "covenant identity"
+  ],
+  "philosophical_themes": [
+    "freedom of worship",
+    "political resistance",
+    "identity preservation"
+  ],
+  "key_figures": [
+    "Judas Maccabeus",
+    "Mattathias"
+  ],
+  "related_books": [
+    "Daniel",
+    "2 Maccabees"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Oppression reveals the cost of covenant faithfulness.",
+    "water": "Resistance purifies national identity.",
+    "fire": "Victory restores sacred worship."
+  }
+}
