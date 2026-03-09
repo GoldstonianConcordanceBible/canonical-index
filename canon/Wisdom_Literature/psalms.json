@@ -1,0 +1,47 @@
+{
+  "book": "Psalms",
+  "canonical_order": 18,
+  "canon_group": "Wisdom",
+  "testament": "Old Testament",
+  "summary": "Psalms is a collection of prayers, songs, laments, thanksgivings, royal hymns, and wisdom reflections that give voice to worship, grief, trust, and praise before God.",
+  "historical_context": "Compiled over centuries, Psalms reflects temple worship, royal theology, communal memory, and individual devotion. It became a central liturgical and theological text for Israel and the early church.",
+  "major_themes": [
+    "worship",
+    "lament",
+    "praise",
+    "kingship",
+    "trust",
+    "deliverance"
+  ],
+  "philosophical_themes": [
+    "interior life",
+    "human longing",
+    "hope under pressure",
+    "poetic theology",
+    "memory and identity"
+  ],
+  "key_figures": [
+    "David",
+    "Asaph",
+    "Sons of Korah",
+    "Solomon",
+    "Moses"
+  ],
+  "related_books": [
+    "1 Samuel",
+    "2 Samuel",
+    "Hebrews"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The Psalms reflect the full emotional and spiritual range of humanity before God.",
+    "water": "Prayer and praise cleanse the heart through confession, remembrance, and trust.",
+    "fire": "Worship transforms pain, joy, fear, and hope into covenant speech directed toward God."
+  },
+  "ontology_tags": [
+    "worship",
+    "prayer",
+    "lament",
+    "praise",
+    "messianic-psalms"
+  ]
+}
