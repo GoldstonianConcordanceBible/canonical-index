@@ -1,0 +1,31 @@
+{
+  "book": "Esther (Greek Additions)",
+  "canonical_order": 44,
+  "canon_group": "Deuterocanon",
+  "summary": "The Greek additions to Esther expand the narrative with prayers, visions, and explicit references to God’s intervention in the salvation of the Jewish people.",
+  "historical_context": "These additions reflect later Jewish interpretive traditions emphasizing divine providence in the Esther narrative.",
+  "major_themes": [
+    "divine providence",
+    "deliverance",
+    "prayer",
+    "justice"
+  ],
+  "philosophical_themes": [
+    "hidden divine action",
+    "moral courage"
+  ],
+  "key_figures": [
+    "Esther",
+    "Mordecai",
+    "Ahasuerus"
+  ],
+  "related_books": [
+    "Esther",
+    "Daniel"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Hidden danger reveals the fragility of human power.",
+    "water": "Prayer cleanses fear.",
+    "fire": "Deliverance transforms hidden providence into visible victory."
+  }
+}
