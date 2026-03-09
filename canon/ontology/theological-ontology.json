@@ -1,0 +1,23 @@
+{
+ "concepts": [
+  {
+   "name": "Covenant",
+   "definition": "A binding relational agreement between God and humanity establishing moral and spiritual obligations.",
+   "related_books": [
+    "Genesis",
+    "Exodus",
+    "Jeremiah",
+    "Hebrews"
+   ]
+  },
+  {
+   "name": "Kingdom of God",
+   "definition": "The divine rule over creation expressed through justice, redemption, and restoration.",
+   "related_books": [
+    "Daniel",
+    "Matthew",
+    "Revelation"
+   ]
+  }
+ ]
+}
