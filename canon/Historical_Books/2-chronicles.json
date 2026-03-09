@@ -1,0 +1,46 @@
+{
+  "book": "2 Chronicles",
+  "canonical_order": 14,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "2 Chronicles continues from Solomon through the kings of Judah, emphasizing temple worship, reform, covenant fidelity, and the road to exile and return.",
+  "historical_context": "Also shaped by post-exilic concerns, the book highlights Judah rather than the northern kingdom and interprets national life through temple-centered faithfulness or unfaithfulness.",
+  "major_themes": [
+    "temple worship",
+    "reform",
+    "covenant fidelity",
+    "judgment",
+    "restoration"
+  ],
+  "philosophical_themes": [
+    "renewal after decline",
+    "institutional reform",
+    "spiritual responsibility",
+    "history as moral instruction"
+  ],
+  "key_figures": [
+    "Solomon",
+    "Asa",
+    "Jehoshaphat",
+    "Hezekiah",
+    "Josiah",
+    "Cyrus"
+  ],
+  "related_books": [
+    "1 Chronicles",
+    "Ezra",
+    "2 Kings"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The book shows how worship and leadership reveal the soul of a nation.",
+    "water": "Reforms repeatedly attempt to cleanse covenant life from corruption.",
+    "fire": "Exile and return forge a refined remnant with renewed purpose."
+  },
+  "ontology_tags": [
+    "temple",
+    "reform",
+    "judah",
+    "restoration",
+    "cyrus"
+  ]
+}
