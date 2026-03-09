@@ -1,0 +1,35 @@
+{
+ "book": "Exodus",
+ "canonical_order": 2,
+ "canon_group": "Torah",
+ "summary": "Exodus recounts Israel's liberation from Egypt under Moses, the revelation of the Law at Mount Sinai, and the establishment of the covenant community.",
+ "historical_context": "The narrative reflects Israelite identity formation through liberation and covenant law.",
+ "major_themes": [
+   "deliverance",
+   "law",
+   "covenant",
+   "divine presence"
+ ],
+ "philosophical_themes": [
+   "justice",
+   "liberation",
+   "obedience",
+   "community law"
+ ],
+ "key_figures": [
+   "Moses",
+   "Aaron",
+   "Pharaoh",
+   "Joshua"
+ ],
+ "mirror_water_fire": {
+   "mirror": "Recognition of bondage",
+   "water": "Red Sea deliverance",
+   "fire": "Divine law transforming a people"
+ },
+ "ontology_tags": [
+   "law",
+   "deliverance",
+   "covenant"
+ ]
+}
