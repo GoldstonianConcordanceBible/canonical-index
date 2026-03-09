@@ -1,0 +1,44 @@
+{
+  "book": "Ezra",
+  "canonical_order": 15,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "Ezra narrates the return from exile, the rebuilding of the temple, and the reestablishment of covenant order through teaching, worship, and communal repentance.",
+  "historical_context": "Set in the Persian period, Ezra reflects the challenges of rebuilding a people after displacement. It centers on restoration through scripture, temple life, and communal reform.",
+  "major_themes": [
+    "return",
+    "restoration",
+    "temple rebuilding",
+    "repentance",
+    "scripture and law"
+  ],
+  "philosophical_themes": [
+    "reconstruction after collapse",
+    "identity preservation",
+    "communal holiness",
+    "text and authority"
+  ],
+  "key_figures": [
+    "Ezra",
+    "Zerubbabel",
+    "Jeshua",
+    "Cyrus"
+  ],
+  "related_books": [
+    "2 Chronicles",
+    "Nehemiah",
+    "Haggai"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The people confront the consequences of exile and compromise.",
+    "water": "The reading of the law and repentance cleanse the returning community.",
+    "fire": "Rebuilt worship transforms survival into renewed covenant identity."
+  },
+  "ontology_tags": [
+    "return-from-exile",
+    "temple-rebuilding",
+    "law",
+    "repentance",
+    "persian-period"
+  ]
+}
