@@ -1,0 +1,9 @@
+{
+  "name": "Goldstonian Concordance Bible Canonical Index",
+  "short_name": "GCB Index",
+  "start_url": "/gcb-canonical-index/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "description": "Open-source biblical infrastructure for the 81-book Ethiopian canon."
+}
