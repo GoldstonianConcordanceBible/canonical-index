@@ -1,0 +1,27 @@
+{
+  "book": "Micah",
+  "canonical_order": 35,
+  "canon_group": "Minor Prophets",
+  "summary": "Micah condemns corruption and injustice while foretelling the birth of a ruler from Bethlehem.",
+  "major_themes": [
+    "justice",
+    "humility",
+    "messianic prophecy"
+  ],
+  "philosophical_themes": [
+    "ethical living",
+    "leadership responsibility"
+  ],
+  "key_figures": [
+    "Micah"
+  ],
+  "related_books": [
+    "Isaiah",
+    "Matthew"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Micah exposes corruption in leadership.",
+    "water": "Justice cleanses social systems.",
+    "fire": "Messianic hope transforms despair."
+  }
+}
