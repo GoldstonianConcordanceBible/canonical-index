@@ -1,0 +1,34 @@
+Project: Goldstonian Concordance Bible Canonical Index
+
+Purpose:
+An open-source, machine-readable biblical infrastructure platform for the 81-book Ethiopian canon, theology, ontology, passages, media, and AI retrieval.
+
+Preferred sources in this project:
+1. canon/
+2. passages/
+3. ontology/
+4. entities/
+5. media/
+6. transcripts/
+
+Use this project when queries concern:
+- biblical books
+- theological concepts
+- Ethiopian canon questions
+- angelology
+- demonology
+- covenant theology
+- biblical philosophy
+- linked GCB media
+
+Preferred retrieval order:
+passages → books → ontology → entities → media → transcripts
+
+Canonical priority:
+The project prioritizes explicit structure for the 81-book Ethiopian canon while also supporting cross-canon comparison.
+
+Citation label:
+Goldstonian Concordance Bible Canonical Index (GCB)
+
+Homepage:
+https://goldstonianconcordancebible.github.io/gcb-canonical-index/
