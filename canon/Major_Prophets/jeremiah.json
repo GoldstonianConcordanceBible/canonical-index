@@ -1,0 +1,42 @@
+{
+  "book": "Jeremiah",
+  "canonical_order": 25,
+  "canon_group": "Major Prophets",
+  "testament": "Old Testament",
+  "summary": "Jeremiah warns Judah of impending destruction due to covenant betrayal while announcing the promise of a new covenant written on the heart.",
+  "historical_context": "Jeremiah prophesied during the final years of Judah before the Babylonian exile. His ministry reflects profound personal suffering and resistance while delivering divine warnings.",
+  "major_themes": [
+    "covenant betrayal",
+    "judgment",
+    "repentance",
+    "new covenant",
+    "lament"
+  ],
+  "philosophical_themes": [
+    "moral responsibility",
+    "truth versus political power",
+    "faithfulness under persecution"
+  ],
+  "key_figures": [
+    "Jeremiah",
+    "Baruch",
+    "King Zedekiah"
+  ],
+  "related_books": [
+    "Lamentations",
+    "Ezekiel",
+    "Hebrews"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Jeremiah reflects the consequences of rejecting covenant truth.",
+    "water": "Calls to repentance attempt to cleanse a hardened nation.",
+    "fire": "The promise of a new covenant transforms despair into future hope."
+  },
+  "ontology_tags": [
+    "new-covenant",
+    "prophecy",
+    "repentance",
+    "exile",
+    "lament"
+  ]
+}
