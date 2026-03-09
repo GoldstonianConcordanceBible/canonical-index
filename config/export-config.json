@@ -1,0 +1,11 @@
+{
+  "bundles": {
+    "lite": true,
+    "full": true,
+    "rag": true,
+    "citation": true
+  },
+  "compression": {
+    "enabled": false
+  }
+}
