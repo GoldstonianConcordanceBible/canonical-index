@@ -1,0 +1,45 @@
+{
+  "book": "2 Kings",
+  "canonical_order": 12,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "2 Kings follows the decline and fall of both Israel and Judah, highlighting prophetic ministry, persistent idolatry, reform attempts, and eventual exile.",
+  "historical_context": "The book spans the final collapse of the monarchies under Assyrian and Babylonian pressure. It interprets exile not merely as political defeat but as covenant judgment resulting from sustained rebellion.",
+  "major_themes": [
+    "judgment",
+    "exile",
+    "prophecy",
+    "idolatry",
+    "reform"
+  ],
+  "philosophical_themes": [
+    "historical accountability",
+    "the collapse of corrupt systems",
+    "memory and warning",
+    "hope amid judgment"
+  ],
+  "key_figures": [
+    "Elisha",
+    "Hezekiah",
+    "Josiah",
+    "Manasseh",
+    "Nebuchadnezzar"
+  ],
+  "related_books": [
+    "1 Kings",
+    "Jeremiah",
+    "2 Chronicles"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The book reveals the cumulative weight of rebellion across generations.",
+    "water": "Reform movements show that cleansing is possible but often resisted.",
+    "fire": "Exile becomes a burning judgment that strips away false foundations."
+  },
+  "ontology_tags": [
+    "exile",
+    "judgment",
+    "reform",
+    "prophets",
+    "babylon"
+  ]
+}
