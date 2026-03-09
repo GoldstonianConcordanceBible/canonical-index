@@ -1,0 +1,16 @@
+name: Validate JSON
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON files
+        run: |
+          find . -name "*.json" | while read file; do
+            jq empty "$file"
+          done
