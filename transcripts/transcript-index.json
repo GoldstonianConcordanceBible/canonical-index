@@ -1,0 +1,18 @@
+{
+  "transcripts": {
+    "tx-genesis-explained-001": "transcripts/canonical/tx-genesis-explained-001.json",
+    "tx-enoch-watchers-001": "transcripts/topical/tx-enoch-watchers-001.json",
+    "tx-short-rev-armageddon-001": "transcripts/topical/tx-short-rev-armageddon-001.json"
+  },
+  "book_to_transcripts": {
+    "Genesis": [
+      "tx-genesis-explained-001"
+    ],
+    "Book of Enoch": [
+      "tx-enoch-watchers-001"
+    ],
+    "Revelation": [
+      "tx-short-rev-armageddon-001"
+    ]
+  }
+}
