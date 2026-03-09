@@ -1,19 +1,7 @@
-# Release Notes — v2
-
-GCB v2 is the first release candidate of the Goldstonian Concordance Bible canonical index.
-
-This release includes:
-- the full 81-book structured canonical corpus
-- foundational theological ontology
-- foundational entity graph
-- retrieval architecture
-- media, transcript, and playlist architecture
-- initial passage indexing
-- benchmark harness
-- export packaging
-
-This release is intended for:
-- open-source biblical infrastructure development
-- LLM retrieval experiments
-- theological knowledge graph construction
-- Ethiopian canon discovery and comparison workflows
+## v2.0
+- first major public platform release
+- full public browse layer
+- expanded ontology and passage coverage
+- benchmark-backed retrieval framework
+- linked media and transcript routing at meaningful scale
+- export bundles for research and AI retrieval
