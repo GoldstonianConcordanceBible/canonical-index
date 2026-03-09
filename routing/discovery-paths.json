@@ -1,0 +1,21 @@
+{
+  "paths": [
+    {
+      "name": "start-here-canon",
+      "description": "For new users entering the GCB corpus for the first time.",
+      "recommended_sequence": [
+        "pl-all-books",
+        "yt-genesis-explained-001",
+        "yt-enoch-watchers-001"
+      ]
+    },
+    {
+      "name": "ethiopian-canon-discovery",
+      "description": "For users asking canon difference questions.",
+      "recommended_sequence": [
+        "pl-ethiopian-canon",
+        "yt-enoch-watchers-001"
+      ]
+    }
+  ]
+}
