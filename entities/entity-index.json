@@ -1,0 +1,10 @@
+{
+ "abraham":"people.json",
+ "moses":"people.json",
+ "jesus":"people.json",
+ "azazel":"demons.json",
+ "michael":"angels.json",
+ "jerusalem":"places.json",
+ "babylon":"places.json",
+ "ark-of-the-covenant":"objects.json"
+}
