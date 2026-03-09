@@ -1,0 +1,46 @@
+{
+  "book": "Job",
+  "canonical_order": 17,
+  "canon_group": "Wisdom",
+  "testament": "Old Testament",
+  "summary": "Job explores the suffering of a righteous man who loses his family, health, and status, then wrestles with God, justice, and the meaning of human pain.",
+  "historical_context": "Job stands apart from Israel’s narrative history and functions as wisdom literature concerned with suffering, righteousness, divine sovereignty, and the limits of human understanding.",
+  "major_themes": [
+    "suffering",
+    "righteousness",
+    "divine sovereignty",
+    "human limitation",
+    "perseverance"
+  ],
+  "philosophical_themes": [
+    "the problem of evil",
+    "innocent suffering",
+    "epistemic humility",
+    "justice and transcendence"
+  ],
+  "key_figures": [
+    "Job",
+    "Eliphaz",
+    "Bildad",
+    "Zophar",
+    "Elihu",
+    "Satan"
+  ],
+  "related_books": [
+    "Psalms",
+    "Ecclesiastes",
+    "James"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Job reveals the fragility of human explanations in the face of real suffering.",
+    "water": "The dialogue strips away simplistic theology and washes pride from human speech.",
+    "fire": "Encounter with God transforms suffering from accusation into awe-filled submission."
+  },
+  "ontology_tags": [
+    "suffering",
+    "wisdom",
+    "righteousness",
+    "justice",
+    "divine-sovereignty"
+  ]
+}
