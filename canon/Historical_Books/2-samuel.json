@@ -1,0 +1,45 @@
+{
+  "book": "2 Samuel",
+  "canonical_order": 10,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "2 Samuel centers on David’s reign, the consolidation of his kingdom, the covenant promise to his house, and the devastating moral consequences of his sin.",
+  "historical_context": "The book presents the high point of Davidic rule while refusing to hide royal failure. It links covenant kingship with both promise and accountability, showing that even chosen leaders remain morally answerable.",
+  "major_themes": [
+    "davidic covenant",
+    "kingship",
+    "sin and judgment",
+    "mercy",
+    "dynastic promise"
+  ],
+  "philosophical_themes": [
+    "moral responsibility of leaders",
+    "justice and mercy",
+    "power and corruption",
+    "legacy"
+  ],
+  "key_figures": [
+    "David",
+    "Bathsheba",
+    "Nathan",
+    "Absalom",
+    "Joab"
+  ],
+  "related_books": [
+    "1 Samuel",
+    "1 Kings",
+    "Psalms"
+  ],
+  "mirror_water_fire": {
+    "mirror": "David’s failures expose the vulnerability of even anointed leadership.",
+    "water": "Repentance and prophetic rebuke cleanse false security.",
+    "fire": "The covenant promise survives judgment and points toward a greater son to come."
+  },
+  "ontology_tags": [
+    "davidic-covenant",
+    "repentance",
+    "kingship",
+    "judgment",
+    "messianic-line"
+  ]
+}
