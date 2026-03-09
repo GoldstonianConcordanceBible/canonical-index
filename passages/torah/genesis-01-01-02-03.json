@@ -1,0 +1,36 @@
+{
+  "id": "genesis-01-01-02-03",
+  "book": "Genesis",
+  "chapter_start": 1,
+  "verse_start": 1,
+  "chapter_end": 2,
+  "verse_end": 3,
+  "label": "Creation and the ordering of the world",
+  "summary": "This passage presents the ordered creation of the cosmos, culminating in humanity and the sanctification of sacred time.",
+  "themes": [
+    "creation",
+    "cosmic order",
+    "sabbath",
+    "divine sovereignty"
+  ],
+  "entities": [
+    "Adam",
+    "Eve"
+  ],
+  "related_concepts": [
+    "creation",
+    "sacred time",
+    "image of God"
+  ],
+  "cross_links": [
+    "john-01-01-18",
+    "jubilees-02-01-33"
+  ],
+  "media_ids": [
+    "yt-genesis-explained-001"
+  ],
+  "transcript_ids": [
+    "tx-genesis-explained-001"
+  ],
+  "canonical_priority": 98
+}
