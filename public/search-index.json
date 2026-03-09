@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "title": "Genesis",
+      "slug": "genesis",
+      "path": "canon/torah/genesis.json",
+      "summary": "Genesis describes creation, the fall, the flood, and the covenant lineage.",
+      "themes": [
+        "creation",
+        "covenant",
+        "fall"
+      ]
+    },
+    {
+      "title": "Book of Enoch",
+      "slug": "enoch",
+      "path": "canon/ethiopian-canon/enoch.json",
+      "summary": "Apocalyptic visions of the Watchers, corruption, judgment, and restoration.",
+      "themes": [
+        "watchers",
+        "angelology",
+        "judgment"
+      ]
+    }
+  ],
+  "themes": [
+    {
+      "title": "Covenant",
+      "slug": "covenant",
+      "path": "ontology/theological-core.json"
+    }
+  ],
+  "entities": [
+    {
+      "title": "Azazel",
+      "slug": "azazel",
+      "path": "entities/demons.json"
+    }
+  ]
+}
