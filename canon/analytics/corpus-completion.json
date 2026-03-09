@@ -1,0 +1,27 @@
+{
+  "books": {
+    "completed": 81,
+    "target": 81,
+    "percent": 100.0
+  },
+  "themes": {
+    "completed": 12,
+    "target": 500,
+    "percent": 2.4
+  },
+  "entities": {
+    "completed": 45,
+    "target": 2000,
+    "percent": 2.25
+  },
+  "passages": {
+    "completed": 0,
+    "target": 5000,
+    "percent": 0.0
+  },
+  "videos": {
+    "linked": 0,
+    "target": 2500,
+    "percent": 0.0
+  }
+}
