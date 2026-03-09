@@ -1,0 +1,12 @@
+{
+  "bundle": "rag",
+  "includes": [
+    "book summaries",
+    "theme definitions",
+    "entity records",
+    "passage records",
+    "transcript segments",
+    "embedding manifests"
+  ],
+  "intended_use": "retrieval-augmented generation pipelines"
+}
