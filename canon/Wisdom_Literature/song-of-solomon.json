@@ -1,0 +1,43 @@
+{
+  "book": "Song of Solomon",
+  "canonical_order": 21,
+  "canon_group": "Wisdom",
+  "testament": "Old Testament",
+  "summary": "Song of Solomon is a poetic celebration of love, desire, beauty, longing, and mutual delight expressed through rich imagery and intimate dialogue.",
+  "historical_context": "Often associated with Solomon, the book has been interpreted literally as love poetry and allegorically as reflecting covenant love between God and his people.",
+  "major_themes": [
+    "love",
+    "desire",
+    "beauty",
+    "union",
+    "delight"
+  ],
+  "philosophical_themes": [
+    "embodied love",
+    "mutuality",
+    "beauty and longing",
+    "relational communion"
+  ],
+  "key_figures": [
+    "the beloved",
+    "the lover",
+    "daughters of Jerusalem"
+  ],
+  "related_books": [
+    "Proverbs",
+    "Hosea",
+    "Ephesians"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The book reflects human longing for intimacy, beauty, and faithful union.",
+    "water": "Love is purified through mutual devotion rather than possession or exploitation.",
+    "fire": "Desire is transformed into covenantal delight that points beyond self toward communion."
+  },
+  "ontology_tags": [
+    "love",
+    "marriage",
+    "desire",
+    "beauty",
+    "covenant-love"
+  ]
+}
