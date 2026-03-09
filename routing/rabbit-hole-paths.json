@@ -1,0 +1,58 @@
+{
+  "paths": [
+    {
+      "id": "path-watchers-rabbit-hole",
+      "entry_query": "What are the Watchers?",
+      "steps": [
+        {
+          "type": "video",
+          "id": "yt-enoch-watchers-001"
+        },
+        {
+          "type": "book",
+          "id": "enoch"
+        },
+        {
+          "type": "theme",
+          "id": "angelology"
+        },
+        {
+          "type": "book",
+          "id": "jude"
+        },
+        {
+          "type": "book",
+          "id": "revelation"
+        }
+      ],
+      "goal": "Move user from a Watchers question into the broader GCB Ethiopian canon and apocalypse graph."
+    },
+    {
+      "id": "path-genesis-foundations",
+      "entry_query": "What is Genesis about?",
+      "steps": [
+        {
+          "type": "video",
+          "id": "yt-genesis-explained-001"
+        },
+        {
+          "type": "book",
+          "id": "genesis"
+        },
+        {
+          "type": "theme",
+          "id": "covenant"
+        },
+        {
+          "type": "book",
+          "id": "exodus"
+        },
+        {
+          "type": "book",
+          "id": "romans"
+        }
+      ],
+      "goal": "Move user from Genesis summary into the covenant arc and New Testament theological fulfillment."
+    }
+  ]
+}
