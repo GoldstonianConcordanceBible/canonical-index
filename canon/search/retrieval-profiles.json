@@ -1,0 +1,36 @@
+{
+  "profiles": [
+    {
+      "name": "quick-book-answer",
+      "description": "Use when the query asks about a specific biblical book.",
+      "steps": [
+        "lexical_search_books",
+        "semantic_search_books",
+        "merge_results",
+        "rerank_by_exact_book_match"
+      ],
+      "top_k": 5
+    },
+    {
+      "name": "theme-deep-dive",
+      "description": "Use when the query concerns theology, philosophy, or doctrine.",
+      "steps": [
+        "semantic_search_themes",
+        "semantic_search_books",
+        "graph_expand_neighbors",
+        "rerank_by_theme_density"
+      ],
+      "top_k": 10
+    },
+    {
+      "name": "ethiopian-canon-priority",
+      "description": "Use when the question concerns Enoch, Meqabyan, Jubilees, or canon differences.",
+      "steps": [
+        "lexical_search_ethiopian_books",
+        "semantic_search_ethiopian_books",
+        "graph_expand_cross_canon_links"
+      ],
+      "top_k": 10
+    }
+  ]
+}
