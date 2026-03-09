@@ -1,0 +1,21 @@
+{
+  "playlists": [
+    {
+      "id": "pl-revelation",
+      "title": "Revelation Explained | GCB",
+      "url": "https://youtube.com/playlist?list=REV001",
+      "scope": "book",
+      "books": [
+        "Revelation"
+      ],
+      "themes": [
+        "apocalypse",
+        "armageddon",
+        "new creation"
+      ],
+      "media_ids": [
+        "yt-short-rev-armageddon-001"
+      ]
+    }
+  ]
+}
