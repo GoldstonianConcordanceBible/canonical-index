@@ -1,0 +1,42 @@
+{
+  "book": "Tobit",
+  "canonical_order": 42,
+  "canon_group": "Deuterocanon",
+  "testament": "Old Testament",
+  "summary": "Tobit tells the story of a righteous Israelite family living in exile whose faithfulness is rewarded through divine guidance, healing, and restoration.",
+  "historical_context": "The narrative reflects Jewish life during the Assyrian exile and emphasizes charity, prayer, and fidelity to God under foreign rule.",
+  "major_themes": [
+    "divine providence",
+    "family faithfulness",
+    "healing",
+    "charity"
+  ],
+  "philosophical_themes": [
+    "virtue in exile",
+    "trust in divine guidance",
+    "moral integrity"
+  ],
+  "key_figures": [
+    "Tobit",
+    "Tobias",
+    "Sarah",
+    "Raphael"
+  ],
+  "related_books": [
+    "Genesis",
+    "Job",
+    "Luke"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Faithfulness under suffering reflects human vulnerability.",
+    "water": "Prayer and charity cleanse hardship with hope.",
+    "fire": "Divine intervention transforms exile into restoration."
+  },
+  "ontology_tags": [
+    "exile",
+    "family",
+    "angel",
+    "healing",
+    "faithfulness"
+  ]
+}
