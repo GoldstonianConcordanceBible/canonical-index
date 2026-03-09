@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-03-09-core-10",
+  "questions": [
+    {
+      "id": "BQ-001",
+      "question": "What are the Watchers in the Ethiopian canon?",
+      "expected_top_sources": [
+        "enoch-watchers-core",
+        "canon/ethiopian-canon/enoch.json",
+        "ontology/angelology.json",
+        "canon/new-testament/jude.json"
+      ],
+      "actual_top_sources": [],
+      "top1_correct": false,
+      "top3_correct": false,
+      "notes": "Awaiting first executed benchmark run."
+    }
+  ]
+}
