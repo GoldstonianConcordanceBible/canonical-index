@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "id": "BQ-001",
+      "question": "What are the Watchers in the Ethiopian canon?",
+      "expected_sources": [
+        "canon/ethiopian-canon/enoch.json",
+        "ontology/angelology.json",
+        "canon/new-testament/jude.json"
+      ],
+      "difficulty": "medium",
+      "category": "angelology"
+    },
+    {
+      "id": "BQ-002",
+      "question": "How does Genesis introduce covenant?",
+      "expected_sources": [
+        "canon/torah/genesis.json",
+        "ontology/covenant-ontology.json"
+      ],
+      "difficulty": "easy",
+      "category": "covenant"
+    },
+    {
+      "id": "BQ-003",
+      "question": "What is the relationship between Ezekiel's vision and Revelation?",
+      "expected_sources": [
+        "canon/prophets-major/ezekiel.json",
+        "canon/new-testament/revelation.json",
+        "graph/gcb-knowledge-graph.json"
+      ],
+      "difficulty": "hard",
+      "category": "apocalypse"
+    }
+  ]
+}
