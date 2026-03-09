@@ -1,0 +1,45 @@
+{
+ "entities":[
+
+{
+ "entity":"Michael",
+ "category":"Archangel",
+ "description":"Warrior angel associated with divine protection.",
+ "canonical_sources":[
+  "Daniel",
+  "Revelation"
+ ],
+ "related_concepts":[
+  "angelology",
+  "spiritual warfare"
+ ]
+},
+
+{
+ "entity":"Gabriel",
+ "category":"Archangel",
+ "description":"Messenger angel announcing divine revelations.",
+ "canonical_sources":[
+  "Daniel",
+  "Luke"
+ ],
+ "related_concepts":[
+  "revelation",
+  "prophecy"
+ ]
+},
+
+{
+ "entity":"Seraphim",
+ "category":"Angel",
+ "description":"Heavenly beings associated with divine holiness.",
+ "canonical_sources":[
+  "Isaiah"
+ ],
+ "related_concepts":[
+  "angelology"
+ ]
+}
+
+]
+}
