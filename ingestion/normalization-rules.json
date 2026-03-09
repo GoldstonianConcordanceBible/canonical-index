@@ -1,0 +1,19 @@
+{
+  "book_aliases": {
+    "1 Corinthians": "1-corinthians",
+    "First Corinthians": "1-corinthians",
+    "Song of Songs": "song-of-solomon",
+    "Enoch": "enoch",
+    "Book of Enoch": "enoch"
+  },
+  "theme_aliases": {
+    "end times": "eschatology",
+    "watchers": "fallen-watchers",
+    "kingdom": "kingdom-of-god"
+  },
+  "entity_aliases": {
+    "St Michael": "Michael",
+    "Archangel Michael": "Michael",
+    "Lucifer": "Satan"
+  }
+}
