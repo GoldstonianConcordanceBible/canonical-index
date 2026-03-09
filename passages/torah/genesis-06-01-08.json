@@ -1,0 +1,35 @@
+{
+  "id": "genesis-06-01-08",
+  "book": "Genesis",
+  "chapter_start": 6,
+  "verse_start": 1,
+  "chapter_end": 6,
+  "verse_end": 8,
+  "label": "Corruption before the flood",
+  "summary": "This passage describes escalating corruption on the earth and has been closely linked in expanded canon traditions to the Watchers theme.",
+  "themes": [
+    "corruption",
+    "judgment",
+    "pre-flood world",
+    "watchers-linked tradition"
+  ],
+  "entities": [
+    "Noah"
+  ],
+  "related_concepts": [
+    "judgment",
+    "fallen angels",
+    "human corruption"
+  ],
+  "cross_links": [
+    "enoch-watchers-core",
+    "jude-01-01-25"
+  ],
+  "media_ids": [
+    "yt-enoch-watchers-001"
+  ],
+  "transcript_ids": [
+    "tx-enoch-watchers-001"
+  ],
+  "canonical_priority": 96
+}
