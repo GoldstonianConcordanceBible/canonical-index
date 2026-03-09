@@ -1,0 +1,25 @@
+{
+ "entities":[
+
+{
+ "entity":"Kingdom of Israel",
+ "category":"Kingdom",
+ "description":"Ancient kingdom established under Saul, David, and Solomon.",
+ "canonical_sources":[
+  "Samuel",
+  "Kings"
+ ]
+},
+
+{
+ "entity":"Kingdom of God",
+ "category":"Theological Kingdom",
+ "description":"Divine rule over creation.",
+ "canonical_sources":[
+  "Daniel",
+  "Matthew"
+ ]
+}
+
+]
+}
