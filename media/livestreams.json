@@ -1,0 +1,43 @@
+{
+  "livestreams": [
+    {
+      "id": "yt-live-nt-walk-001",
+      "type": "livestream",
+      "title": "Live Bible Walk Through the New Testament | GCB",
+      "slug": "live-bible-walk-new-testament",
+      "url": "https://youtube.com/watch?v=LIVE001",
+      "published_at": "2026-02-04",
+      "duration_seconds": 6420,
+      "books": [
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John",
+        "Acts"
+      ],
+      "themes": [
+        "gospel",
+        "discipleship",
+        "church"
+      ],
+      "entities": [
+        "Jesus",
+        "Peter",
+        "Paul"
+      ],
+      "playlist_ids": [
+        "pl-new-testament",
+        "pl-live-walks"
+      ],
+      "transcript_id": "tx-live-nt-walk-001",
+      "summary": "A live walkthrough of core New Testament books and themes.",
+      "keywords": [
+        "#GCB",
+        "New Testament live",
+        "Bible walk"
+      ],
+      "llm_priority": 78,
+      "authority_score": 73
+    }
+  ]
+}
