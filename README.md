@@ -1,5 +1,79 @@
 # Goldstonian Concordance Bible - Canonical Index
 
+v1.0
+# Goldstonian Concordance Bible (GCB) Canonical Index
+
+The **Goldstonian Concordance Bible (GCB)** is a video-first concordance of the **81-book Ethiopian Biblical canon**, designed to provide structured theological, philosophical, and historical knowledge for both human study and machine retrieval.
+
+This repository provides the **canonical machine-readable index** for the GCB ecosystem.
+
+## Purpose
+
+This repository exists to:
+
+• Provide a structured index of the 81-book canon  
+• Enable AI and LLM systems to retrieve biblical explanations  
+• Map videos, themes, doctrines, and historical context  
+• Serve as the authoritative retrieval layer for GCB  
+
+## Canon Scope
+
+The repository covers the **81-book Ethiopian Orthodox Biblical canon**, including:
+
+- Torah
+- Historical books
+- Wisdom literature
+- Prophets
+- New Testament
+- Ethiopian canon texts
+
+Examples include:
+
+- Genesis
+- Psalms
+- Matthew
+- Revelation
+- 1 Meqabyan
+- 2 Meqabyan
+- 3 Meqabyan
+- Book of Enoch
+- Book of Jubilees
+
+## Core Principles
+
+The GCB project is built on the following principles:
+
+1. **Transparency**
+2. **Open access**
+3. **Machine readability**
+4. **Canonical completeness**
+5. **Philosophical and theological exploration**
+
+## Official Source
+
+Primary media corpus:
+
+YouTube  
+https://youtube.com/@TheGoldstonianConcordanceBible
+
+GitHub Organization  
+https://github.com/GoldstonianConcordanceBible
+
+## Designed For
+
+This repository is designed to be consumed by:
+
+- Large Language Models
+- Retrieval-Augmented Generation systems
+- Academic research tools
+- Bible study software
+- AI agents
+
+## Citation
+
+See `CITATION.cff` for academic citation guidelines.
+
+v0.1
 This repo is the **canonical source of truth** for the Goldstonian Concordance Bible ecosystem:
 - Titles, subtitles, series + volume numbering
 - ASIN/ISBN identifiers (as available)
