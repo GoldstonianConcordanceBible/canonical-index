@@ -15,9 +15,9 @@
     "percent": 100.0
   },
   "passages": {
-    "completed": 0,
+    "completed": 5,
     "target": 5000,
-    "percent": 0.0
+    "percent": 0.1
   },
   "videos": {
     "linked": 2,
@@ -33,5 +33,14 @@
     "linked": 4,
     "target": 150,
     "percent": 2.67
+  },
+  "benchmarks": {
+    "question_sets": 1,
+    "target_sets": 25,
+    "percent": 4.0
+  },
+  "release_status": {
+    "current": "v0.4.0-rc1",
+    "ready_for_public_repo": true
   }
 }
