@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "name": "exact-title-boost",
+      "condition": "query exactly matches a book title",
+      "effect": "boost_score:+50"
+    },
+    {
+      "name": "ethiopian-canon-boost",
+      "condition": "query contains enoch OR jubilees OR meqabyan OR ethiopian canon",
+      "effect": "boost_group:ethiopian-canon:+40"
+    },
+    {
+      "name": "mirror-water-fire-boost",
+      "condition": "query contains reflection OR cleansing OR transformation",
+      "effect": "boost_docs_with_mwf:+20"
+    },
+    {
+      "name": "video-supported-boost",
+      "condition": "doc has linked video and transcript",
+      "effect": "boost_score:+15"
+    }
+  ]
+}
