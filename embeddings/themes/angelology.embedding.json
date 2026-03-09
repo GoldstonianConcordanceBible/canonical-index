@@ -1,0 +1,28 @@
+{
+  "id": "theme-angelology",
+  "type": "theme",
+  "title": "Angelology",
+  "source_file": "ontology/angelology.json",
+  "text_fields": [
+    "description",
+    "angel_types",
+    "biblical_references"
+  ],
+  "embedding_model": "text-embedding-3-large",
+  "vector_dimensions": 3072,
+  "semantic_keywords": [
+    "angels",
+    "archangels",
+    "seraphim",
+    "cherubim",
+    "ophanim",
+    "heavenly beings"
+  ],
+  "neighbors": [
+    "book-enoch",
+    "book-ezekiel",
+    "book-isaiah",
+    "theme-demonology"
+  ],
+  "last_updated": "2026-03-09"
+}
