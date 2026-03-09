@@ -1,0 +1,45 @@
+{
+  "book": "1 Kings",
+  "canonical_order": 11,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "1 Kings traces the end of David’s reign, Solomon’s wisdom and temple building, his later corruption, and the division of the kingdom into Israel and Judah.",
+  "historical_context": "The book presents royal splendor alongside spiritual decline. It shows that wisdom, wealth, and institutional religion cannot preserve covenant order without sustained faithfulness.",
+  "major_themes": [
+    "wisdom",
+    "temple",
+    "idolatry",
+    "kingdom division",
+    "prophetic confrontation"
+  ],
+  "philosophical_themes": [
+    "the limits of political glory",
+    "institutional fragility",
+    "the misuse of wisdom",
+    "faith and state power"
+  ],
+  "key_figures": [
+    "Solomon",
+    "Rehoboam",
+    "Jeroboam",
+    "Elijah",
+    "Ahab"
+  ],
+  "related_books": [
+    "2 Samuel",
+    "2 Kings",
+    "Proverbs"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The book reflects how success can become a vehicle for compromise.",
+    "water": "Prophetic truth cuts through institutional decay and calls the people back.",
+    "fire": "The divided kingdom becomes a furnace exposing the true foundation of covenant life."
+  },
+  "ontology_tags": [
+    "solomon",
+    "temple",
+    "idolatry",
+    "divided-kingdom",
+    "elijah"
+  ]
+}
