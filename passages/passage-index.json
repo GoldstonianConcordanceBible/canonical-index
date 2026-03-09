@@ -1,0 +1,38 @@
+{
+  "book_to_passages": {
+    "Genesis": [
+      "genesis-01-01-02-03",
+      "genesis-06-01-08"
+    ],
+    "Ezekiel": [
+      "ezekiel-37-01-14"
+    ],
+    "John": [
+      "john-03-01-21"
+    ],
+    "Book of Enoch": [
+      "enoch-watchers-core"
+    ]
+  },
+  "theme_to_passages": {
+    "creation": [
+      "genesis-01-01-02-03"
+    ],
+    "watchers": [
+      "enoch-watchers-core",
+      "genesis-06-01-08"
+    ],
+    "resurrection": [
+      "ezekiel-37-01-14",
+      "revelation-21-01-08"
+    ]
+  },
+  "entity_to_passages": {
+    "Azazel": [
+      "enoch-watchers-core"
+    ],
+    "Nicodemus": [
+      "john-03-01-21"
+    ]
+  }
+}
