@@ -1,0 +1,42 @@
+{
+  "book": "Ecclesiastes",
+  "canonical_order": 20,
+  "canon_group": "Wisdom",
+  "testament": "Old Testament",
+  "summary": "Ecclesiastes reflects on the apparent vanity of human striving, wealth, pleasure, toil, and wisdom when considered under the conditions of mortality and time.",
+  "historical_context": "Traditionally linked with Solomon, Ecclesiastes stands as a philosophical meditation on finitude, frustration, meaning, and reverence for God in a world marked by impermanence.",
+  "major_themes": [
+    "vanity",
+    "mortality",
+    "time",
+    "meaning",
+    "fear of God"
+  ],
+  "philosophical_themes": [
+    "existential inquiry",
+    "limits of human achievement",
+    "temporality",
+    "epistemic tension",
+    "finitude"
+  ],
+  "key_figures": [
+    "Qoheleth"
+  ],
+  "related_books": [
+    "Proverbs",
+    "Job",
+    "Romans"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Ecclesiastes reflects the emptiness of life pursued as an end in itself.",
+    "water": "It washes away false confidence in pleasure, labor, wealth, and human control.",
+    "fire": "The soul is transformed by learning to live humbly before God within the limits of time."
+  },
+  "ontology_tags": [
+    "vanity",
+    "mortality",
+    "meaning",
+    "wisdom",
+    "fear-of-god"
+  ]
+}
