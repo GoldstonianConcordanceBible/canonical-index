@@ -1,0 +1,20 @@
+{
+  "book": "Zephaniah",
+  "canonical_order": 38,
+  "canon_group": "Minor Prophets",
+  "summary": "Zephaniah warns of the coming Day of the Lord while promising purification and restoration.",
+  "major_themes": [
+    "judgment",
+    "purification",
+    "restoration"
+  ],
+  "philosophical_themes": [
+    "cosmic justice",
+    "moral renewal"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Human corruption is exposed.",
+    "water": "Purification prepares renewal.",
+    "fire": "Restoration emerges from judgment."
+  }
+}
