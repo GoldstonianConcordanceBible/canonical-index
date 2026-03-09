@@ -1,0 +1,26 @@
+{
+ "angel_types": [
+  {
+   "type": "Seraphim",
+   "description": "High-ranking celestial beings associated with divine holiness.",
+   "biblical_references": [
+    "Isaiah"
+   ]
+  },
+  {
+   "type": "Cherubim",
+   "description": "Guardians of divine presence.",
+   "biblical_references": [
+    "Genesis",
+    "Ezekiel"
+   ]
+  },
+  {
+   "type": "Ophanim",
+   "description": "Wheel-like beings associated with divine throne imagery.",
+   "biblical_references": [
+    "Ezekiel"
+   ]
+  }
+ ]
+}
