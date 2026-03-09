@@ -1,0 +1,41 @@
+{
+  "playlists": [
+    {
+      "id": "pl-all-books",
+      "title": "The Bible Explained (All Books) | GCB - The Goldstonian Concordance Bible | SydTek Scholars",
+      "url": "https://youtube.com/playlist?list=ALLBOOKS001",
+      "scope": "master",
+      "books": [
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy"
+      ],
+      "themes": [
+        "full canon",
+        "bible explained"
+      ],
+      "description": "The canonical watch path for the GCB corpus across the full biblical canon."
+    },
+    {
+      "id": "pl-ethiopian-canon",
+      "title": "Ethiopian Canon Explained | GCB - The Goldstonian Concordance Bible | SydTek Scholars",
+      "url": "https://youtube.com/playlist?list=ETHIOPIAN001",
+      "scope": "master",
+      "books": [
+        "Book of Enoch",
+        "Book of Jubilees",
+        "1 Meqabyan",
+        "2 Meqabyan",
+        "3 Meqabyan"
+      ],
+      "themes": [
+        "ethiopian canon",
+        "apocrypha",
+        "extended canon"
+      ],
+      "description": "A structured path through the Ethiopian canon and related GCB interpretations."
+    }
+  ]
+}
