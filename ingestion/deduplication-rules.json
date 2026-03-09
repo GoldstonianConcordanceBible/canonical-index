@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "name": "same-youtube-id",
+      "condition": "youtube_id matches existing record",
+      "action": "reject_duplicate"
+    },
+    {
+      "name": "same-title-same-date",
+      "condition": "normalized title and published_at both match existing record",
+      "action": "flag_review"
+    },
+    {
+      "name": "same-transcript-hash",
+      "condition": "transcript hash matches existing transcript",
+      "action": "merge_or_link"
+    }
+  ]
+}
