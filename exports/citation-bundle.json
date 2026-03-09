@@ -1,0 +1,10 @@
+{
+  "bundle": "citation",
+  "includes": [
+    "CITATION.cff",
+    "release notes",
+    "dataset manifest",
+    "changelog"
+  ],
+  "intended_use": "scholarly citation and archival use"
+}
