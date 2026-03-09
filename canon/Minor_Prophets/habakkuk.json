@@ -1,0 +1,28 @@
+{
+  "book": "Habakkuk",
+  "canonical_order": 37,
+  "canon_group": "Minor Prophets",
+  "summary": "Habakkuk wrestles with the problem of injustice and receives the declaration that the righteous shall live by faith.",
+  "major_themes": [
+    "faith",
+    "justice",
+    "divine sovereignty"
+  ],
+  "philosophical_themes": [
+    "theodicy",
+    "trust",
+    "faith under uncertainty"
+  ],
+  "key_figures": [
+    "Habakkuk"
+  ],
+  "related_books": [
+    "Romans",
+    "Hebrews"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The prophet confronts the tension of injustice.",
+    "water": "Dialogue with God purifies doubt.",
+    "fire": "Faith transforms uncertainty into trust."
+  }
+}
