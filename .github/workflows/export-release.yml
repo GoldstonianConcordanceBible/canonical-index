@@ -1,0 +1,12 @@
+name: Export Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build exports
+        run: python scripts/build_exports.py
