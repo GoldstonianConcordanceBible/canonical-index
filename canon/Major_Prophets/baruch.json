@@ -1,0 +1,41 @@
+{
+  "book": "Baruch",
+  "canonical_order": 27,
+  "canon_group": "Major Prophets",
+  "testament": "Old Testament",
+  "summary": "Baruch combines confession, prayer, and wisdom instruction while urging the exiled community to return to God.",
+  "historical_context": "Attributed to Jeremiah’s scribe Baruch, the text reflects Jewish reflection during the exile and emphasizes repentance and divine justice.",
+  "major_themes": [
+    "confession",
+    "repentance",
+    "wisdom",
+    "exile",
+    "restoration"
+  ],
+  "philosophical_themes": [
+    "moral accountability",
+    "wisdom and law",
+    "restoration through repentance"
+  ],
+  "key_figures": [
+    "Baruch",
+    "Jeremiah"
+  ],
+  "related_books": [
+    "Jeremiah",
+    "Sirach",
+    "Daniel"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The text reflects the moral failures that led to exile.",
+    "water": "Confession cleanses the people through acknowledgment of wrongdoing.",
+    "fire": "Wisdom and repentance transform the community toward restoration."
+  },
+  "ontology_tags": [
+    "repentance",
+    "wisdom",
+    "exile",
+    "restoration",
+    "deuterocanon"
+  ]
+}
