@@ -1,0 +1,21 @@
+{
+  "book": "3 Meqabyan",
+  "canonical_order": 51,
+  "canon_group": "Ethiopian Canon",
+  "summary": "3 Meqabyan presents philosophical reflections on idolatry, divine justice, and the power of faith.",
+  "historical_context": "Unlike the other Meqabyan texts, this book focuses heavily on theological argument and moral instruction.",
+  "major_themes": [
+    "idolatry",
+    "justice",
+    "faith"
+  ],
+  "philosophical_themes": [
+    "monotheism",
+    "moral philosophy"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Idolatry reflects human misalignment with divine truth.",
+    "water": "Wisdom purifies understanding.",
+    "fire": "Faith transforms belief into righteous living."
+  }
+}
