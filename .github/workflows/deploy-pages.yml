@@ -1,0 +1,51 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build public artifacts
+        run: |
+          python scripts/validate_corpus.py
+          python scripts/build_search_index.py
+          python scripts/build_sitemap.py
+          python scripts/build_llms_txt.py
+          python scripts/build_exports.py
+
+      - name: Prepare site
+        run: |
+          mkdir -p _site
+          cp -r site/* _site/
+          cp -r public/* _site/
+          cp -r exports _site/exports
+
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    environment:
+      name: github-pages
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
