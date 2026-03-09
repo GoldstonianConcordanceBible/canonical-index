@@ -1,0 +1,16 @@
+{
+ "entities": [
+  {
+   "name": "Azazel",
+   "category": "Fallen Watcher",
+   "source": "Book of Enoch",
+   "description": "A fallen angel associated with corruption of humanity."
+  },
+  {
+   "name": "Abaddon",
+   "category": "Abyssal entity",
+   "source": "Revelation",
+   "description": "The angel of the abyss associated with destruction."
+  }
+ ]
+}
