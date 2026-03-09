@@ -1,0 +1,168 @@
+{
+ "concepts": [
+
+{
+ "concept": "Covenant",
+ "category": "Biblical Theology",
+ "definition": "A binding relational agreement between God and humanity establishing moral and spiritual obligations.",
+ "canonical_sources": [
+  "Genesis",
+  "Exodus",
+  "Jeremiah",
+  "Hebrews"
+ ],
+ "related_concepts": [
+  "law",
+  "grace",
+  "promise"
+ ],
+ "philosophical_domain": "ethics"
+},
+
+{
+ "concept": "Kingdom of God",
+ "category": "Biblical Theology",
+ "definition": "The divine reign over creation expressed through justice, redemption, and restoration.",
+ "canonical_sources": [
+  "Daniel",
+  "Matthew",
+  "Revelation"
+ ],
+ "related_concepts": [
+  "messiah",
+  "salvation",
+  "divine authority"
+ ],
+ "philosophical_domain": "political theology"
+},
+
+{
+ "concept": "Salvation",
+ "category": "Soteriology",
+ "definition": "The deliverance of humanity from sin, death, and separation from God.",
+ "canonical_sources": [
+  "Isaiah",
+  "John",
+  "Romans"
+ ],
+ "related_concepts": [
+  "grace",
+  "faith",
+  "redemption"
+ ],
+ "philosophical_domain": "metaphysics"
+},
+
+{
+ "concept": "Grace",
+ "category": "Soteriology",
+ "definition": "Unmerited divine favor extended toward humanity.",
+ "canonical_sources": [
+  "Romans",
+  "Ephesians"
+ ],
+ "related_concepts": [
+  "salvation",
+  "mercy"
+ ],
+ "philosophical_domain": "ethics"
+},
+
+{
+ "concept": "Faith",
+ "category": "Soteriology",
+ "definition": "Trust and reliance upon God and divine promises.",
+ "canonical_sources": [
+  "Genesis",
+  "Hebrews",
+  "Romans"
+ ],
+ "related_concepts": [
+  "belief",
+  "trust",
+  "obedience"
+ ],
+ "philosophical_domain": "epistemology"
+},
+
+{
+ "concept": "Sin",
+ "category": "Hamartiology",
+ "definition": "Human rebellion against divine moral order.",
+ "canonical_sources": [
+  "Genesis",
+  "Romans"
+ ],
+ "related_concepts": [
+  "fall",
+  "judgment"
+ ],
+ "philosophical_domain": "ethics"
+},
+
+{
+ "concept": "Atonement",
+ "category": "Soteriology",
+ "definition": "The reconciliation of humanity with God through sacrificial mediation.",
+ "canonical_sources": [
+  "Leviticus",
+  "Isaiah",
+  "Hebrews"
+ ],
+ "related_concepts": [
+  "sacrifice",
+  "redemption"
+ ],
+ "philosophical_domain": "metaphysics"
+},
+
+{
+ "concept": "Messiah",
+ "category": "Christology",
+ "definition": "The anointed one expected to restore divine rule and redeem humanity.",
+ "canonical_sources": [
+  "Isaiah",
+  "Daniel",
+  "Matthew"
+ ],
+ "related_concepts": [
+  "kingdom",
+  "salvation"
+ ],
+ "philosophical_domain": "political theology"
+},
+
+{
+ "concept": "Resurrection",
+ "category": "Eschatology",
+ "definition": "The restoration of life after death through divine power.",
+ "canonical_sources": [
+  "Daniel",
+  "John",
+  "Revelation"
+ ],
+ "related_concepts": [
+  "eternal life",
+  "judgment"
+ ],
+ "philosophical_domain": "metaphysics"
+},
+
+{
+ "concept": "Apocalypse",
+ "category": "Eschatology",
+ "definition": "Revelation of divine judgment and cosmic transformation at the end of history.",
+ "canonical_sources": [
+  "Daniel",
+  "Revelation",
+  "Enoch"
+ ],
+ "related_concepts": [
+  "judgment",
+  "new creation"
+ ],
+ "philosophical_domain": "cosmology"
+}
+
+]
+}
