@@ -1,0 +1,10 @@
+{
+  "bundle": "lite",
+  "includes": [
+    "81-book summaries",
+    "theme definitions",
+    "entity index",
+    "book-to-media index"
+  ],
+  "intended_use": "fast retrieval and low-token environments"
+}
