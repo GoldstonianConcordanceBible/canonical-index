@@ -1,0 +1,43 @@
+{
+  "book": "Wisdom of Solomon",
+  "canonical_order": 22,
+  "canon_group": "Wisdom",
+  "testament": "Old Testament",
+  "summary": "Wisdom of Solomon presents wisdom as divine gift, contrasts righteousness with wickedness, reflects on immortality, and recounts God’s guidance of Israel through history.",
+  "historical_context": "A deuterocanonical wisdom text shaped by Hellenistic context, the book combines Jewish theology with philosophical language about wisdom, justice, and the destiny of the righteous.",
+  "major_themes": [
+    "wisdom",
+    "righteousness",
+    "immortality",
+    "justice",
+    "divine guidance"
+  ],
+  "philosophical_themes": [
+    "soul and immortality",
+    "moral order",
+    "divine reason",
+    "virtue and destiny"
+  ],
+  "key_figures": [
+    "Solomon",
+    "the righteous",
+    "the wicked"
+  ],
+  "related_books": [
+    "Proverbs",
+    "Sirach",
+    "Romans"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The book reveals the contrast between the inner logic of righteousness and the blindness of wickedness.",
+    "water": "Wisdom cleanses human judgment by aligning it with justice and divine truth.",
+    "fire": "The righteous are transformed by wisdom into participants in enduring life and godly rule."
+  },
+  "ontology_tags": [
+    "wisdom",
+    "immortality",
+    "justice",
+    "righteousness",
+    "deuterocanon"
+  ]
+}
