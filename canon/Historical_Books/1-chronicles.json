@@ -1,0 +1,45 @@
+{
+  "book": "1 Chronicles",
+  "canonical_order": 13,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "1 Chronicles retells Israel’s story from Adam to David, focusing on genealogy, covenant continuity, temple preparation, and David’s central role in worship and kingship.",
+  "historical_context": "Written from a post-exilic perspective, the book emphasizes identity, priestly order, and the theological meaning of David’s reign more than political detail.",
+  "major_themes": [
+    "genealogy",
+    "identity",
+    "worship",
+    "davidic kingship",
+    "temple preparation"
+  ],
+  "philosophical_themes": [
+    "collective memory",
+    "restored identity",
+    "continuity through crisis",
+    "liturgical order"
+  ],
+  "key_figures": [
+    "Adam",
+    "David",
+    "Asaph",
+    "Levites",
+    "priests"
+  ],
+  "related_books": [
+    "1 Samuel",
+    "2 Samuel",
+    "2 Chronicles"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The book reflects a people rebuilding identity through remembered lineage and worship.",
+    "water": "Genealogy and liturgy wash a scattered people back into covenant memory.",
+    "fire": "David’s preparation for the temple points toward renewed communal purpose."
+  },
+  "ontology_tags": [
+    "genealogy",
+    "david",
+    "worship",
+    "temple",
+    "identity"
+  ]
+}
