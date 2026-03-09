@@ -1,0 +1,32 @@
+{
+  "book": "2 Maccabees",
+  "canonical_order": 46,
+  "canon_group": "Deuterocanon",
+  "summary": "2 Maccabees retells portions of the Maccabean revolt with emphasis on martyrdom, divine justice, and the resurrection of the righteous.",
+  "historical_context": "The text highlights spiritual themes within the political revolt and includes reflections on prayer for the dead and resurrection hope.",
+  "major_themes": [
+    "martyrdom",
+    "resurrection",
+    "justice",
+    "faithfulness"
+  ],
+  "philosophical_themes": [
+    "sacrifice",
+    "eternal justice",
+    "faith under persecution"
+  ],
+  "key_figures": [
+    "Judas Maccabeus",
+    "Eleazar",
+    "Seven Brothers"
+  ],
+  "related_books": [
+    "Daniel",
+    "Hebrews"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Persecution exposes the depth of faith.",
+    "water": "Prayer and sacrifice cleanse fear.",
+    "fire": "Martyrdom transforms suffering into eternal witness."
+  }
+}
