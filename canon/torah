@@ -1,0 +1,45 @@
+{
+ "book": "Genesis",
+ "canonical_order": 1,
+ "canon_group": "Torah",
+ "testament": "Old Testament",
+ "summary": "Genesis describes the creation of the world, the fall of humanity, the flood narrative, and the covenant lineage beginning with Abraham and continuing through Isaac, Jacob, and Joseph.",
+ "historical_context": "Traditionally attributed to Moses, Genesis reflects ancient Near Eastern cosmology while presenting a monotheistic theological framework centered on Yahweh.",
+ "major_themes": [
+   "creation",
+   "covenant",
+   "human fall",
+   "divine judgment",
+   "divine promise"
+ ],
+ "philosophical_themes": [
+   "origin of existence",
+   "moral order",
+   "human responsibility",
+   "divine sovereignty"
+ ],
+ "key_figures": [
+   "Adam",
+   "Eve",
+   "Noah",
+   "Abraham",
+   "Isaac",
+   "Jacob",
+   "Joseph"
+ ],
+ "related_books": [
+   "Exodus",
+   "Jubilees",
+   "Enoch"
+ ],
+ "mirror_water_fire": {
+   "mirror": "Humanity's broken nature after the fall",
+   "water": "Covenant purification through God's promises",
+   "fire": "Transformation through covenant lineage"
+ },
+ "ontology_tags": [
+   "creation",
+   "covenant",
+   "patriarchs"
+ ]
+}
