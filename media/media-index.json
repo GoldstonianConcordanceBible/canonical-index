@@ -1,0 +1,32 @@
+{
+  "book_to_media": {
+    "Genesis": [
+      "yt-genesis-explained-001"
+    ],
+    "Book of Enoch": [
+      "yt-enoch-watchers-001"
+    ],
+    "Revelation": [
+      "yt-short-rev-armageddon-001"
+    ]
+  },
+  "theme_to_media": {
+    "watchers": [
+      "yt-enoch-watchers-001"
+    ],
+    "creation": [
+      "yt-genesis-explained-001"
+    ],
+    "armageddon": [
+      "yt-short-rev-armageddon-001"
+    ]
+  },
+  "entity_to_media": {
+    "Azazel": [
+      "yt-enoch-watchers-001"
+    ],
+    "Abraham": [
+      "yt-genesis-explained-001"
+    ]
+  }
+}
