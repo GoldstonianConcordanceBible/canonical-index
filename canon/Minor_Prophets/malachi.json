@@ -1,0 +1,20 @@
+{
+  "book": "Malachi",
+  "canonical_order": 41,
+  "canon_group": "Minor Prophets",
+  "summary": "Malachi confronts religious complacency and announces the coming messenger who will prepare the way of the Lord.",
+  "major_themes": [
+    "faithfulness",
+    "judgment",
+    "messenger prophecy"
+  ],
+  "philosophical_themes": [
+    "covenant fidelity",
+    "ethical worship"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The prophet exposes hollow worship.",
+    "water": "Repentance purifies devotion.",
+    "fire": "The coming messenger prepares transformation."
+  }
+}
