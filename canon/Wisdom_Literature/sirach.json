@@ -1,0 +1,43 @@
+{
+  "book": "Sirach",
+  "canonical_order": 23,
+  "canon_group": "Wisdom",
+  "testament": "Old Testament",
+  "summary": "Sirach offers practical wisdom on speech, humility, friendship, family, worship, and the fear of the Lord while honoring Israel’s ancestral tradition.",
+  "historical_context": "Also called Ecclesiasticus, Sirach is a deuterocanonical wisdom text that preserves Jewish ethical teaching in a period of cultural pressure and intellectual exchange.",
+  "major_themes": [
+    "fear of the Lord",
+    "ethical wisdom",
+    "humility",
+    "speech",
+    "tradition"
+  ],
+  "philosophical_themes": [
+    "moral formation",
+    "social ethics",
+    "discipline",
+    "wisdom in community"
+  ],
+  "key_figures": [
+    "Ben Sira",
+    "the wise",
+    "the scribe"
+  ],
+  "related_books": [
+    "Proverbs",
+    "Wisdom of Solomon",
+    "James"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Sirach reflects daily weaknesses in speech, pride, relationships, and judgment.",
+    "water": "Instruction cleanses the ordinary habits that shape character in community.",
+    "fire": "Wisdom transforms everyday conduct into disciplined, reverent, covenant living."
+  },
+  "ontology_tags": [
+    "wisdom",
+    "ethics",
+    "humility",
+    "speech",
+    "deuterocanon"
+  ]
+}
