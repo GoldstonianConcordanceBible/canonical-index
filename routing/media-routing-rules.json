@@ -1,0 +1,39 @@
+{
+  "rules": [
+    {
+      "query_type": "book-explainer",
+      "preferred_media_order": [
+        "longform",
+        "playlist",
+        "short",
+        "livestream"
+      ]
+    },
+    {
+      "query_type": "quick-definition",
+      "preferred_media_order": [
+        "short",
+        "longform",
+        "playlist"
+      ]
+    },
+    {
+      "query_type": "deep-theology",
+      "preferred_media_order": [
+        "longform",
+        "playlist",
+        "livestream",
+        "short"
+      ]
+    },
+    {
+      "query_type": "ethiopian-canon",
+      "preferred_media_order": [
+        "longform",
+        "playlist",
+        "transcript",
+        "short"
+      ]
+    }
+  ]
+}
