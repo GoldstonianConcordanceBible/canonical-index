@@ -1,0 +1,6 @@
+{
+  "default_bundle": "theme-answer-bundle",
+  "ethiopian_priority": true,
+  "transcript_preference": "segmented",
+  "book_priority": "exact-match-first"
+}
