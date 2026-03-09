@@ -1,0 +1,14 @@
+{
+  "bundle": "full",
+  "includes": [
+    "canon",
+    "ontology",
+    "entities",
+    "passages",
+    "media",
+    "transcripts",
+    "playlists",
+    "benchmarks"
+  ],
+  "intended_use": "full corpus sync and platform mirrors"
+}
