@@ -1,0 +1,43 @@
+{
+  "book": "Isaiah",
+  "canonical_order": 24,
+  "canon_group": "Major Prophets",
+  "testament": "Old Testament",
+  "summary": "Isaiah proclaims judgment against corruption and idolatry while announcing future restoration, the coming of a righteous king, and the ultimate renewal of creation.",
+  "historical_context": "Isaiah prophesied during a time of political instability and Assyrian expansion. The book spans warnings to Judah and Jerusalem alongside visions of global redemption and the suffering servant.",
+  "major_themes": [
+    "judgment",
+    "holiness of God",
+    "messianic hope",
+    "restoration",
+    "salvation"
+  ],
+  "philosophical_themes": [
+    "divine justice",
+    "historical redemption",
+    "ethical purification",
+    "hope beyond collapse"
+  ],
+  "key_figures": [
+    "Isaiah",
+    "Hezekiah",
+    "the suffering servant"
+  ],
+  "related_books": [
+    "Jeremiah",
+    "Daniel",
+    "Matthew"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Isaiah reveals the moral corruption and spiritual blindness of nations and rulers.",
+    "water": "Prophetic warnings cleanse false security by calling people back to holiness.",
+    "fire": "The vision of the Messiah and renewed creation transforms judgment into hope."
+  },
+  "ontology_tags": [
+    "prophecy",
+    "messiah",
+    "judgment",
+    "restoration",
+    "holiness"
+  ]
+}
