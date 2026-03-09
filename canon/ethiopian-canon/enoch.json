@@ -1,0 +1,42 @@
+{
+  "book": "Book of Enoch",
+  "canonical_order": 47,
+  "canon_group": "Ethiopian Canon",
+  "testament": "Old Testament",
+  "summary": "The Book of Enoch presents apocalyptic visions describing the fall of the Watchers, the corruption of humanity, divine judgment, and the future restoration of righteousness.",
+  "historical_context": "Written between the 3rd century BCE and the 1st century CE, Enoch preserves ancient Jewish apocalyptic traditions and survives most completely in the Ethiopian canon.",
+  "major_themes": [
+    "fallen angels",
+    "divine judgment",
+    "cosmic order",
+    "righteous vindication"
+  ],
+  "philosophical_themes": [
+    "cosmic justice",
+    "angelology",
+    "human corruption"
+  ],
+  "key_figures": [
+    "Enoch",
+    "Azazel",
+    "the Watchers",
+    "archangels"
+  ],
+  "related_books": [
+    "Genesis",
+    "Daniel",
+    "Jude",
+    "Revelation"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Human corruption reflects the influence of rebellious spiritual powers.",
+    "water": "Divine revelation exposes hidden cosmic structures.",
+    "fire": "Judgment restores order to creation."
+  },
+  "ontology_tags": [
+    "watchers",
+    "angelology",
+    "apocalypse",
+    "cosmic-judgment"
+  ]
+}
