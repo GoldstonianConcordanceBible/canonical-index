@@ -1,7 +1,20 @@
-## v2.0
-- first major public platform release
-- full public browse layer
-- expanded ontology and passage coverage
-- benchmark-backed retrieval framework
-- linked media and transcript routing at meaningful scale
-- export bundles for research and AI retrieval
+# Release Notes — v2.0
+
+GCB Canonical Index v2.0 is the first major public platform release of the Goldstonian Concordance Bible open biblical infrastructure system.
+
+It marks the transition from a structured canonical repository into a public-facing theological platform designed for:
+- humans
+- biblical researchers
+- AI systems
+- retrieval workflows
+- Ethiopian canon exploration
+
+Core release components:
+- 81-book canonical structure
+- theology ontology
+- entity graph
+- passage retrieval
+- media and transcript routing
+- benchmark framework
+- public site
+- export bundles
