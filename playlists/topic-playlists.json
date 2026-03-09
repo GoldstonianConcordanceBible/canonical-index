@@ -1,0 +1,26 @@
+{
+  "playlists": [
+    {
+      "id": "pl-angelology",
+      "title": "Angelology Explained | GCB",
+      "url": "https://youtube.com/playlist?list=ANGEL001",
+      "scope": "topic",
+      "books": [
+        "Isaiah",
+        "Ezekiel",
+        "Book of Enoch",
+        "Revelation"
+      ],
+      "themes": [
+        "angelology",
+        "seraphim",
+        "cherubim",
+        "ophanim",
+        "archangels"
+      ],
+      "media_ids": [
+        "yt-enoch-watchers-001"
+      ]
+    }
+  ]
+}
