@@ -1,0 +1,27 @@
+{
+  "book": "Nahum",
+  "canonical_order": 36,
+  "canon_group": "Minor Prophets",
+  "summary": "Nahum announces the downfall of Nineveh as divine judgment against oppression and violence.",
+  "major_themes": [
+    "judgment",
+    "divine justice",
+    "deliverance"
+  ],
+  "philosophical_themes": [
+    "moral order",
+    "retribution"
+  ],
+  "key_figures": [
+    "Nahum"
+  ],
+  "related_books": [
+    "Jonah",
+    "Habakkuk"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Empire reveals its corruption.",
+    "water": "Justice purifies oppression.",
+    "fire": "Judgment resets the moral balance."
+  }
+}
