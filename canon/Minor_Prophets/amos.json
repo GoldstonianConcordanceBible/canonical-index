@@ -1,0 +1,30 @@
+{
+  "book": "Amos",
+  "canonical_order": 32,
+  "canon_group": "Minor Prophets",
+  "summary": "Amos condemns social injustice, corruption, and hypocrisy while warning that judgment is coming upon Israel.",
+  "historical_context": "Amos was a shepherd who prophesied during a period of prosperity that masked deep inequality and moral corruption.",
+  "major_themes": [
+    "justice",
+    "judgment",
+    "righteousness",
+    "accountability"
+  ],
+  "philosophical_themes": [
+    "social ethics",
+    "moral accountability",
+    "divine justice"
+  ],
+  "key_figures": [
+    "Amos"
+  ],
+  "related_books": [
+    "Micah",
+    "Isaiah"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Amos exposes injustice hidden beneath prosperity.",
+    "water": "Truth washes away hypocrisy.",
+    "fire": "Judgment reshapes the moral order."
+  }
+}
