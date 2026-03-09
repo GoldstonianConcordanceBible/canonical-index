@@ -1,0 +1,44 @@
+{
+  "book": "Joshua",
+  "canonical_order": 6,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "Joshua recounts Israel’s entrance into the promised land, the conquest narratives, the allocation of tribal inheritance, and Joshua’s covenant renewal charge to the people.",
+  "historical_context": "Set after the death of Moses, Joshua presents the transition from wilderness wandering to territorial settlement. The book emphasizes covenant fulfillment, holy war, land inheritance, and obedience to divine instruction.",
+  "major_themes": [
+    "promise fulfilled",
+    "covenant obedience",
+    "holy war",
+    "inheritance",
+    "leadership succession"
+  ],
+  "philosophical_themes": [
+    "faithful action",
+    "collective identity",
+    "memory and obligation",
+    "divine sovereignty in history"
+  ],
+  "key_figures": [
+    "Joshua",
+    "Rahab",
+    "Caleb",
+    "Eleazar"
+  ],
+  "related_books": [
+    "Deuteronomy",
+    "Judges",
+    "Hebrews"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The people see that promise still requires obedience.",
+    "water": "The crossing into the land marks covenant continuation and purification from the wilderness generation.",
+    "fire": "The nation is transformed from wanderers into inheritors under divine command."
+  },
+  "ontology_tags": [
+    "conquest",
+    "inheritance",
+    "covenant",
+    "promised-land",
+    "leadership"
+  ]
+}
