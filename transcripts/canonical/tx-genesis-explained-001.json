@@ -1,0 +1,42 @@
+{
+  "id": "tx-genesis-explained-001",
+  "media_id": "yt-genesis-explained-001",
+  "source_type": "manual_or_auto_caption",
+  "language": "en",
+  "segments": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 24,
+      "text": "Genesis begins the biblical story with creation, order, and the first covenantal arcs of humanity.",
+      "books": [
+        "Genesis"
+      ],
+      "themes": [
+        "creation",
+        "covenant"
+      ],
+      "entities": [
+        "Adam",
+        "Eve"
+      ]
+    },
+    {
+      "start_seconds": 25,
+      "end_seconds": 58,
+      "text": "The fall introduces sin, alienation, and the long arc of redemption that runs through the entire Bible.",
+      "books": [
+        "Genesis"
+      ],
+      "themes": [
+        "fall",
+        "sin",
+        "redemption"
+      ],
+      "entities": []
+    }
+  ],
+  "full_text": "Genesis begins the biblical story with creation...",
+  "cleaned_text": "genesis begins the biblical story with creation...",
+  "token_count": 1824,
+  "last_updated": "2026-03-09"
+}
