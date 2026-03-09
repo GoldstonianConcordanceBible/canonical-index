@@ -1,0 +1,36 @@
+{
+ "entities":[
+
+{
+ "entity":"Jerusalem",
+ "category":"City",
+ "description":"Central city of biblical history and worship.",
+ "canonical_sources":[
+  "Kings",
+  "Isaiah",
+  "Matthew",
+  "Revelation"
+ ],
+ "related_concepts":[
+  "temple",
+  "kingdom"
+ ]
+},
+
+{
+ "entity":"Babylon",
+ "category":"Empire",
+ "description":"Ancient empire associated with exile and judgment.",
+ "canonical_sources":[
+  "Daniel",
+  "Jeremiah",
+  "Revelation"
+ ],
+ "related_concepts":[
+  "exile",
+  "apocalypse"
+ ]
+}
+
+]
+}
