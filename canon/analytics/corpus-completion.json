@@ -5,14 +5,14 @@
     "percent": 100.0
   },
   "themes": {
-    "completed": 12,
+    "completed": 100,
     "target": 500,
-    "percent": 2.4
+    "percent": 20.0
   },
   "entities": {
-    "completed": 45,
-    "target": 2000,
-    "percent": 2.25
+    "completed": 580,
+    "target": 580,
+    "percent": 100.0
   },
   "passages": {
     "completed": 0,
@@ -20,8 +20,18 @@
     "percent": 0.0
   },
   "videos": {
-    "linked": 0,
+    "linked": 2,
     "target": 2500,
-    "percent": 0.0
+    "percent": 0.08
+  },
+  "transcripts": {
+    "linked": 3,
+    "target": 2500,
+    "percent": 0.12
+  },
+  "playlists": {
+    "linked": 4,
+    "target": 150,
+    "percent": 2.67
   }
 }
