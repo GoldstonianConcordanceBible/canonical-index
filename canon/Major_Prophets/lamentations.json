@@ -1,0 +1,42 @@
+{
+  "book": "Lamentations",
+  "canonical_order": 26,
+  "canon_group": "Major Prophets",
+  "testament": "Old Testament",
+  "summary": "Lamentations mourns the destruction of Jerusalem and the suffering of the people while affirming that God’s mercy remains even in catastrophe.",
+  "historical_context": "Traditionally attributed to Jeremiah, the book reflects the devastation following the Babylonian conquest of Jerusalem in 586 BCE.",
+  "major_themes": [
+    "lament",
+    "judgment",
+    "suffering",
+    "hope",
+    "divine mercy"
+  ],
+  "philosophical_themes": [
+    "collective grief",
+    "theodicy",
+    "resilience",
+    "hope in ruin"
+  ],
+  "key_figures": [
+    "Jeremiah",
+    "Jerusalem personified"
+  ],
+  "related_books": [
+    "Jeremiah",
+    "Psalms",
+    "Daniel"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The destruction of Jerusalem reflects the cost of national disobedience.",
+    "water": "Lament purifies grief by bringing suffering before God.",
+    "fire": "Hope emerges from sorrow through trust in divine compassion."
+  },
+  "ontology_tags": [
+    "lament",
+    "exile",
+    "judgment",
+    "mercy",
+    "suffering"
+  ]
+}
