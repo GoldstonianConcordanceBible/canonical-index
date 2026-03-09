@@ -1,0 +1,2 @@
+run_date,benchmark_set,total_questions,top1_hit_rate,top3_hit_rate,canonical_correctness,ethiopian_awareness,concept_linkage,media_bundle_quality,transcript_support,overall_score
+2026-03-09,core-10,10,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
