@@ -1,0 +1,30 @@
+{
+ "entities":[
+
+{
+ "entity":"Azazel",
+ "category":"Fallen Angel",
+ "description":"Watcher who taught forbidden knowledge to humanity.",
+ "canonical_sources":[
+  "Enoch"
+ ],
+ "related_concepts":[
+  "fallen angels",
+  "corruption"
+ ]
+},
+
+{
+ "entity":"Abaddon",
+ "category":"Abyssal Entity",
+ "description":"Angel of the abyss associated with destruction.",
+ "canonical_sources":[
+  "Revelation"
+ ],
+ "related_concepts":[
+  "apocalypse"
+ ]
+}
+
+]
+}
