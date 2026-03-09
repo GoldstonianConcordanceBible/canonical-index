@@ -1,0 +1,39 @@
+{
+  "book": "Hosea",
+  "canonical_order": 30,
+  "canon_group": "Minor Prophets",
+  "testament": "Old Testament",
+  "summary": "Hosea uses the metaphor of a broken marriage to illustrate Israel’s unfaithfulness to God and the persistent love that seeks restoration.",
+  "historical_context": "Hosea prophesied to the northern kingdom during its moral and political decline before the Assyrian conquest.",
+  "major_themes": [
+    "covenant love",
+    "spiritual adultery",
+    "repentance",
+    "restoration"
+  ],
+  "philosophical_themes": [
+    "faithfulness",
+    "relational ethics",
+    "divine compassion"
+  ],
+  "key_figures": [
+    "Hosea",
+    "Gomer"
+  ],
+  "related_books": [
+    "Jeremiah",
+    "Ezekiel",
+    "Romans"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Israel sees its betrayal reflected in Hosea’s marriage.",
+    "water": "Calls to repentance cleanse covenant infidelity.",
+    "fire": "Love transforms judgment into the promise of restoration."
+  },
+  "ontology_tags": [
+    "covenant",
+    "repentance",
+    "restoration",
+    "prophecy"
+  ]
+}
