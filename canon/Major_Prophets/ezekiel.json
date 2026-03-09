@@ -1,0 +1,41 @@
+{
+  "book": "Ezekiel",
+  "canonical_order": 28,
+  "canon_group": "Major Prophets",
+  "testament": "Old Testament",
+  "summary": "Ezekiel prophesies judgment on Israel and surrounding nations while presenting visions of divine glory, spiritual renewal, and the restoration of the temple.",
+  "historical_context": "Ezekiel ministered during the Babylonian exile. His visions combine symbolic imagery, prophetic warnings, and future restoration.",
+  "major_themes": [
+    "divine glory",
+    "judgment",
+    "renewal",
+    "spiritual resurrection",
+    "restoration"
+  ],
+  "philosophical_themes": [
+    "divine transcendence",
+    "collective responsibility",
+    "renewal after collapse"
+  ],
+  "key_figures": [
+    "Ezekiel",
+    "the dry bones vision"
+  ],
+  "related_books": [
+    "Jeremiah",
+    "Daniel",
+    "Revelation"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Ezekiel reveals the spiritual death of a people separated from God.",
+    "water": "Visions of cleansing water symbolize purification and renewal.",
+    "fire": "The valley of dry bones becomes a transformative image of resurrection."
+  },
+  "ontology_tags": [
+    "vision",
+    "resurrection",
+    "judgment",
+    "restoration",
+    "prophecy"
+  ]
+}
