@@ -1,0 +1,28 @@
+{
+ "nodes": [
+  {
+   "id": "Genesis",
+   "type": "Book"
+  },
+  {
+   "id": "Covenant",
+   "type": "Concept"
+  },
+  {
+   "id": "Abraham",
+   "type": "Person"
+  }
+ ],
+ "edges": [
+  {
+   "source": "Genesis",
+   "target": "Covenant",
+   "relationship": "introduces"
+  },
+  {
+   "source": "Genesis",
+   "target": "Abraham",
+   "relationship": "contains"
+  }
+ ]
+}
