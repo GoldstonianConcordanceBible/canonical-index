@@ -1,0 +1,31 @@
+{
+  "id": "book-genesis",
+  "type": "book",
+  "title": "Genesis",
+  "source_file": "canon/torah/genesis.json",
+  "text_fields": [
+    "summary",
+    "major_themes",
+    "philosophical_themes",
+    "mirror_water_fire.mirror",
+    "mirror_water_fire.water",
+    "mirror_water_fire.fire"
+  ],
+  "embedding_model": "text-embedding-3-large",
+  "vector_dimensions": 3072,
+  "semantic_keywords": [
+    "creation",
+    "fall",
+    "abraham",
+    "covenant",
+    "origins",
+    "genealogy"
+  ],
+  "neighbors": [
+    "book-exodus",
+    "book-jubilees",
+    "theme-covenant",
+    "entity-abraham"
+  ],
+  "last_updated": "2026-03-09"
+}
