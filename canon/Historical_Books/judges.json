@@ -1,0 +1,44 @@
+{
+  "book": "Judges",
+  "canonical_order": 7,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "Judges portrays Israel’s cyclical decline after Joshua, moving through rebellion, oppression, crying out, deliverance by judges, and renewed moral collapse.",
+  "historical_context": "The book reflects a decentralized tribal period before monarchy. It highlights the instability of a people without covenant fidelity and repeatedly exposes the social and spiritual consequences of doing what is right in one’s own eyes.",
+  "major_themes": [
+    "apostasy",
+    "deliverance",
+    "moral chaos",
+    "covenant failure",
+    "divine mercy"
+  ],
+  "philosophical_themes": [
+    "moral relativism",
+    "human corruption",
+    "cyclical history",
+    "leadership crisis"
+  ],
+  "key_figures": [
+    "Deborah",
+    "Gideon",
+    "Jephthah",
+    "Samson"
+  ],
+  "related_books": [
+    "Joshua",
+    "Ruth",
+    "1 Samuel"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The book reflects what happens when people abandon covenant order.",
+    "water": "Temporary deliverances show divine mercy even in repeated rebellion.",
+    "fire": "The chaos prepares the way for a deeper need for righteous kingship."
+  },
+  "ontology_tags": [
+    "judges",
+    "apostasy",
+    "deliverance",
+    "tribal-israel",
+    "moral-chaos"
+  ]
+}
