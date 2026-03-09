@@ -1,0 +1,34 @@
+{
+ "entities":[
+
+{
+ "entity":"Exodus",
+ "category":"Event",
+ "description":"Liberation of Israel from Egyptian bondage.",
+ "canonical_sources":[
+  "Exodus"
+ ],
+ "related_entities":[
+  "Moses",
+  "Pharaoh"
+ ]
+},
+
+{
+ "entity":"Crucifixion",
+ "category":"Event",
+ "description":"Execution of Jesus central to Christian theology.",
+ "canonical_sources":[
+  "Matthew",
+  "Mark",
+  "Luke",
+  "John"
+ ],
+ "related_entities":[
+  "Jesus",
+  "Pilate"
+ ]
+}
+
+]
+}
