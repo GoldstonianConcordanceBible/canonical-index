@@ -1,0 +1,39 @@
+{
+  "id": "enoch-watchers-core",
+  "book": "Book of Enoch",
+  "chapter_start": 6,
+  "verse_start": 1,
+  "chapter_end": 16,
+  "verse_end": 8,
+  "label": "The rebellion of the Watchers and the corruption of the earth",
+  "summary": "This core Enochic section describes the descent of the Watchers, the transmission of forbidden knowledge, and the resulting corruption that leads to divine judgment.",
+  "themes": [
+    "watchers",
+    "fallen angels",
+    "forbidden knowledge",
+    "judgment"
+  ],
+  "entities": [
+    "Enoch",
+    "Azazel",
+    "Watchers",
+    "Michael"
+  ],
+  "related_concepts": [
+    "angelology",
+    "demonology",
+    "cosmic justice"
+  ],
+  "cross_links": [
+    "genesis-06-01-08",
+    "jude-01-01-25",
+    "revelation-12-01-17"
+  ],
+  "media_ids": [
+    "yt-enoch-watchers-001"
+  ],
+  "transcript_ids": [
+    "tx-enoch-watchers-001"
+  ],
+  "canonical_priority": 100
+}
