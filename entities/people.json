@@ -1,0 +1,105 @@
+{
+ "entities":[
+
+{
+ "entity":"Abraham",
+ "category":"Person",
+ "description":"Patriarch of Israel and recipient of the covenant promise.",
+ "canonical_sources":[
+  "Genesis",
+  "Romans",
+  "Hebrews"
+ ],
+ "related_entities":[
+  "Isaac",
+  "Sarah",
+  "Melchizedek"
+ ],
+ "related_concepts":[
+  "covenant",
+  "faith"
+ ]
+},
+
+{
+ "entity":"Moses",
+ "category":"Person",
+ "description":"Prophet and leader who delivered Israel from Egypt and received the Law.",
+ "canonical_sources":[
+  "Exodus",
+  "Numbers",
+  "Deuteronomy"
+ ],
+ "related_entities":[
+  "Aaron",
+  "Joshua",
+  "Pharaoh"
+ ],
+ "related_concepts":[
+  "law",
+  "covenant"
+ ]
+},
+
+{
+ "entity":"David",
+ "category":"Person",
+ "description":"King of Israel and central figure in the messianic lineage.",
+ "canonical_sources":[
+  "1 Samuel",
+  "2 Samuel",
+  "Psalms"
+ ],
+ "related_entities":[
+  "Solomon",
+  "Saul",
+  "Nathan"
+ ],
+ "related_concepts":[
+  "kingdom",
+  "messiah"
+ ]
+},
+
+{
+ "entity":"Solomon",
+ "category":"Person",
+ "description":"King of Israel known for wisdom and temple construction.",
+ "canonical_sources":[
+  "1 Kings",
+  "Proverbs",
+  "Ecclesiastes"
+ ],
+ "related_entities":[
+  "David"
+ ],
+ "related_concepts":[
+  "wisdom",
+  "temple"
+ ]
+},
+
+{
+ "entity":"Jesus",
+ "category":"Person",
+ "description":"Central figure of the New Testament and fulfillment of messianic prophecy.",
+ "canonical_sources":[
+  "Matthew",
+  "Mark",
+  "Luke",
+  "John"
+ ],
+ "related_entities":[
+  "Peter",
+  "John the Baptist",
+  "Mary"
+ ],
+ "related_concepts":[
+  "messiah",
+  "salvation",
+  "kingdom of God"
+ ]
+}
+
+]
+}
