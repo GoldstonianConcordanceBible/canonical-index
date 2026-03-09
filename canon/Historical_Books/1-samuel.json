@@ -1,0 +1,45 @@
+{
+  "book": "1 Samuel",
+  "canonical_order": 9,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "1 Samuel narrates the transition from judges to monarchy through Samuel’s prophetic ministry, Saul’s rise and fall, and David’s anointing.",
+  "historical_context": "The book marks a major institutional shift in Israel’s life. It examines kingship under covenant, contrasting outward appearance with inward character and showing the tension between divine rule and human political desire.",
+  "major_themes": [
+    "prophetic authority",
+    "kingship",
+    "obedience",
+    "rejection",
+    "anointing"
+  ],
+  "philosophical_themes": [
+    "legitimacy and power",
+    "character versus appearance",
+    "authority under God",
+    "the cost of disobedience"
+  ],
+  "key_figures": [
+    "Samuel",
+    "Hannah",
+    "Saul",
+    "David",
+    "Jonathan"
+  ],
+  "related_books": [
+    "Judges",
+    "2 Samuel",
+    "Psalms"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The book reveals the danger of preferring visible power over covenant faithfulness.",
+    "water": "Prophetic correction washes away illusions of self-made rule.",
+    "fire": "David’s anointing signals transformation toward a deeper covenant kingship."
+  },
+  "ontology_tags": [
+    "monarchy",
+    "prophet",
+    "anointing",
+    "saul",
+    "david"
+  ]
+}
