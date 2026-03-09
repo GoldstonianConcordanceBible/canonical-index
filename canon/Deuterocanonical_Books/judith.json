@@ -1,0 +1,31 @@
+{
+  "book": "Judith",
+  "canonical_order": 43,
+  "canon_group": "Deuterocanon",
+  "summary": "Judith recounts the story of a courageous widow who saves her people by defeating the invading general Holofernes.",
+  "historical_context": "The narrative reflects Jewish resistance traditions and emphasizes courage, faith, and divine deliverance during crisis.",
+  "major_themes": [
+    "faith",
+    "courage",
+    "deliverance",
+    "divine justice"
+  ],
+  "philosophical_themes": [
+    "heroic virtue",
+    "faithful resistance",
+    "moral courage"
+  ],
+  "key_figures": [
+    "Judith",
+    "Holofernes"
+  ],
+  "related_books": [
+    "Esther",
+    "Judges"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The crisis reveals the vulnerability of the people.",
+    "water": "Faith cleanses fear and hesitation.",
+    "fire": "Courage transforms danger into victory."
+  }
+}
