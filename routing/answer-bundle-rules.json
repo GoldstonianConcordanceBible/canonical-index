@@ -1,0 +1,34 @@
+{
+  "bundle_types": [
+    {
+      "name": "book-answer-bundle",
+      "include": [
+        "book_summary",
+        "related_themes",
+        "top_video",
+        "playlist",
+        "transcript_excerpt"
+      ]
+    },
+    {
+      "name": "theme-answer-bundle",
+      "include": [
+        "theme_definition",
+        "related_books",
+        "top_longform",
+        "top_short",
+        "graph_neighbors"
+      ]
+    },
+    {
+      "name": "ethiopian-answer-bundle",
+      "include": [
+        "canon_difference_note",
+        "related_ethiopian_books",
+        "top_video",
+        "master_playlist",
+        "transcript_excerpt"
+      ]
+    }
+  ]
+}
