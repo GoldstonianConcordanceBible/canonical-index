@@ -1,0 +1,38 @@
+openapi: 3.1.0
+info:
+  title: GCB Canonical Index API
+  version: 1.0.0
+  description: API for querying the Goldstonian Concordance Bible corpus.
+paths:
+  /books:
+    get:
+      summary: List all books
+      responses:
+        '200':
+          description: List of books
+  /books/{slug}:
+    get:
+      summary: Get one book
+      parameters:
+        - in: path
+          name: slug
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Book object
+  /search:
+    post:
+      summary: Hybrid search over the GCB corpus
+      requestBody:
+        required: true
+      responses:
+        '200':
+          description: Ranked search results
+  /ask:
+    post:
+      summary: Ask a theological question against the GCB corpus
+      responses:
+        '200':
+          description: Retrieval bundle for answer generation
