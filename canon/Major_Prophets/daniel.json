@@ -1,0 +1,43 @@
+{
+  "book": "Daniel",
+  "canonical_order": 29,
+  "canon_group": "Major Prophets",
+  "testament": "Old Testament",
+  "summary": "Daniel combines court narratives and apocalyptic visions that reveal God’s sovereignty over empires and the eventual triumph of divine kingdom.",
+  "historical_context": "Set during the Babylonian exile, the book presents faithful resistance within imperial power structures alongside prophetic visions of world history.",
+  "major_themes": [
+    "divine sovereignty",
+    "faithfulness",
+    "apocalyptic vision",
+    "kingdom of God",
+    "persecution"
+  ],
+  "philosophical_themes": [
+    "empire and transcendence",
+    "faith under oppression",
+    "history and destiny"
+  ],
+  "key_figures": [
+    "Daniel",
+    "Nebuchadnezzar",
+    "Belshazzar",
+    "Darius"
+  ],
+  "related_books": [
+    "Ezekiel",
+    "Revelation",
+    "Matthew"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Daniel reflects the tension between earthly empires and divine authority.",
+    "water": "Faithfulness purifies loyalty to God even within hostile systems.",
+    "fire": "Apocalyptic visions transform history into a stage for ultimate divine victory."
+  },
+  "ontology_tags": [
+    "apocalypse",
+    "empire",
+    "faithfulness",
+    "kingdom-of-god",
+    "prophecy"
+  ]
+}
