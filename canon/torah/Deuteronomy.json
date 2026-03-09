@@ -1,0 +1,21 @@
+{
+ "book": "Deuteronomy",
+ "canonical_order": 5,
+ "canon_group": "Torah",
+ "summary": "Deuteronomy contains Moses' final speeches reiterating the law and covenant before Israel enters the promised land.",
+ "major_themes": [
+   "covenant renewal",
+   "law",
+   "obedience",
+   "blessing and curse"
+ ],
+ "philosophical_themes": [
+   "collective ethics",
+   "moral responsibility"
+ ],
+ "mirror_water_fire": {
+   "mirror": "Remembering the law",
+   "water": "Renewing covenant commitment",
+   "fire": "Transformation through obedience"
+ }
+}
