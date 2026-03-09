@@ -1,0 +1,44 @@
+{
+  "book": "Nehemiah",
+  "canonical_order": 16,
+  "canon_group": "Historical",
+  "testament": "Old Testament",
+  "summary": "Nehemiah recounts the rebuilding of Jerusalem’s walls, opposition from surrounding powers, social reform, covenant renewal, and the disciplined reconstruction of communal life.",
+  "historical_context": "Set after the return from exile, Nehemiah presents political leadership joined with spiritual commitment. The book stresses that restoration requires both structural rebuilding and moral reform.",
+  "major_themes": [
+    "rebuilding",
+    "leadership",
+    "perseverance",
+    "social justice",
+    "covenant renewal"
+  ],
+  "philosophical_themes": [
+    "institutional reconstruction",
+    "leadership under pressure",
+    "discipline and endurance",
+    "public responsibility"
+  ],
+  "key_figures": [
+    "Nehemiah",
+    "Ezra",
+    "Sanballat",
+    "Tobiah"
+  ],
+  "related_books": [
+    "Ezra",
+    "Haggai",
+    "Zechariah"
+  ],
+  "mirror_water_fire": {
+    "mirror": "The broken walls reflect the exposed condition of a compromised people.",
+    "water": "Confession, reading of the law, and reform cleanse the community’s priorities.",
+    "fire": "The rebuilt city becomes a sign of disciplined restoration and covenant endurance."
+  },
+  "ontology_tags": [
+    "rebuilding",
+    "jerusalem",
+    "leadership",
+    "restoration",
+    "covenant-renewal"
+  ]
+}
