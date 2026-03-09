@@ -1,0 +1,45 @@
+{
+  "book": "Proverbs",
+  "canonical_order": 19,
+  "canon_group": "Wisdom",
+  "testament": "Old Testament",
+  "summary": "Proverbs presents wisdom sayings and instruction aimed at forming moral judgment, disciplined speech, practical righteousness, and fear of the Lord as the foundation of knowledge.",
+  "historical_context": "Associated primarily with Solomon, Proverbs reflects Israel’s wisdom tradition while shaping character for family, court, commerce, and community life.",
+  "major_themes": [
+    "wisdom",
+    "fear of the Lord",
+    "discipline",
+    "speech",
+    "righteous living"
+  ],
+  "philosophical_themes": [
+    "virtue ethics",
+    "formation of character",
+    "practical reason",
+    "moral causality"
+  ],
+  "key_figures": [
+    "Solomon",
+    "Agur",
+    "Lemuel",
+    "Lady Wisdom",
+    "Lady Folly"
+  ],
+  "related_books": [
+    "1 Kings",
+    "Ecclesiastes",
+    "James"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Proverbs exposes foolishness in speech, desire, laziness, pride, and injustice.",
+    "water": "Wisdom instruction cleanses the mind by ordering life under the fear of the Lord.",
+    "fire": "Habitual wisdom transforms knowledge into righteous action and stable character."
+  },
+  "ontology_tags": [
+    "wisdom",
+    "virtue",
+    "speech",
+    "discipline",
+    "fear-of-the-lord"
+  ]
+}
