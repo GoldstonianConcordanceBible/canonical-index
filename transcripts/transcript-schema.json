@@ -1,0 +1,20 @@
+{
+  "id": "",
+  "media_id": "",
+  "source_type": "",
+  "language": "en",
+  "segments": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 0,
+      "text": "",
+      "books": [],
+      "themes": [],
+      "entities": []
+    }
+  ],
+  "full_text": "",
+  "cleaned_text": "",
+  "token_count": 0,
+  "last_updated": ""
+}
