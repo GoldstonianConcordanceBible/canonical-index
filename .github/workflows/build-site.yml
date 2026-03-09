@@ -1,0 +1,13 @@
+name: Build Site
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build-site:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate corpus
+        run: python scripts/validate_corpus.py
