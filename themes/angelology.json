@@ -1,0 +1,21 @@
+{
+ "theme": "Angelology",
+ "description": "The study of angels within biblical literature.",
+ "related_books": [
+   "Genesis",
+   "Daniel",
+   "Enoch",
+   "Revelation"
+ ],
+ "entities": [
+   "Seraphim",
+   "Cherubim",
+   "Ophanim",
+   "Archangels"
+ ],
+ "related_themes": [
+   "demonology",
+   "watchers",
+   "heavenly hierarchy"
+ ]
+}
