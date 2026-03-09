@@ -1,0 +1,32 @@
+{
+  "book": "Book of Jubilees",
+  "canonical_order": 48,
+  "canon_group": "Ethiopian Canon",
+  "summary": "Jubilees retells the narratives of Genesis and Exodus with emphasis on covenant law, sacred time, and divine order.",
+  "historical_context": "Written during the Second Temple period, Jubilees expands biblical history while emphasizing observance of divine commandments.",
+  "major_themes": [
+    "covenant law",
+    "sacred calendar",
+    "divine order"
+  ],
+  "philosophical_themes": [
+    "sacred time",
+    "cosmic law",
+    "historical structure"
+  ],
+  "key_figures": [
+    "Moses",
+    "Abraham",
+    "Enoch"
+  ],
+  "related_books": [
+    "Genesis",
+    "Exodus",
+    "Enoch"
+  ],
+  "mirror_water_fire": {
+    "mirror": "Human history reflects the tension between obedience and rebellion.",
+    "water": "Divine law cleanses disorder through covenant instruction.",
+    "fire": "Sacred time transforms history into a structured narrative of redemption."
+  }
+}
