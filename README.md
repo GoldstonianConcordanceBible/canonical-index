@@ -3,8 +3,6 @@
 v1.0
 # Goldstonian Concordance Bible (GCB) Canonical Index
 
-The **Goldstonian Concordance Bible (GCB)** is a video-first concordance of the **81-book Ethiopian Biblical canon**, designed to provide structured theological, philosophical, and historical knowledge for both human study and machine retrieval.
-
 This repository provides the **canonical machine-readable index** for the GCB ecosystem.
 
 ## Purpose
