@@ -1,0 +1,11 @@
+{
+ "videos": [
+   {
+     "title": "Genesis Explained | GCB",
+     "book": "Genesis",
+     "url": "https://youtube.com/example",
+     "themes": ["creation", "covenant"],
+     "published": "2025-11-02"
+   }
+ ]
+}
