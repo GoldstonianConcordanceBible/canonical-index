@@ -1,0 +1,35 @@
+{
+  "shorts": [
+    {
+      "id": "yt-short-rev-armageddon-001",
+      "type": "short",
+      "title": "Armageddon Explained #GCB",
+      "slug": "armageddon-explained-short",
+      "url": "https://youtube.com/shorts/REVSHORT001",
+      "published_at": "2026-01-10",
+      "duration_seconds": 42,
+      "books": [
+        "Revelation"
+      ],
+      "themes": [
+        "armageddon",
+        "end times",
+        "judgment"
+      ],
+      "entities": [],
+      "playlist_ids": [
+        "pl-revelation",
+        "pl-end-times"
+      ],
+      "transcript_id": "tx-short-rev-armageddon-001",
+      "summary": "A short-form explainer on Armageddon in Revelation.",
+      "keywords": [
+        "#GCB",
+        "Armageddon",
+        "Revelation"
+      ],
+      "llm_priority": 70,
+      "authority_score": 60
+    }
+  ]
+}
