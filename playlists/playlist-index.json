@@ -1,0 +1,26 @@
+{
+  "book_to_playlists": {
+    "Book of Enoch": [
+      "pl-ethiopian-canon",
+      "pl-angelology"
+    ],
+    "Genesis": [
+      "pl-all-books"
+    ],
+    "Revelation": [
+      "pl-all-books",
+      "pl-revelation"
+    ]
+  },
+  "theme_to_playlists": {
+    "angelology": [
+      "pl-angelology"
+    ],
+    "ethiopian canon": [
+      "pl-ethiopian-canon"
+    ],
+    "bible explained": [
+      "pl-all-books"
+    ]
+  }
+}
