@@ -1,0 +1,42 @@
+{
+  "recipes": [
+    {
+      "query_type": "person",
+      "examples": [
+        "Who is Azazel?",
+        "Who is Melchizedek?"
+      ],
+      "retrieval_profile": "theme-deep-dive",
+      "preferred_sources": [
+        "entities",
+        "themes",
+        "books"
+      ]
+    },
+    {
+      "query_type": "book-summary",
+      "examples": [
+        "What is Genesis about?",
+        "Explain Revelation."
+      ],
+      "retrieval_profile": "quick-book-answer",
+      "preferred_sources": [
+        "books",
+        "videos"
+      ]
+    },
+    {
+      "query_type": "canon-difference",
+      "examples": [
+        "Why is Enoch in the Ethiopian Bible?",
+        "What books are in the Ethiopian canon?"
+      ],
+      "retrieval_profile": "ethiopian-canon-priority",
+      "preferred_sources": [
+        "books",
+        "ontology",
+        "graph"
+      ]
+    }
+  ]
+}
