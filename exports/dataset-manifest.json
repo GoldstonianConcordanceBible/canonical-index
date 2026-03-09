@@ -1,0 +1,20 @@
+{
+  "name": "Goldstonian Concordance Bible Canonical Index",
+  "version": "0.4.0",
+  "bundles": [
+    "bundle-lite.json",
+    "bundle-full.json",
+    "bundle-rag.json",
+    "citation-bundle.json"
+  ],
+  "includes": {
+    "canon": true,
+    "ontology": true,
+    "entities": true,
+    "passages": true,
+    "media": true,
+    "transcripts": true,
+    "playlists": true,
+    "benchmarks": true
+  }
+}
