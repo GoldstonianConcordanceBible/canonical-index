@@ -1,0 +1,35 @@
+{
+ "clusters": [
+
+{
+ "name": "Soteriology",
+ "concepts": [
+  "salvation",
+  "grace",
+  "faith",
+  "atonement",
+  "redemption"
+ ]
+},
+
+{
+ "name": "Eschatology",
+ "concepts": [
+  "apocalypse",
+  "resurrection",
+  "judgment",
+  "new creation"
+ ]
+},
+
+{
+ "name": "Christology",
+ "concepts": [
+  "messiah",
+  "incarnation",
+  "divine sonship"
+ ]
+}
+
+]
+}
