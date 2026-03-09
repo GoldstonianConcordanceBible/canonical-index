@@ -1,0 +1,29 @@
+{
+ "book": "Genesis",
+ "canon_group": "Torah",
+ "order": 1,
+ "summary": "Genesis describes creation, the fall of humanity, the flood, and the covenant lineage beginning with Abraham.",
+ "themes": [
+   "creation",
+   "covenant",
+   "fall",
+   "genealogy"
+ ],
+ "key_figures": [
+   "Adam",
+   "Eve",
+   "Noah",
+   "Abraham",
+   "Isaac",
+   "Jacob",
+   "Joseph"
+ ],
+ "related_books": [
+   "Exodus",
+   "Jubilees",
+   "Enoch"
+ ],
+ "gcb_video_explanations": [
+   "https://youtube.com/example-genesis-video"
+ ]
+}
