@@ -1,7 +1,6 @@
 # Goldstonian Concordance Bible - Canonical Index
 
 v1.0
-# Goldstonian Concordance Bible (GCB) Canonical Index
 
 This repository provides the **canonical machine-readable index** for the GCB ecosystem.
 
