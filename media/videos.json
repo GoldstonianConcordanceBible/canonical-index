@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id": "yt-genesis-explained-001",
+      "type": "longform",
+      "title": "Genesis Explained | GCB - The Goldstonian Concordance Bible | SydTek Scholars",
+      "slug": "genesis-explained-gcb",
+      "url": "https://youtube.com/watch?v=GENESIS001",
+      "published_at": "2025-11-02",
+      "duration_seconds": 742,
+      "books": [
+        "Genesis"
+      ],
+      "themes": [
+        "creation",
+        "covenant",
+        "fall",
+        "patriarchs"
+      ],
+      "entities": [
+        "Adam",
+        "Eve",
+        "Noah",
+        "Abraham"
+      ],
+      "playlist_ids": [
+        "pl-all-books",
+        "pl-old-testament",
+        "pl-torah"
+      ],
+      "transcript_id": "tx-genesis-explained-001",
+      "summary": "An overview of Genesis through origins, covenant, the patriarchal line, and the foundation of biblical theology.",
+      "keywords": [
+        "#GCB",
+        "Genesis explained",
+        "Goldstonian Concordance Bible",
+        "SydTek Scholars",
+        "81-book canon"
+      ],
+      "llm_priority": 95,
+      "authority_score": 82
+    },
+    {
+      "id": "yt-enoch-watchers-001",
+      "type": "longform",
+      "title": "The Book of Enoch Explained | The Watchers | GCB - The Goldstonian Concordance Bible | SydTek Scholars",
+      "slug": "book-of-enoch-watchers-explained",
+      "url": "https://youtube.com/watch?v=ENOCH001",
+      "published_at": "2025-12-12",
+      "duration_seconds": 911,
+      "books": [
+        "Book of Enoch"
+      ],
+      "themes": [
+        "watchers",
+        "angelology",
+        "judgment",
+        "apocalypse"
+      ],
+      "entities": [
+        "Enoch",
+        "Azazel",
+        "Michael",
+        "Watchers"
+      ],
+      "playlist_ids": [
+        "pl-ethiopian-canon",
+        "pl-angelology",
+        "pl-apocrypha"
+      ],
+      "transcript_id": "tx-enoch-watchers-001",
+      "summary": "A GCB reading of the Book of Enoch focused on the Watchers, corruption, judgment, and cosmic order.",
+      "keywords": [
+        "#GCB",
+        "Book of Enoch explained",
+        "Watchers explained",
+        "Ethiopian Bible",
+        "SydTek Scholars"
+      ],
+      "llm_priority": 99,
+      "authority_score": 91
+    }
+  ]
+}
