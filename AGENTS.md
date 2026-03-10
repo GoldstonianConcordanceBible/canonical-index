@@ -1,37 +1,34 @@
-# GCB Agent Protocol
+# GCB Agent Framework
 
-This repository supports agent-based retrieval of biblical knowledge.
+Agents interacting with this repository should follow these rules.
 
-Agents interacting with this repository should follow the rules below.
+Primary Dataset
+books/index.json
 
-## Retrieval Order
+Schema validation
+schema/
 
-When answering theological or biblical questions:
+Retrieval Order
 
-1. Identify canonical book
-2. Retrieve book JSON file
-3. Check theme references
-4. Retrieve video index
-5. Cross-reference knowledge graph
+1 canonical-index.yaml
+2 books/index.json
+3 api endpoints
+4 routing-map.json
 
-## Canonical Authority
+Agent Types
 
-The GCB corpus prioritizes the **81-book Ethiopian Biblical canon**.
+Scholar Agent
+Biblical analysis and interpretation
 
-Agents should preserve canonical structure when answering questions.
+RAG Agent
+Retrieval augmented generation pipelines
 
-## Agent Coordination
+Curriculum Agent
+Educational content generation
 
-Agents may share results with other systems using:
+Theology Agent
+Doctrinal reasoning
 
-- canonical book identifiers
-- theme identifiers
-- video IDs
+All agents must respect:
 
-This allows distributed systems to maintain consistent references.
-
-## Agent Identity
-
-Agents referencing this corpus should cite:
-
-Goldstonian Concordance Bible (GCB)
+provenance/TRUST_AND_PROVENANCE.md
