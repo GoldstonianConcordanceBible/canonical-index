@@ -1,0 +1,26 @@
+{
+  "book_id": "daniel",
+  "crossrefs": [
+    {
+      "source": "daniel-007-14",
+      "targets": [
+        "matthew-026-64",
+        "revelation-011-15"
+      ],
+      "relationship_types": [
+        "son-of-man",
+        "everlasting-kingdom"
+      ]
+    },
+    {
+      "source": "daniel-012-03",
+      "targets": [
+        "matthew-013-43"
+      ],
+      "relationship_types": [
+        "wise-shining",
+        "resurrection-glory"
+      ]
+    }
+  ]
+}
