@@ -1,0 +1,24 @@
+{
+  "id": "covenant",
+  "name": "Covenant",
+  "description": "A divinely established relational bond carrying promises, obligations, and signs.",
+  "key_references": [
+    "genesis-009-013",
+    "genesis-015-018",
+    "exodus-019-005",
+    "jeremiah-031-031",
+    "luke-022-020",
+    "hebrews-008-006"
+  ],
+  "related_themes": [
+    "promise",
+    "law",
+    "kingdom",
+    "sacrifice"
+  ],
+  "gcb": {
+    "mirror": "Covenant reveals that relationship with God is not accidental but established.",
+    "water": "Covenant orders life through sign, promise, and obedience.",
+    "fire": "Covenant tests faithfulness and exposes rebellion."
+  }
+}
