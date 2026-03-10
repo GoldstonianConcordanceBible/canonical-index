@@ -79,6 +79,14 @@
       ],
       "llm_priority": 99,
       "authority_score": 91
+      ],
+      {
+  "videos": [
+    {
+      "id": "yt-genesis-explained",
+      "book": "genesis",
+      "title": "Genesis Explained | GCB",
+      "platform": "youtube"
     }
   ]
 }
