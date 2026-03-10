@@ -1,0 +1,23 @@
+{
+  "id": "kingdom",
+  "name": "Kingdom",
+  "description": "The reign, rule, and manifest authority of God.",
+  "key_references": [
+    "1-samuel-008-007",
+    "psalms-145-013",
+    "daniel-007-014",
+    "matthew-006-010",
+    "revelation-011-015"
+  ],
+  "related_themes": [
+    "authority",
+    "messiah",
+    "inheritance",
+    "judgment"
+  ],
+  "gcb": {
+    "mirror": "Kingdom reveals who truly rules.",
+    "water": "Kingdom orders life under divine authority.",
+    "fire": "Kingdom judges all rival thrones."
+  }
+}
