@@ -1,0 +1,194 @@
+[
+  {
+    "book": "genesis",
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning God created the heaven and the earth.",
+    "themes": ["creation", "divine-sovereignty", "beginning"],
+    "entities": ["god", "heavens", "earth"],
+    "cross_refs": ["john-001-001", "hebrews-011-003", "revelation-004-011"],
+    "gcb": {
+      "mirror": "Reality begins in God, not in man.",
+      "water": "Creation is ordered and prepared for life.",
+      "fire": "The opening verse establishes divine authority over all existence."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "genesis",
+    "chapter": 1,
+    "verse": 2,
+    "text": "And the earth was without form, and void; and darkness was upon the face of the deep.",
+    "themes": ["chaos", "creation", "spirit-of-god"],
+    "entities": ["earth", "deep", "spirit-of-god"],
+    "cross_refs": ["jeremiah-004-023", "psalms-104-030"],
+    "gcb": {
+      "mirror": "The unformed world reflects the condition of man before divine ordering.",
+      "water": "The Spirit hovers over chaos as preparation and cleansing.",
+      "fire": "God transforms disorder without surrendering to it."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "genesis",
+    "chapter": 1,
+    "verse": 3,
+    "text": "And God said, Let there be light: and there was light.",
+    "themes": ["light", "word-of-god", "creation"],
+    "entities": ["god", "light"],
+    "cross_refs": ["john-001-005", "2-corinthians-004-006", "psalms-033-009"],
+    "gcb": {
+      "mirror": "God speaks and reality responds.",
+      "water": "Light clarifies what chaos concealed.",
+      "fire": "The word of God creates distinction."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "genesis",
+    "chapter": 6,
+    "verse": 18,
+    "text": "But with thee will I establish my covenant.",
+    "themes": ["covenant", "noah", "preservation"],
+    "entities": ["god", "noah"],
+    "cross_refs": ["genesis-009-009", "1-peter-003-020"],
+    "gcb": {
+      "mirror": "Covenant reveals divine intentionality in judgment and preservation.",
+      "water": "The covenant preserves life through the flood.",
+      "fire": "Judgment and mercy meet in covenant."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "genesis",
+    "chapter": 15,
+    "verse": 18,
+    "text": "In the same day the LORD made a covenant with Abram.",
+    "themes": ["covenant", "abraham", "promise"],
+    "entities": ["god", "abraham"],
+    "cross_refs": ["romans-004-003", "galatians-003-017"],
+    "gcb": {
+      "mirror": "Promise is rooted in divine initiative.",
+      "water": "Covenant gives structure to the promise.",
+      "fire": "Faith is tested in the waiting."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "exodus",
+    "chapter": 3,
+    "verse": 14,
+    "text": "I AM THAT I AM.",
+    "themes": ["divine-name", "revelation", "presence"],
+    "entities": ["god", "moses"],
+    "cross_refs": ["john-008-058"],
+    "gcb": {
+      "mirror": "God reveals Himself as self-existent.",
+      "water": "The name stabilizes Moses in mission.",
+      "fire": "The divine name confronts every false power."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "exodus",
+    "chapter": 12,
+    "verse": 13,
+    "text": "When I see the blood, I will pass over you.",
+    "themes": ["passover", "deliverance", "judgment"],
+    "entities": ["god", "israel"],
+    "cross_refs": ["1-corinthians-005-007", "hebrews-011-028"],
+    "gcb": {
+      "mirror": "Deliverance comes by divine provision, not human merit.",
+      "water": "The blood marks a people set apart.",
+      "fire": "Judgment passes over those under the sign."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "exodus",
+    "chapter": 19,
+    "verse": 5,
+    "text": "If ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me.",
+    "themes": ["covenant", "law", "nation", "obedience"],
+    "entities": ["god", "israel"],
+    "cross_refs": ["deuteronomy-007-006", "1-peter-002-009"],
+    "gcb": {
+      "mirror": "Identity is formed through covenantal obedience.",
+      "water": "The covenant orders a people into belonging.",
+      "fire": "Obedience separates the holy people from the nations."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "leviticus",
+    "chapter": 19,
+    "verse": 2,
+    "text": "Ye shall be holy: for I the LORD your God am holy.",
+    "themes": ["holiness", "law", "identity"],
+    "entities": ["god", "israel"],
+    "cross_refs": ["1-peter-001-016"],
+    "gcb": {
+      "mirror": "Holiness reflects the character of God.",
+      "water": "Holiness orders life through separation.",
+      "fire": "Holiness burns away compromise."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "numbers",
+    "chapter": 6,
+    "verse": 24,
+    "text": "The LORD bless thee, and keep thee.",
+    "themes": ["blessing", "priesthood", "presence"],
+    "entities": ["god", "israel", "aaron"],
+    "cross_refs": ["psalms-067-001"],
+    "gcb": {
+      "mirror": "Blessing reveals divine favor and nearness.",
+      "water": "Blessing rests upon an ordered people.",
+      "fire": "Divine keeping protects through wilderness testing."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "deuteronomy",
+    "chapter": 6,
+    "verse": 4,
+    "text": "Hear, O Israel: The LORD our God is one LORD.",
+    "themes": ["unity-of-god", "covenant", "identity"],
+    "entities": ["god", "israel"],
+    "cross_refs": ["mark-012-029"],
+    "gcb": {
+      "mirror": "The people are anchored in the oneness of God.",
+      "water": "Confession orders worship and identity.",
+      "fire": "Exclusive devotion judges divided allegiance."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "deuteronomy",
+    "chapter": 30,
+    "verse": 19,
+    "text": "I have set before you life and death, blessing and cursing: therefore choose life.",
+    "themes": ["choice", "covenant", "life", "judgment"],
+    "entities": ["god", "israel", "moses"],
+    "cross_refs": ["john-010-010"],
+    "gcb": {
+      "mirror": "Life with God is set before man as a real decision.",
+      "water": "Covenant clarifies the path of life.",
+      "fire": "Choice exposes loyalty and consequence."
+    },
+    "source": "data-source/source-torah.json",
+    "tradition": "ethiopian"
+  }
+]
