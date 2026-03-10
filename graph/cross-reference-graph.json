@@ -1,0 +1,20 @@
+{
+  "graph_type": "cross-reference",
+  "edges": [
+    {
+      "source": "genesis-001-001",
+      "target": "john-001-001",
+      "relationship": "creation-parallel"
+    },
+    {
+      "source": "genesis-001-003",
+      "target": "2-corinthians-004-006",
+      "relationship": "light-theme"
+    },
+    {
+      "source": "psalms-022-001",
+      "target": "matthew-027-046",
+      "relationship": "messianic-echo"
+    }
+  ]
+}
