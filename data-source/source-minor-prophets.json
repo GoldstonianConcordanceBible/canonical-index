@@ -1,0 +1,194 @@
+[
+  {
+    "book": "hosea",
+    "chapter": 6,
+    "verse": 6,
+    "text": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.",
+    "themes": ["mercy", "repentance", "knowledge-of-god"],
+    "entities": ["god", "israel"],
+    "cross_refs": ["matthew-009-13", "matthew-012-07"],
+    "gcb": {
+      "mirror": "God reveals that covenant faithfulness is deeper than ritual performance.",
+      "water": "True repentance cleanses worship from empty form.",
+      "fire": "Mercy burns through dead religion."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "joel",
+    "chapter": 2,
+    "verse": 28,
+    "text": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh.",
+    "themes": ["spirit", "day-of-the-lord", "outpouring"],
+    "entities": ["god", "spirit"],
+    "cross_refs": ["acts-002-17"],
+    "gcb": {
+      "mirror": "God reveals a future widening of His presence among His people.",
+      "water": "The Spirit is poured out as renewal and empowerment.",
+      "fire": "The outpouring ignites prophetic witness."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "amos",
+    "chapter": 5,
+    "verse": 24,
+    "text": "But let judgment run down as waters, and righteousness as a mighty stream.",
+    "themes": ["justice", "righteousness", "judgment"],
+    "entities": ["god", "israel"],
+    "cross_refs": ["micah-006-08", "matthew-023-23"],
+    "gcb": {
+      "mirror": "Justice reveals the moral weight of covenant life.",
+      "water": "Righteousness should flow, not drip.",
+      "fire": "Judgment burns against exploitative religion."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "obadiah",
+    "chapter": 1,
+    "verse": 15,
+    "text": "For the day of the LORD is near upon all the heathen.",
+    "themes": ["day-of-the-lord", "judgment", "nations"],
+    "entities": ["god", "edom", "nations"],
+    "cross_refs": ["joel-002-01", "revelation-006-17"],
+    "gcb": {
+      "mirror": "No nation stands outside divine reckoning.",
+      "water": "Judgment levels false security among the proud.",
+      "fire": "The day of the Lord consumes arrogant power."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "jonah",
+    "chapter": 2,
+    "verse": 9,
+    "text": "Salvation is of the LORD.",
+    "themes": ["salvation", "mercy", "deliverance"],
+    "entities": ["god", "jonah"],
+    "cross_refs": ["psalms-003-08", "revelation-007-10"],
+    "gcb": {
+      "mirror": "Deliverance reveals that salvation originates in God alone.",
+      "water": "Mercy reaches into the depths.",
+      "fire": "Salvation breaks human control and reorients the prophet."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "micah",
+    "chapter": 5,
+    "verse": 2,
+    "text": "But thou, Bethlehem Ephratah... out of thee shall he come forth unto me that is to be ruler in Israel.",
+    "themes": ["messiah", "kingdom", "prophetic-bridge"],
+    "entities": ["messiah", "bethlehem"],
+    "cross_refs": ["matthew-002-06", "john-007-42"],
+    "gcb": {
+      "mirror": "God reveals kingdom through humble beginnings.",
+      "water": "Bethlehem becomes a vessel of promise.",
+      "fire": "Messianic prophecy burns through political expectations."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "nahum",
+    "chapter": 1,
+    "verse": 7,
+    "text": "The LORD is good, a strong hold in the day of trouble.",
+    "themes": ["judgment", "refuge", "goodness-of-god"],
+    "entities": ["god"],
+    "cross_refs": ["psalms-046-01"],
+    "gcb": {
+      "mirror": "God is revealed as both judge and refuge.",
+      "water": "Goodness shelters the faithful in trouble.",
+      "fire": "Judgment distinguishes refuge from ruin."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "habakkuk",
+    "chapter": 2,
+    "verse": 4,
+    "text": "The just shall live by his faith.",
+    "themes": ["faith", "justice", "endurance"],
+    "entities": ["just-one"],
+    "cross_refs": ["romans-001-17", "galatians-003-11", "hebrews-010-38"],
+    "gcb": {
+      "mirror": "Faith reveals how the righteous endure delay and disorder.",
+      "water": "Trust steadies the soul while history trembles.",
+      "fire": "Faith burns brighter when the vision tarries."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "zephaniah",
+    "chapter": 3,
+    "verse": 17,
+    "text": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy.",
+    "themes": ["presence", "salvation", "remnant"],
+    "entities": ["god", "israel"],
+    "cross_refs": ["luke-015-07"],
+    "gcb": {
+      "mirror": "God reveals Himself as present, mighty, and rejoicing over His people.",
+      "water": "Salvation gathers and quiets the remnant.",
+      "fire": "Joy burns through fear after judgment."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "haggai",
+    "chapter": 1,
+    "verse": 8,
+    "text": "Go up to the mountain, and bring wood, and build the house.",
+    "themes": ["restoration", "temple", "obedience"],
+    "entities": ["god", "judah"],
+    "cross_refs": ["ezra-005-02"],
+    "gcb": {
+      "mirror": "Restoration requires action, not sentiment alone.",
+      "water": "Obedience rebuilds what neglect has left broken.",
+      "fire": "The command exposes misplaced priorities."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "zechariah",
+    "chapter": 4,
+    "verse": 6,
+    "text": "Not by might, nor by power, but by my spirit, saith the LORD of hosts.",
+    "themes": ["spirit", "restoration", "dependence"],
+    "entities": ["god", "spirit", "zerubbabel"],
+    "cross_refs": ["joel-002-28", "2-corinthians-010-04"],
+    "gcb": {
+      "mirror": "God reveals that true restoration comes by divine power, not human force.",
+      "water": "Dependence reorders labor under the Spirit.",
+      "fire": "The Spirit burns away self-reliance."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "malachi",
+    "chapter": 4,
+    "verse": 2,
+    "text": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings.",
+    "themes": ["healing", "fear-of-the-lord", "prophetic-bridge"],
+    "entities": ["god", "sun-of-righteousness"],
+    "cross_refs": ["luke-001-78", "john-001-09"],
+    "gcb": {
+      "mirror": "God reveals healing through the light of righteousness.",
+      "water": "Reverence prepares the soul for restoration.",
+      "fire": "The rising light burns away darkness and delay."
+    },
+    "source": "data-source/source-minor-prophets.json",
+    "tradition": "ethiopian"
+  }
+]
