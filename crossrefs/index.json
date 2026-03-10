@@ -1,0 +1,9 @@
+{
+  "dataset": "crossrefs",
+  "description": "Canonical cross-reference mappings for verse-level retrieval",
+  "books_indexed": [
+    "genesis",
+    "exodus"
+  ],
+  "schema": "schema/crossref.schema.json"
+}
