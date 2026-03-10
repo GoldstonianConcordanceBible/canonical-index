@@ -1,7 +1,0 @@
-{
-  "book": "luke",
-  "chapters": 24,
-  "verses": 1151,
-  "dataset_path": "verse-level/luke/",
-  "status": "seeded"
-}
