@@ -1,0 +1,7 @@
+{
+  "rules": [
+    "External datasets must include provenance",
+    "External datasets must not override canonical registry",
+    "External datasets may enrich themes and entities"
+  ]
+}
