@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bible Trivia Question",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "difficulty": { "type": "string" },
+    "question": { "type": "string" },
+    "choices": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "answer": { "type": "string" },
+    "source": { "type": "string" },
+    "theme": { "type": "string" }
+  },
+  "required": ["id", "difficulty", "question", "answer", "source"]
+}
