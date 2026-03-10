@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "prompt": "Explain kingdom using Mirror Water Fire",
+      "must_include": [
+        "rule",
+        "order",
+        "judgment"
+      ]
+    }
+  ]
+}
