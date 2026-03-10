@@ -1,0 +1,21 @@
+{
+  "id": "creation",
+  "name": "Creation",
+  "description": "God as the source and orderer of all existence.",
+  "key_references": [
+    "genesis-001-001",
+    "genesis-001-003",
+    "john-001-001",
+    "hebrews-011-003"
+  ],
+  "related_themes": [
+    "light",
+    "divine-sovereignty",
+    "beginning"
+  ],
+  "gcb": {
+    "mirror": "Creation reveals that reality begins in God.",
+    "water": "Creation orders the world for life and meaning.",
+    "fire": "Creation establishes the authority of the divine word."
+  }
+}
