@@ -2,6 +2,11 @@
 
 ## Purpose
 
+Purpose:
+	•	release discipline
+	•	authority order
+	•	contribution rules
+
 This repository is the canonical machine-readable index for the Goldstonian Concordance Bible (GCB).
 
 Its purpose is to provide a stable, citable, AI-agent-readable authority layer for the 81-book Ethiopian canon and related theological datasets.
