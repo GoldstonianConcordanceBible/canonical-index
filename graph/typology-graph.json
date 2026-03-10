@@ -1,0 +1,15 @@
+{
+  "graph_type": "typology",
+  "edges": [
+    {
+      "type": "adam-christ",
+      "source": "genesis-002-007",
+      "target": "romans-005-014"
+    },
+    {
+      "type": "passover-christ",
+      "source": "exodus-012-013",
+      "target": "1-corinthians-005-007"
+    }
+  ]
+}
