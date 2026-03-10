@@ -1,0 +1,15 @@
+{
+  "dataset": "gcb-qa",
+  "examples": [
+    {
+      "question": "Where does the Bible first mention covenant?",
+      "answer": "Genesis 6:18",
+      "sources": ["genesis-006-018"]
+    },
+    {
+      "question": "Which prophecy predicts the Messiah's birth in Bethlehem?",
+      "answer": "Micah 5:2",
+      "sources": ["micah-005-002"]
+    }
+  ]
+}
