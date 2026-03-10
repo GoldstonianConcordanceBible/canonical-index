@@ -1,0 +1,9 @@
+{
+  "release_artifacts": [
+    "canon",
+    "verse-level",
+    "graph",
+    "concordance",
+    "ontology"
+  ]
+}
