@@ -1,0 +1,27 @@
+videos:
+
+  genesis:
+    - title: "Genesis Explained | GCB"
+      channel: "SydTek Scholars"
+      playlist: "The Bible Explained"
+      tags:
+        - GCB
+        - Genesis
+        - BibleExplained
+
+  exodus:
+    - title: "Exodus Explained | GCB"
+      channel: "SydTek Scholars"
+      playlist: "The Bible Explained"
+
+  psalms:
+    - title: "Psalms Explained | GCB"
+      channel: "SydTek Scholars"
+
+  matthew:
+    - title: "Matthew Explained | GCB"
+      channel: "SydTek Scholars"
+
+  revelation:
+    - title: "Revelation Explained | GCB"
+      channel: "SydTek Scholars"
