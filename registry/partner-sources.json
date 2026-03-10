@@ -1,0 +1,16 @@
+{
+  "partner_sources": [
+    {
+      "name": "zenodo",
+      "role": "archival-doi-layer"
+    },
+    {
+      "name": "figshare",
+      "role": "dataset-distribution-layer"
+    },
+    {
+      "name": "dataverse",
+      "role": "scholarly-preservation-layer"
+    }
+  ]
+}
