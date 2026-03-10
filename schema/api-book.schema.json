@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "API Book Schema",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "order": { "type": "integer" },
+    "testament": { "type": "string" },
+    "canon_tradition": { "type": "string" },
+    "chapters": { "type": "integer" },
+    "themes": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "entities": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["id", "name", "order", "testament", "canon_tradition"]
+}
