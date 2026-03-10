@@ -1,0 +1,482 @@
+[
+  {
+    "book": "matthew",
+    "chapter": 1,
+    "verse": 23,
+    "text": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel.",
+    "themes": ["gospel", "messiah", "incarnation"],
+    "entities": ["jesus", "immanuel"],
+    "cross_refs": ["isaiah-007-14"],
+    "gcb": {
+      "mirror": "The gospel reveals God entering history rather than remaining distant.",
+      "water": "Incarnation orders promise into fulfillment.",
+      "fire": "The coming of Christ burns through unbelief and expectation alike."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "matthew",
+    "chapter": 6,
+    "verse": 10,
+    "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven.",
+    "themes": ["kingdom-of-god", "prayer", "obedience"],
+    "entities": ["god", "jesus"],
+    "cross_refs": ["daniel-007-14"],
+    "gcb": {
+      "mirror": "Prayer reveals whether the heart truly desires God's rule.",
+      "water": "The kingdom orders life under heaven's will.",
+      "fire": "Kingdom prayer burns away self-sovereignty."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "mark",
+    "chapter": 1,
+    "verse": 15,
+    "text": "The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
+    "themes": ["gospel", "kingdom-of-god", "repentance"],
+    "entities": ["jesus"],
+    "cross_refs": ["joel-002-12", "matthew-004-17"],
+    "gcb": {
+      "mirror": "Fulfillment reveals that God's timing governs redemptive history.",
+      "water": "Repentance and belief prepare the soul for the kingdom.",
+      "fire": "The gospel confronts delay and indecision."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "luke",
+    "chapter": 1,
+    "verse": 32,
+    "text": "He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David.",
+    "themes": ["messiah", "kingdom-of-god", "davidic-covenant"],
+    "entities": ["jesus", "god", "david"],
+    "cross_refs": ["2-samuel-007-16", "isaiah-009-07"],
+    "gcb": {
+      "mirror": "Christ reveals the true heir of kingdom promise.",
+      "water": "The Davidic line is clarified in Jesus.",
+      "fire": "Messianic fulfillment burns through political reductionism."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "john",
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+    "themes": ["gospel", "word-of-god", "divinity-of-christ"],
+    "entities": ["jesus", "god", "word"],
+    "cross_refs": ["genesis-001-01"],
+    "gcb": {
+      "mirror": "Christ reveals that the beginning itself is personal and divine.",
+      "water": "The Word orders creation and redemption into one story.",
+      "fire": "The divinity of Christ burns through every diminished view of Him."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "john",
+    "chapter": 3,
+    "verse": 16,
+    "text": "For God so loved the world, that he gave his only begotten Son.",
+    "themes": ["gospel", "love", "salvation"],
+    "entities": ["god", "jesus", "world"],
+    "cross_refs": ["isaiah-053-05", "1-john-004-09"],
+    "gcb": {
+      "mirror": "Love reveals the costliness of salvation.",
+      "water": "The gift of the Son cleanses the meaning of divine love.",
+      "fire": "The cross-bound gift burns through unbelief."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "acts",
+    "chapter": 2,
+    "verse": 17,
+    "text": "I will pour out of my Spirit upon all flesh.",
+    "themes": ["holy-spirit", "church", "fulfillment"],
+    "entities": ["god", "holy-spirit", "church"],
+    "cross_refs": ["joel-002-28"],
+    "gcb": {
+      "mirror": "The Church reveals the overflow of prophetic promise into history.",
+      "water": "The Spirit gathers and empowers a people.",
+      "fire": "Pentecost ignites witness."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "romans",
+    "chapter": 1,
+    "verse": 17,
+    "text": "The just shall live by faith.",
+    "themes": ["justification", "faith", "gospel"],
+    "entities": ["paul", "just-one"],
+    "cross_refs": ["habakkuk-002-04"],
+    "gcb": {
+      "mirror": "The gospel reveals righteousness received, not achieved.",
+      "water": "Faith orders the soul under grace rather than self-justification.",
+      "fire": "Justification burns through boasting."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "1-corinthians",
+    "chapter": 5,
+    "verse": 7,
+    "text": "For even Christ our passover is sacrificed for us.",
+    "themes": ["atonement", "gospel", "typology"],
+    "entities": ["christ"],
+    "cross_refs": ["exodus-012-13"],
+    "gcb": {
+      "mirror": "Christ reveals the Passover pattern fulfilled.",
+      "water": "Sacrifice clarifies deliverance.",
+      "fire": "The Lamb burns through old categories by fulfilling them."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "2-corinthians",
+    "chapter": 5,
+    "verse": 17,
+    "text": "If any man be in Christ, he is a new creature.",
+    "themes": ["sanctification", "new-creation", "union-with-christ"],
+    "entities": ["christ"],
+    "cross_refs": ["ezekiel-036-26", "galatians-006-15"],
+    "gcb": {
+      "mirror": "Union with Christ reveals transformation at the deepest level.",
+      "water": "New creation cleanses identity from the inside out.",
+      "fire": "The old self is burned away in Christ."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "galatians",
+    "chapter": 3,
+    "verse": 11,
+    "text": "The just shall live by faith.",
+    "themes": ["justification", "faith", "grace"],
+    "entities": ["paul", "just-one"],
+    "cross_refs": ["habakkuk-002-04"],
+    "gcb": {
+      "mirror": "Grace reveals that life with God cannot be earned by law.",
+      "water": "Faith reorders covenant participation around promise.",
+      "fire": "Grace burns through legal boasting."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "ephesians",
+    "chapter": 2,
+    "verse": 8,
+    "text": "For by grace are ye saved through faith.",
+    "themes": ["grace", "salvation", "faith"],
+    "entities": ["god", "church"],
+    "cross_refs": ["romans-003-24", "titus-003-05"],
+    "gcb": {
+      "mirror": "Salvation reveals the generosity of God, not the sufficiency of man.",
+      "water": "Grace cleanses salvation from works-righteousness.",
+      "fire": "Grace burns through self-credit."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "philippians",
+    "chapter": 2,
+    "verse": 10,
+    "text": "At the name of Jesus every knee should bow.",
+    "themes": ["lordship-of-christ", "worship", "kingdom-of-god"],
+    "entities": ["jesus"],
+    "cross_refs": ["isaiah-045-23", "revelation-005-13"],
+    "gcb": {
+      "mirror": "The exaltation of Christ reveals the true center of worship.",
+      "water": "Lordship reorders all allegiance.",
+      "fire": "Every rival authority is burned away before Christ."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "colossians",
+    "chapter": 1,
+    "verse": 16,
+    "text": "For by him were all things created.",
+    "themes": ["divinity-of-christ", "creation", "lordship-of-christ"],
+    "entities": ["jesus", "god"],
+    "cross_refs": ["genesis-001-01", "john-001-01"],
+    "gcb": {
+      "mirror": "Christ reveals that creation and redemption belong to one Lord.",
+      "water": "All things find order in Him.",
+      "fire": "The supremacy of Christ burns through fragmented theology."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "1-thessalonians",
+    "chapter": 4,
+    "verse": 16,
+    "text": "For the Lord himself shall descend from heaven with a shout.",
+    "themes": ["resurrection", "return-of-christ", "hope"],
+    "entities": ["jesus"],
+    "cross_refs": ["daniel-012-02", "revelation-019-11"],
+    "gcb": {
+      "mirror": "Hope reveals whether the Church truly awaits the Lord.",
+      "water": "The promise steadies grief with resurrection expectation.",
+      "fire": "The return of Christ burns through despair."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "2-thessalonians",
+    "chapter": 2,
+    "verse": 3,
+    "text": "That day shall not come, except there come a falling away first.",
+    "themes": ["apostasy", "return-of-christ", "warning"],
+    "entities": ["church"],
+    "cross_refs": ["matthew-024-10", "1-timothy-004-01"],
+    "gcb": {
+      "mirror": "Warning reveals that endurance must be conscious, not assumed.",
+      "water": "Discernment keeps the Church from drifting.",
+      "fire": "Truth burns through deception before the day comes."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "1-timothy",
+    "chapter": 4,
+    "verse": 12,
+    "text": "Be thou an example of the believers.",
+    "themes": ["church", "leadership", "discipleship"],
+    "entities": ["timothy", "church", "paul"],
+    "cross_refs": ["titus-002-07"],
+    "gcb": {
+      "mirror": "Leadership reveals itself through embodied example.",
+      "water": "Discipleship orders the life before it orders others.",
+      "fire": "Example burns away empty authority."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "2-timothy",
+    "chapter": 3,
+    "verse": 16,
+    "text": "All scripture is given by inspiration of God.",
+    "themes": ["scripture", "authority", "teaching"],
+    "entities": ["god", "scripture", "paul", "timothy"],
+    "cross_refs": ["psalms-119-105", "2-peter-001-21"],
+    "gcb": {
+      "mirror": "Scripture reveals divine speech preserved for formation.",
+      "water": "The word orders doctrine, correction, and growth.",
+      "fire": "Scripture burns through human speculation."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "titus",
+    "chapter": 3,
+    "verse": 5,
+    "text": "Not by works of righteousness which we have done, but according to his mercy he saved us.",
+    "themes": ["grace", "salvation", "mercy"],
+    "entities": ["god", "church"],
+    "cross_refs": ["ephesians-002-08"],
+    "gcb": {
+      "mirror": "Mercy reveals the true source of salvation.",
+      "water": "Grace washes salvation clean of self-righteousness.",
+      "fire": "Mercy burns through pride."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "philemon",
+    "chapter": 1,
+    "verse": 16,
+    "text": "Not now as a servant, but above a servant, a brother beloved.",
+    "themes": ["reconciliation", "church", "brotherhood"],
+    "entities": ["philemon", "onesimus", "paul"],
+    "cross_refs": ["galatians-003-28"],
+    "gcb": {
+      "mirror": "The gospel reveals new social reality in Christ.",
+      "water": "Brotherhood reorders relationships under grace.",
+      "fire": "Reconciliation burns through old hierarchies."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "hebrews",
+    "chapter": 8,
+    "verse": 8,
+    "text": "Behold, the days come, saith the Lord, when I will make a new covenant.",
+    "themes": ["new-covenant", "priesthood", "fulfillment"],
+    "entities": ["jesus", "god"],
+    "cross_refs": ["jeremiah-031-31"],
+    "gcb": {
+      "mirror": "Christ reveals the covenant promised before.",
+      "water": "Fulfillment orders old and new without confusion.",
+      "fire": "The better covenant burns through shadows by bringing substance."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "james",
+    "chapter": 1,
+    "verse": 22,
+    "text": "Be ye doers of the word, and not hearers only.",
+    "themes": ["obedience", "wisdom", "discipleship"],
+    "entities": ["church"],
+    "cross_refs": ["ezra-007-10", "matthew-007-24"],
+    "gcb": {
+      "mirror": "The word reveals whether hearing has become life.",
+      "water": "Obedience orders truth into action.",
+      "fire": "Practice burns through self-deception."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "1-peter",
+    "chapter": 1,
+    "verse": 16,
+    "text": "Be ye holy; for I am holy.",
+    "themes": ["sanctification", "holiness", "identity"],
+    "entities": ["god", "church"],
+    "cross_refs": ["leviticus-019-02"],
+    "gcb": {
+      "mirror": "Holiness reveals what it means to belong to God.",
+      "water": "Sanctification orders the people through consecration.",
+      "fire": "Holiness burns through compromise."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "2-peter",
+    "chapter": 1,
+    "verse": 21,
+    "text": "Holy men of God spake as they were moved by the Holy Ghost.",
+    "themes": ["scripture", "holy-spirit", "authority"],
+    "entities": ["god", "holy-spirit", "scripture"],
+    "cross_refs": ["2-timothy-003-16"],
+    "gcb": {
+      "mirror": "Divine inspiration reveals scripture as carried by God.",
+      "water": "The Spirit orders prophetic speech into trustworthy witness.",
+      "fire": "Inspiration burns through reductionist readings of scripture."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "1-john",
+    "chapter": 4,
+    "verse": 8,
+    "text": "God is love.",
+    "themes": ["love", "gospel", "identity-of-god"],
+    "entities": ["god"],
+    "cross_refs": ["john-003-16"],
+    "gcb": {
+      "mirror": "Love reveals the character of God, not merely His gifts.",
+      "water": "Divine love cleanses the meaning of relationship.",
+      "fire": "Love burns through fear and false communion."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "2-john",
+    "chapter": 1,
+    "verse": 6,
+    "text": "And this is love, that we walk after his commandments.",
+    "themes": ["love", "obedience", "truth"],
+    "entities": ["church"],
+    "cross_refs": ["john-014-15"],
+    "gcb": {
+      "mirror": "Love reveals itself through ordered obedience, not abstraction.",
+      "water": "Truth gives form to love.",
+      "fire": "Obedience burns away sentimental distortion."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "3-john",
+    "chapter": 1,
+    "verse": 4,
+    "text": "I have no greater joy than to hear that my children walk in truth.",
+    "themes": ["truth", "discipleship", "joy"],
+    "entities": ["church"],
+    "cross_refs": ["nehemiah-008-10"],
+    "gcb": {
+      "mirror": "Truth reveals itself in lived faithfulness.",
+      "water": "Walking in truth orders joy into discipleship.",
+      "fire": "Truth burns through empty profession."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "jude",
+    "chapter": 1,
+    "verse": 14,
+    "text": "And Enoch also, the seventh from Adam, prophesied of these.",
+    "themes": ["judgment", "watchfulness", "ethiopian-canon-link"],
+    "entities": ["enoch"],
+    "cross_refs": ["enoch-001-09"],
+    "gcb": {
+      "mirror": "Judgment reveals continuity between canonical witness and ancient warning.",
+      "water": "The citation clarifies the breadth of scriptural memory.",
+      "fire": "Watchfulness burns through complacency."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "revelation",
+    "chapter": 1,
+    "verse": 8,
+    "text": "I am Alpha and Omega, the beginning and the ending.",
+    "themes": ["final-victory", "lordship-of-christ", "eternity"],
+    "entities": ["jesus", "god"],
+    "cross_refs": ["isaiah-044-06"],
+    "gcb": {
+      "mirror": "Christ reveals Himself as Lord over beginning and end.",
+      "water": "Apocalyptic revelation orders history under eternal identity.",
+      "fire": "The end burns in the light of the One who holds all."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "revelation",
+    "chapter": 21,
+    "verse": 4,
+    "text": "And God shall wipe away all tears from their eyes; and there shall be no more death.",
+    "themes": ["final-victory", "new-creation", "restoration"],
+    "entities": ["god"],
+    "cross_refs": ["isaiah-025-08", "1-corinthians-015-26"],
+    "gcb": {
+      "mirror": "The final victory reveals the true end of grief and death.",
+      "water": "New creation cleanses the last effects of curse and loss.",
+      "fire": "Final restoration burns away every remnant of death."
+    },
+    "source": "data-source/source-new-testament.json",
+    "tradition": "ethiopian"
+  }
+]
