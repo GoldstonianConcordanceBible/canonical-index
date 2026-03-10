@@ -1,0 +1,41 @@
+{
+  "book_id": "genesis",
+  "book_name": "Genesis",
+  "canon_order": 1,
+  "chapter": 1,
+  "verse": 1,
+  "reference": "Genesis 1:1",
+  "testament": "old",
+  "canon_tradition": "ethiopian",
+  "text": "In the beginning God created the heaven and the earth.",
+  "source_language": "hebrew",
+  "source_tradition": "masoretic-aligned",
+  "cross_refs": [
+    "john-001-001",
+    "hebrews-011-003",
+    "revelation-004-011"
+  ],
+  "themes": [
+    "creation",
+    "divine-sovereignty",
+    "cosmic-order",
+    "beginning"
+  ],
+  "entities": [
+    "god",
+    "heavens",
+    "earth"
+  ],
+  "gcb": {
+    "series_refs": [
+      "series-i-vol-i"
+    ],
+    "mirror": "Reality begins in God, not in man.",
+    "water": "Creation is ordered, separated, and prepared for life.",
+    "fire": "The opening verse establishes divine authority over all existence."
+  },
+  "provenance": {
+    "dataset_version": "v2",
+    "validated_against": "schema/verse.schema.json"
+  }
+}
