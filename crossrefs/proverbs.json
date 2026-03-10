@@ -1,0 +1,27 @@
+{
+  "book_id": "proverbs",
+  "crossrefs": [
+    {
+      "source": "proverbs-001-007",
+      "targets": [
+        "job-028-028",
+        "psalms-111-010"
+      ],
+      "relationship_types": [
+        "fear-of-the-lord",
+        "wisdom-beginning"
+      ]
+    },
+    {
+      "source": "proverbs-003-005",
+      "targets": [
+        "jeremiah-017-007",
+        "james-001-005"
+      ],
+      "relationship_types": [
+        "trust",
+        "divine-guidance"
+      ]
+    }
+  ]
+}
