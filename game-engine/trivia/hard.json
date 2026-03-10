@@ -1,0 +1,13 @@
+{
+  "questions": [
+    {
+      "id": "hard-001",
+      "difficulty": "hard",
+      "question": "Which prophecy is linked to Messiah's birth in Bethlehem?",
+      "choices": ["Isaiah 53:5", "Micah 5:2", "Psalm 22:1", "Zechariah 12:10"],
+      "answer": "Micah 5:2",
+      "source": "graph/prophecy-graph.json",
+      "theme": "messianic-prophecy"
+    }
+  ]
+}
