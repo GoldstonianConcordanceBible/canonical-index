@@ -1,0 +1,16 @@
+{
+  "book_id": "zechariah",
+  "crossrefs": [
+    {
+      "source": "zechariah-004-06",
+      "targets": [
+        "joel-002-28",
+        "2-corinthians-010-04"
+      ],
+      "relationship_types": [
+        "not-by-might",
+        "spirit-dependence"
+      ]
+    }
+  ]
+}
