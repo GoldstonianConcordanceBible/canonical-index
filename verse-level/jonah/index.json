@@ -1,0 +1,7 @@
+{
+  "book": "jonah",
+  "chapters": 4,
+  "verses": 48,
+  "dataset_path": "verse-level/jonah/",
+  "status": "seeded"
+}
