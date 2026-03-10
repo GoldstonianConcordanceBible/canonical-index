@@ -1,0 +1,28 @@
+{
+  "book_id": "genesis",
+  "crossrefs": [
+    {
+      "source": "genesis-001-001",
+      "targets": [
+        "john-001-001",
+        "hebrews-011-003",
+        "revelation-004-011"
+      ],
+      "relationship_types": [
+        "creation-echo",
+        "theological-parallel"
+      ]
+    },
+    {
+      "source": "genesis-001-003",
+      "targets": [
+        "john-001-005",
+        "2-corinthians-004-006"
+      ],
+      "relationship_types": [
+        "light-theme",
+        "word-creation-pattern"
+      ]
+    }
+  ]
+}
