@@ -36,3 +36,22 @@ version:
   current: canon-v2
 
 license: open-canonical
+
+These files define:
+
+- book identifiers
+- canonical ordering
+- tradition mappings
+- metadata used by agents and retrieval systems.
+
+---
+
+## Canonical Philosophy
+
+The GCB project approaches canon not only as a historical list of texts but as a **structured dataset for theological reasoning, cross-reference analysis, and AI-assisted study**.
+
+This repository therefore treats canon as:
+
+- a **registry**
+- a **retrieval system**
+- a **knowledge graph foundation**
