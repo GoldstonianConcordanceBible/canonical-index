@@ -1,0 +1,9 @@
+{
+  "citation_order": [
+    "verse-level",
+    "canon/books",
+    "graph",
+    "ontology"
+  ],
+  "required_format": "book-chapter-verse"
+}
