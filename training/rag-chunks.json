@@ -1,0 +1,12 @@
+{
+  "chunking_strategy": {
+    "size": 400,
+    "overlap": 50
+  },
+  "sources": [
+    "verse-level",
+    "themes",
+    "entities",
+    "concordance"
+  ]
+}
