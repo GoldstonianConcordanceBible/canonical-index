@@ -1,0 +1,20 @@
+{
+  "id": "enoch",
+  "classification": "second-temple",
+  "canonical_status": "ethiopian",
+  "related_books": [
+    "genesis",
+    "jude",
+    "revelation"
+  ],
+  "themes": [
+    "watchers",
+    "judgment",
+    "heavenly-vision"
+  ],
+  "entities": [
+    "enoch",
+    "watchers",
+    "azazel"
+  ]
+}
