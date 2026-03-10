@@ -1,94 +1,346 @@
 {
-  "canon": "ethiopian",
-  "books_total": 81,
+  "canon": {
+    "primary_tradition": "ethiopian",
+    "total_books": 81
+  },
+
   "books": [
-    {"id":"genesis","order":1,"group":"torah"},
-    {"id":"exodus","order":2,"group":"torah"},
-    {"id":"leviticus","order":3,"group":"torah"},
-    {"id":"numbers","order":4,"group":"torah"},
-    {"id":"deuteronomy","order":5,"group":"torah"},
 
-    {"id":"joshua","order":6,"group":"historical"},
-    {"id":"judges","order":7,"group":"historical"},
-    {"id":"ruth","order":8,"group":"historical"},
-    {"id":"1-samuel","order":9,"group":"historical"},
-    {"id":"2-samuel","order":10,"group":"historical"},
-    {"id":"1-kings","order":11,"group":"historical"},
-    {"id":"2-kings","order":12,"group":"historical"},
-    {"id":"1-chronicles","order":13,"group":"historical"},
-    {"id":"2-chronicles","order":14,"group":"historical"},
-    {"id":"ezra","order":15,"group":"historical"},
-    {"id":"nehemiah","order":16,"group":"historical"},
+    {
+      "id": "genesis",
+      "name": "Genesis",
+      "order": 1,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "exodus",
+      "name": "Exodus",
+      "order": 2,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "leviticus",
+      "name": "Leviticus",
+      "order": 3,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "numbers",
+      "name": "Numbers",
+      "order": 4,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "deuteronomy",
+      "name": "Deuteronomy",
+      "order": 5,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
 
-    {"id":"tobit","order":17,"group":"deuterocanon"},
-    {"id":"judith","order":18,"group":"deuterocanon"},
-    {"id":"esther","order":19,"group":"historical"},
-    {"id":"job","order":20,"group":"wisdom"},
-    {"id":"psalms","order":21,"group":"wisdom"},
-    {"id":"proverbs","order":22,"group":"wisdom"},
-    {"id":"ecclesiastes","order":23,"group":"wisdom"},
-    {"id":"song-of-solomon","order":24,"group":"wisdom"},
-    {"id":"wisdom-of-solomon","order":25,"group":"deuterocanon"},
-    {"id":"sirach","order":26,"group":"deuterocanon"},
+    {
+      "id": "joshua",
+      "name": "Joshua",
+      "order": 6,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "judges",
+      "name": "Judges",
+      "order": 7,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "ruth",
+      "name": "Ruth",
+      "order": 8,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
 
-    {"id":"isaiah","order":27,"group":"prophets"},
-    {"id":"jeremiah","order":28,"group":"prophets"},
-    {"id":"lamentations","order":29,"group":"prophets"},
-    {"id":"baruch","order":30,"group":"deuterocanon"},
-    {"id":"ezekiel","order":31,"group":"prophets"},
-    {"id":"daniel","order":32,"group":"prophets"},
+    {
+      "id": "1-samuel",
+      "name": "1 Samuel",
+      "order": 9,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "2-samuel",
+      "name": "2 Samuel",
+      "order": 10,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
 
-    {"id":"hosea","order":33,"group":"prophets"},
-    {"id":"joel","order":34,"group":"prophets"},
-    {"id":"amos","order":35,"group":"prophets"},
-    {"id":"obadiah","order":36,"group":"prophets"},
-    {"id":"jonah","order":37,"group":"prophets"},
-    {"id":"micah","order":38,"group":"prophets"},
-    {"id":"nahum","order":39,"group":"prophets"},
-    {"id":"habakkuk","order":40,"group":"prophets"},
-    {"id":"zephaniah","order":41,"group":"prophets"},
-    {"id":"haggai","order":42,"group":"prophets"},
-    {"id":"zechariah","order":43,"group":"prophets"},
-    {"id":"malachi","order":44,"group":"prophets"},
+    {
+      "id": "1-kings",
+      "name": "1 Kings",
+      "order": 11,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "2-kings",
+      "name": "2 Kings",
+      "order": 12,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
 
-    {"id":"1-meqabyan","order":45,"group":"ethiopian"},
-    {"id":"2-meqabyan","order":46,"group":"ethiopian"},
-    {"id":"3-meqabyan","order":47,"group":"ethiopian"},
+    {
+      "id": "1-chronicles",
+      "name": "1 Chronicles",
+      "order": 13,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "2-chronicles",
+      "name": "2 Chronicles",
+      "order": 14,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
 
-    {"id":"matthew","order":48,"group":"new-testament"},
-    {"id":"mark","order":49,"group":"new-testament"},
-    {"id":"luke","order":50,"group":"new-testament"},
-    {"id":"john","order":51,"group":"new-testament"},
-    {"id":"acts","order":52,"group":"new-testament"},
-    {"id":"romans","order":53,"group":"new-testament"},
-    {"id":"1-corinthians","order":54,"group":"new-testament"},
-    {"id":"2-corinthians","order":55,"group":"new-testament"},
-    {"id":"galatians","order":56,"group":"new-testament"},
-    {"id":"ephesians","order":57,"group":"new-testament"},
-    {"id":"philippians","order":58,"group":"new-testament"},
-    {"id":"colossians","order":59,"group":"new-testament"},
-    {"id":"1-thessalonians","order":60,"group":"new-testament"},
-    {"id":"2-thessalonians","order":61,"group":"new-testament"},
-    {"id":"1-timothy","order":62,"group":"new-testament"},
-    {"id":"2-timothy","order":63,"group":"new-testament"},
-    {"id":"titus","order":64,"group":"new-testament"},
-    {"id":"philemon","order":65,"group":"new-testament"},
-    {"id":"hebrews","order":66,"group":"new-testament"},
-    {"id":"james","order":67,"group":"new-testament"},
-    {"id":"1-peter","order":68,"group":"new-testament"},
-    {"id":"2-peter","order":69,"group":"new-testament"},
-    {"id":"1-john","order":70,"group":"new-testament"},
-    {"id":"2-john","order":71,"group":"new-testament"},
-    {"id":"3-john","order":72,"group":"new-testament"},
-    {"id":"jude","order":73,"group":"new-testament"},
-    {"id":"revelation","order":74,"group":"new-testament"},
+    {
+      "id": "ezra",
+      "name": "Ezra",
+      "order": 15,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "nehemiah",
+      "name": "Nehemiah",
+      "order": 16,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
 
-    {"id":"enoch","order":75,"group":"ethiopian"},
-    {"id":"jubilees","order":76,"group":"ethiopian"},
-    {"id":"1-esdras","order":77,"group":"ethiopian"},
-    {"id":"2-esdras","order":78,"group":"ethiopian"},
-    {"id":"book-of-the-covenant","order":79,"group":"ethiopian"},
-    {"id":"didascalia","order":80,"group":"ethiopian"},
-    {"id":"clement","order":81,"group":"ethiopian"}
+    {
+      "id": "tobit",
+      "name": "Tobit",
+      "order": 17,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic"]
+    },
+    {
+      "id": "judith",
+      "name": "Judith",
+      "order": 18,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic"]
+    },
+
+    {
+      "id": "esther",
+      "name": "Esther",
+      "order": 19,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "job",
+      "name": "Job",
+      "order": 20,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "psalms",
+      "name": "Psalms",
+      "order": 21,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "proverbs",
+      "name": "Proverbs",
+      "order": 22,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "ecclesiastes",
+      "name": "Ecclesiastes",
+      "order": 23,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+    {
+      "id": "song-of-solomon",
+      "name": "Song of Solomon",
+      "order": 24,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "wisdom-of-solomon",
+      "name": "Wisdom of Solomon",
+      "order": 25,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic"]
+    },
+    {
+      "id": "sirach",
+      "name": "Sirach",
+      "order": 26,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic"]
+    },
+
+    {
+      "id": "isaiah",
+      "name": "Isaiah",
+      "order": 27,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "jeremiah",
+      "name": "Jeremiah",
+      "order": 28,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "lamentations",
+      "name": "Lamentations",
+      "order": 29,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "baruch",
+      "name": "Baruch",
+      "order": 30,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic"]
+    },
+
+    {
+      "id": "ezekiel",
+      "name": "Ezekiel",
+      "order": 31,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "order": 32,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "hosea",
+      "name": "Hosea",
+      "order": 33,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "joel",
+      "name": "Joel",
+      "order": 34,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "amos",
+      "name": "Amos",
+      "order": 35,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "obadiah",
+      "name": "Obadiah",
+      "order": 36,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "jonah",
+      "name": "Jonah",
+      "order": 37,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "micah",
+      "name": "Micah",
+      "order": 38,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "nahum",
+      "name": "Nahum",
+      "order": 39,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "habakkuk",
+      "name": "Habakkuk",
+      "order": 40,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "zephaniah",
+      "name": "Zephaniah",
+      "order": 41,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "haggai",
+      "name": "Haggai",
+      "order": 42,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "zechariah",
+      "name": "Zechariah",
+      "order": 43,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    },
+
+    {
+      "id": "malachi",
+      "name": "Malachi",
+      "order": 44,
+      "testament": "old",
+      "traditions": ["ethiopian", "catholic", "protestant"]
+    }
+
   ]
 }
