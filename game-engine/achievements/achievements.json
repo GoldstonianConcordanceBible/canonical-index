@@ -1,0 +1,14 @@
+{
+  "achievements": [
+    {
+      "id": "canon-mastery-badge",
+      "name": "Canon Mastery",
+      "criteria": "Complete the 81-book canon quest"
+    },
+    {
+      "id": "prophecy-tracer",
+      "name": "Prophecy Tracer",
+      "criteria": "Correctly answer 25 prophecy-fulfillment questions"
+    }
+  ]
+}
