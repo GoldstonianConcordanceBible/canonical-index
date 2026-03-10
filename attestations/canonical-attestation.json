@@ -1,0 +1,7 @@
+{
+  "canon": "ethiopian",
+  "books": 81,
+  "verified_against": [
+    "canon/books/index.json"
+  ]
+}
