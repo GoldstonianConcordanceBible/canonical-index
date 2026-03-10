@@ -1,0 +1,16 @@
+{
+  "id_types": [
+    "verse",
+    "book",
+    "entity",
+    "theme",
+    "series",
+    "dataset"
+  ],
+  "formats": {
+    "verse": "book-chapter-verse",
+    "book": "book",
+    "entity": "entity-name",
+    "theme": "theme-name"
+  }
+}
