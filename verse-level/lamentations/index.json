@@ -1,0 +1,7 @@
+{
+  "book": "lamentations",
+  "chapters": 5,
+  "verses": 154,
+  "dataset_path": "verse-level/lamentations/",
+  "status": "seeded"
+}
