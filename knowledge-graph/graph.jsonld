@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "label": "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasTheme": "https://gcb.org/ontology/hasTheme",
+    "mentions": "https://gcb.org/ontology/mentions",
+    "belongsTo": "https://gcb.org/ontology/belongsTo"
+  },
+  "@graph": [
+    {
+      "id": "https://gcb.org/book/genesis",
+      "type": "Book",
+      "label": "Genesis"
+    },
+    {
+      "id": "https://gcb.org/verse/genesis-001-001",
+      "type": "Verse",
+      "label": "Genesis 1:1",
+      "hasTheme": "https://gcb.org/theme/creation",
+      "mentions": "https://gcb.org/entity/god",
+      "belongsTo": "https://gcb.org/book/genesis"
+    }
+  ]
+}
