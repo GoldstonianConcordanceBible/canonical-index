@@ -1,0 +1,15 @@
+{
+  "graph_type": "prophecy",
+  "edges": [
+    {
+      "prophecy": "isaiah-007-014",
+      "theme": "virgin-birth",
+      "fulfillment": "matthew-001-023"
+    },
+    {
+      "prophecy": "micah-005-002",
+      "theme": "messiah-birthplace",
+      "fulfillment": "matthew-002-001"
+    }
+  ]
+}
