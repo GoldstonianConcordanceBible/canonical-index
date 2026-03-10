@@ -1,0 +1,8 @@
+{
+  "name": "gcb-canonical-index",
+  "kind": "biblical-knowledge-registry",
+  "authority": "canonical-index.yaml",
+  "agent_discovery": "discovery/agent-discovery.json",
+  "openapi": "openapi/openapi.yaml",
+  "citation": "CITATION.cff"
+}
