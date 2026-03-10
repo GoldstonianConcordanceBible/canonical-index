@@ -1,0 +1,8 @@
+{
+  "themes": [
+    "covenant",
+    "kingdom",
+    "judgment"
+  ],
+  "schema": "schema/theme.schema.json"
+}
