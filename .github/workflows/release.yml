@@ -1,13 +1,15 @@
 name: Release
 
 on:
-  workflow_dispatch:
+  release:
+    types: [created]
 
 jobs:
-  release:
+  publish:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - name: Prepare release
-        run: |
-          echo "Preparing release artifacts..."
+      - uses: actions/checkout@v3
+
+      - name: Package dataset
+        run: tar -czf gcb-dataset.tar.gz .
