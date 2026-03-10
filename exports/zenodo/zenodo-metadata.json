@@ -1,0 +1,19 @@
+{
+  "title": "Goldstonian Concordance Bible Canonical Index v2",
+  "upload_type": "dataset",
+  "description": "AI-agent-readable canonical registry for the 81-book Ethiopian biblical canon with verse-level, graph, ontology, and retrieval datasets.",
+  "creators": [
+    {
+      "name": "Goldston, Justin"
+    }
+  ],
+  "keywords": [
+    "Bible",
+    "Ethiopian canon",
+    "knowledge graph",
+    "LLM",
+    "AI agents",
+    "theology",
+    "digital humanities"
+  ]
+}
