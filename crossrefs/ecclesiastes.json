@@ -1,0 +1,26 @@
+{
+  "book_id": "ecclesiastes",
+  "crossrefs": [
+    {
+      "source": "ecclesiastes-001-002",
+      "targets": [
+        "romans-008-020"
+      ],
+      "relationship_types": [
+        "vanity",
+        "futility"
+      ]
+    },
+    {
+      "source": "ecclesiastes-012-013",
+      "targets": [
+        "deuteronomy-010-012",
+        "john-014-015"
+      ],
+      "relationship_types": [
+        "fear-god",
+        "obedience"
+      ]
+    }
+  ]
+}
