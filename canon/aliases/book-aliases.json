@@ -1,0 +1,10 @@
+{
+  "aliases": [
+    {"alias":"canticles","canonical":"song-of-solomon"},
+    {"alias":"ecclesiasticus","canonical":"sirach"},
+    {"alias":"1-maccabees","canonical":"1-meqabyan"},
+    {"alias":"2-maccabees","canonical":"2-meqabyan"},
+    {"alias":"3-maccabees","canonical":"3-meqabyan"},
+    {"alias":"apocalypse","canonical":"revelation"}
+  ]
+}
