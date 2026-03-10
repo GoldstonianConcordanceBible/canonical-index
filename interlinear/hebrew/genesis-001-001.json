@@ -1,0 +1,13 @@
+{
+  "reference": "genesis-001-001",
+  "language": "hebrew",
+  "tokens": [
+    {"word":"bereshit","translation":"in the beginning"},
+    {"word":"bara","translation":"created"},
+    {"word":"elohim","translation":"God"},
+    {"word":"et","translation":"(object marker)"},
+    {"word":"hashamayim","translation":"the heavens"},
+    {"word":"ve'et","translation":"and"},
+    {"word":"haaretz","translation":"the earth"}
+  ]
+}
