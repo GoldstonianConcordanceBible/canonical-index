@@ -1,0 +1,19 @@
+{
+  "edges": [
+    {
+      "source": "verse-genesis-001-001",
+      "target": "theme-creation",
+      "type": "has-theme"
+    },
+    {
+      "source": "verse-genesis-001-001",
+      "target": "entity-god",
+      "type": "mentions"
+    },
+    {
+      "source": "verse-genesis-001-001",
+      "target": "book-genesis",
+      "type": "belongs-to"
+    }
+  ]
+}
