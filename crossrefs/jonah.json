@@ -1,0 +1,16 @@
+{
+  "book_id": "jonah",
+  "crossrefs": [
+    {
+      "source": "jonah-002-09",
+      "targets": [
+        "psalms-003-08",
+        "revelation-007-10"
+      ],
+      "relationship_types": [
+        "salvation-of-the-lord",
+        "deliverance"
+      ]
+    }
+  ]
+}
