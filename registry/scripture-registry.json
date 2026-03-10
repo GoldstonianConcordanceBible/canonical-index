@@ -1,0 +1,13 @@
+{
+  "registry_name": "global-scripture-registry",
+  "description": "Canonical registry of scripture datasets and related theological resources",
+  "datasets": [
+    {
+      "id": "gcb-canonical-index",
+      "type": "canonical-registry",
+      "tradition": "ethiopian",
+      "books": 81,
+      "primary_manifest": "canonical-index.yaml"
+    }
+  ]
+}
