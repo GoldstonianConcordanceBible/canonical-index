@@ -1,0 +1,20 @@
+{
+  "id": "covenant-love",
+  "name": "Covenant Love",
+  "description": "Steadfast, enduring love marked by devotion, fidelity, and perseverance.",
+  "key_references": [
+    "song-of-solomon-008-007",
+    "ruth-001-016",
+    "ephesians-005-025"
+  ],
+  "related_themes": [
+    "love",
+    "faithfulness",
+    "devotion"
+  ],
+  "gcb": {
+    "mirror": "Love reveals what the soul will endure for.",
+    "water": "Love binds and preserves relationship through difficulty.",
+    "fire": "True love is proven under pressure, not merely declared."
+  }
+}
