@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GCB Verse Schema",
+  "type": "object",
+  "required": [
+    "id",
+    "book",
+    "chapter",
+    "verse",
+    "reference",
+    "text"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+-[0-9]{3}-[0-9]{3}$"
+    },
+    "book": {
+      "type": "string"
+    },
+    "chapter": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "verse": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "reference": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "themes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "cross_refs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "gcb": {
+      "type": "object",
+      "properties": {
+        "mirror": {
+          "type": "string"
+        },
+        "water": {
+          "type": "string"
+        },
+        "fire": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "source": {
+          "type": "string"
+        },
+        "tradition": {
+          "type": "string"
+        },
+        "dataset_version": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
