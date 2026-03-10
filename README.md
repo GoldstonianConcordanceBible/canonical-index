@@ -69,3 +69,13 @@ The following directories have distinct purposes and should not be treated as du
 - `evaluation/` → evaluation documentation, notes, or higher-level framework materials
 
 If overlap exists between directories, the structured canonical source should take precedence over legacy or narrative materials.
+
+# CROSS_LINKS
+
+This directory is retained for compatibility, legacy cross-link materials, migration staging, or experimental relationship files.
+
+Canonical cross-reference data should live in:
+
+`crossrefs/`
+
+If duplicate content exists, `crossrefs/` is authoritative.
