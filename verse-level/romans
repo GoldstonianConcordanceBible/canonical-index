@@ -1,7 +1,0 @@
-{
-  "book": "romans",
-  "chapters": 16,
-  "verses": 433,
-  "dataset_path": "verse-level/romans/",
-  "status": "seeded"
-}
