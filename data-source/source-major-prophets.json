@@ -1,0 +1,194 @@
+[
+  {
+    "book": "isaiah",
+    "chapter": 6,
+    "verse": 8,
+    "text": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.",
+    "themes": ["calling", "holiness", "mission"],
+    "entities": ["god", "isaiah", "seraphim"],
+    "cross_refs": ["john-012-041", "romans-010-15"],
+    "gcb": {
+      "mirror": "Calling begins with a vision of God's holiness.",
+      "water": "Purification prepares the prophet for obedience.",
+      "fire": "The sent one is tested by the word he carries."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "isaiah",
+    "chapter": 7,
+    "verse": 14,
+    "text": "Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.",
+    "themes": ["messiah", "sign", "incarnation"],
+    "entities": ["god", "immanuel"],
+    "cross_refs": ["matthew-001-023"],
+    "gcb": {
+      "mirror": "God reveals deliverance through a sign beyond human power.",
+      "water": "The promise sustains faith in national crisis.",
+      "fire": "Messianic expectation burns through immediate history."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "isaiah",
+    "chapter": 53,
+    "verse": 5,
+    "text": "But he was wounded for our transgressions, he was bruised for our iniquities.",
+    "themes": ["messiah", "atonement", "suffering-servant"],
+    "entities": ["servant"],
+    "cross_refs": ["1-peter-002-24", "matthew-008-17"],
+    "gcb": {
+      "mirror": "Redemption is revealed through substitutionary suffering.",
+      "water": "The servant bears what must be cleansed.",
+      "fire": "Atonement passes through affliction and sacrifice."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "jeremiah",
+    "chapter": 1,
+    "verse": 5,
+    "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee.",
+    "themes": ["calling", "sanctification", "purpose"],
+    "entities": ["god", "jeremiah"],
+    "cross_refs": ["galatians-001-15"],
+    "gcb": {
+      "mirror": "Purpose in God precedes public mission.",
+      "water": "Calling orders identity before activity.",
+      "fire": "The prophet is tested by a destiny he did not choose."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "jeremiah",
+    "chapter": 29,
+    "verse": 11,
+    "text": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
+    "themes": ["restoration", "hope", "exile"],
+    "entities": ["god", "judah"],
+    "cross_refs": ["romans-008-28"],
+    "gcb": {
+      "mirror": "Divine intention remains active even in exile.",
+      "water": "Hope preserves a people under judgment.",
+      "fire": "Promise is refined in long waiting."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "jeremiah",
+    "chapter": 31,
+    "verse": 31,
+    "text": "Behold, the days come, saith the LORD, that I will make a new covenant.",
+    "themes": ["new-covenant", "restoration", "law"],
+    "entities": ["god", "israel", "judah"],
+    "cross_refs": ["hebrews-008-08", "luke-022-20"],
+    "gcb": {
+      "mirror": "God reveals that renewal must reach the heart.",
+      "water": "The covenant is rewritten inwardly, not merely externally.",
+      "fire": "The new covenant burns through failed forms without denying divine faithfulness."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "lamentations",
+    "chapter": 3,
+    "verse": 22,
+    "text": "It is of the LORD'S mercies that we are not consumed, because his compassions fail not.",
+    "themes": ["mercy", "judgment", "hope"],
+    "entities": ["god", "judah"],
+    "cross_refs": ["psalms-103-08"],
+    "gcb": {
+      "mirror": "Even in ruin, mercy reveals what judgment has not destroyed.",
+      "water": "Compassion preserves hope in tears.",
+      "fire": "Hope survives because mercy outlasts wrath."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "baruch",
+    "chapter": 4,
+    "verse": 21,
+    "text": "Be of good cheer, O my children, cry unto the Lord, and he will deliver you from the power and hand of the enemies.",
+    "themes": ["exile", "deliverance", "hope"],
+    "entities": ["god", "israel"],
+    "cross_refs": ["psalms-046-01"],
+    "gcb": {
+      "mirror": "Hope remains possible in displacement.",
+      "water": "Prayer keeps the community from dissolving in sorrow.",
+      "fire": "Deliverance is expected through dependence, not denial."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "ezekiel",
+    "chapter": 36,
+    "verse": 26,
+    "text": "A new heart also will I give you, and a new spirit will I put within you.",
+    "themes": ["restoration", "new-covenant", "renewal"],
+    "entities": ["god", "israel"],
+    "cross_refs": ["john-003-05", "2-corinthians-005-17"],
+    "gcb": {
+      "mirror": "Restoration must reach the heart, not just the land.",
+      "water": "God cleanses inwardly before outward rebuilding.",
+      "fire": "The new heart burns away stony resistance."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "ezekiel",
+    "chapter": 37,
+    "verse": 5,
+    "text": "Behold, I will cause breath to enter into you, and ye shall live.",
+    "themes": ["resurrection", "restoration", "breath-of-god"],
+    "entities": ["god", "israel"],
+    "cross_refs": ["john-020-22", "revelation-011-11"],
+    "gcb": {
+      "mirror": "Life returns where God breathes.",
+      "water": "Dry bones anticipate renewal and reordering.",
+      "fire": "Resurrection power burns through finality."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "daniel",
+    "chapter": 7,
+    "verse": 14,
+    "text": "And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him.",
+    "themes": ["kingdom", "messiah", "apocalyptic-vision"],
+    "entities": ["son-of-man"],
+    "cross_refs": ["matthew-026-64", "revelation-011-15"],
+    "gcb": {
+      "mirror": "The true kingdom is given from above, not seized from below.",
+      "water": "Vision clarifies history under divine rule.",
+      "fire": "All earthly empires are judged by the everlasting kingdom."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "daniel",
+    "chapter": 12,
+    "verse": 3,
+    "text": "And they that be wise shall shine as the brightness of the firmament.",
+    "themes": ["resurrection", "wisdom", "apocalyptic-vision"],
+    "entities": ["wise-ones"],
+    "cross_refs": ["matthew-013-43"],
+    "gcb": {
+      "mirror": "Wisdom is revealed fully in the end.",
+      "water": "Faithfulness prepares the soul for glory.",
+      "fire": "Apocalyptic hope tests whether wisdom is lived now."
+    },
+    "source": "data-source/source-major-prophets.json",
+    "tradition": "ethiopian"
+  }
+]
