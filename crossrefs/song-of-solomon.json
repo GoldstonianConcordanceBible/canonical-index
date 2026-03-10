@@ -1,0 +1,16 @@
+{
+  "book_id": "song-of-solomon",
+  "crossrefs": [
+    {
+      "source": "song-of-solomon-008-007",
+      "targets": [
+        "romans-008-039",
+        "ephesians-005-025"
+      ],
+      "relationship_types": [
+        "enduring-love",
+        "covenant-love"
+      ]
+    }
+  ]
+}
