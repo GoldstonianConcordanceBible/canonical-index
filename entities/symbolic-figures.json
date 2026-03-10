@@ -20,4 +20,22 @@
       "themes": ["wisdom", "resurrection", "faithfulness"]
     }
   ]
+},
+{
+  "id": "just-one",
+  "name": "The Just One",
+  "first_reference": "habakkuk-002-04",
+  "themes": ["faith", "righteousness", "endurance"]
+},
+{
+  "id": "sun-of-righteousness",
+  "name": "The Sun of Righteousness",
+  "first_reference": "malachi-004-02",
+  "themes": ["healing", "righteousness", "prophetic-bridge"]
+},
+{
+  "id": "messiah",
+  "name": "Messiah",
+  "first_reference": "micah-005-02",
+  "themes": ["kingdom", "ruler", "fulfillment"]
 }
