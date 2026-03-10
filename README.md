@@ -89,3 +89,17 @@ Machine-readable benchmark payloads and test fixtures should live in:
 `evals/`
 
 If a benchmark exists in both places, `evals/` is the canonical machine-readable source.
+
+# evals
+
+This directory contains machine-readable evaluation assets for:
+
+- retrieval accuracy
+- citation accuracy
+- canon-tradition accuracy
+- doctrinal consistency
+- agent behavior testing
+
+Narrative or explanatory evaluation materials belong in:
+
+`evaluation/`
