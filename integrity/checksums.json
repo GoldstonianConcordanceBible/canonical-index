@@ -1,0 +1,12 @@
+{
+  "files": [
+    {
+      "path": "canon/books/index.json",
+      "sha256": "TO_BE_GENERATED"
+    },
+    {
+      "path": "verse-level/genesis/001-001.json",
+      "sha256": "TO_BE_GENERATED"
+    }
+  ]
+}
