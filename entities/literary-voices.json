@@ -1,0 +1,23 @@
+{
+  "entity_type": "literary-voices",
+  "entities": [
+    {
+      "id": "preacher",
+      "name": "The Preacher",
+      "first_reference": "ecclesiastes-001-001",
+      "themes": ["vanity", "meaning", "fear-of-the-lord"]
+    },
+    {
+      "id": "beloved",
+      "name": "The Beloved",
+      "first_reference": "song-of-solomon-001-002",
+      "themes": ["love", "devotion", "beauty"]
+    },
+    {
+      "id": "lover",
+      "name": "The Lover",
+      "first_reference": "song-of-solomon-001-001",
+      "themes": ["love", "desire", "covenant-love"]
+    }
+  ]
+}
