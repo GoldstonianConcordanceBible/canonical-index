@@ -1,0 +1,13 @@
+{
+  "crawl_priority": [
+    "canonical-index.yaml",
+    "llms.txt",
+    "llms-full.txt"
+  ],
+  "allowed_crawlers": [
+    "openai",
+    "anthropic",
+    "google",
+    "meta"
+  ]
+}
