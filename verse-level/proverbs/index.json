@@ -1,0 +1,7 @@
+{
+  "book": "proverbs",
+  "chapters": 31,
+  "verses": 915,
+  "dataset_path": "verse-level/proverbs/",
+  "status": "seeded"
+}
