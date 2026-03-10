@@ -79,3 +79,13 @@ Canonical cross-reference data should live in:
 `crossrefs/`
 
 If duplicate content exists, `crossrefs/` is authoritative.
+
+# evaluation
+
+This directory contains higher-level evaluation framework materials, narrative benchmarking notes, and supporting evaluation documentation.
+
+Machine-readable benchmark payloads and test fixtures should live in:
+
+`evals/`
+
+If a benchmark exists in both places, `evals/` is the canonical machine-readable source.
