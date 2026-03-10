@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "question": "Where is the first mention of covenant?",
+      "expected_source": "genesis-006-018"
+    },
+    {
+      "question": "Which book contains the Great Isaiah Scroll witness?",
+      "expected_source": "dead-sea-scrolls/isaiah-scroll.json"
+    }
+  ]
+}
