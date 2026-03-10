@@ -1,0 +1,14 @@
+{
+  "platform": "youtube",
+  "playlists": [
+    {
+      "id": "old-testament-explained",
+      "title": "Old Testament Explained",
+      "books": [
+        "genesis",
+        "exodus",
+        "leviticus"
+      ]
+    }
+  ]
+}
