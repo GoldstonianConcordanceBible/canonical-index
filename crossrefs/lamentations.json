@@ -1,0 +1,15 @@
+{
+  "book_id": "lamentations",
+  "crossrefs": [
+    {
+      "source": "lamentations-003-22",
+      "targets": [
+        "psalms-103-08"
+      ],
+      "relationship_types": [
+        "mercy",
+        "compassion"
+      ]
+    }
+  ]
+}
