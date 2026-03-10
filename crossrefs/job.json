@@ -1,0 +1,27 @@
+{
+  "book_id": "job",
+  "crossrefs": [
+    {
+      "source": "job-001-021",
+      "targets": [
+        "psalms-034-001",
+        "james-005-011"
+      ],
+      "relationship_types": [
+        "worship-in-suffering",
+        "endurance"
+      ]
+    },
+    {
+      "source": "job-019-025",
+      "targets": [
+        "isaiah-041-014",
+        "1-peter-001-018"
+      ],
+      "relationship_types": [
+        "redeemer-hope",
+        "future-redemption"
+      ]
+    }
+  ]
+}
