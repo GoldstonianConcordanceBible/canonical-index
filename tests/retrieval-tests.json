@@ -1,0 +1,8 @@
+{
+  "tests":[
+    {
+      "query":"first covenant",
+      "expected":"genesis-006-018"
+    }
+  ]
+}
