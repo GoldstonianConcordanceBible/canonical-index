@@ -1,0 +1,6 @@
+{
+  "dataset": "gcb-canonical-index",
+  "attestation": "dataset verified",
+  "checksums": "integrity/checksums.json",
+  "schemas_validated": true
+}
