@@ -1,0 +1,7 @@
+{
+  "book": "job",
+  "chapters": 42,
+  "verses": 1070,
+  "dataset_path": "verse-level/job/",
+  "status": "seeded"
+}
