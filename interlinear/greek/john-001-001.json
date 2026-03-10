@@ -1,0 +1,13 @@
+{
+  "reference": "john-001-001",
+  "language": "greek",
+  "tokens": [
+    {"word":"en","translation":"in"},
+    {"word":"arche","translation":"beginning"},
+    {"word":"en","translation":"was"},
+    {"word":"ho","translation":"the"},
+    {"word":"logos","translation":"word"},
+    {"word":"kai","translation":"and"},
+    {"word":"theos","translation":"God"}
+  ]
+}
