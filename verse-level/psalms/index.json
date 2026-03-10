@@ -1,0 +1,7 @@
+{
+  "book": "psalms",
+  "chapters": 150,
+  "verses": 2461,
+  "dataset_path": "verse-level/psalms/",
+  "status": "seeded"
+}
