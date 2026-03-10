@@ -1,0 +1,16 @@
+{
+  "corpus_name": "gcb-pretrain-corpus",
+  "sources": [
+    "verse-level",
+    "themes",
+    "entities",
+    "graph",
+    "ontology"
+  ],
+  "format": "jsonl",
+  "intended_use": [
+    "pretraining",
+    "continued pretraining",
+    "embedding generation"
+  ]
+}
