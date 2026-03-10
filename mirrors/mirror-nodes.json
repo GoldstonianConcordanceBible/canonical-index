@@ -1,0 +1,8 @@
+{
+  "nodes": [
+    "github",
+    "zenodo",
+    "figshare",
+    "dataverse"
+  ]
+}
