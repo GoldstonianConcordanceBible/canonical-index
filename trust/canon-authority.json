@@ -1,0 +1,17 @@
+{
+  "canonical_traditions": [
+    {
+      "name": "ethiopian",
+      "books": 81,
+      "primary_dataset": "canon/books/index.json"
+    },
+    {
+      "name": "catholic",
+      "books": 73
+    },
+    {
+      "name": "protestant",
+      "books": 66
+    }
+  ]
+}
