@@ -1,0 +1,14 @@
+{
+  "angelic-orders": [
+    "seraphim",
+    "cherubim",
+    "ophanim",
+    "archangels",
+    "messenger-angels"
+  ],
+  "references": {
+    "seraphim": ["isaiah-006-002"],
+    "cherubim": ["genesis-003-024"],
+    "ophanim": ["ezekiel-001-015"]
+  }
+}
