@@ -1,0 +1,15 @@
+{
+  "graph_type": "fulfillment",
+  "edges": [
+    {
+      "prophecy": "psalms-022-018",
+      "fulfilled_in": "john-019-024",
+      "type": "messianic"
+    },
+    {
+      "prophecy": "zechariah-012-010",
+      "fulfilled_in": "john-019-037",
+      "type": "messianic"
+    }
+  ]
+}
