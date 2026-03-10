@@ -1,0 +1,25 @@
+{
+  "project": "Goldstonian Concordance Bible",
+  "repository": "canonical-index",
+  "version": "v2",
+  "entry_points": {
+    "llm": [
+      "llms.txt",
+      "llms-full.txt"
+    ],
+    "agents": [
+      "AGENTS.md",
+      "agents/scholar-agent.md",
+      "agents/rag-agent.md"
+    ],
+    "api": "openapi/openapi.yaml",
+    "canonical_root": "canonical-index.yaml"
+  },
+  "priority_datasets": [
+    "canon/books/index.json",
+    "verse-level/index.json",
+    "graph/cross-reference-graph.json",
+    "themes/index.json",
+    "entities/index.json"
+  ]
+}
