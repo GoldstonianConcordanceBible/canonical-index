@@ -1,0 +1,12 @@
+{
+  "title": "GCB Canonical Index v2",
+  "defined_type": "dataset",
+  "tags": [
+    "biblical studies",
+    "AI",
+    "knowledge graph",
+    "canon",
+    "Ethiopian Bible"
+  ],
+  "description": "Machine-readable biblical registry and reasoning dataset."
+}
