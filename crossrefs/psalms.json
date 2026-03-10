@@ -1,0 +1,26 @@
+{
+  "book_id": "psalms",
+  "crossrefs": [
+    {
+      "source": "psalms-023-001",
+      "targets": [
+        "john-010-011"
+      ],
+      "relationship_types": [
+        "shepherd-theme",
+        "divine-care"
+      ]
+    },
+    {
+      "source": "psalms-051-010",
+      "targets": [
+        "ezekiel-036-026",
+        "1-john-001-009"
+      ],
+      "relationship_types": [
+        "repentance",
+        "renewed-heart"
+      ]
+    }
+  ]
+}
