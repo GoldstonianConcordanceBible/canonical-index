@@ -1,0 +1,7 @@
+{
+  "schemas":[
+    "verse.schema.json",
+    "crossref.schema.json",
+    "graph-node.schema.json"
+  ]
+}
