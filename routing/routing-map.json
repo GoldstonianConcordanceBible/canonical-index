@@ -1,0 +1,9 @@
+{
+ "routes": {
+  "books": "books/index.json",
+  "schemas": "schema/",
+  "api": "api/",
+  "agents": "AGENTS.md",
+  "llm_entry": "llms.txt"
+ }
+}
