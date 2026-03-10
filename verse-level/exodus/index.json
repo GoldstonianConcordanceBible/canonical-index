@@ -1,0 +1,7 @@
+{
+  "book": "exodus",
+  "chapters": 40,
+  "verses": 1213,
+  "dataset_path": "verse-level/exodus/",
+  "status": "seeded"
+}
