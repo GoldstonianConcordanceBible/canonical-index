@@ -1,0 +1,17 @@
+{
+  "book_id": "habakkuk",
+  "crossrefs": [
+    {
+      "source": "habakkuk-002-04",
+      "targets": [
+        "romans-001-17",
+        "galatians-003-11",
+        "hebrews-010-38"
+      ],
+      "relationship_types": [
+        "just-shall-live-by-faith",
+        "righteous-endurance"
+      ]
+    }
+  ]
+}
