@@ -1,0 +1,13 @@
+{
+  "questions": [
+    {
+      "id": "medium-001",
+      "difficulty": "medium",
+      "question": "Which tradition includes Enoch as canonical?",
+      "choices": ["Protestant", "Ethiopian", "None", "Modern only"],
+      "answer": "Ethiopian",
+      "source": "canon/canon-map.json",
+      "theme": "canon-traditions"
+    }
+  ]
+}
