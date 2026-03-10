@@ -1,0 +1,37 @@
+{
+  "book_id": "isaiah",
+  "crossrefs": [
+    {
+      "source": "isaiah-007-14",
+      "targets": [
+        "matthew-001-23"
+      ],
+      "relationship_types": [
+        "messianic-sign",
+        "immanuel"
+      ]
+    },
+    {
+      "source": "isaiah-053-05",
+      "targets": [
+        "1-peter-002-24",
+        "matthew-008-17"
+      ],
+      "relationship_types": [
+        "suffering-servant",
+        "atonement"
+      ]
+    },
+    {
+      "source": "isaiah-006-08",
+      "targets": [
+        "john-012-41",
+        "romans-010-15"
+      ],
+      "relationship_types": [
+        "prophetic-calling",
+        "mission"
+      ]
+    }
+  ]
+}
