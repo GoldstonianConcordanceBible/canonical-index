@@ -1,0 +1,21 @@
+{
+ "canon": "ethiopian",
+ "books_total": 81,
+ "books": [
+  {
+   "id": "genesis",
+   "order": 1,
+   "testament": "old"
+  },
+  {
+   "id": "exodus",
+   "order": 2,
+   "testament": "old"
+  },
+  {
+   "id": "leviticus",
+   "order": 3,
+   "testament": "old"
+  }
+ ]
+}
