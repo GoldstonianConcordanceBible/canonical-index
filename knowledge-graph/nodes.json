@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "book-genesis",
+      "type": "book",
+      "label": "Genesis"
+    },
+    {
+      "id": "verse-genesis-001-001",
+      "type": "verse",
+      "label": "Genesis 1:1"
+    },
+    {
+      "id": "theme-creation",
+      "type": "theme",
+      "label": "Creation"
+    },
+    {
+      "id": "entity-god",
+      "type": "entity",
+      "label": "God"
+    }
+  ]
+}
