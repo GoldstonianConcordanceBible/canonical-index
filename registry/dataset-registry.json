@@ -1,0 +1,24 @@
+{
+  "datasets": [
+    {
+      "id": "verse-level",
+      "path": "verse-level/",
+      "type": "atomic-scripture"
+    },
+    {
+      "id": "graph",
+      "path": "graph/",
+      "type": "reasoning-graph"
+    },
+    {
+      "id": "concordance",
+      "path": "concordance/",
+      "type": "lexical-index"
+    },
+    {
+      "id": "training",
+      "path": "training/",
+      "type": "ai-training-data"
+    }
+  ]
+}
