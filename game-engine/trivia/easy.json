@@ -1,0 +1,13 @@
+{
+  "questions": [
+    {
+      "id": "easy-001",
+      "difficulty": "easy",
+      "question": "What is the first book of the Bible?",
+      "choices": ["Genesis", "Exodus", "Matthew", "Psalms"],
+      "answer": "Genesis",
+      "source": "canon/books/index.json",
+      "theme": "canon"
+    }
+  ]
+}
