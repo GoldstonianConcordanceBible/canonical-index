@@ -1,0 +1,16 @@
+{
+  "book_id": "hosea",
+  "crossrefs": [
+    {
+      "source": "hosea-006-06",
+      "targets": [
+        "matthew-009-13",
+        "matthew-012-07"
+      ],
+      "relationship_types": [
+        "mercy-over-sacrifice",
+        "true-covenant-faithfulness"
+      ]
+    }
+  ]
+}
