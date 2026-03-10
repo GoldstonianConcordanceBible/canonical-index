@@ -1,0 +1,40 @@
+{
+  "book_id": "genesis",
+  "book_name": "Genesis",
+  "canon_order": 1,
+  "chapter": 1,
+  "verse": 2,
+  "reference": "Genesis 1:2",
+  "testament": "old",
+  "canon_tradition": "ethiopian",
+  "text": "And the earth was without form, and void; and darkness was upon the face of the deep...",
+  "source_language": "hebrew",
+  "source_tradition": "masoretic-aligned",
+  "cross_refs": [
+    "jeremiah-004-023",
+    "psalms-104-030"
+  ],
+  "themes": [
+    "chaos",
+    "spirit-of-god",
+    "deep",
+    "formation"
+  ],
+  "entities": [
+    "earth",
+    "spirit-of-god",
+    "deep"
+  ],
+  "gcb": {
+    "series_refs": [
+      "series-i-vol-i"
+    ],
+    "mirror": "The unformed world reflects the condition of man before divine ordering.",
+    "water": "The Spirit hovers over chaos as a sign of preparation and purification.",
+    "fire": "God does not fear disorder; He transforms it."
+  },
+  "provenance": {
+    "dataset_version": "v2",
+    "validated_against": "schema/verse.schema.json"
+  }
+}
