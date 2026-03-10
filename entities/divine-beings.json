@@ -1,0 +1,35 @@
+{
+  "entity_type": "divine-beings",
+  "entities": [
+    {
+      "id": "god",
+      "name": "God",
+      "classification": "divine",
+      "themes": [
+        "creation",
+        "sovereignty",
+        "holiness",
+        "judgment",
+        "mercy"
+      ],
+      "linked_books": [
+        "genesis",
+        "exodus",
+        "psalms",
+        "john",
+        "revelation"
+      ]
+    },
+    {
+      "id": "seraphim",
+      "name": "Seraphim",
+      "classification": "angelic-order",
+      "first_reference": "isaiah-006-002",
+      "themes": [
+        "holiness",
+        "worship",
+        "fire"
+      ]
+    }
+  ]
+}
