@@ -1,0 +1,20 @@
+{
+  "id": "law",
+  "name": "Law",
+  "description": "Divine instruction ordering life, worship, and communal holiness.",
+  "key_references": [
+    "exodus-019-005",
+    "leviticus-019-002",
+    "deuteronomy-006-004"
+  ],
+  "related_themes": [
+    "holiness",
+    "covenant",
+    "obedience"
+  ],
+  "gcb": {
+    "mirror": "Law reveals the character and will of God.",
+    "water": "Law orders life in covenant.",
+    "fire": "Law tests obedience and exposes the heart."
+  }
+}
