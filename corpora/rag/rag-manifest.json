@@ -1,0 +1,16 @@
+{
+  "bundle_name": "gcb-rag-bundles",
+  "chunk_sources": [
+    "verse-level",
+    "themes",
+    "entities",
+    "concordance",
+    "graph"
+  ],
+  "retrieval_priority": [
+    "verse-level",
+    "themes",
+    "graph",
+    "entities"
+  ]
+}
