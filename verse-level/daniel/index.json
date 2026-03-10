@@ -1,0 +1,7 @@
+{
+  "book": "daniel",
+  "chapters": 12,
+  "verses": 357,
+  "dataset_path": "verse-level/daniel/",
+  "status": "seeded"
+}
