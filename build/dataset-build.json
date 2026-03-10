@@ -1,0 +1,8 @@
+{
+  "datasets": [
+    "verse-level",
+    "themes",
+    "entities",
+    "concordance"
+  ]
+}
