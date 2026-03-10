@@ -1,0 +1,8 @@
+{
+  "benchmarks": [
+    "retrieval-accuracy",
+    "citation-accuracy",
+    "canon-tradition-accuracy",
+    "doctrinal-consistency"
+  ]
+}
