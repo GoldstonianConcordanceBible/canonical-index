@@ -1,0 +1,146 @@
+[
+  {
+    "book": "job",
+    "chapter": 1,
+    "verse": 21,
+    "text": "The LORD gave, and the LORD hath taken away; blessed be the name of the LORD.",
+    "themes": ["suffering", "sovereignty", "worship"],
+    "entities": ["job", "god"],
+    "cross_refs": ["psalms-034-001", "james-005-011"],
+    "gcb": {
+      "mirror": "Worship reveals whether faith depends on blessing or on God Himself.",
+      "water": "Suffering strips life down to what is most true.",
+      "fire": "Loss tests whether the soul will still bless the Lord."
+    },
+    "source": "data-source/source-wisdom.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "job",
+    "chapter": 19,
+    "verse": 25,
+    "text": "For I know that my redeemer liveth.",
+    "themes": ["hope", "redemption", "suffering"],
+    "entities": ["job", "redeemer"],
+    "cross_refs": ["isaiah-041-014", "1-peter-001-018"],
+    "gcb": {
+      "mirror": "Hope persists even when circumstances collapse.",
+      "water": "Redemption gives shape to suffering.",
+      "fire": "Faith speaks beyond visible ruin."
+    },
+    "source": "data-source/source-wisdom.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "psalms",
+    "chapter": 23,
+    "verse": 1,
+    "text": "The LORD is my shepherd; I shall not want.",
+    "themes": ["worship", "guidance", "provision"],
+    "entities": ["god", "david"],
+    "cross_refs": ["john-010-011"],
+    "gcb": {
+      "mirror": "The soul is safest when it knows who shepherds it.",
+      "water": "Divine care orders the path of life.",
+      "fire": "Trust is refined in the valleys the Shepherd permits."
+    },
+    "source": "data-source/source-wisdom.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "psalms",
+    "chapter": 51,
+    "verse": 10,
+    "text": "Create in me a clean heart, O God; and renew a right spirit within me.",
+    "themes": ["repentance", "renewal", "worship"],
+    "entities": ["god", "david"],
+    "cross_refs": ["ezekiel-036-026", "1-john-001-009"],
+    "gcb": {
+      "mirror": "Repentance begins with the truth about the heart.",
+      "water": "Renewal is an inward cleansing before it is an outward reform.",
+      "fire": "The prayer for cleansing burns away self-deception."
+    },
+    "source": "data-source/source-wisdom.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "proverbs",
+    "chapter": 1,
+    "verse": 7,
+    "text": "The fear of the LORD is the beginning of knowledge.",
+    "themes": ["wisdom", "fear-of-the-lord", "knowledge"],
+    "entities": ["god", "solomon"],
+    "cross_refs": ["job-028-028", "psalms-111-010"],
+    "gcb": {
+      "mirror": "Wisdom begins where pride ends.",
+      "water": "Reverence orders the mind toward truth.",
+      "fire": "Holy fear burns away false confidence."
+    },
+    "source": "data-source/source-wisdom.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "proverbs",
+    "chapter": 3,
+    "verse": 5,
+    "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+    "themes": ["trust", "wisdom", "guidance"],
+    "entities": ["god", "solomon"],
+    "cross_refs": ["jeremiah-017-007", "james-001-005"],
+    "gcb": {
+      "mirror": "The heart must choose whether it will lean on God or self.",
+      "water": "Trust reorders understanding under divine guidance.",
+      "fire": "Reliance on God exposes the weakness of self-rule."
+    },
+    "source": "data-source/source-wisdom.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "ecclesiastes",
+    "chapter": 1,
+    "verse": 2,
+    "text": "Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.",
+    "themes": ["vanity", "meaning", "mortality"],
+    "entities": ["preacher"],
+    "cross_refs": ["romans-008-020"],
+    "gcb": {
+      "mirror": "Life without eternal anchoring reveals its vapor-like instability.",
+      "water": "Vanity washes away illusions of permanence.",
+      "fire": "Meaning is tested when earthly gain proves temporary."
+    },
+    "source": "data-source/source-wisdom.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "ecclesiastes",
+    "chapter": 12,
+    "verse": 13,
+    "text": "Fear God, and keep his commandments: for this is the whole duty of man.",
+    "themes": ["fear-of-the-lord", "obedience", "meaning"],
+    "entities": ["god", "preacher"],
+    "cross_refs": ["deuteronomy-010-012", "john-014-015"],
+    "gcb": {
+      "mirror": "Meaning is found in right relation to God.",
+      "water": "Obedience orders life in a world of passing things.",
+      "fire": "The final word burns through endless speculation."
+    },
+    "source": "data-source/source-wisdom.json",
+    "tradition": "ethiopian"
+  },
+  {
+    "book": "song-of-solomon",
+    "chapter": 8,
+    "verse": 7,
+    "text": "Many waters cannot quench love, neither can the floods drown it.",
+    "themes": ["love", "covenant-love", "devotion"],
+    "entities": ["beloved", "lover"],
+    "cross_refs": ["romans-008-039", "ephesians-005-025"],
+    "gcb": {
+      "mirror": "True love reveals what cannot be extinguished by pressure.",
+      "water": "Love remains through floods that would wash lesser things away.",
+      "fire": "Covenant love is tested and proven by endurance."
+    },
+    "source": "data-source/source-wisdom.json",
+    "tradition": "ethiopian"
+  }
+]
