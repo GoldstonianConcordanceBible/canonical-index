@@ -181,4 +181,46 @@
   "first_reference": "daniel-001-06",
   "themes": ["wisdom", "faithfulness", "apocalyptic-vision"],
   "linked_books": ["daniel", "matthew", "revelation"]
+},
+{
+  "id": "hosea",
+  "name": "Hosea",
+  "first_reference": "hosea-001-01",
+  "themes": ["repentance", "mercy", "covenant-faithfulness"],
+  "linked_books": ["hosea", "matthew"]
+},
+{
+  "id": "jonah",
+  "name": "Jonah",
+  "first_reference": "jonah-001-01",
+  "themes": ["mercy", "calling", "deliverance"],
+  "linked_books": ["jonah", "matthew"]
+},
+{
+  "id": "habakkuk",
+  "name": "Habakkuk",
+  "first_reference": "habakkuk-001-01",
+  "themes": ["faith", "justice", "endurance"],
+  "linked_books": ["habakkuk", "romans", "galatians", "hebrews"]
+},
+{
+  "id": "haggai",
+  "name": "Haggai",
+  "first_reference": "haggai-001-01",
+  "themes": ["restoration", "obedience", "temple"],
+  "linked_books": ["haggai", "ezra"]
+},
+{
+  "id": "zechariah",
+  "name": "Zechariah",
+  "first_reference": "zechariah-001-01",
+  "themes": ["vision", "restoration", "messiah"],
+  "linked_books": ["zechariah", "matthew", "revelation"]
+},
+{
+  "id": "malachi",
+  "name": "Malachi",
+  "first_reference": "malachi-001-01",
+  "themes": ["purity", "fear-of-the-lord", "prophetic-bridge"],
+  "linked_books": ["malachi", "matthew", "luke"]
 }
