@@ -1,0 +1,7 @@
+{
+  "book": "isaiah",
+  "chapters": 66,
+  "verses": 1292,
+  "dataset_path": "verse-level/isaiah/",
+  "status": "seeded"
+}
