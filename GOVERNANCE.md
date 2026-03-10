@@ -2,7 +2,6 @@
 
 ## Purpose
 
-Purpose:
 	•	release discipline
 	•	authority order
 	•	contribution rules
