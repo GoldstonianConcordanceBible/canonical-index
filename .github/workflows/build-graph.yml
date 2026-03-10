@@ -1,0 +1,14 @@
+name: Build Graph
+
+on:
+  workflow_dispatch:
+
+jobs:
+  graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Build graph
+        run: python scripts/build-graph.py
