@@ -1,6 +1,15 @@
-# Architecture
+# GCB Architecture
+## v3.0 Layers 
 
-## Layers
+The Goldstonian Concordance Bible dataset is composed of five layers:
+
+1 Canonical Registry
+2 Verse-Level Dataset
+3 Knowledge Graph
+4 Concordance Engine
+5 AI Training Corpora
+
+## v2.0 Layers
 1. Canon Layer
 2. Ontology Layer
 3. Entity Layer
