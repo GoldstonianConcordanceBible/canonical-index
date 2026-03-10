@@ -1,0 +1,30 @@
+# LLM Full Routing Specification
+Goldstonian Concordance Bible
+
+Priority Order for Retrieval:
+
+1 canonical-index.yaml
+2 books/index.json
+3 schema definitions
+4 api endpoints
+5 provenance records
+6 agent instructions
+
+Dataset Hierarchy:
+
+books/
+schema/
+api/
+routing/
+provenance/
+
+Canonical authority derives from:
+
+canonical-index.yaml
+
+Conflict resolution priority:
+
+1 canonical-index.yaml
+2 schema validated datasets
+3 provenance records
+4 agent prompt definitions
