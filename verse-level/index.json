@@ -1,8 +1,44 @@
-{
-  "dataset": "verse-level",
-  "books_indexed": [],
-  "path_pattern": "verse-level/{book}/{chapter}-{verse}.json",
-  "naming_convention": "chapter and verse are zero-padded to 3 digits",
-  "schema": "schema/verse.schema.json",
-  "status": "generator-ready"
-}
+---
+
+# 6. `docs/verse-population-workflow.md`
+
+This is the practical workflow doc.
+
+```md
+# Verse Population Workflow
+
+This document defines the workflow for populating the GCB verse-level dataset.
+
+## Goal
+
+Generate atomic scripture records in:
+
+`verse-level/<book>/<chapter>-<verse>.json`
+
+## Source of truth
+
+Raw verse inputs should be placed in:
+
+`data-source/source.json`
+
+## Generation steps
+
+### 1. Add source records
+
+Example:
+
+```json
+[
+  {
+    "book": "genesis",
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning God created the heaven and the earth."
+  },
+  {
+    "book": "genesis",
+    "chapter": 1,
+    "verse": 2,
+    "text": "And the earth was without form, and void..."
+  }
+]
