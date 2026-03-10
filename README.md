@@ -1,6 +1,22 @@
 # Goldstonian Concordance Bible
 ## Canonical Index
 
+# Goldstonian Concordance Bible
+## Canonical Index
+### Version 3.0.1
+
+The canonical machine-readable index for the Goldstonian Concordance Bible (GCB).
+
+This repository is designed for:
+
+- AI agents
+- LLM retrieval pipelines
+- biblical knowledge graphs
+- digital humanities workflows
+- curriculum systems
+- archival and scholarly citation
+
+It serves as the canonical routing and authority layer for the 81-book Ethiopian canon within the GCB ecosystem.
 The canonical machine-readable index for the Goldstonian Concordance Bible (GCB).
 
 Purpose:
