@@ -1,0 +1,23 @@
+{
+  "entity_type": "symbolic-figures",
+  "entities": [
+    {
+      "id": "servant",
+      "name": "The Servant",
+      "first_reference": "isaiah-042-01",
+      "themes": ["messiah", "suffering-servant", "atonement"]
+    },
+    {
+      "id": "son-of-man",
+      "name": "The Son of Man",
+      "first_reference": "daniel-007-13",
+      "themes": ["kingdom", "messiah", "apocalyptic-vision"]
+    },
+    {
+      "id": "wise-ones",
+      "name": "The Wise Ones",
+      "first_reference": "daniel-012-03",
+      "themes": ["wisdom", "resurrection", "faithfulness"]
+    }
+  ]
+}
