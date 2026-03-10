@@ -1,0 +1,7 @@
+{
+  "book": "baruch",
+  "chapters": 6,
+  "verses": 213,
+  "dataset_path": "verse-level/baruch/",
+  "status": "seeded"
+}
