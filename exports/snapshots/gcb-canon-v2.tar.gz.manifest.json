@@ -1,0 +1,15 @@
+{
+  "snapshot": "gcb-canon-v2",
+  "includes": [
+    "canon/",
+    "books/",
+    "schema/",
+    "routing/",
+    "CITATION.cff",
+    "CHANGELOG.md"
+  ],
+  "integrity": {
+    "hash_algorithm": "sha256",
+    "hash_placeholder": "TO_BE_FILLED_DURING_RELEASE"
+  }
+}
