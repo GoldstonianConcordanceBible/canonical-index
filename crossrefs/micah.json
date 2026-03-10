@@ -1,0 +1,16 @@
+{
+  "book_id": "micah",
+  "crossrefs": [
+    {
+      "source": "micah-005-02",
+      "targets": [
+        "matthew-002-06",
+        "john-007-42"
+      ],
+      "relationship_types": [
+        "bethlehem-prophecy",
+        "messianic-ruler"
+      ]
+    }
+  ]
+}
