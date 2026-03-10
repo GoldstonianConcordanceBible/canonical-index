@@ -33,4 +33,14 @@
 }
 
 ]
+},
+{
+  "id": "edom",
+  "name": "Edom",
+  "themes": ["pride", "judgment", "brother-conflict"]
+},
+{
+  "id": "nineveh",
+  "name": "Nineveh",
+  "themes": ["repentance", "mercy", "judgment"]
 }
