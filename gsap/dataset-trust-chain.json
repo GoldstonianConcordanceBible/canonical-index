@@ -1,0 +1,24 @@
+{
+  "trust_chain": [
+    {
+      "layer": 1,
+      "name": "canonical-index",
+      "type": "registry"
+    },
+    {
+      "layer": 2,
+      "name": "verse-level",
+      "type": "atomic-scripture"
+    },
+    {
+      "layer": 3,
+      "name": "graph",
+      "type": "theological-relationships"
+    },
+    {
+      "layer": 4,
+      "name": "ontology",
+      "type": "conceptual-layer"
+    }
+  ]
+}
