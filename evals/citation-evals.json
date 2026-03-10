@@ -1,0 +1,8 @@
+{
+  "tests": [
+    {
+      "prompt": "Which tradition includes Enoch?",
+      "must_cite": "canon/canon-map.json"
+    }
+  ]
+}
