@@ -1,0 +1,20 @@
+{
+  "id": "justice",
+  "name": "Justice",
+  "description": "Righteous public order reflecting God's moral rule over persons, nations, and worship.",
+  "key_references": [
+    "amos-005-24",
+    "micah-006-08",
+    "matthew-023-23"
+  ],
+  "related_themes": [
+    "righteousness",
+    "judgment",
+    "mercy"
+  ],
+  "gcb": {
+    "mirror": "Justice reveals whether a people truly reflect God's character.",
+    "water": "Justice should flow into communal life, not remain theoretical.",
+    "fire": "Justice burns against exploitation and hypocrisy."
+  }
+}
