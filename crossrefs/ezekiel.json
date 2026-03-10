@@ -1,0 +1,27 @@
+{
+  "book_id": "ezekiel",
+  "crossrefs": [
+    {
+      "source": "ezekiel-036-26",
+      "targets": [
+        "john-003-05",
+        "2-corinthians-005-17"
+      ],
+      "relationship_types": [
+        "new-heart",
+        "renewal"
+      ]
+    },
+    {
+      "source": "ezekiel-037-05",
+      "targets": [
+        "john-020-22",
+        "revelation-011-11"
+      ],
+      "relationship_types": [
+        "breath-of-god",
+        "restoration-life"
+      ]
+    }
+  ]
+}
