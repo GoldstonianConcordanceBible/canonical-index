@@ -1,0 +1,20 @@
+{
+  "id": "worship",
+  "name": "Worship",
+  "description": "The right response of the soul to God's worth, holiness, and presence.",
+  "key_references": [
+    "job-001-021",
+    "psalms-023-001",
+    "psalms-051-010"
+  ],
+  "related_themes": [
+    "repentance",
+    "praise",
+    "presence"
+  ],
+  "gcb": {
+    "mirror": "Worship reveals what the heart values most.",
+    "water": "Worship reorders the inner life around God.",
+    "fire": "Worship refines loyalty through trial and repentance."
+  }
+}
