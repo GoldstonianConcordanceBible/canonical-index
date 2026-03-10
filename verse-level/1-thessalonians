@@ -1,0 +1,7 @@
+{
+  "book": "1-thessalonians",
+  "chapters": 5,
+  "verses": 89,
+  "dataset_path": "verse-level/1-thessalonians/",
+  "status": "seeded"
+}
