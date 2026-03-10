@@ -1,0 +1,12 @@
+{
+  "registries": [
+    {
+      "name": "scripture-registry",
+      "path": "registry/scripture-registry.json"
+    },
+    {
+      "name": "dataset-registry",
+      "path": "registry/dataset-registry.json"
+    }
+  ]
+}
