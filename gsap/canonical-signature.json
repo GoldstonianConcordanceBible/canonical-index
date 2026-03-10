@@ -1,0 +1,11 @@
+{
+  "dataset": "gcb-canonical-index",
+  "signature_method": "sha256-tree",
+  "signed_components": [
+    "canon/books/index.json",
+    "verse-level/",
+    "graph/",
+    "ontology/"
+  ],
+  "verification_required": true
+}
