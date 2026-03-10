@@ -1,0 +1,7 @@
+{
+  "book": "genesis",
+  "chapters": 50,
+  "verses": 1533,
+  "dataset_path": "verse-level/genesis/",
+  "status": "seeded"
+}
