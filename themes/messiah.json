@@ -1,0 +1,20 @@
+{
+  "id": "messiah",
+  "name": "Messiah",
+  "description": "The anointed one through whom divine rule, salvation, and covenant fulfillment come into history.",
+  "key_references": [
+    "isaiah-007-14",
+    "isaiah-053-05",
+    "daniel-007-14"
+  ],
+  "related_themes": [
+    "kingdom",
+    "atonement",
+    "davidic-covenant"
+  ],
+  "gcb": {
+    "mirror": "Messiah reveals God's answer to history's crisis.",
+    "water": "Messiah gathers promise, covenant, and identity into fulfillment.",
+    "fire": "Messiah judges every false savior and throne."
+  }
+}
