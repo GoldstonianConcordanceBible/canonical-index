@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Course Record",
+  "type": "object",
+  "required": [
+    "course_id",
+    "title",
+    "pathway",
+    "playlist_hours_required",
+    "books_required",
+    "reflections_required",
+    "final_assessment_required",
+    "level",
+    "status"
+  ],
+  "properties": {
+    "course_id": { "type": "string" },
+    "title": { "type": "string" },
+    "pathway": { "type": "string" },
+    "playlist_hours_required": { "type": "number" },
+    "books_required": { "type": "integer" },
+    "reflections_required": { "type": "integer" },
+    "final_assessment_required": { "type": "boolean" },
+    "level": { "type": "string" },
+    "status": { "type": "string" }
+  }
+}
