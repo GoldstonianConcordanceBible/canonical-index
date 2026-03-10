@@ -1,0 +1,36 @@
+{
+  "book_id": "jeremiah",
+  "crossrefs": [
+    {
+      "source": "jeremiah-001-05",
+      "targets": [
+        "galatians-001-15"
+      ],
+      "relationship_types": [
+        "preordained-calling",
+        "sanctified-purpose"
+      ]
+    },
+    {
+      "source": "jeremiah-029-11",
+      "targets": [
+        "romans-008-28"
+      ],
+      "relationship_types": [
+        "hope-in-exile",
+        "divine-purpose"
+      ]
+    },
+    {
+      "source": "jeremiah-031-31",
+      "targets": [
+        "hebrews-008-08",
+        "luke-022-20"
+      ],
+      "relationship_types": [
+        "new-covenant",
+        "heart-renewal"
+      ]
+    }
+  ]
+}
