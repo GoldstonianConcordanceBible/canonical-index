@@ -1,0 +1,18 @@
+{
+  "bundles": [
+    {
+      "query_type": "book-overview",
+      "sources": [
+        "api/books/genesis.json",
+        "themes/covenant.json"
+      ]
+    },
+    {
+      "query_type": "doctrinal-trace",
+      "sources": [
+        "graph/typology-graph.json",
+        "ontology/covenants.json"
+      ]
+    }
+  ]
+}
