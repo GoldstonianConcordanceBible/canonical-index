@@ -1,0 +1,35 @@
+{
+  "id": "genesis",
+  "name": "Genesis",
+  "order": 1,
+  "testament": "old",
+  "canon_tradition": "ethiopian",
+  "chapters": 50,
+  "verse_count_estimate": 1533,
+  "datasets": {
+    "verse_level": "/verse-level/genesis/",
+    "crossrefs": "/crossrefs/genesis.json"
+  },
+  "themes": [
+    "creation",
+    "covenant",
+    "fall",
+    "promise"
+  ],
+  "entities": [
+    "god",
+    "adam",
+    "eve",
+    "abraham",
+    "jacob",
+    "joseph"
+  ],
+  "gcb": {
+    "series_refs": [
+      "series-i-vol-i"
+    ],
+    "mirror": "Genesis reveals origins and patterns.",
+    "water": "Genesis begins the ordering of creation and covenant life.",
+    "fire": "Genesis establishes the crises that all later scripture answers."
+  }
+}
