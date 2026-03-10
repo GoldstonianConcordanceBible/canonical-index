@@ -1,0 +1,7 @@
+{
+  "book": "song-of-solomon",
+  "chapters": 8,
+  "verses": 117,
+  "dataset_path": "verse-level/song-of-solomon/",
+  "status": "seeded"
+}
