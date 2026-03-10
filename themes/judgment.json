@@ -1,0 +1,23 @@
+{
+  "id": "judgment",
+  "name": "Judgment",
+  "description": "The righteous assessment and response of God to persons, nations, powers, and history.",
+  "key_references": [
+    "genesis-006-013",
+    "exodus-012-012",
+    "isaiah-013-011",
+    "matthew-025-032",
+    "revelation-020-012"
+  ],
+  "related_themes": [
+    "holiness",
+    "justice",
+    "fire",
+    "repentance"
+  ],
+  "gcb": {
+    "mirror": "Judgment reveals the truth about what a thing is.",
+    "water": "Judgment separates the clean from the unclean.",
+    "fire": "Judgment consumes what resists God."
+  }
+}
