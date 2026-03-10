@@ -1,0 +1,7 @@
+{
+  "book": "ecclesiastes",
+  "chapters": 12,
+  "verses": 222,
+  "dataset_path": "verse-level/ecclesiastes/",
+  "status": "seeded"
+}
