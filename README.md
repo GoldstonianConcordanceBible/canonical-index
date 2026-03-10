@@ -51,4 +51,21 @@ The canonical dataset includes:
 
 ---
 
-## Repository Structure
+## Directory Roles
+
+The following directories have distinct purposes and should not be treated as duplicates.
+
+### Canonical Retrieval
+- `crossrefs/` → canonical structured cross-reference dataset
+- `verse-level/` → atomic scripture retrieval layer
+- `themes/` → theological theme registry
+- `entities/` → named entity registry
+
+### Legacy / Supplemental / Transitional
+- `CROSS_LINKS/` → legacy or experimental cross-link materials retained for compatibility or migration support
+
+### Evaluation
+- `evals/` → machine-readable benchmark and test payloads
+- `evaluation/` → evaluation documentation, notes, or higher-level framework materials
+
+If overlap exists between directories, the structured canonical source should take precedence over legacy or narrative materials.
