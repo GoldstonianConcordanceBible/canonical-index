@@ -1,7 +1,0 @@
-{
-  "book": "john",
-  "chapters": 21,
-  "verses": 879,
-  "dataset_path": "verse-level/john/",
-  "status": "seeded"
-}
