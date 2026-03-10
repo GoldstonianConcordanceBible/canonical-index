@@ -1,0 +1,11 @@
+{
+  "hierarchy": [
+    "canonical-index.yaml",
+    "canon/books/index.json",
+    "verse-level/",
+    "graph/",
+    "ontology/",
+    "themes/",
+    "entities/"
+  ]
+}
