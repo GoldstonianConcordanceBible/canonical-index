@@ -1,0 +1,14 @@
+{
+  "id": "jubilees",
+  "classification": "second-temple",
+  "canonical_status": "ethiopian",
+  "related_books": [
+    "genesis",
+    "exodus"
+  ],
+  "themes": [
+    "law",
+    "calendar",
+    "covenant"
+  ]
+}
