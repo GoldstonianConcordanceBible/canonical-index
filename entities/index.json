@@ -1,0 +1,8 @@
+{
+  "datasets": [
+    "people.json",
+    "places.json",
+    "divine-beings.json"
+  ],
+  "description": "Named entity registries for GCB knowledge graph construction"
+}
