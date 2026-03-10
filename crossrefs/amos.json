@@ -1,0 +1,16 @@
+{
+  "book_id": "amos",
+  "crossrefs": [
+    {
+      "source": "amos-005-24",
+      "targets": [
+        "micah-006-08",
+        "matthew-023-23"
+      ],
+      "relationship_types": [
+        "justice",
+        "righteousness-over-ritual"
+      ]
+    }
+  ]
+}
