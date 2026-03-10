@@ -1,6 +1,7 @@
 {
- "version": "v2",
- "canon": "ethiopian",
- "books": 81,
- "date": "2026"
+  "project": "gcb-canonical-index",
+  "version": "3.0.1",
+  "release": "Canonical Integrity Patch",
+  "canon_tradition": "ethiopian",
+  "books": 81
 }
