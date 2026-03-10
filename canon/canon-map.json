@@ -1,0 +1,27 @@
+{
+  "traditions": {
+    "ethiopian": 81,
+    "catholic": 73,
+    "protestant": 66
+  },
+  "relationships": [
+    {
+      "book":"tobit",
+      "ethiopian":true,
+      "catholic":true,
+      "protestant":false
+    },
+    {
+      "book":"1-meqabyan",
+      "ethiopian":true,
+      "catholic":false,
+      "protestant":false
+    },
+    {
+      "book":"enoch",
+      "ethiopian":true,
+      "catholic":false,
+      "protestant":false
+    }
+  ]
+}
