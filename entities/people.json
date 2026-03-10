@@ -153,4 +153,32 @@
   "first_reference": "2-samuel-012-024",
   "themes": ["wisdom", "teaching", "kingship"],
   "linked_books": ["1-kings", "proverbs", "ecclesiastes", "song-of-solomon"]
+},
+{
+  "id": "isaiah",
+  "name": "Isaiah",
+  "first_reference": "isaiah-001-01",
+  "themes": ["holiness", "calling", "messiah"],
+  "linked_books": ["isaiah", "john", "romans"]
+},
+{
+  "id": "jeremiah",
+  "name": "Jeremiah",
+  "first_reference": "jeremiah-001-01",
+  "themes": ["calling", "judgment", "new-covenant"],
+  "linked_books": ["jeremiah", "lamentations", "hebrews"]
+},
+{
+  "id": "ezekiel",
+  "name": "Ezekiel",
+  "first_reference": "ezekiel-001-03",
+  "themes": ["vision", "restoration", "new-heart"],
+  "linked_books": ["ezekiel", "john", "revelation"]
+},
+{
+  "id": "daniel",
+  "name": "Daniel",
+  "first_reference": "daniel-001-06",
+  "themes": ["wisdom", "faithfulness", "apocalyptic-vision"],
+  "linked_books": ["daniel", "matthew", "revelation"]
 }
