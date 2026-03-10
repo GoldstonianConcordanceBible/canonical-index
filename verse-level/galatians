@@ -1,0 +1,7 @@
+{
+  "book": "galatians",
+  "chapters": 6,
+  "verses": 149,
+  "dataset_path": "verse-level/galatians/",
+  "status": "seeded"
+}
