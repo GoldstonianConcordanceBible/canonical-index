@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Goldstonian Concordance Bible Canonical Index
+authors:
+  - family-names: Goldston
+    given-names: Justin
+repository-code: https://github.com/GoldstonianConcordanceBible/canonical-index
+version: v2
+license: MIT
+message: Cite this repository when referencing the canonical GCB dataset.
