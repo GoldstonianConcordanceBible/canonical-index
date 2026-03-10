@@ -1,0 +1,12 @@
+{
+  "partners": [
+    {
+      "name": "BibleProject datasets",
+      "relationship": "external reference"
+    },
+    {
+      "name": "Dead Sea Scroll datasets",
+      "relationship": "historical source"
+    }
+  ]
+}
