@@ -1,0 +1,7 @@
+{
+ "api": {
+  "books": "/api/books/",
+  "verses": "/api/verses/",
+  "themes": "/api/themes/"
+ }
+}
