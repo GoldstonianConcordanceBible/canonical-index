@@ -1,0 +1,12 @@
+{
+  "mirrors": [
+    {
+      "location": "zenodo",
+      "dataset": "gcb-canonical-index"
+    },
+    {
+      "location": "figshare",
+      "dataset": "gcb-canonical-index"
+    }
+  ]
+}
