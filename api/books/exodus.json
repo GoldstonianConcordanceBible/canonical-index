@@ -1,0 +1,34 @@
+{
+  "id": "exodus",
+  "name": "Exodus",
+  "order": 2,
+  "testament": "old",
+  "canon_tradition": "ethiopian",
+  "chapters": 40,
+  "verse_count_estimate": 1213,
+  "datasets": {
+    "verse_level": "/verse-level/exodus/",
+    "crossrefs": "/crossrefs/exodus.json"
+  },
+  "themes": [
+    "deliverance",
+    "covenant",
+    "law",
+    "presence"
+  ],
+  "entities": [
+    "god",
+    "moses",
+    "pharaoh",
+    "aaron",
+    "israel"
+  ],
+  "gcb": {
+    "series_refs": [
+      "series-i-vol-i"
+    ],
+    "mirror": "Exodus reveals God as deliverer and king.",
+    "water": "Exodus orders a people out of bondage into covenant.",
+    "fire": "Exodus judges empire and sanctifies a nation."
+  }
+}
