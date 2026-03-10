@@ -1,7 +1,0 @@
-{
-  "book": "acts",
-  "chapters": 28,
-  "verses": 1007,
-  "dataset_path": "verse-level/acts/",
-  "status": "seeded"
-}
