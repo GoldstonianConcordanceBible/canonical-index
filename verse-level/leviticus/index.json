@@ -1,0 +1,7 @@
+{
+  "book": "leviticus",
+  "chapters": 27,
+  "verses": 859,
+  "dataset_path": "verse-level/leviticus/",
+  "status": "seeded"
+}
