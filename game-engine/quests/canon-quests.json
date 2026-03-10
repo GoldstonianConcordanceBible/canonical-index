@@ -1,0 +1,14 @@
+{
+  "quests": [
+    {
+      "id": "quest-ethiopian-canon",
+      "title": "Master the 81-Book Canon",
+      "steps": [
+        "Identify the Torah books",
+        "Identify the Deuterocanonical books",
+        "Identify Ethiopian-distinct books"
+      ],
+      "reward": "canon-mastery-badge"
+    }
+  ]
+}
