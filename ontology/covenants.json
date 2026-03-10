@@ -1,0 +1,20 @@
+{
+  "covenants": [
+    {
+      "name": "noahic",
+      "reference": "genesis-009-013"
+    },
+    {
+      "name": "abrahamic",
+      "reference": "genesis-015-018"
+    },
+    {
+      "name": "mosaic",
+      "reference": "exodus-019-005"
+    },
+    {
+      "name": "new",
+      "reference": "luke-022-020"
+    }
+  ]
+}
