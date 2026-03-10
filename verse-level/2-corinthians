@@ -1,0 +1,7 @@
+{
+  "book": "2-corinthians",
+  "chapters": 13,
+  "verses": 257,
+  "dataset_path": "verse-level/2-corinthians/",
+  "status": "seeded"
+}
