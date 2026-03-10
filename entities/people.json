@@ -133,5 +133,24 @@
         "hebrews"
       ]
     }
-  ]
+    {
+  "id": "job",
+  "name": "Job",
+  "first_reference": "job-001-001",
+  "themes": ["suffering", "integrity", "hope"],
+  "linked_books": ["job", "james"]
+},
+{
+  "id": "david",
+  "name": "David",
+  "first_reference": "1-samuel-016-013",
+  "themes": ["worship", "repentance", "kingship"],
+  "linked_books": ["1-samuel", "2-samuel", "psalms", "matthew", "luke"]
+},
+{
+  "id": "solomon",
+  "name": "Solomon",
+  "first_reference": "2-samuel-012-024",
+  "themes": ["wisdom", "teaching", "kingship"],
+  "linked_books": ["1-kings", "proverbs", "ecclesiastes", "song-of-solomon"]
 }
