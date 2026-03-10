@@ -9,19 +9,30 @@
         "revelation-004-011"
       ],
       "relationship_types": [
-        "creation-echo",
-        "theological-parallel"
+        "creation-parallel",
+        "theological-echo"
       ]
     },
     {
-      "source": "genesis-001-003",
+      "source": "genesis-006-018",
       "targets": [
-        "john-001-005",
-        "2-corinthians-004-006"
+        "genesis-009-009",
+        "1-peter-003-020"
       ],
       "relationship_types": [
-        "light-theme",
-        "word-creation-pattern"
+        "covenant-continuity",
+        "salvation-pattern"
+      ]
+    },
+    {
+      "source": "genesis-015-018",
+      "targets": [
+        "romans-004-003",
+        "galatians-003-017"
+      ],
+      "relationship_types": [
+        "abrahamic-covenant",
+        "promise-fulfillment"
       ]
     }
   ]
