@@ -1,0 +1,12 @@
+{
+  "demonic-entities": [
+    "azazel",
+    "belial",
+    "abaddon",
+    "legion"
+  ],
+  "references": {
+    "azazel": ["leviticus-016-008", "enoch-010-004"],
+    "abaddon": ["revelation-009-011"]
+  }
+}
