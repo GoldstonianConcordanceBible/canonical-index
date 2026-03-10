@@ -1,0 +1,13 @@
+{
+  "dataset": "gcb-canonical-index",
+  "protocol": "gsap-v1",
+  "authority_level": "canonical-registry",
+  "tradition": "ethiopian",
+  "books": 81,
+  "primary_manifest": "canonical-index.yaml",
+  "maintainer": "Goldstonian Concordance Bible Project",
+  "verification": [
+    "dataset-trust-chain.json",
+    "canonical-signature.json"
+  ]
+}
