@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cross Reference Schema",
+  "type": "object",
+  "properties": {
+    "book_id": { "type": "string" },
+    "crossrefs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": { "type": "string" },
+          "targets": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "relationship_types": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "required": ["source", "targets"]
+      }
+    }
+  },
+  "required": ["book_id", "crossrefs"]
+}
