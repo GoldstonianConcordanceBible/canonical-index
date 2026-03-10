@@ -1,0 +1,9 @@
+{
+  "project": "gcb-canonical-index",
+  "version": "3.0.1",
+  "release_name": "Canonical Integrity Patch",
+  "status": "active",
+  "canon_tradition": "ethiopian",
+  "books": 81,
+  "primary_manifest": "canonical-index.yaml"
+}
