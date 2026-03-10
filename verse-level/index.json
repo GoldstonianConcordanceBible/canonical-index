@@ -1,0 +1,11 @@
+{
+  "dataset": "verse-level",
+  "canon": "ethiopian",
+  "books_indexed": [
+    "genesis",
+    "exodus"
+  ],
+  "path_pattern": "verse-level/{book}/{chapter}-{verse}.json",
+  "naming_convention": "chapter and verse are zero-padded to 3 digits",
+  "schema": "schema/verse.schema.json"
+}
