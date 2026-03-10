@@ -1,0 +1,15 @@
+{
+  "id": "assyria",
+  "name": "Assyria",
+  "themes": ["judgment", "empire", "rod-of-discipline"]
+},
+{
+  "id": "babylon",
+  "name": "Babylon",
+  "themes": ["exile", "empire", "judgment", "apocalyptic-symbol"]
+},
+{
+  "id": "persia",
+  "name": "Persia",
+  "themes": ["empire", "transition", "restoration-context"]
+}
