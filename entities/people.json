@@ -99,7 +99,41 @@
   "salvation",
   "kingdom of God"
  ]
-}
+{
+  "entity_type": "people",
+  "entities": [
+    {
+      "id": "adam",
+      "name": "Adam",
+      "first_reference": "genesis-002-007",
+      "themes": [
+        "creation",
+        "fall",
+        "humanity"
+      ],
+      "linked_books": [
+        "genesis",
+        "romans",
+        "1-corinthians"
+      ]
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "first_reference": "exodus-002-002",
+      "themes": [
+        "deliverance",
+        "law",
+        "covenant"
+      ],
+      "linked_books": [
+        "exodus",
+        "deuteronomy",
+        "matthew",
+        "hebrews"
+      ]
+    }
+  ]
 
 ]
 }
