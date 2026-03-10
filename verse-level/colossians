@@ -1,0 +1,7 @@
+{
+  "book": "colossians",
+  "chapters": 4,
+  "verses": 95,
+  "dataset_path": "verse-level/colossians/",
+  "status": "seeded"
+}
