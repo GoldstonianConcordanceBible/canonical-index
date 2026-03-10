@@ -1,5 +1,7 @@
 ##Goldstonian Concordance Bible
+
 #Canonical Index
+
 #Version 3.0.1
 
 The canonical machine-readable index for the Goldstonian Concordance Bible (GCB).
