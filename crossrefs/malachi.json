@@ -1,0 +1,16 @@
+{
+  "book_id": "malachi",
+  "crossrefs": [
+    {
+      "source": "malachi-004-02",
+      "targets": [
+        "luke-001-78",
+        "john-001-09"
+      ],
+      "relationship_types": [
+        "sun-of-righteousness",
+        "healing-light"
+      ]
+    }
+  ]
+}
