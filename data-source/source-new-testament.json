@@ -640,5 +640,86 @@
   },
   "source": "data-source/source-new-testament.json",
   "tradition": "ethiopian"
-}
+ },
+,
+{
+  "book": "hebrews",
+  "chapter": 8,
+  "verse": 8,
+  "text": "Behold, the days come, saith the Lord, when I will make a new covenant.",
+  "themes": ["new-covenant", "fulfillment", "priesthood"],
+  "entities": ["jesus", "god"],
+  "cross_refs": ["jeremiah-031-31"],
+  "gcb": {
+    "mirror": "Christ reveals the covenant promised before.",
+    "water": "Fulfillment orders old and new without confusion.",
+    "fire": "The better covenant burns through shadows by bringing substance."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "hebrews",
+  "chapter": 11,
+  "verse": 1,
+  "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+  "themes": ["faith", "hope", "endurance"],
+  "entities": ["faithful"],
+  "cross_refs": ["habakkuk-002-04", "romans-001-17"],
+  "gcb": {
+    "mirror": "Faith reveals what the soul trusts before sight confirms it.",
+    "water": "Hope orders endurance through unseen promise.",
+    "fire": "Faith burns through fear and delay."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "revelation",
+  "chapter": 1,
+  "verse": 8,
+  "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord.",
+  "themes": ["final-victory", "lordship-of-christ", "eternity"],
+  "entities": ["jesus", "god"],
+  "cross_refs": ["isaiah-044-06"],
+  "gcb": {
+    "mirror": "Christ reveals Himself as Lord over beginning and end.",
+    "water": "Apocalyptic revelation orders history under eternal identity.",
+    "fire": "The end burns in the light of the One who holds all."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "revelation",
+  "chapter": 11,
+  "verse": 15,
+  "text": "The kingdoms of this world are become the kingdoms of our Lord, and of his Christ.",
+  "themes": ["kingdom-of-god", "final-victory", "apocalypse"],
+  "entities": ["god", "christ"],
+  "cross_refs": ["daniel-007-14", "psalms-002-08"],
+  "gcb": {
+    "mirror": "The final kingdom reveals who truly rules history.",
+    "water": "Earthly rule is reordered under divine dominion.",
+    "fire": "Every rival kingdom is burned away before Christ."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "revelation",
+  "chapter": 21,
+  "verse": 4,
+  "text": "And God shall wipe away all tears from their eyes; and there shall be no more death.",
+  "themes": ["final-victory", "new-creation", "restoration"],
+  "entities": ["god"],
+  "cross_refs": ["isaiah-025-08", "1-corinthians-015-26"],
+  "gcb": {
+    "mirror": "The final victory reveals the true end of grief and death.",
+    "water": "New creation cleanses the last effects of curse and loss.",
+    "fire": "Final restoration burns away every remnant of death."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+ }
 ]
