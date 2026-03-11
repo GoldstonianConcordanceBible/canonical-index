@@ -1,0 +1,25 @@
+{
+  "id": "node.book.2-kings",
+  "node_type": "book",
+  "canonical_id": "book.2-kings",
+  "slug": "2-kings",
+  "title": "2 Kings",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "judgment",
+    "exile",
+    "prophetic-warning",
+    "apostasy",
+    "covenant-breach",
+    "collapse"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.1-kings"],
+    "precedes": ["node.book.1-chronicles"],
+    "culminates_in": ["theme.exile", "theme.judgment"],
+    "connected_characters": ["character.elisha", "character.hezekiah", "character.josiah"]
+  },
+  "summary": "2 Kings traces covenant breach to exile, confirming the prophetic warnings embedded in Torah and kingdom history."
+}
