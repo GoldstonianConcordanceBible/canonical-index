@@ -1,0 +1,25 @@
+{
+  "id": "node.book.hebrews",
+  "node_type": "book",
+  "canonical_id": "book.hebrews",
+  "slug": "hebrews",
+  "title": "Hebrews",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "priesthood",
+    "better-covenant",
+    "faith",
+    "perseverance",
+    "sacrifice",
+    "heavenly-sanctuary"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.philemon"],
+    "precedes": ["node.book.james"],
+    "connects_to": ["theme.priesthood", "theme.better-covenant", "theme.faith"],
+    "connected_characters": ["character.jesus", "character.melchizedek", "character.moses", "character.abraham"]
+  },
+  "summary": "Hebrews proclaims Christ as the better priest and mediator of the better covenant."
+}
