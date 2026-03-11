@@ -1,0 +1,25 @@
+{
+  "id": "node.book.2-maccabees",
+  "node_type": "book",
+  "canonical_id": "book.2-maccabees",
+  "slug": "2-maccabees",
+  "title": "2 Maccabees",
+  "group": "deuterocanonical-books",
+  "traditions": ["catholic"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "martyrdom",
+    "resurrection-hope",
+    "temple",
+    "judgment",
+    "deliverance",
+    "zeal"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.1-maccabees"],
+    "precedes": ["node.book.matthew"],
+    "connects_to": ["theme.martyrdom", "theme.resurrection-hope", "theme.temple"],
+    "connected_characters": ["character.judas-maccabeus", "character.martyrs", "character.israel"]
+  },
+  "summary": "2 Maccabees intensifies themes of martyrdom, temple fidelity, judgment, and hope beyond death."
+}
