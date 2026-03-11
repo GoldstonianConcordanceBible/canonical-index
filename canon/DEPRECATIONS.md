@@ -1,18 +1,41 @@
 # Deprecations
 
-## Deprecated or unsafe canonical mappings
+## Canon identity deprecations
 
-### Do not use
-- `1-maccabees` as an alias for `1-meqabyan`
-- `2-maccabees` as an alias for `2-meqabyan`
-- `3-maccabees` as an alias for `3-meqabyan`
+### Root-level duplicate files
+The following pattern is deprecated:
+- `canon/<book>.json`
 
-## Deprecated naming styles
-- Mixed-case canonical filenames for book records
-- Space-separated filenames
-- Implicit collapsing of Ethiopian distinct books into Catholic deuterocanon
+Grouped canonical files must be used instead.
 
-## Required replacement behavior
-- Use lowercase kebab-case slugs
-- Use explicit tradition-aware mapping
-- Preserve Ethiopian distinct canonical identity
+### Example
+Deprecated:
+- `canon/genesis.json`
+
+Preferred:
+- `canon/torah/genesis.json`
+
+## Naming deprecations
+Deprecated:
+- mixed-case filenames
+- inconsistent separator styles
+- duplicate canonical slugs across folders
+- implicit tradition collapse
+
+Preferred:
+- lowercase kebab-case filenames
+- one authoritative grouped file per canonical slug
+- explicit tradition-aware distinctions
+
+## Canonical distinction deprecations
+Never silently merge:
+- `1-meqabyan` with `1-maccabees`
+- `2-meqabyan` with `2-maccabees`
+- `3-meqabyan` with `3-maccabees`
+
+## Compatibility policy
+Deprecated files may remain temporarily as forwarding stubs, but must include:
+- `deprecated: true`
+- `replacement_path`
+- `replacement_slug`
+- `replacement_id`
