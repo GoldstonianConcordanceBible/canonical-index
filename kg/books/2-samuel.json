@@ -1,0 +1,25 @@
+{
+  "id": "node.book.2-samuel",
+  "node_type": "book",
+  "canonical_id": "book.2-samuel",
+  "slug": "2-samuel",
+  "title": "2 Samuel",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "davidic-covenant",
+    "kingdom",
+    "sin-and-repentance",
+    "mercy",
+    "dynasty",
+    "messianic-line"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.1-samuel"],
+    "precedes": ["node.book.1-kings"],
+    "establishes": ["theme.davidic-covenant", "theme.messianic-line"],
+    "connected_characters": ["character.david", "character.bathsheba", "character.nathan", "character.absalom"]
+  },
+  "summary": "2 Samuel centers the Davidic covenant while revealing the moral complexity of kingdom, sin, and mercy."
+}
