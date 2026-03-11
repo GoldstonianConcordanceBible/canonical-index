@@ -1,0 +1,31 @@
+[
+  { "id": "event.creation", "type": "event", "name": "Creation", "category": "primeval-history" },
+  { "id": "event.fall", "type": "event", "name": "Fall", "category": "primeval-history" },
+  { "id": "event.flood", "type": "event", "name": "Flood", "category": "primeval-history" },
+  { "id": "event.call-of-abraham", "type": "event", "name": "Call of Abraham", "category": "patriarchal" },
+  { "id": "event.exodus", "type": "event", "name": "Exodus", "category": "torah" },
+  { "id": "event.sinai-covenant", "type": "event", "name": "Sinai Covenant", "category": "torah" },
+  { "id": "event.wilderness-wandering", "type": "event", "name": "Wilderness Wandering", "category": "torah" },
+  { "id": "event.entry-into-canaan", "type": "event", "name": "Entry into Canaan", "category": "historical" },
+  { "id": "event.rise-of-monarchy", "type": "event", "name": "Rise of Monarchy", "category": "historical" },
+  { "id": "event.davidic-covenant", "type": "event", "name": "Davidic Covenant", "category": "historical" },
+  { "id": "event.temple-construction", "type": "event", "name": "Temple Construction", "category": "historical" },
+  { "id": "event.exile", "type": "event", "name": "Exile", "category": "historical-prophetic" },
+  { "id": "event.return-from-exile", "type": "event", "name": "Return from Exile", "category": "historical-prophetic" },
+
+  { "id": "event.enochic-vision", "type": "event", "name": "Enochic Vision", "category": "ethiopian-canon" },
+  { "id": "event.meqabyan-resistance", "type": "event", "name": "Meqabyan Resistance", "category": "ethiopian-canon" },
+  { "id": "event.temple-rededication", "type": "event", "name": "Temple Rededication", "category": "deuterocanonical" },
+
+  { "id": "event.incarnation", "type": "event", "name": "Incarnation", "category": "new-testament" },
+  { "id": "event.baptism-of-jesus", "type": "event", "name": "Baptism of Jesus", "category": "new-testament" },
+  { "id": "event.transfiguration", "type": "event", "name": "Transfiguration", "category": "new-testament" },
+  { "id": "event.crucifixion", "type": "event", "name": "Crucifixion", "category": "new-testament" },
+  { "id": "event.resurrection", "type": "event", "name": "Resurrection", "category": "new-testament" },
+  { "id": "event.ascension", "type": "event", "name": "Ascension", "category": "new-testament" },
+  { "id": "event.pentecost", "type": "event", "name": "Pentecost", "category": "new-testament" },
+  { "id": "event.gentile-mission", "type": "event", "name": "Gentile Mission", "category": "new-testament" },
+  { "id": "event.apostolic-witness", "type": "event", "name": "Apostolic Witness", "category": "new-testament" },
+  { "id": "event.final-judgment", "type": "event", "name": "Final Judgment", "category": "new-testament-apocalyptic" },
+  { "id": "event.new-creation", "type": "event", "name": "New Creation", "category": "new-testament-apocalyptic" }
+]
