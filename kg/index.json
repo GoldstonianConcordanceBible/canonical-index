@@ -1,0 +1,25 @@
+{
+  "graph_name": "GCB Knowledge Graph",
+  "version": "v1.0.0-kg-chunk-1",
+  "source_authority": "canon/books/index.json",
+  "description": "Initial knowledge graph registry for Torah and Historical Books.",
+  "folders": {
+    "books": "kg/books/",
+    "edges": "kg/edges/",
+    "themes": "kg/themes/",
+    "characters": "kg/characters/",
+    "doctrine": "kg/doctrine/",
+    "events": "kg/events/"
+  },
+  "completed_chunks": [
+    "torah",
+    "historical-books"
+  ],
+  "next_chunks": [
+    "wisdom-and-prophets",
+    "ethiopian-canon-and-deuterocanon",
+    "new-testament",
+    "theme-character-doctrine-edge-layer",
+    "universal-graph-and-agent-alignment"
+  ]
+}
