@@ -1,0 +1,30 @@
+{
+  "chunk": "kg-chunk-3",
+  "completed_groups": [
+    "ethiopian-canon",
+    "deuterocanonical-books"
+  ],
+  "book_nodes": [
+    "enoch",
+    "jubilees",
+    "1-meqabyan",
+    "2-meqabyan",
+    "3-meqabyan",
+    "tobit",
+    "judith",
+    "greek-esther",
+    "1-maccabees",
+    "2-maccabees"
+  ],
+  "edge_files": [
+    "kg/edges/chunk-3-sequence.json",
+    "kg/edges/chunk-3-thematic.json",
+    "kg/edges/chunk-3-doctrine.json"
+  ],
+  "source_authority": "canon/books/index.json",
+  "critical_distinction_rules": [
+    "1-meqabyan != 1-maccabees",
+    "2-meqabyan != 2-maccabees",
+    "3-meqabyan != 3-maccabees"
+  ]
+}
