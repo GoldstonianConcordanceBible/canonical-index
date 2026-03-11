@@ -1,0 +1,12 @@
+[
+  { "source": "node.book.malachi", "target": "node.book.enoch", "relation": "precedes" },
+  { "source": "node.book.enoch", "target": "node.book.jubilees", "relation": "precedes" },
+  { "source": "node.book.jubilees", "target": "node.book.1-meqabyan", "relation": "precedes" },
+  { "source": "node.book.1-meqabyan", "target": "node.book.2-meqabyan", "relation": "precedes" },
+  { "source": "node.book.2-meqabyan", "target": "node.book.3-meqabyan", "relation": "precedes" },
+  { "source": "node.book.3-meqabyan", "target": "node.book.tobit", "relation": "precedes" },
+  { "source": "node.book.tobit", "target": "node.book.judith", "relation": "precedes" },
+  { "source": "node.book.judith", "target": "node.book.greek-esther", "relation": "precedes" },
+  { "source": "node.book.greek-esther", "target": "node.book.1-maccabees", "relation": "precedes" },
+  { "source": "node.book.1-maccabees", "target": "node.book.2-maccabees", "relation": "precedes" }
+]
