@@ -1,0 +1,25 @@
+{
+  "id": "node.book.1-chronicles",
+  "node_type": "book",
+  "canonical_id": "book.1-chronicles",
+  "slug": "1-chronicles",
+  "title": "1 Chronicles",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "genealogy",
+    "covenant-memory",
+    "davidic-order",
+    "worship",
+    "identity",
+    "temple-preparation"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.2-kings"],
+    "precedes": ["node.book.2-chronicles"],
+    "reframes": ["theme.davidic-covenant", "theme.worship"],
+    "connected_characters": ["character.adam", "character.david", "character.levites"]
+  },
+  "summary": "1 Chronicles rebuilds covenant memory through genealogy, Davidic focus, and liturgical ordering."
+}
