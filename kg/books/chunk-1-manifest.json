@@ -1,0 +1,32 @@
+{
+  "chunk": "kg-chunk-1",
+  "completed_groups": [
+    "torah",
+    "historical-books"
+  ],
+  "book_nodes": [
+    "genesis",
+    "exodus",
+    "leviticus",
+    "numbers",
+    "deuteronomy",
+    "joshua",
+    "judges",
+    "ruth",
+    "1-samuel",
+    "2-samuel",
+    "1-kings",
+    "2-kings",
+    "1-chronicles",
+    "2-chronicles",
+    "ezra",
+    "nehemiah",
+    "esther"
+  ],
+  "edge_files": [
+    "kg/edges/chunk-1-sequence.json",
+    "kg/edges/chunk-1-thematic.json",
+    "kg/edges/chunk-1-doctrine.json"
+  ],
+  "source_authority": "canon/books/index.json"
+}
