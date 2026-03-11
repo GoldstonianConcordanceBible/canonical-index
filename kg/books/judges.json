@@ -1,0 +1,25 @@
+{
+  "id": "node.book.judges",
+  "node_type": "book",
+  "canonical_id": "book.judges",
+  "slug": "judges",
+  "title": "Judges",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "apostasy",
+    "deliverance",
+    "cycles",
+    "leadership-failure",
+    "mercy",
+    "judgment"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.joshua"],
+    "precedes": ["node.book.ruth"],
+    "contrasts": ["theme.covenant-faithfulness"],
+    "connected_characters": ["character.deborah", "character.gideon", "character.samson"]
+  },
+  "summary": "Judges reveals the cyclical collapse of covenant faithfulness and the recurring mercy of God in raising deliverers."
+}
