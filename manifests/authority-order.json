@@ -1,0 +1,24 @@
+{
+  "authority_order": [
+    {
+      "priority": 1,
+      "source": "canon/books/index.json",
+      "role": "canonical identity authority"
+    },
+    {
+      "priority": 2,
+      "source": "kg/universal_graph.json",
+      "role": "knowledge graph structure"
+    },
+    {
+      "priority": 3,
+      "source": "llm/authority.json",
+      "role": "AI authority resolution"
+    },
+    {
+      "priority": 4,
+      "source": "docs/architecture.md",
+      "role": "human readable architecture"
+    }
+  ]
+}
