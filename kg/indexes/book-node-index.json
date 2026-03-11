@@ -1,11 +1,11 @@
 {
   "description": "Master index of book nodes currently active in the GCB knowledge graph.",
   "chunks_completed": [
-    "kg-chunk-1"
+    "kg-chunk-1",
+    "kg-chunk-2",
+    "kg-chunk-3"
   ],
-  "chunks_in_progress": [
-    "kg-chunk-2"
-  ],
+  "chunks_in_progress": [],
   "book_nodes": [
     "genesis",
     "exodus",
@@ -36,6 +36,28 @@
     "lamentations",
     "baruch",
     "ezekiel",
-    "daniel"
+    "daniel",
+    "hosea",
+    "joel",
+    "amos",
+    "obadiah",
+    "jonah",
+    "micah",
+    "nahum",
+    "habakkuk",
+    "zephaniah",
+    "haggai",
+    "zechariah",
+    "malachi",
+    "enoch",
+    "jubilees",
+    "1-meqabyan",
+    "2-meqabyan",
+    "3-meqabyan",
+    "tobit",
+    "judith",
+    "greek-esther",
+    "1-maccabees",
+    "2-maccabees"
   ]
 }
