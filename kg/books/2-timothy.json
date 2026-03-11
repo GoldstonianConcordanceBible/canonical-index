@@ -1,0 +1,25 @@
+{
+  "id": "node.book.2-timothy",
+  "node_type": "book",
+  "canonical_id": "book.2-timothy",
+  "slug": "2-timothy",
+  "title": "2 Timothy",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "endurance",
+    "faithfulness",
+    "scripture",
+    "suffering",
+    "ministry",
+    "legacy"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.1-timothy"],
+    "precedes": ["node.book.titus"],
+    "connects_to": ["theme.endurance", "theme.scripture", "theme.faithfulness"],
+    "connected_characters": ["character.paul", "character.timothy"]
+  },
+  "summary": "2 Timothy is a final charge toward faithful endurance, Scripture-rooted ministry, and unashamed witness."
+}
