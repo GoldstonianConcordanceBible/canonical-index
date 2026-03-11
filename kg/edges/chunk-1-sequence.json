@@ -1,0 +1,18 @@
+[
+  { "source": "node.book.genesis", "target": "node.book.exodus", "relation": "precedes" },
+  { "source": "node.book.exodus", "target": "node.book.leviticus", "relation": "precedes" },
+  { "source": "node.book.leviticus", "target": "node.book.numbers", "relation": "precedes" },
+  { "source": "node.book.numbers", "target": "node.book.deuteronomy", "relation": "precedes" },
+  { "source": "node.book.deuteronomy", "target": "node.book.joshua", "relation": "precedes" },
+  { "source": "node.book.joshua", "target": "node.book.judges", "relation": "precedes" },
+  { "source": "node.book.judges", "target": "node.book.ruth", "relation": "precedes" },
+  { "source": "node.book.ruth", "target": "node.book.1-samuel", "relation": "precedes" },
+  { "source": "node.book.1-samuel", "target": "node.book.2-samuel", "relation": "precedes" },
+  { "source": "node.book.2-samuel", "target": "node.book.1-kings", "relation": "precedes" },
+  { "source": "node.book.1-kings", "target": "node.book.2-kings", "relation": "precedes" },
+  { "source": "node.book.2-kings", "target": "node.book.1-chronicles", "relation": "precedes" },
+  { "source": "node.book.1-chronicles", "target": "node.book.2-chronicles", "relation": "precedes" },
+  { "source": "node.book.2-chronicles", "target": "node.book.ezra", "relation": "precedes" },
+  { "source": "node.book.ezra", "target": "node.book.nehemiah", "relation": "precedes" },
+  { "source": "node.book.nehemiah", "target": "node.book.esther", "relation": "precedes" }
+]
