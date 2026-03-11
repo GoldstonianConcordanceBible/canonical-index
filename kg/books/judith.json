@@ -1,0 +1,25 @@
+{
+  "id": "node.book.judith",
+  "node_type": "book",
+  "canonical_id": "book.judith",
+  "slug": "judith",
+  "title": "Judith",
+  "group": "deuterocanonical-books",
+  "traditions": ["ethiopian", "catholic"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "deliverance",
+    "courage",
+    "holy-resistance",
+    "female-leadership",
+    "trust-in-god",
+    "judgment-on-arrogance"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.tobit"],
+    "precedes": ["node.book.greek-esther"],
+    "connects_to": ["theme.deliverance", "theme.courage", "theme.holy-resistance"],
+    "connected_characters": ["character.judith", "character.holofernes", "character.israel"]
+  },
+  "summary": "Judith is a deliverance narrative of courageous faith, holy resistance, and judgment on arrogant power."
+}
