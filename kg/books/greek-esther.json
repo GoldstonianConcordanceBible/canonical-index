@@ -1,0 +1,25 @@
+{
+  "id": "node.book.greek-esther",
+  "node_type": "book",
+  "canonical_id": "book.greek-esther",
+  "slug": "greek-esther",
+  "title": "Greek Esther",
+  "group": "deuterocanonical-books",
+  "traditions": ["ethiopian", "catholic"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "deliverance",
+    "prayer",
+    "fasting",
+    "providence",
+    "intercession",
+    "reversal"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.judith"],
+    "precedes": ["node.book.1-maccabees"],
+    "connects_to": ["theme.prayer", "theme.intercession", "theme.deliverance"],
+    "connected_characters": ["character.esther", "character.mordecai", "character.ahasuerus", "character.haman"]
+  },
+  "summary": "Greek Esther expands the Esther tradition with stronger prayer, fasting, providence, and intercessory framing."
+}
