@@ -1,0 +1,25 @@
+{
+  "id": "node.book.jubilees",
+  "node_type": "book",
+  "canonical_id": "book.jubilees",
+  "slug": "jubilees",
+  "title": "Jubilees",
+  "group": "ethiopian-canon",
+  "traditions": ["ethiopian"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "covenant-chronology",
+    "sacred-time",
+    "patriarchal-order",
+    "law-before-sinai",
+    "purity",
+    "angelic-mediation"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.enoch"],
+    "precedes": ["node.book.1-meqabyan"],
+    "connects_to": ["theme.covenant", "theme.sacred-time", "theme.purity"],
+    "connected_characters": ["character.moses", "character.abraham", "character.jacob", "character.angels-of-the-presence"]
+  },
+  "summary": "Jubilees retells patriarchal history through sacred chronology, covenant order, angelic mediation, and purity logic."
+}
