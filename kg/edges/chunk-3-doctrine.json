@@ -1,0 +1,41 @@
+[
+  { "source": "node.book.enoch", "target": "doctrine.mirror", "relation": "reveals-cosmic-corruption" },
+  { "source": "node.book.enoch", "target": "doctrine.water", "relation": "preserves-righteous-remnant" },
+  { "source": "node.book.enoch", "target": "doctrine.fire", "relation": "announces-cosmic-judgment" },
+
+  { "source": "node.book.jubilees", "target": "doctrine.mirror", "relation": "reveals-patterned-history" },
+  { "source": "node.book.jubilees", "target": "doctrine.water", "relation": "orders-covenant-time" },
+  { "source": "node.book.jubilees", "target": "doctrine.fire", "relation": "tests-covenant-fidelity" },
+
+  { "source": "node.book.1-meqabyan", "target": "doctrine.mirror", "relation": "reveals-idolatrous-pressure" },
+  { "source": "node.book.1-meqabyan", "target": "doctrine.water", "relation": "preserves-faithful-identity" },
+  { "source": "node.book.1-meqabyan", "target": "doctrine.fire", "relation": "refines-through-persecution" },
+
+  { "source": "node.book.2-meqabyan", "target": "doctrine.mirror", "relation": "reveals-kingdom-opposition" },
+  { "source": "node.book.2-meqabyan", "target": "doctrine.water", "relation": "stabilizes-remnant-obedience" },
+  { "source": "node.book.2-meqabyan", "target": "doctrine.fire", "relation": "judges-disloyalty" },
+
+  { "source": "node.book.3-meqabyan", "target": "doctrine.mirror", "relation": "reveals-conflict-lines" },
+  { "source": "node.book.3-meqabyan", "target": "doctrine.water", "relation": "sustains-perseverance" },
+  { "source": "node.book.3-meqabyan", "target": "doctrine.fire", "relation": "hardens-witness" },
+
+  { "source": "node.book.tobit", "target": "doctrine.mirror", "relation": "reveals-exilic-vulnerability" },
+  { "source": "node.book.tobit", "target": "doctrine.water", "relation": "heals-and-guides" },
+  { "source": "node.book.tobit", "target": "doctrine.fire", "relation": "refines-family-faithfulness" },
+
+  { "source": "node.book.judith", "target": "doctrine.mirror", "relation": "reveals-arrogant-power" },
+  { "source": "node.book.judith", "target": "doctrine.water", "relation": "delivers-the-faithful" },
+  { "source": "node.book.judith", "target": "doctrine.fire", "relation": "cuts-down-oppression" },
+
+  { "source": "node.book.greek-esther", "target": "doctrine.mirror", "relation": "reveals-hidden-threat" },
+  { "source": "node.book.greek-esther", "target": "doctrine.water", "relation": "strengthens-intercession" },
+  { "source": "node.book.greek-esther", "target": "doctrine.fire", "relation": "reverses-destruction" },
+
+  { "source": "node.book.1-maccabees", "target": "doctrine.mirror", "relation": "reveals-covenant-crisis" },
+  { "source": "node.book.1-maccabees", "target": "doctrine.water", "relation": "restores-temple-zeal" },
+  { "source": "node.book.1-maccabees", "target": "doctrine.fire", "relation": "wages-resistance" },
+
+  { "source": "node.book.2-maccabees", "target": "doctrine.mirror", "relation": "reveals-cost-of-fidelity" },
+  { "source": "node.book.2-maccabees", "target": "doctrine.water", "relation": "anchors-hope-beyond-death" },
+  { "source": "node.book.2-maccabees", "target": "doctrine.fire", "relation": "purifies-through-martyrdom" }
+]
