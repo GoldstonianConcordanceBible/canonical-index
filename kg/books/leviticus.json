@@ -1,0 +1,26 @@
+{
+  "id": "node.book.leviticus",
+  "node_type": "book",
+  "canonical_id": "book.leviticus",
+  "slug": "leviticus",
+  "title": "Leviticus",
+  "group": "torah",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "holiness",
+    "sacrifice",
+    "priesthood",
+    "atonement",
+    "purity",
+    "worship",
+    "consecration"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.exodus"],
+    "precedes": ["node.book.numbers"],
+    "supports": ["theme.holiness", "theme.atonement", "theme.priesthood"],
+    "connected_characters": ["character.moses", "character.aaron", "character.levitical-priests"]
+  },
+  "summary": "Leviticus orders holiness, sacrifice, and priestly mediation as covenant life before a holy God."
+}
