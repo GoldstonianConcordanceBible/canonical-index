@@ -1,0 +1,25 @@
+{
+  "id": "node.book.2-thessalonians",
+  "node_type": "book",
+  "canonical_id": "book.2-thessalonians",
+  "slug": "2-thessalonians",
+  "title": "2 Thessalonians",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "perseverance",
+    "day-of-the-lord",
+    "judgment",
+    "steadfastness",
+    "truth",
+    "discipline"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.1-thessalonians"],
+    "precedes": ["node.book.1-timothy"],
+    "connects_to": ["theme.perseverance", "theme.day-of-the-lord", "theme.truth"],
+    "connected_characters": ["character.paul", "character.thessalonian-church"]
+  },
+  "summary": "2 Thessalonians clarifies eschatological confusion and calls the church into steadfast order and truth."
+}
