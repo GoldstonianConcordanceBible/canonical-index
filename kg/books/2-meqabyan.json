@@ -1,0 +1,25 @@
+{
+  "id": "node.book.2-meqabyan",
+  "node_type": "book",
+  "canonical_id": "book.2-meqabyan",
+  "slug": "2-meqabyan",
+  "title": "2 Meqabyan",
+  "group": "ethiopian-canon",
+  "traditions": ["ethiopian"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "obedience",
+    "judgment",
+    "kingdom-conflict",
+    "faith-under-pressure",
+    "remnant-identity",
+    "steadfastness"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.1-meqabyan"],
+    "precedes": ["node.book.3-meqabyan"],
+    "connects_to": ["theme.obedience", "theme.judgment", "theme.remnant-identity"],
+    "connected_characters": ["character.faithful-witnesses", "character.kings", "character.israel"]
+  },
+  "summary": "2 Meqabyan deepens the Ethiopian witness of obedience, judgment, and remnant endurance amid kingdom conflict."
+}
