@@ -1,0 +1,42 @@
+{
+  "group": "ethiopian-canon",
+  "title": "Ethiopian Canon Additions",
+  "count": 5,
+  "books": [
+    {
+      "id": "book.enoch",
+      "slug": "enoch",
+      "title": "Enoch",
+      "filename": "enoch.json",
+      "category": "ethiopian_distinct"
+    },
+    {
+      "id": "book.jubilees",
+      "slug": "jubilees",
+      "title": "Jubilees",
+      "filename": "jubilees.json",
+      "category": "ethiopian_distinct"
+    },
+    {
+      "id": "book.1-meqabyan",
+      "slug": "1-meqabyan",
+      "title": "1 Meqabyan",
+      "filename": "1-meqabyan.json",
+      "category": "ethiopian_distinct"
+    },
+    {
+      "id": "book.2-meqabyan",
+      "slug": "2-meqabyan",
+      "title": "2 Meqabyan",
+      "filename": "2-meqabyan.json",
+      "category": "ethiopian_distinct"
+    },
+    {
+      "id": "book.3-meqabyan",
+      "slug": "3-meqabyan",
+      "title": "3 Meqabyan",
+      "filename": "3-meqabyan.json",
+      "category": "ethiopian_distinct"
+    }
+  ]
+}
