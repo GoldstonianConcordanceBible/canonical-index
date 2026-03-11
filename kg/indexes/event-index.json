@@ -1,0 +1,18 @@
+{
+  "description": "Core event index for the GCB knowledge graph.",
+  "source_files": [
+    "kg/events/core-events.json"
+  ],
+  "event_count": 27,
+  "priority_clusters": [
+    "primeval-history",
+    "patriarchal",
+    "torah",
+    "historical",
+    "historical-prophetic",
+    "ethiopian-canon",
+    "deuterocanonical",
+    "new-testament",
+    "new-testament-apocalyptic"
+  ]
+}
