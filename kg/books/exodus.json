@@ -1,0 +1,26 @@
+{
+  "id": "node.book.exodus",
+  "node_type": "book",
+  "canonical_id": "book.exodus",
+  "slug": "exodus",
+  "title": "Exodus",
+  "group": "torah",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "deliverance",
+    "covenant",
+    "law",
+    "worship",
+    "presence",
+    "judgment",
+    "liberation"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.genesis"],
+    "precedes": ["node.book.leviticus"],
+    "expands": ["theme.covenant"],
+    "connected_characters": ["character.moses", "character.aaron", "character.pharaoh"]
+  },
+  "summary": "Exodus is the canonical pattern of deliverance, covenant formation, divine presence, and liberation through judgment."
+}
