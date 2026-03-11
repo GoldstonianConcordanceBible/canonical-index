@@ -1,0 +1,23 @@
+[
+  { "source": "node.book.genesis", "target": "theme.covenant", "relation": "establishes" },
+  { "source": "node.book.genesis", "target": "theme.creation", "relation": "establishes" },
+  { "source": "node.book.exodus", "target": "theme.deliverance", "relation": "centers" },
+  { "source": "node.book.exodus", "target": "theme.presence", "relation": "reveals" },
+  { "source": "node.book.leviticus", "target": "theme.holiness", "relation": "orders" },
+  { "source": "node.book.leviticus", "target": "theme.atonement", "relation": "articulates" },
+  { "source": "node.book.numbers", "target": "theme.wilderness-testing", "relation": "illustrates" },
+  { "source": "node.book.deuteronomy", "target": "theme.covenant-renewal", "relation": "renews" },
+  { "source": "node.book.joshua", "target": "theme.inheritance", "relation": "fulfills" },
+  { "source": "node.book.judges", "target": "theme.apostasy", "relation": "illustrates" },
+  { "source": "node.book.ruth", "target": "theme.redemption", "relation": "embodies" },
+  { "source": "node.book.1-samuel", "target": "theme.kingship", "relation": "introduces" },
+  { "source": "node.book.2-samuel", "target": "theme.davidic-covenant", "relation": "establishes" },
+  { "source": "node.book.1-kings", "target": "theme.temple", "relation": "centers" },
+  { "source": "node.book.1-kings", "target": "theme.idolatry", "relation": "warns-against" },
+  { "source": "node.book.2-kings", "target": "theme.exile", "relation": "culminates-in" },
+  { "source": "node.book.1-chronicles", "target": "theme.covenant-memory", "relation": "reframes" },
+  { "source": "node.book.2-chronicles", "target": "theme.restoration-hope", "relation": "anticipates" },
+  { "source": "node.book.ezra", "target": "theme.restoration", "relation": "initiates" },
+  { "source": "node.book.nehemiah", "target": "theme.community-order", "relation": "strengthens" },
+  { "source": "node.book.esther", "target": "theme.hidden-presence", "relation": "reveals" }
+]
