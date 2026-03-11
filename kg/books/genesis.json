@@ -1,0 +1,25 @@
+{
+  "id": "node.book.genesis",
+  "node_type": "book",
+  "canonical_id": "book.genesis",
+  "slug": "genesis",
+  "title": "Genesis",
+  "group": "torah",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "creation",
+    "fall",
+    "covenant",
+    "patriarchs",
+    "blessing",
+    "seed",
+    "exile-and-presence"
+  ],
+  "graph_relations": {
+    "precedes": ["node.book.exodus"],
+    "establishes": ["theme.creation", "theme.covenant", "theme.seed"],
+    "connected_characters": ["character.adam", "character.eve", "character.noah", "character.abraham", "character.jacob", "character.joseph"]
+  },
+  "summary": "Genesis establishes beginnings, covenant lineage, and the foundational narrative patterns that echo across the full canon."
+}
