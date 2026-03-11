@@ -1,0 +1,32 @@
+[
+  { "source": "event.creation", "target": "node.book.genesis", "relation": "recorded-in" },
+  { "source": "event.fall", "target": "node.book.genesis", "relation": "recorded-in" },
+  { "source": "event.flood", "target": "node.book.genesis", "relation": "recorded-in" },
+  { "source": "event.call-of-abraham", "target": "node.book.genesis", "relation": "recorded-in" },
+  { "source": "event.exodus", "target": "node.book.exodus", "relation": "recorded-in" },
+  { "source": "event.sinai-covenant", "target": "node.book.exodus", "relation": "recorded-in" },
+  { "source": "event.wilderness-wandering", "target": "node.book.numbers", "relation": "recorded-in" },
+  { "source": "event.entry-into-canaan", "target": "node.book.joshua", "relation": "recorded-in" },
+  { "source": "event.rise-of-monarchy", "target": "node.book.1-samuel", "relation": "recorded-in" },
+  { "source": "event.davidic-covenant", "target": "node.book.2-samuel", "relation": "recorded-in" },
+  { "source": "event.temple-construction", "target": "node.book.1-kings", "relation": "recorded-in" },
+  { "source": "event.exile", "target": "node.book.2-kings", "relation": "recorded-in" },
+  { "source": "event.return-from-exile", "target": "node.book.ezra", "relation": "recorded-in" },
+
+  { "source": "event.enochic-vision", "target": "node.book.enoch", "relation": "recorded-in" },
+  { "source": "event.meqabyan-resistance", "target": "node.book.1-meqabyan", "relation": "recorded-in" },
+  { "source": "event.temple-rededication", "target": "node.book.1-maccabees", "relation": "recorded-in" },
+
+  { "source": "event.incarnation", "target": "node.book.matthew", "relation": "recorded-in" },
+  { "source": "event.incarnation", "target": "node.book.luke", "relation": "recorded-in" },
+  { "source": "event.baptism-of-jesus", "target": "node.book.mark", "relation": "recorded-in" },
+  { "source": "event.transfiguration", "target": "node.book.matthew", "relation": "recorded-in" },
+  { "source": "event.crucifixion", "target": "node.book.john", "relation": "recorded-in" },
+  { "source": "event.resurrection", "target": "node.book.luke", "relation": "recorded-in" },
+  { "source": "event.ascension", "target": "node.book.acts", "relation": "recorded-in" },
+  { "source": "event.pentecost", "target": "node.book.acts", "relation": "recorded-in" },
+  { "source": "event.gentile-mission", "target": "node.book.acts", "relation": "recorded-in" },
+  { "source": "event.apostolic-witness", "target": "node.book.acts", "relation": "recorded-in" },
+  { "source": "event.final-judgment", "target": "node.book.revelation", "relation": "recorded-in" },
+  { "source": "event.new-creation", "target": "node.book.revelation", "relation": "recorded-in" }
+]
