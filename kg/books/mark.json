@@ -1,0 +1,25 @@
+{
+  "id": "node.book.mark",
+  "node_type": "book",
+  "canonical_id": "book.mark",
+  "slug": "mark",
+  "title": "Mark",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "son-of-god",
+    "authority",
+    "suffering-servant",
+    "discipleship",
+    "power",
+    "urgency"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.matthew"],
+    "precedes": ["node.book.luke"],
+    "connects_to": ["theme.authority", "theme.suffering-servant", "theme.discipleship"],
+    "connected_characters": ["character.jesus", "character.peter", "character.disciples"]
+  },
+  "summary": "Mark moves swiftly to reveal Jesus as the Son of God whose authority and suffering redefine discipleship."
+}
