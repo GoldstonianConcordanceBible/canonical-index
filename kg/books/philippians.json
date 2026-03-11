@@ -1,0 +1,25 @@
+{
+  "id": "node.book.philippians",
+  "node_type": "book",
+  "canonical_id": "book.philippians",
+  "slug": "philippians",
+  "title": "Philippians",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "joy",
+    "humility",
+    "christlikeness",
+    "partnership",
+    "perseverance",
+    "peace"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.ephesians"],
+    "precedes": ["node.book.colossians"],
+    "connects_to": ["theme.joy", "theme.humility", "theme.peace"],
+    "connected_characters": ["character.paul", "character.timothy", "character.epaphroditus"]
+  },
+  "summary": "Philippians calls believers into joyful perseverance through the humility and mind of Christ."
+}
