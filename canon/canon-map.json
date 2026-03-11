@@ -1,27 +1,102 @@
 {
+  "canon_name": "Goldstonian Canon Map",
+  "source_canon": "81-Book Ethiopian Canon",
   "traditions": {
     "ethiopian": 81,
     "catholic": 73,
     "protestant": 66
   },
   "relationships": [
-    {
-      "book":"tobit",
-      "ethiopian":true,
-      "catholic":true,
-      "protestant":false
-    },
-    {
-      "book":"1-meqabyan",
-      "ethiopian":true,
-      "catholic":false,
-      "protestant":false
-    },
-    {
-      "book":"enoch",
-      "ethiopian":true,
-      "catholic":false,
-      "protestant":false
-    }
+    { "book": "genesis", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "exodus", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "leviticus", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "numbers", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "deuteronomy", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+
+    { "book": "joshua", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "judges", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "ruth", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "1-samuel", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "2-samuel", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "1-kings", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "2-kings", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "1-chronicles", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "2-chronicles", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "ezra", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "nehemiah", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "esther", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared_with_variants" },
+
+    { "book": "job", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "psalms", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "proverbs", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "ecclesiastes", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "song-of-solomon", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "wisdom-of-solomon", "ethiopian": true, "catholic": true, "protestant": false, "category": "ethiopian_catholic_shared" },
+    { "book": "sirach", "ethiopian": true, "catholic": true, "protestant": false, "category": "ethiopian_catholic_shared" },
+
+    { "book": "isaiah", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "jeremiah", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "lamentations", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "baruch", "ethiopian": true, "catholic": true, "protestant": false, "category": "ethiopian_catholic_shared" },
+    { "book": "ezekiel", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "daniel", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared_with_variants" },
+
+    { "book": "hosea", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "joel", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "amos", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "obadiah", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "jonah", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "micah", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "nahum", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "habakkuk", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "zephaniah", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "haggai", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "zechariah", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "malachi", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+
+    { "book": "tobit", "ethiopian": true, "catholic": true, "protestant": false, "category": "ethiopian_catholic_shared" },
+    { "book": "judith", "ethiopian": true, "catholic": true, "protestant": false, "category": "ethiopian_catholic_shared" },
+    { "book": "greek-esther", "ethiopian": true, "catholic": true, "protestant": false, "category": "ethiopian_catholic_shared" },
+    { "book": "1-maccabees", "ethiopian": false, "catholic": true, "protestant": false, "category": "catholic_only_relative_to_gcb_map" },
+    { "book": "2-maccabees", "ethiopian": false, "catholic": true, "protestant": false, "category": "catholic_only_relative_to_gcb_map" },
+
+    { "book": "enoch", "ethiopian": true, "catholic": false, "protestant": false, "category": "ethiopian_distinct" },
+    { "book": "jubilees", "ethiopian": true, "catholic": false, "protestant": false, "category": "ethiopian_distinct" },
+    { "book": "1-meqabyan", "ethiopian": true, "catholic": false, "protestant": false, "category": "ethiopian_distinct" },
+    { "book": "2-meqabyan", "ethiopian": true, "catholic": false, "protestant": false, "category": "ethiopian_distinct" },
+    { "book": "3-meqabyan", "ethiopian": true, "catholic": false, "protestant": false, "category": "ethiopian_distinct" },
+
+    { "book": "matthew", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "mark", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "luke", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "john", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "acts", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "romans", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "1-corinthians", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "2-corinthians", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "galatians", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "ephesians", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "philippians", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "colossians", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "1-thessalonians", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "2-thessalonians", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "1-timothy", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "2-timothy", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "titus", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "philemon", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "hebrews", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "james", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "1-peter", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "2-peter", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "1-john", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "2-john", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "3-john", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "jude", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" },
+    { "book": "revelation", "ethiopian": true, "catholic": true, "protestant": true, "category": "shared" }
+  ],
+  "notes": [
+    "This map is GCB-oriented and uses the 81-Book Ethiopian Canon as the primary reference frame.",
+    "Meqabyan books must not be collapsed into Maccabees.",
+    "Books marked shared_with_variants may require tradition-specific record extensions."
   ]
 }
