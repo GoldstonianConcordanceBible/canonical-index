@@ -1,0 +1,14 @@
+{
+  "report_name": "canon-normalization-report",
+  "version": "v1",
+  "fields": {
+    "total_registry_books": 81,
+    "root_level_duplicates_found": 0,
+    "deprecated_forwarders_present": 0,
+    "invalid_paths_found": 0,
+    "duplicate_slugs_found": 0,
+    "duplicate_paths_found": 0,
+    "meqabyan_conflicts_found": 0,
+    "status": "pending"
+  }
+}
