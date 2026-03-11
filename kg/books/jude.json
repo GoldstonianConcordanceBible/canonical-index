@@ -1,0 +1,25 @@
+{
+  "id": "node.book.jude",
+  "node_type": "book",
+  "canonical_id": "book.jude",
+  "slug": "jude",
+  "title": "Jude",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "contend-for-the-faith",
+    "judgment",
+    "false-teachers",
+    "preservation",
+    "mercy",
+    "warning"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.3-john"],
+    "precedes": ["node.book.revelation"],
+    "connects_to": ["theme.judgment", "theme.false-teachers", "theme.preservation"],
+    "connected_characters": ["character.jude", "character.enoch", "character.false-teachers"]
+  },
+  "summary": "Jude calls the church to contend for the faith while warning against corrupt infiltrators and certain judgment."
+}
