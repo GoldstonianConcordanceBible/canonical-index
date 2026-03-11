@@ -1,13 +1,75 @@
 {
- "canon_name": "Ethiopian Biblical Canon",
- "total_books": 81,
- "groups": [
-   "Torah",
-   "Historical",
-   "Wisdom",
-   "Prophets",
-   "Deuterocanon",
-   "Ethiopian Canon",
-   "New Testament"
- ]
+  "canon_name": "Ethiopian Biblical Canon",
+  "authority_label": "Goldstonian Concordance Bible Canonical Index",
+  "version": "v4.0.0-canon-spine",
+  "total_books": 81,
+  "primary_tradition": "ethiopian",
+  "groups": [
+    {
+      "id": "torah",
+      "title": "Torah",
+      "count": 5,
+      "path": "canon/torah"
+    },
+    {
+      "id": "historical-books",
+      "title": "Historical Books",
+      "count": 12,
+      "path": "canon/Historical_Books"
+    },
+    {
+      "id": "wisdom-literature",
+      "title": "Wisdom Literature",
+      "count": 7,
+      "path": "canon/Wisdom_Literature"
+    },
+    {
+      "id": "major-prophets",
+      "title": "Major Prophets",
+      "count": 6,
+      "path": "canon/Major_Prophets"
+    },
+    {
+      "id": "minor-prophets",
+      "title": "Minor Prophets",
+      "count": 12,
+      "path": "canon/Minor_Prophets"
+    },
+    {
+      "id": "deuterocanonical-books",
+      "title": "Deuterocanonical Books",
+      "count": 5,
+      "path": "canon/Deuterocanonical_Books"
+    },
+    {
+      "id": "ethiopian-canon",
+      "title": "Ethiopian Canon Additions",
+      "count": 5,
+      "path": "canon/ethiopian-canon"
+    },
+    {
+      "id": "new-testament",
+      "title": "New Testament",
+      "count": 27,
+      "path": "canon/New_Testament"
+    }
+  ],
+  "core_files": [
+    "canon/canon-index.json",
+    "canon/canon-map.json",
+    "canon/NAMING_RULES.md",
+    "canon/DEPRECATIONS.md"
+  ],
+  "special_rules": [
+    "Use lowercase kebab-case for canonical slugs.",
+    "Do not merge Meqabyan with Maccabees.",
+    "Treat Ethiopian-canon files as first-class canonical records in GCB."
+  ],
+  "downstream_targets": [
+    "canon/books/index.json",
+    "canon/aliases/",
+    "canon/graph/",
+    "canon/ontology/",
+    "canon/search/"
+  ]
 }
