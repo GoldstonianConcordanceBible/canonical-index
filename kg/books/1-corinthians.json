@@ -1,0 +1,25 @@
+{
+  "id": "node.book.1-corinthians",
+  "node_type": "book",
+  "canonical_id": "book.1-corinthians",
+  "slug": "1-corinthians",
+  "title": "1 Corinthians",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "church-order",
+    "holiness",
+    "love",
+    "spiritual-gifts",
+    "resurrection",
+    "unity"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.romans"],
+    "precedes": ["node.book.2-corinthians"],
+    "connects_to": ["theme.love", "theme.resurrection", "theme.unity"],
+    "connected_characters": ["character.paul", "character.corinthian-church"]
+  },
+  "summary": "1 Corinthians addresses disorder through holiness, love, resurrection hope, and Spirit-shaped unity."
+}
