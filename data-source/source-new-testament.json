@@ -817,6 +817,86 @@
   },
   "source": "data-source/source-new-testament.json",
   "tradition": "ethiopian"
+},
+{
+  "book": "james",
+  "chapter": 1,
+  "verse": 5,
+  "text": "If any of you lack wisdom, let him ask of God.",
+  "themes": ["wisdom", "prayer", "faith"],
+  "entities": ["god", "believer"],
+  "cross_refs": ["proverbs-002-06"],
+  "gcb": {
+    "mirror": "Wisdom reveals the generosity of God.",
+    "water": "Prayer orders dependence on divine guidance.",
+    "fire": "True wisdom burns through arrogance."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "james",
+  "chapter": 2,
+  "verse": 17,
+  "text": "Faith, if it hath not works, is dead.",
+  "themes": ["faith", "works", "obedience"],
+  "entities": ["believer"],
+  "cross_refs": ["matthew-007-21", "galatians-005-06"],
+  "gcb": {
+    "mirror": "Living faith reveals itself through action.",
+    "water": "Obedience orders faith into visible practice.",
+    "fire": "Faith without works burns away as empty claim."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "1-john",
+  "chapter": 1,
+  "verse": 5,
+  "text": "God is light, and in him is no darkness at all.",
+  "themes": ["light", "truth", "holiness"],
+  "entities": ["god"],
+  "cross_refs": ["john-001-05"],
+  "gcb": {
+    "mirror": "Light reveals the purity of God's nature.",
+    "water": "Truth orders life away from darkness.",
+    "fire": "Divine light burns through deception."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "1-john",
+  "chapter": 4,
+  "verse": 8,
+  "text": "He that loveth not knoweth not God; for God is love.",
+  "themes": ["love", "truth", "god"],
+  "entities": ["god", "believer"],
+  "cross_refs": ["john-013-34"],
+  "gcb": {
+    "mirror": "Love reveals the character of God.",
+    "water": "Love orders relationships under truth.",
+    "fire": "True love burns through hatred and selfishness."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "jude",
+  "chapter": 1,
+  "verse": 14,
+  "text": "And Enoch also, the seventh from Adam, prophesied.",
+  "themes": ["prophecy", "judgment", "watchers"],
+  "entities": ["enoch"],
+  "cross_refs": ["enoch-001-09", "genesis-005-24"],
+  "gcb": {
+    "mirror": "The ancient witness reveals continuity of prophetic warning.",
+    "water": "Prophecy orders history under divine justice.",
+    "fire": "Judgment burns through corruption."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
 }
 
 ]
