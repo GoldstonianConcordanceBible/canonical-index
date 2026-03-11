@@ -1,0 +1,109 @@
+[
+  { "source": "node.book.matthew", "target": "doctrine.mirror", "relation": "reveals-kingdom-demand" },
+  { "source": "node.book.matthew", "target": "doctrine.water", "relation": "forms-discipleship" },
+  { "source": "node.book.matthew", "target": "doctrine.fire", "relation": "warns-final-judgment" },
+
+  { "source": "node.book.mark", "target": "doctrine.mirror", "relation": "reveals-fear-and-failure" },
+  { "source": "node.book.mark", "target": "doctrine.water", "relation": "forms-followers" },
+  { "source": "node.book.mark", "target": "doctrine.fire", "relation": "passes-through-suffering" },
+
+  { "source": "node.book.luke", "target": "doctrine.mirror", "relation": "reveals-human-need" },
+  { "source": "node.book.luke", "target": "doctrine.water", "relation": "extends-mercy" },
+  { "source": "node.book.luke", "target": "doctrine.fire", "relation": "judges-hardened-hearts" },
+
+  { "source": "node.book.john", "target": "doctrine.mirror", "relation": "reveals-unbelief" },
+  { "source": "node.book.john", "target": "doctrine.water", "relation": "gives-new-birth" },
+  { "source": "node.book.john", "target": "doctrine.fire", "relation": "separates-light-and-darkness" },
+
+  { "source": "node.book.acts", "target": "doctrine.mirror", "relation": "reveals-opposition" },
+  { "source": "node.book.acts", "target": "doctrine.water", "relation": "pours-out-spirit" },
+  { "source": "node.book.acts", "target": "doctrine.fire", "relation": "empowers-witness" },
+
+  { "source": "node.book.romans", "target": "doctrine.mirror", "relation": "reveals-sin" },
+  { "source": "node.book.romans", "target": "doctrine.water", "relation": "justifies-and-renews" },
+  { "source": "node.book.romans", "target": "doctrine.fire", "relation": "judges-unrighteousness" },
+
+  { "source": "node.book.1-corinthians", "target": "doctrine.mirror", "relation": "reveals-church-disorder" },
+  { "source": "node.book.1-corinthians", "target": "doctrine.water", "relation": "orders-gifts-in-love" },
+  { "source": "node.book.1-corinthians", "target": "doctrine.fire", "relation": "tests-each-work" },
+
+  { "source": "node.book.2-corinthians", "target": "doctrine.mirror", "relation": "reveals-weakness" },
+  { "source": "node.book.2-corinthians", "target": "doctrine.water", "relation": "reconciles" },
+  { "source": "node.book.2-corinthians", "target": "doctrine.fire", "relation": "refines-ministry" },
+
+  { "source": "node.book.galatians", "target": "doctrine.mirror", "relation": "reveals-legal-distortion" },
+  { "source": "node.book.galatians", "target": "doctrine.water", "relation": "restores-freedom" },
+  { "source": "node.book.galatians", "target": "doctrine.fire", "relation": "crucifies-flesh" },
+
+  { "source": "node.book.ephesians", "target": "doctrine.mirror", "relation": "reveals-former-death" },
+  { "source": "node.book.ephesians", "target": "doctrine.water", "relation": "makes-one-new-humanity" },
+  { "source": "node.book.ephesians", "target": "doctrine.fire", "relation": "arms-for-battle" },
+
+  { "source": "node.book.philippians", "target": "doctrine.mirror", "relation": "reveals-selfish-ambition" },
+  { "source": "node.book.philippians", "target": "doctrine.water", "relation": "forms-humility" },
+  { "source": "node.book.philippians", "target": "doctrine.fire", "relation": "refines-joy-through-suffering" },
+
+  { "source": "node.book.colossians", "target": "doctrine.mirror", "relation": "reveals-empty-philosophy" },
+  { "source": "node.book.colossians", "target": "doctrine.water", "relation": "roots-in-christ" },
+  { "source": "node.book.colossians", "target": "doctrine.fire", "relation": "puts-to-death-old-self" },
+
+  { "source": "node.book.1-thessalonians", "target": "doctrine.mirror", "relation": "reveals-instability" },
+  { "source": "node.book.1-thessalonians", "target": "doctrine.water", "relation": "encourages-holiness" },
+  { "source": "node.book.1-thessalonians", "target": "doctrine.fire", "relation": "prepares-for-return" },
+
+  { "source": "node.book.2-thessalonians", "target": "doctrine.mirror", "relation": "reveals-confusion" },
+  { "source": "node.book.2-thessalonians", "target": "doctrine.water", "relation": "steadies-believers" },
+  { "source": "node.book.2-thessalonians", "target": "doctrine.fire", "relation": "warns-coming-judgment" },
+
+  { "source": "node.book.1-timothy", "target": "doctrine.mirror", "relation": "reveals-disorder" },
+  { "source": "node.book.1-timothy", "target": "doctrine.water", "relation": "orders-household-of-god" },
+  { "source": "node.book.1-timothy", "target": "doctrine.fire", "relation": "guards-against-error" },
+
+  { "source": "node.book.2-timothy", "target": "doctrine.mirror", "relation": "reveals-abandonment" },
+  { "source": "node.book.2-timothy", "target": "doctrine.water", "relation": "strengthens-faithfulness" },
+  { "source": "node.book.2-timothy", "target": "doctrine.fire", "relation": "endures-hardship" },
+
+  { "source": "node.book.titus", "target": "doctrine.mirror", "relation": "reveals-undisciplined-life" },
+  { "source": "node.book.titus", "target": "doctrine.water", "relation": "renews-people" },
+  { "source": "node.book.titus", "target": "doctrine.fire", "relation": "trains-godliness" },
+
+  { "source": "node.book.philemon", "target": "doctrine.mirror", "relation": "reveals-broken-relation" },
+  { "source": "node.book.philemon", "target": "doctrine.water", "relation": "reconciles-brothers" },
+  { "source": "node.book.philemon", "target": "doctrine.fire", "relation": "tests-love" },
+
+  { "source": "node.book.hebrews", "target": "doctrine.mirror", "relation": "reveals-old-order-limits" },
+  { "source": "node.book.hebrews", "target": "doctrine.water", "relation": "opens-better-covenant" },
+  { "source": "node.book.hebrews", "target": "doctrine.fire", "relation": "warns-against-falling-away" },
+
+  { "source": "node.book.james", "target": "doctrine.mirror", "relation": "reveals-double-mindedness" },
+  { "source": "node.book.james", "target": "doctrine.water", "relation": "forms-maturity" },
+  { "source": "node.book.james", "target": "doctrine.fire", "relation": "tests-faith-in-action" },
+
+  { "source": "node.book.1-peter", "target": "doctrine.mirror", "relation": "reveals-exilic-strain" },
+  { "source": "node.book.1-peter", "target": "doctrine.water", "relation": "gives-living-hope" },
+  { "source": "node.book.1-peter", "target": "doctrine.fire", "relation": "refines-like-gold" },
+
+  { "source": "node.book.2-peter", "target": "doctrine.mirror", "relation": "reveals-falsehood" },
+  { "source": "node.book.2-peter", "target": "doctrine.water", "relation": "grows-true-knowledge" },
+  { "source": "node.book.2-peter", "target": "doctrine.fire", "relation": "announces-coming-day" },
+
+  { "source": "node.book.1-john", "target": "doctrine.mirror", "relation": "reveals-lovelessness" },
+  { "source": "node.book.1-john", "target": "doctrine.water", "relation": "assures-abiding-life" },
+  { "source": "node.book.1-john", "target": "doctrine.fire", "relation": "tests-spirits" },
+
+  { "source": "node.book.2-john", "target": "doctrine.mirror", "relation": "reveals-deception-risk" },
+  { "source": "node.book.2-john", "target": "doctrine.water", "relation": "walks-in-truth-and-love" },
+  { "source": "node.book.2-john", "target": "doctrine.fire", "relation": "guards-boundaries" },
+
+  { "source": "node.book.3-john", "target": "doctrine.mirror", "relation": "reveals-prideful-obstruction" },
+  { "source": "node.book.3-john", "target": "doctrine.water", "relation": "supports-faithful-workers" },
+  { "source": "node.book.3-john", "target": "doctrine.fire", "relation": "exposes-evil-example" },
+
+  { "source": "node.book.jude", "target": "doctrine.mirror", "relation": "reveals-corruption" },
+  { "source": "node.book.jude", "target": "doctrine.water", "relation": "preserves-the-called" },
+  { "source": "node.book.jude", "target": "doctrine.fire", "relation": "announces-certain-judgment" },
+
+  { "source": "node.book.revelation", "target": "doctrine.mirror", "relation": "reveals-the-whole-conflict" },
+  { "source": "node.book.revelation", "target": "doctrine.water", "relation": "ushers-new-creation" },
+  { "source": "node.book.revelation", "target": "doctrine.fire", "relation": "consummates-final-judgment" }
+]
