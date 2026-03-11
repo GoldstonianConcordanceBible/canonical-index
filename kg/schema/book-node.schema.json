@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GCB Knowledge Graph Book Node",
+  "type": "object",
+  "required": [
+    "id",
+    "node_type",
+    "canonical_id",
+    "slug",
+    "title",
+    "group",
+    "traditions",
+    "doctrine_mapping",
+    "themes",
+    "graph_relations"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^node\\.book\\.[a-z0-9-]+$"
+    },
+    "node_type": {
+      "type": "string",
+      "const": "book"
+    },
+    "canonical_id": {
+      "type": "string",
+      "pattern": "^book\\.[a-z0-9-]+$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "group": {
+      "type": "string"
+    },
+    "traditions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "doctrine_mapping": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "themes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "graph_relations": {
+      "type": "object"
+    }
+  }
+}
