@@ -1,0 +1,25 @@
+{
+  "id": "node.book.1-meqabyan",
+  "node_type": "book",
+  "canonical_id": "book.1-meqabyan",
+  "slug": "1-meqabyan",
+  "title": "1 Meqabyan",
+  "group": "ethiopian-canon",
+  "traditions": ["ethiopian"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "faithfulness",
+    "persecution",
+    "resistance",
+    "idolatry",
+    "covenant-identity",
+    "divine-justice"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.jubilees"],
+    "precedes": ["node.book.2-meqabyan"],
+    "connects_to": ["theme.faithfulness", "theme.resistance", "theme.divine-justice"],
+    "connected_characters": ["character.meqabyan-brothers", "character.tyrant-king", "character.faithful-remnant"]
+  },
+  "summary": "1 Meqabyan centers covenant resistance, persecution, and fidelity under pressure within the Ethiopian canonical tradition."
+}
