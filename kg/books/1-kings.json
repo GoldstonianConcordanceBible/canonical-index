@@ -1,0 +1,25 @@
+{
+  "id": "node.book.1-kings",
+  "node_type": "book",
+  "canonical_id": "book.1-kings",
+  "slug": "1-kings",
+  "title": "1 Kings",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "wisdom",
+    "temple",
+    "division",
+    "idolatry",
+    "prophetic-confrontation",
+    "kingdom-fracture"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.2-samuel"],
+    "precedes": ["node.book.2-kings"],
+    "connects_to": ["theme.temple", "theme.idolatry"],
+    "connected_characters": ["character.solomon", "character.elijah", "character.rehoboam", "character.jeroboam"]
+  },
+  "summary": "1 Kings moves from temple glory to kingdom division, showing the destructive power of idolatry and disobedience."
+}
