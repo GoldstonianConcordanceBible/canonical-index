@@ -1,0 +1,25 @@
+{
+  "id": "node.book.ruth",
+  "node_type": "book",
+  "canonical_id": "book.ruth",
+  "slug": "ruth",
+  "title": "Ruth",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "loyalty",
+    "redemption",
+    "kinsman-redeemer",
+    "providence",
+    "lineage",
+    "faithfulness"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.judges"],
+    "precedes": ["node.book.1-samuel"],
+    "supports": ["theme.redemption", "theme.lineage"],
+    "connected_characters": ["character.ruth", "character.naomi", "character.boaz"]
+  },
+  "summary": "Ruth compresses covenant loyalty, providence, and redemptive lineage into one intimate narrative."
+}
