@@ -1,0 +1,25 @@
+{
+  "id": "node.book.1-timothy",
+  "node_type": "book",
+  "canonical_id": "book.1-timothy",
+  "slug": "1-timothy",
+  "title": "1 Timothy",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "church-order",
+    "sound-doctrine",
+    "leadership",
+    "godliness",
+    "prayer",
+    "stewardship"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.2-thessalonians"],
+    "precedes": ["node.book.2-timothy"],
+    "connects_to": ["theme.sound-doctrine", "theme.leadership", "theme.godliness"],
+    "connected_characters": ["character.paul", "character.timothy"]
+  },
+  "summary": "1 Timothy orders the household of God through sound doctrine, leadership, and godly stewardship."
+}
