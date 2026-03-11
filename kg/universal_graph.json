@@ -1,0 +1,53 @@
+{
+  "graph_name": "Goldstonian Concordance Bible Universal Graph",
+  "graph_id": "gcb-universal-graph",
+  "version": "v1.0.0",
+  "authority_source": "canon/books/index.json",
+  "primary_tradition": "81-Book Ethiopian Canon",
+  "doctrine_framework": "Mirror → Water → Fire Doctrine",
+  "book_sources": [
+    "kg/books/chunk-1-manifest.json",
+    "kg/books/chunk-2-manifest.json",
+    "kg/books/chunk-3-manifest.json",
+    "kg/books/chunk-4-manifest.json"
+  ],
+  "node_sources": [
+    "kg/characters/core-characters.json",
+    "kg/events/core-events.json",
+    "kg/themes/themes-core.json",
+    "kg/themes/themes-expanded.json",
+    "kg/doctrine/mirror-water-fire.json",
+    "kg/groups/book-groups.json"
+  ],
+  "edge_sources": [
+    "kg/edges/chunk-1-sequence.json",
+    "kg/edges/chunk-1-thematic.json",
+    "kg/edges/chunk-1-doctrine.json",
+    "kg/edges/chunk-2-sequence.json",
+    "kg/edges/chunk-2-thematic.json",
+    "kg/edges/chunk-2-doctrine.json",
+    "kg/edges/chunk-3-sequence.json",
+    "kg/edges/chunk-3-thematic.json",
+    "kg/edges/chunk-3-doctrine.json",
+    "kg/edges/chunk-4-sequence.json",
+    "kg/edges/chunk-4-thematic.json",
+    "kg/edges/chunk-4-doctrine.json",
+    "kg/edges/chunk-5-character-edges.json",
+    "kg/edges/chunk-5-event-edges.json",
+    "kg/edges/chunk-5-theme-support.json"
+  ],
+  "indexes": [
+    "kg/indexes/book-node-index.json",
+    "kg/indexes/character-index.json",
+    "kg/indexes/event-index.json"
+  ],
+  "rules": {
+    "identity_authority": "canon/books/index.json",
+    "no_identity_override_from_graph": true,
+    "ethiopian_distinct_books_must_remain_distinct": true,
+    "meqabyan_must_not_merge_with_maccabees": true,
+    "all_book_nodes_must_map_to_mirror_water_fire": true,
+    "all_book_nodes_must_trace_to_canonical_slug": true
+  },
+  "status": "complete"
+}
