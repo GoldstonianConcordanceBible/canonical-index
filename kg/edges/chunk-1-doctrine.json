@@ -1,0 +1,69 @@
+[
+  { "source": "node.book.genesis", "target": "doctrine.mirror", "relation": "reflects" },
+  { "source": "node.book.genesis", "target": "doctrine.water", "relation": "forms" },
+  { "source": "node.book.genesis", "target": "doctrine.fire", "relation": "tests" },
+
+  { "source": "node.book.exodus", "target": "doctrine.mirror", "relation": "reveals-bondage" },
+  { "source": "node.book.exodus", "target": "doctrine.water", "relation": "passes-through-deliverance" },
+  { "source": "node.book.exodus", "target": "doctrine.fire", "relation": "judges-oppression" },
+
+  { "source": "node.book.leviticus", "target": "doctrine.mirror", "relation": "reveals-holiness-gap" },
+  { "source": "node.book.leviticus", "target": "doctrine.water", "relation": "cleanses-order" },
+  { "source": "node.book.leviticus", "target": "doctrine.fire", "relation": "consecrates" },
+
+  { "source": "node.book.numbers", "target": "doctrine.mirror", "relation": "exposes-rebellion" },
+  { "source": "node.book.numbers", "target": "doctrine.water", "relation": "sustains-pilgrimage" },
+  { "source": "node.book.numbers", "target": "doctrine.fire", "relation": "tests-generation" },
+
+  { "source": "node.book.deuteronomy", "target": "doctrine.mirror", "relation": "recalls-identity" },
+  { "source": "node.book.deuteronomy", "target": "doctrine.water", "relation": "renews-covenant" },
+  { "source": "node.book.deuteronomy", "target": "doctrine.fire", "relation": "warns-blessing-and-curse" },
+
+  { "source": "node.book.joshua", "target": "doctrine.mirror", "relation": "measures-obedience" },
+  { "source": "node.book.joshua", "target": "doctrine.water", "relation": "crosses-into-inheritance" },
+  { "source": "node.book.joshua", "target": "doctrine.fire", "relation": "purges-covenant-threats" },
+
+  { "source": "node.book.judges", "target": "doctrine.mirror", "relation": "reveals-cycle" },
+  { "source": "node.book.judges", "target": "doctrine.water", "relation": "offers-mercy" },
+  { "source": "node.book.judges", "target": "doctrine.fire", "relation": "disciplines-apostasy" },
+
+  { "source": "node.book.ruth", "target": "doctrine.mirror", "relation": "reveals-faithfulness" },
+  { "source": "node.book.ruth", "target": "doctrine.water", "relation": "restores-lineage" },
+  { "source": "node.book.ruth", "target": "doctrine.fire", "relation": "refines-through-loss" },
+
+  { "source": "node.book.1-samuel", "target": "doctrine.mirror", "relation": "reveals-heart" },
+  { "source": "node.book.1-samuel", "target": "doctrine.water", "relation": "anoints-transition" },
+  { "source": "node.book.1-samuel", "target": "doctrine.fire", "relation": "judges-pride" },
+
+  { "source": "node.book.2-samuel", "target": "doctrine.mirror", "relation": "reveals-kingly-failure" },
+  { "source": "node.book.2-samuel", "target": "doctrine.water", "relation": "secures-covenant-line" },
+  { "source": "node.book.2-samuel", "target": "doctrine.fire", "relation": "disciplines-sin" },
+
+  { "source": "node.book.1-kings", "target": "doctrine.mirror", "relation": "reveals-divided-heart" },
+  { "source": "node.book.1-kings", "target": "doctrine.water", "relation": "houses-glory" },
+  { "source": "node.book.1-kings", "target": "doctrine.fire", "relation": "confronts-idolatry" },
+
+  { "source": "node.book.2-kings", "target": "doctrine.mirror", "relation": "confirms-breach" },
+  { "source": "node.book.2-kings", "target": "doctrine.water", "relation": "preserves-remnant" },
+  { "source": "node.book.2-kings", "target": "doctrine.fire", "relation": "executes-judgment" },
+
+  { "source": "node.book.1-chronicles", "target": "doctrine.mirror", "relation": "restores-memory" },
+  { "source": "node.book.1-chronicles", "target": "doctrine.water", "relation": "reorders-worship" },
+  { "source": "node.book.1-chronicles", "target": "doctrine.fire", "relation": "purifies-identity" },
+
+  { "source": "node.book.2-chronicles", "target": "doctrine.mirror", "relation": "reassesses-history" },
+  { "source": "node.book.2-chronicles", "target": "doctrine.water", "relation": "calls-to-return" },
+  { "source": "node.book.2-chronicles", "target": "doctrine.fire", "relation": "judges-and-refines" },
+
+  { "source": "node.book.ezra", "target": "doctrine.mirror", "relation": "reveals-postexilic-condition" },
+  { "source": "node.book.ezra", "target": "doctrine.water", "relation": "renews-law-and-temple" },
+  { "source": "node.book.ezra", "target": "doctrine.fire", "relation": "purifies-community" },
+
+  { "source": "node.book.nehemiah", "target": "doctrine.mirror", "relation": "reveals-breach-and-need" },
+  { "source": "node.book.nehemiah", "target": "doctrine.water", "relation": "rebuilds-order" },
+  { "source": "node.book.nehemiah", "target": "doctrine.fire", "relation": "fortifies-covenant-boundaries" },
+
+  { "source": "node.book.esther", "target": "doctrine.mirror", "relation": "reveals-hidden-threat" },
+  { "source": "node.book.esther", "target": "doctrine.water", "relation": "preserves-people" },
+  { "source": "node.book.esther", "target": "doctrine.fire", "relation": "reverses-wickedness" }
+]
