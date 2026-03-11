@@ -1,0 +1,25 @@
+{
+  "id": "node.book.1-maccabees",
+  "node_type": "book",
+  "canonical_id": "book.1-maccabees",
+  "slug": "1-maccabees",
+  "title": "1 Maccabees",
+  "group": "deuterocanonical-books",
+  "traditions": ["catholic"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "resistance",
+    "temple",
+    "covenant-zeal",
+    "deliverance",
+    "warfare",
+    "identity"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.greek-esther"],
+    "precedes": ["node.book.2-maccabees"],
+    "connects_to": ["theme.resistance", "theme.temple", "theme.covenant-zeal"],
+    "connected_characters": ["character.mattathias", "character.judas-maccabeus", "character.israel"]
+  },
+  "summary": "1 Maccabees narrates covenant zeal, temple struggle, and armed resistance in a deuterocanonical setting."
+}
