@@ -1,0 +1,25 @@
+{
+  "id": "node.book.james",
+  "node_type": "book",
+  "canonical_id": "book.james",
+  "slug": "james",
+  "title": "James",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "wisdom",
+    "works",
+    "speech",
+    "steadfastness",
+    "justice",
+    "maturity"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.hebrews"],
+    "precedes": ["node.book.1-peter"],
+    "connects_to": ["theme.wisdom", "theme.works", "theme.speech"],
+    "connected_characters": ["character.james"]
+  },
+  "summary": "James presses wisdom into action, showing mature faith through works, speech, and endurance."
+}
