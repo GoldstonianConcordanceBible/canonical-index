@@ -1,0 +1,25 @@
+{
+  "id": "node.book.3-meqabyan",
+  "node_type": "book",
+  "canonical_id": "book.3-meqabyan",
+  "slug": "3-meqabyan",
+  "title": "3 Meqabyan",
+  "group": "ethiopian-canon",
+  "traditions": ["ethiopian"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "spiritual-warfare",
+    "truth-versus-power",
+    "perseverance",
+    "judgment",
+    "endurance",
+    "covenant-perseverance"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.2-meqabyan"],
+    "precedes": ["node.book.tobit"],
+    "connects_to": ["theme.spiritual-warfare", "theme.perseverance", "theme.truth-versus-power"],
+    "connected_characters": ["character.faithful-remnant", "character.oppressors", "character.witnesses"]
+  },
+  "summary": "3 Meqabyan strengthens the Ethiopian canonical witness around perseverance, truth, and spiritual conflict."
+}
