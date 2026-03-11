@@ -1,0 +1,17 @@
+{
+  "description": "Core character index for the GCB knowledge graph.",
+  "source_files": [
+    "kg/characters/core-characters.json"
+  ],
+  "character_count": 53,
+  "priority_clusters": [
+    "patriarchal-primeval",
+    "torah",
+    "historical",
+    "prophetic",
+    "ethiopian-canon",
+    "deuterocanonical",
+    "new-testament",
+    "new-testament-apocalyptic"
+  ]
+}
