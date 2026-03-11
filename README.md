@@ -1,4 +1,4 @@
-# ✝️ElohimTov✝️
+# ✝️Elohim Tov✝️
 
 # Goldstonian Concordance Bible — Canonical Index
 
