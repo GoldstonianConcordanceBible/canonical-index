@@ -1,0 +1,25 @@
+{
+  "id": "node.book.john",
+  "node_type": "book",
+  "canonical_id": "book.john",
+  "slug": "john",
+  "title": "John",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "word-made-flesh",
+    "belief",
+    "signs",
+    "eternal-life",
+    "light",
+    "glory"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.luke"],
+    "precedes": ["node.book.acts"],
+    "connects_to": ["theme.belief", "theme.eternal-life", "theme.glory"],
+    "connected_characters": ["character.jesus", "character.john", "character.nicodemus", "character.mary-magdalene", "character.lazarus"]
+  },
+  "summary": "John presents Jesus as the eternal Word whose signs reveal glory and summon belief unto life."
+}
