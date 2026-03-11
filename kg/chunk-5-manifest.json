@@ -1,0 +1,24 @@
+{
+  "chunk": "kg-chunk-5",
+  "components_completed": [
+    "core-characters",
+    "core-events",
+    "themes-expanded",
+    "character-index",
+    "event-index",
+    "character-edges",
+    "event-edges",
+    "theme-support-edges"
+  ],
+  "source_files": [
+    "kg/characters/core-characters.json",
+    "kg/events/core-events.json",
+    "kg/themes/themes-expanded.json",
+    "kg/indexes/character-index.json",
+    "kg/indexes/event-index.json",
+    "kg/edges/chunk-5-character-edges.json",
+    "kg/edges/chunk-5-event-edges.json",
+    "kg/edges/chunk-5-theme-support.json"
+  ],
+  "status": "complete"
+}
