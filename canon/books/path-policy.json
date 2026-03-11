@@ -1,0 +1,19 @@
+{
+  "path_policy_version": "v1",
+  "canonical_path_rules": {
+    "torah": "canon/torah/<slug>.json",
+    "historical-books": "canon/Historical_Books/<slug>.json",
+    "wisdom-literature": "canon/Wisdom_Literature/<slug>.json",
+    "major-prophets": "canon/Major_Prophets/<slug>.json",
+    "minor-prophets": "canon/Minor_Prophets/<slug>.json",
+    "deuterocanonical-books": "canon/Deuterocanonical_Books/<slug>.json",
+    "ethiopian-canon": "canon/ethiopian-canon/<slug>.json",
+    "new-testament": "canon/New_Testament/<slug>.json"
+  },
+  "rules": [
+    "Each canonical slug must resolve to one grouped file.",
+    "Root-level canonical book files are deprecated.",
+    "The registry path must match the grouped file path.",
+    "Alias files may not define identity."
+  ]
+}
