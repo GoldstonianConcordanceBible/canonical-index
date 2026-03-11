@@ -1,0 +1,16 @@
+[
+  { "source": "node.book.enoch", "target": "theme.watchers", "relation": "structures" },
+  { "source": "node.book.enoch", "target": "theme.heavenly-mysteries", "relation": "reveals" },
+  { "source": "node.book.jubilees", "target": "theme.sacred-time", "relation": "orders" },
+  { "source": "node.book.jubilees", "target": "theme.covenant", "relation": "reframes" },
+  { "source": "node.book.1-meqabyan", "target": "theme.faithfulness", "relation": "embodies" },
+  { "source": "node.book.2-meqabyan", "target": "theme.obedience", "relation": "demands" },
+  { "source": "node.book.3-meqabyan", "target": "theme.spiritual-warfare", "relation": "amplifies" },
+  { "source": "node.book.tobit", "target": "theme.providence", "relation": "illustrates" },
+  { "source": "node.book.tobit", "target": "theme.angels", "relation": "features" },
+  { "source": "node.book.judith", "target": "theme.courage", "relation": "models" },
+  { "source": "node.book.greek-esther", "target": "theme.prayer", "relation": "strengthens" },
+  { "source": "node.book.1-maccabees", "target": "theme.covenant-zeal", "relation": "drives" },
+  { "source": "node.book.2-maccabees", "target": "theme.martyrdom", "relation": "centers" },
+  { "source": "node.book.2-maccabees", "target": "theme.resurrection-hope", "relation": "anticipates" }
+]
