@@ -1,0 +1,25 @@
+{
+  "id": "node.book.colossians",
+  "node_type": "book",
+  "canonical_id": "book.colossians",
+  "slug": "colossians",
+  "title": "Colossians",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "supremacy-of-christ",
+    "fullness",
+    "new-life",
+    "wisdom",
+    "truth",
+    "steadfastness"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.philippians"],
+    "precedes": ["node.book.1-thessalonians"],
+    "connects_to": ["theme.supremacy-of-christ", "theme.new-life", "theme.truth"],
+    "connected_characters": ["character.paul", "character.epaphras", "character.church"]
+  },
+  "summary": "Colossians centers the supremacy of Christ against rival claims and calls the church into rooted new life."
+}
