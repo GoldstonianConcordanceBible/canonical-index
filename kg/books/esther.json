@@ -1,0 +1,24 @@
+{
+  "id": "node.book.esther",
+  "node_type": "book",
+  "canonical_id": "book.esther",
+  "slug": "esther",
+  "title": "Esther",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "providence",
+    "deliverance",
+    "hidden-presence",
+    "courage",
+    "intercession",
+    "reversal"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.nehemiah"],
+    "parallels": ["theme.deliverance", "theme.hidden-presence"],
+    "connected_characters": ["character.esther", "character.mordecai", "character.haman"]
+  },
+  "summary": "Esther reveals divine providence through hidden presence, courageous intercession, and dramatic reversal."
+}
