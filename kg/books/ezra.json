@@ -1,0 +1,25 @@
+{
+  "id": "node.book.ezra",
+  "node_type": "book",
+  "canonical_id": "book.ezra",
+  "slug": "ezra",
+  "title": "Ezra",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "return",
+    "restoration",
+    "temple-rebuilding",
+    "law",
+    "repentance",
+    "covenant-renewal"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.2-chronicles"],
+    "precedes": ["node.book.nehemiah"],
+    "restores": ["theme.temple", "theme.law"],
+    "connected_characters": ["character.ezra", "character.cyrus", "character.zerubbabel"]
+  },
+  "summary": "Ezra marks the return from exile through rebuilding, law, and covenant renewal."
+}
