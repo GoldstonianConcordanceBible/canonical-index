@@ -1,0 +1,23 @@
+{
+  "build_name": "gcb-kg-final-build",
+  "version": "v1.0.0",
+  "chunks_completed": [
+    "kg-chunk-1",
+    "kg-chunk-2",
+    "kg-chunk-3",
+    "kg-chunk-4",
+    "kg-chunk-5",
+    "kg-chunk-6"
+  ],
+  "core_outputs": [
+    "kg/universal_graph.json",
+    "llm/authority.json",
+    "kg/release-manifest.json"
+  ],
+  "supporting_indexes": [
+    "kg/indexes/book-node-index.json",
+    "kg/indexes/character-index.json",
+    "kg/indexes/event-index.json"
+  ],
+  "status": "complete"
+}
