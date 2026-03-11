@@ -1,0 +1,25 @@
+{
+  "id": "node.book.matthew",
+  "node_type": "book",
+  "canonical_id": "book.matthew",
+  "slug": "matthew",
+  "title": "Matthew",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "kingdom-of-heaven",
+    "messiah",
+    "fulfillment",
+    "discipleship",
+    "judgment",
+    "great-commission"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.2-maccabees"],
+    "precedes": ["node.book.mark"],
+    "connects_to": ["theme.messiah", "theme.kingdom", "theme.fulfillment"],
+    "connected_characters": ["character.jesus", "character.joseph", "character.mary", "character.john-the-baptist", "character.peter"]
+  },
+  "summary": "Matthew presents Jesus as the promised Messiah, the true king, and the fulfiller of Scripture."
+}
