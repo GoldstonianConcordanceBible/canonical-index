@@ -1,0 +1,25 @@
+{
+  "id": "node.book.titus",
+  "node_type": "book",
+  "canonical_id": "book.titus",
+  "slug": "titus",
+  "title": "Titus",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "good-works",
+    "sound-doctrine",
+    "order",
+    "grace",
+    "leadership",
+    "renewal"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.2-timothy"],
+    "precedes": ["node.book.philemon"],
+    "connects_to": ["theme.good-works", "theme.sound-doctrine", "theme.renewal"],
+    "connected_characters": ["character.paul", "character.titus"]
+  },
+  "summary": "Titus joins sound doctrine to visible good works, ordered leadership, and renewing grace."
+}
