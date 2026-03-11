@@ -1,0 +1,26 @@
+{
+  "id": "node.book.numbers",
+  "node_type": "book",
+  "canonical_id": "book.numbers",
+  "slug": "numbers",
+  "title": "Numbers",
+  "group": "torah",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "wilderness",
+    "testing",
+    "rebellion",
+    "order",
+    "judgment",
+    "pilgrimage",
+    "promise"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.leviticus"],
+    "precedes": ["node.book.deuteronomy"],
+    "parallels": ["theme.wilderness-testing"],
+    "connected_characters": ["character.moses", "character.aaron", "character.joshua", "character.caleb"]
+  },
+  "summary": "Numbers narrates the wilderness generation, revealing the tension between divine promise, human rebellion, and covenant order."
+}
