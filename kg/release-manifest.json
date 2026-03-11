@@ -1,0 +1,36 @@
+{
+  "release_name": "GCB Knowledge Graph v1.0.0",
+  "release_type": "production-ready spine release",
+  "primary_outputs": [
+    "canon/",
+    "kg/universal_graph.json",
+    "llm/authority.json"
+  ],
+  "completed_layers": [
+    "canonical-index",
+    "canon-authority-registry",
+    "canon-mapping-layer",
+    "canon-ontology-bindings",
+    "canon-graph-bindings",
+    "canon-search-bindings",
+    "canon-agent-authority",
+    "knowledge-graph-book-nodes",
+    "knowledge-graph-theme-nodes",
+    "knowledge-graph-character-nodes",
+    "knowledge-graph-event-nodes",
+    "knowledge-graph-edge-layer",
+    "llm-authority-layer"
+  ],
+  "book_coverage": {
+    "total_books": 81,
+    "status": "complete"
+  },
+  "special_distinction_rules": [
+    "Enoch preserved as Ethiopian-distinct",
+    "Jubilees preserved as Ethiopian-distinct",
+    "1 Meqabyan preserved as Ethiopian-distinct",
+    "2 Meqabyan preserved as Ethiopian-distinct",
+    "3 Meqabyan preserved as Ethiopian-distinct"
+  ],
+  "status": "release-ready"
+}
