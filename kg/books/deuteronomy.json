@@ -1,0 +1,26 @@
+{
+  "id": "node.book.deuteronomy",
+  "node_type": "book",
+  "canonical_id": "book.deuteronomy",
+  "slug": "deuteronomy",
+  "title": "Deuteronomy",
+  "group": "torah",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "remembrance",
+    "covenant-renewal",
+    "law",
+    "blessing-and-curse",
+    "obedience",
+    "inheritance",
+    "love-of-god"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.numbers"],
+    "precedes": ["node.book.joshua"],
+    "restates": ["theme.covenant", "theme.law"],
+    "connected_characters": ["character.moses", "character.joshua", "character.israel"]
+  },
+  "summary": "Deuteronomy renews covenant identity through remembrance, law, and the call to love and obey God before entering the land."
+}
