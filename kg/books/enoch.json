@@ -1,0 +1,24 @@
+{
+  "id": "node.book.enoch",
+  "node_type": "book",
+  "canonical_id": "book.enoch",
+  "slug": "enoch",
+  "title": "Enoch",
+  "group": "ethiopian-canon",
+  "traditions": ["ethiopian"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "watchers",
+    "judgment",
+    "heavenly-mysteries",
+    "cosmic-rebellion",
+    "righteous-remnant",
+    "son-of-man"
+  ],
+  "graph_relations": {
+    "precedes": ["node.book.jubilees"],
+    "connects_to": ["theme.watchers", "theme.judgment", "theme.heavenly-mysteries"],
+    "connected_characters": ["character.enoch", "character.watchers", "character.son-of-man"]
+  },
+  "summary": "Enoch expands antediluvian revelation through cosmic rebellion, heavenly vision, judgment, and messianic expectation."
+}
