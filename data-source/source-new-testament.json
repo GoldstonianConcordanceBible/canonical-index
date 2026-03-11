@@ -543,5 +543,102 @@
   },
   "source": "data-source/source-new-testament.json",
   "tradition": "ethiopian"
- }
+ },
+,
+{
+  "book": "john",
+  "chapter": 1,
+  "verse": 1,
+  "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+  "themes": ["gospel", "word-of-god", "divinity-of-christ"],
+  "entities": ["jesus", "god", "word"],
+  "cross_refs": ["genesis-001-01", "colossians-001-16"],
+  "gcb": {
+    "mirror": "Christ reveals that the beginning itself is personal and divine.",
+    "water": "The Word orders creation and redemption into one story.",
+    "fire": "The divinity of Christ burns through every diminished view of Him."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "john",
+  "chapter": 1,
+  "verse": 14,
+  "text": "And the Word was made flesh, and dwelt among us.",
+  "themes": ["incarnation", "gospel", "divinity-of-christ"],
+  "entities": ["jesus", "word"],
+  "cross_refs": ["matthew-001-23", "philippians-002-06"],
+  "gcb": {
+    "mirror": "God reveals Himself through embodied presence.",
+    "water": "Incarnation orders promise into fulfillment within history.",
+    "fire": "The Word made flesh burns through distance between God and humanity."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "acts",
+  "chapter": 2,
+  "verse": 17,
+  "text": "And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh.",
+  "themes": ["holy-spirit", "church", "fulfillment"],
+  "entities": ["god", "holy-spirit", "church"],
+  "cross_refs": ["joel-002-28"],
+  "gcb": {
+    "mirror": "The Church reveals the overflow of prophetic promise into history.",
+    "water": "The Spirit gathers and empowers a people.",
+    "fire": "Pentecost ignites witness."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "acts",
+  "chapter": 2,
+  "verse": 38,
+  "text": "Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins.",
+  "themes": ["repentance", "church", "holy-spirit"],
+  "entities": ["peter", "jesus", "church"],
+  "cross_refs": ["mark-001-15", "joel-002-28"],
+  "gcb": {
+    "mirror": "The church begins with repentance and forgiveness.",
+    "water": "Baptism orders belonging and cleansing.",
+    "fire": "The Spirit burns through old identity and ignites new life."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "romans",
+  "chapter": 1,
+  "verse": 16,
+  "text": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation.",
+  "themes": ["gospel", "salvation", "grace"],
+  "entities": ["paul", "god", "christ"],
+  "cross_refs": ["mark-001-15", "john-003-16"],
+  "gcb": {
+    "mirror": "The gospel reveals the saving power of God.",
+    "water": "Salvation is ordered by divine grace rather than human strength.",
+    "fire": "The gospel burns through shame and fear."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "romans",
+  "chapter": 1,
+  "verse": 17,
+  "text": "The just shall live by faith.",
+  "themes": ["justification", "faith", "gospel"],
+  "entities": ["paul", "just-one"],
+  "cross_refs": ["habakkuk-002-04", "galatians-003-11"],
+  "gcb": {
+    "mirror": "The gospel reveals righteousness received, not achieved.",
+    "water": "Faith orders the soul under grace rather than self-justification.",
+    "fire": "Justification burns through boasting."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+}
 ]
