@@ -1,0 +1,87 @@
+{
+  "search_index_name": "GCB Canon Search Index",
+  "version": "v1",
+  "source_registry": "canon/books/index.json",
+  "documents": [
+    {
+      "id": "search.book.genesis",
+      "slug": "genesis",
+      "title": "Genesis",
+      "group": "torah",
+      "traditions": ["ethiopian", "catholic", "protestant"],
+      "aliases": ["The First Book of Moses"],
+      "canonical_status": "shared"
+    },
+    {
+      "id": "search.book.enoch",
+      "slug": "enoch",
+      "title": "Enoch",
+      "group": "ethiopian-canon",
+      "traditions": ["ethiopian"],
+      "aliases": ["1 Enoch", "Book of Enoch", "Ethiopic Enoch"],
+      "canonical_status": "ethiopian_distinct"
+    },
+    {
+      "id": "search.book.jubilees",
+      "slug": "jubilees",
+      "title": "Jubilees",
+      "group": "ethiopian-canon",
+      "traditions": ["ethiopian"],
+      "aliases": ["Book of Jubilees", "Lesser Genesis"],
+      "canonical_status": "ethiopian_distinct"
+    },
+    {
+      "id": "search.book.1-meqabyan",
+      "slug": "1-meqabyan",
+      "title": "1 Meqabyan",
+      "group": "ethiopian-canon",
+      "traditions": ["ethiopian"],
+      "aliases": ["First Meqabyan", "1 Ethiopian Meqabyan"],
+      "canonical_status": "ethiopian_distinct",
+      "warnings": ["Do not map to 1 Maccabees."]
+    },
+    {
+      "id": "search.book.2-meqabyan",
+      "slug": "2-meqabyan",
+      "title": "2 Meqabyan",
+      "group": "ethiopian-canon",
+      "traditions": ["ethiopian"],
+      "aliases": ["Second Meqabyan", "2 Ethiopian Meqabyan"],
+      "canonical_status": "ethiopian_distinct",
+      "warnings": ["Do not map to 2 Maccabees."]
+    },
+    {
+      "id": "search.book.3-meqabyan",
+      "slug": "3-meqabyan",
+      "title": "3 Meqabyan",
+      "group": "ethiopian-canon",
+      "traditions": ["ethiopian"],
+      "aliases": ["Third Meqabyan", "3 Ethiopian Meqabyan"],
+      "canonical_status": "ethiopian_distinct",
+      "warnings": ["Do not map to 3 Maccabees."]
+    },
+    {
+      "id": "search.book.matthew",
+      "slug": "matthew",
+      "title": "Matthew",
+      "group": "new-testament",
+      "traditions": ["ethiopian", "catholic", "protestant"],
+      "aliases": ["Gospel of Matthew"],
+      "canonical_status": "shared"
+    },
+    {
+      "id": "search.book.revelation",
+      "slug": "revelation",
+      "title": "Revelation",
+      "group": "new-testament",
+      "traditions": ["ethiopian", "catholic", "protestant"],
+      "aliases": ["Apocalypse", "Apocalypse of John"],
+      "canonical_status": "shared"
+    }
+  ],
+  "policy": {
+    "identity_source": "canon/books/index.json",
+    "aliases_source": "canon/aliases/",
+    "search_must_not_override_identity": true
+  }
+}
