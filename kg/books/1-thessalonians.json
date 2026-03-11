@@ -1,0 +1,25 @@
+{
+  "id": "node.book.1-thessalonians",
+  "node_type": "book",
+  "canonical_id": "book.1-thessalonians",
+  "slug": "1-thessalonians",
+  "title": "1 Thessalonians",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "hope",
+    "holiness",
+    "return-of-christ",
+    "encouragement",
+    "watchfulness",
+    "love"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.colossians"],
+    "precedes": ["node.book.2-thessalonians"],
+    "connects_to": ["theme.hope", "theme.return-of-christ", "theme.holiness"],
+    "connected_characters": ["character.paul", "character.silvanus", "character.timothy"]
+  },
+  "summary": "1 Thessalonians strengthens a young church through hope, holiness, and watchful expectation of Christ's return."
+}
