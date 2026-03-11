@@ -1,0 +1,68 @@
+[
+  {
+    "id": "group.torah",
+    "name": "Torah",
+    "books": [
+      "genesis",
+      "exodus",
+      "leviticus",
+      "numbers",
+      "deuteronomy"
+    ]
+  },
+  {
+    "id": "group.historical",
+    "name": "Historical Books",
+    "books": [
+      "joshua",
+      "judges",
+      "ruth",
+      "1-samuel",
+      "2-samuel",
+      "1-kings",
+      "2-kings",
+      "1-chronicles",
+      "2-chronicles",
+      "ezra",
+      "nehemiah",
+      "esther"
+    ]
+  },
+  {
+    "id": "group.wisdom",
+    "name": "Wisdom Literature",
+    "books": [
+      "job",
+      "psalms",
+      "proverbs",
+      "ecclesiastes",
+      "song-of-solomon",
+      "wisdom-of-solomon",
+      "sirach"
+    ]
+  },
+  {
+    "id": "group.prophets",
+    "name": "Prophets",
+    "books": [
+      "isaiah",
+      "jeremiah",
+      "lamentations",
+      "baruch",
+      "ezekiel",
+      "daniel",
+      "hosea",
+      "joel",
+      "amos",
+      "obadiah",
+      "jonah",
+      "micah",
+      "nahum",
+      "habakkuk",
+      "zephaniah",
+      "haggai",
+      "zechariah",
+      "malachi"
+    ]
+  }
+]
