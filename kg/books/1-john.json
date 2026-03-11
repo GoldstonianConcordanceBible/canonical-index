@@ -1,0 +1,25 @@
+{
+  "id": "node.book.1-john",
+  "node_type": "book",
+  "canonical_id": "book.1-john",
+  "slug": "1-john",
+  "title": "1 John",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "love",
+    "truth",
+    "assurance",
+    "light",
+    "obedience",
+    "abiding"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.2-peter"],
+    "precedes": ["node.book.2-john"],
+    "connects_to": ["theme.love", "theme.assurance", "theme.light"],
+    "connected_characters": ["character.john", "character.church"]
+  },
+  "summary": "1 John joins love, truth, obedience, and assurance in the life of those who abide in God."
+}
