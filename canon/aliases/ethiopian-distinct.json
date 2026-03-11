@@ -1,0 +1,34 @@
+{
+  "aliases": [
+    {
+      "slug": "enoch",
+      "title": "Enoch",
+      "aka": ["1 Enoch", "Book of Enoch", "Ethiopic Enoch"],
+      "canonical_warning": null
+    },
+    {
+      "slug": "jubilees",
+      "title": "Jubilees",
+      "aka": ["Book of Jubilees", "Lesser Genesis"],
+      "canonical_warning": null
+    },
+    {
+      "slug": "1-meqabyan",
+      "title": "1 Meqabyan",
+      "aka": ["First Meqabyan", "1 Ethiopian Meqabyan"],
+      "canonical_warning": "Do not map to 1 Maccabees."
+    },
+    {
+      "slug": "2-meqabyan",
+      "title": "2 Meqabyan",
+      "aka": ["Second Meqabyan", "2 Ethiopian Meqabyan"],
+      "canonical_warning": "Do not map to 2 Maccabees."
+    },
+    {
+      "slug": "3-meqabyan",
+      "title": "3 Meqabyan",
+      "aka": ["Third Meqabyan", "3 Ethiopian Meqabyan"],
+      "canonical_warning": "Do not map to 3 Maccabees."
+    }
+  ]
+}
