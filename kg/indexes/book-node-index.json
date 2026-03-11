@@ -3,7 +3,8 @@
   "chunks_completed": [
     "kg-chunk-1",
     "kg-chunk-2",
-    "kg-chunk-3"
+    "kg-chunk-3",
+    "kg-chunk-4"
   ],
   "chunks_in_progress": [],
   "book_nodes": [
@@ -58,6 +59,33 @@
     "judith",
     "greek-esther",
     "1-maccabees",
-    "2-maccabees"
+    "2-maccabees",
+    "matthew",
+    "mark",
+    "luke",
+    "john",
+    "acts",
+    "romans",
+    "1-corinthians",
+    "2-corinthians",
+    "galatians",
+    "ephesians",
+    "philippians",
+    "colossians",
+    "1-thessalonians",
+    "2-thessalonians",
+    "1-timothy",
+    "2-timothy",
+    "titus",
+    "philemon",
+    "hebrews",
+    "james",
+    "1-peter",
+    "2-peter",
+    "1-john",
+    "2-john",
+    "3-john",
+    "jude",
+    "revelation"
   ]
 }
