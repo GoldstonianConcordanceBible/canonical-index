@@ -1073,5 +1073,85 @@
   },
   "source": "data-source/source-new-testament.json",
   "tradition": "ethiopian"
+},
+{
+  "book": "1-timothy",
+  "chapter": 3,
+  "verse": 16,
+  "text": "Great is the mystery of godliness: God was manifest in the flesh.",
+  "themes": ["incarnation", "christ", "doctrine"],
+  "entities": ["jesus", "god"],
+  "cross_refs": ["john-001-14", "philippians-002-06"],
+  "gcb": {
+    "mirror": "The incarnation reveals the mystery of godliness.",
+    "water": "Doctrine orders belief around the revealed Christ.",
+    "fire": "Truth burns through confusion about the nature of Christ."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "1-timothy",
+  "chapter": 4,
+  "verse": 1,
+  "text": "Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith.",
+  "themes": ["apostasy", "end-times", "warning"],
+  "entities": ["holy-spirit"],
+  "cross_refs": ["2-thessalonians-002-03"],
+  "gcb": {
+    "mirror": "Apostasy reveals the testing of faith.",
+    "water": "Discernment orders the church against deception.",
+    "fire": "False teaching burns away before truth."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "2-timothy",
+  "chapter": 3,
+  "verse": 16,
+  "text": "All scripture is given by inspiration of God.",
+  "themes": ["scripture", "inspiration", "truth"],
+  "entities": ["god", "scripture"],
+  "cross_refs": ["2-peter-001-21"],
+  "gcb": {
+    "mirror": "Scripture reveals divine authority.",
+    "water": "Truth orders the life of believers.",
+    "fire": "Inspired words burn through error."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "2-timothy",
+  "chapter": 4,
+  "verse": 7,
+  "text": "I have fought a good fight, I have finished my course, I have kept the faith.",
+  "themes": ["endurance", "faith", "discipleship"],
+  "entities": ["paul"],
+  "cross_refs": ["hebrews-012-01"],
+  "gcb": {
+    "mirror": "Faithfulness reveals perseverance in the journey.",
+    "water": "Endurance orders life through trials.",
+    "fire": "True faith burns through hardship."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "philemon",
+  "chapter": 1,
+  "verse": 16,
+  "text": "Not now as a servant, but above a servant, a brother beloved.",
+  "themes": ["reconciliation", "brotherhood", "church"],
+  "entities": ["paul", "onesimus", "philemon"],
+  "cross_refs": ["colossians-004-09"],
+  "gcb": {
+    "mirror": "The gospel reveals new identity beyond social status.",
+    "water": "Reconciliation orders relationships in Christ.",
+    "fire": "Brotherhood burns away division."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
 }
 ]
