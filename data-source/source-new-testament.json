@@ -478,5 +478,70 @@
     },
     "source": "data-source/source-new-testament.json",
     "tradition": "ethiopian"
-  }
+  },
+  ,
+{
+  "book": "matthew",
+  "chapter": 5,
+  "verse": 3,
+  "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+  "themes": ["kingdom-of-god", "humility", "blessing"],
+  "entities": ["jesus"],
+  "cross_refs": ["luke-006-20"],
+  "gcb": {
+    "mirror": "The kingdom begins with the recognition of spiritual poverty.",
+    "water": "Humility opens the soul to divine ordering.",
+    "fire": "Kingdom life burns away pride."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "matthew",
+  "chapter": 5,
+  "verse": 9,
+  "text": "Blessed are the peacemakers: for they shall be called the children of God.",
+  "themes": ["kingdom-of-god", "peace", "discipleship"],
+  "entities": ["jesus"],
+  "cross_refs": ["isaiah-052-07", "romans-012-18"],
+  "gcb": {
+    "mirror": "Peace reveals the character of God's kingdom.",
+    "water": "Peacemaking orders relationships toward reconciliation.",
+    "fire": "True peace burns through hostility and pride."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "matthew",
+  "chapter": 5,
+  "verse": 14,
+  "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+  "themes": ["light", "witness", "discipleship"],
+  "entities": ["jesus", "disciples"],
+  "cross_refs": ["isaiah-049-06", "john-008-12"],
+  "gcb": {
+    "mirror": "Disciples reveal whether divine light is actually being reflected.",
+    "water": "Witness orders public life around visible truth.",
+    "fire": "Light burns through concealment and compromise."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "matthew",
+  "chapter": 5,
+  "verse": 17,
+  "text": "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.",
+  "themes": ["fulfillment", "law", "prophets", "messiah"],
+  "entities": ["jesus"],
+  "cross_refs": ["luke-024-44", "romans-010-04"],
+  "gcb": {
+    "mirror": "Christ reveals continuity rather than destruction in God's redemptive plan.",
+    "water": "Fulfillment orders law and prophecy into their true meaning.",
+    "fire": "Fulfillment burns through shallow readings of scripture."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+}
 ]
