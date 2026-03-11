@@ -1,0 +1,19 @@
+[
+  { "source": "theme.creation", "target": "node.book.genesis", "relation": "anchored-in" },
+  { "source": "theme.deliverance", "target": "node.book.exodus", "relation": "anchored-in" },
+  { "source": "theme.davidic-covenant", "target": "node.book.2-samuel", "relation": "anchored-in" },
+  { "source": "theme.exile", "target": "node.book.2-kings", "relation": "anchored-in" },
+  { "source": "theme.restoration-hope", "target": "node.book.2-chronicles", "relation": "anchored-in" },
+  { "source": "theme.watchers", "target": "node.book.enoch", "relation": "anchored-in" },
+  { "source": "theme.martyrdom", "target": "node.book.2-maccabees", "relation": "anchored-in" },
+  { "source": "theme.salvation", "target": "node.book.luke", "relation": "anchored-in" },
+  { "source": "theme.justification", "target": "node.book.romans", "relation": "anchored-in" },
+  { "source": "theme.reconciliation", "target": "node.book.2-corinthians", "relation": "anchored-in" },
+  { "source": "theme.freedom", "target": "node.book.galatians", "relation": "anchored-in" },
+  { "source": "theme.supremacy-of-christ", "target": "node.book.colossians", "relation": "anchored-in" },
+  { "source": "theme.return-of-christ", "target": "node.book.1-thessalonians", "relation": "anchored-in" },
+  { "source": "theme.better-covenant", "target": "node.book.hebrews", "relation": "anchored-in" },
+  { "source": "theme.assurance", "target": "node.book.1-john", "relation": "anchored-in" },
+  { "source": "theme.contend-for-the-faith", "target": "node.book.jude", "relation": "anchored-in" },
+  { "source": "theme.new-creation", "target": "node.book.revelation", "relation": "anchored-in" }
+]
