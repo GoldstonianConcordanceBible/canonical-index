@@ -54,3 +54,65 @@ Scripture shows testing, purification, and judgment.
 This repository maintains the **canonical registry** used across the GCB ecosystem.
 
 Core files include:
+
+Canonical identity registry.
+
+Scripture knowledge graph.
+
+AI authority resolution rules.
+
+---
+
+# Ecosystem Architecture
+
+The GCB ecosystem is organized as a layered structure.
+
+### Canonical Registry
+Defines book identity and canonical structure.
+
+### Knowledge Graph
+Links books, characters, events, and themes.
+
+### Ontology
+Defines semantic classes and relationships.
+
+### Agent Layer
+Defines how AI systems resolve biblical questions.
+
+### Discovery Layer
+Provides schema metadata, registries, and sitemaps.
+
+### Unified Specification
+Defines how the entire system interoperates.
+
+---
+
+# YouTube Scripture Corpus
+
+The complete **81-book playlist structure** is now available on YouTube.
+
+Playlists include:
+
+- Old Testament
+- New Testament
+- Apocrypha / Ethiopian canon
+- Atheists and skeptics engagement
+
+This forms the **public teaching layer** of the ecosystem.
+
+---
+
+# Institutional Context
+
+Developed within the **SydTek Scholars** ecosystem.
+
+---
+
+# Vision
+
+The goal of the Goldstonian Concordance Bible is to create a **machine-readable biblical authority system** rooted in the Ethiopian canon and structured for long-term theological, educational, and AI use.
+
+The Bible is not only a sacred text.
+
+It is also a **structured knowledge system**.
+
