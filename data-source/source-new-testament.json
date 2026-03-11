@@ -1313,5 +1313,118 @@
   },
   "source": "data-source/source-new-testament.json",
   "tradition": "ethiopian"
+}[
+{
+  "book": "genesis",
+  "chapter": 1,
+  "verse": 1,
+  "text": "In the beginning God created the heaven and the earth.",
+  "themes": ["creation", "god"],
+  "entities": ["god"],
+  "cross_refs": ["john-001-01", "colossians-001-16"],
+  "gcb": {
+    "mirror": "Creation reveals the authority of God.",
+    "water": "Order emerges from divine command.",
+    "fire": "Creation burns away chaos."
+  },
+  "source": "data-source/source-old-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "genesis",
+  "chapter": 12,
+  "verse": 3,
+  "text": "In thee shall all families of the earth be blessed.",
+  "themes": ["covenant", "promise", "messiah"],
+  "entities": ["abraham", "god"],
+  "cross_refs": ["galatians-003-08"],
+  "gcb": {
+    "mirror": "The covenant reveals God's redemptive plan.",
+    "water": "Promise orders history toward blessing.",
+    "fire": "The promise burns through despair."
+  },
+  "source": "data-source/source-old-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "exodus",
+  "chapter": 3,
+  "verse": 14,
+  "text": "I AM THAT I AM.",
+  "themes": ["divine-name", "revelation"],
+  "entities": ["god", "moses"],
+  "cross_refs": ["john-008-58"],
+  "gcb": {
+    "mirror": "God reveals His eternal identity.",
+    "water": "Revelation orders understanding of God.",
+    "fire": "The divine name burns through false idols."
+  },
+  "source": "data-source/source-old-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "psalms",
+  "chapter": 23,
+  "verse": 1,
+  "text": "The Lord is my shepherd; I shall not want.",
+  "themes": ["shepherd", "provision"],
+  "entities": ["god", "david"],
+  "cross_refs": ["john-010-11"],
+  "gcb": {
+    "mirror": "The shepherd reveals God's care.",
+    "water": "Trust orders life under divine provision.",
+    "fire": "Faith burns through fear."
+  },
+  "source": "data-source/source-old-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "isaiah",
+  "chapter": 7,
+  "verse": 14,
+  "text": "Behold, a virgin shall conceive, and bear a son.",
+  "themes": ["messiah", "prophecy"],
+  "entities": ["god"],
+  "cross_refs": ["matthew-001-23"],
+  "gcb": {
+    "mirror": "Prophecy reveals the coming Messiah.",
+    "water": "Promise orders hope through generations.",
+    "fire": "Fulfillment burns through doubt."
+  },
+  "source": "data-source/source-old-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "isaiah",
+  "chapter": 53,
+  "verse": 5,
+  "text": "He was wounded for our transgressions.",
+  "themes": ["atonement", "messiah"],
+  "entities": ["messiah"],
+  "cross_refs": ["1-peter-002-24"],
+  "gcb": {
+    "mirror": "The suffering servant reveals redemptive sacrifice.",
+    "water": "Atonement orders reconciliation.",
+    "fire": "Sacrifice burns through sin."
+  },
+  "source": "data-source/source-old-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "daniel",
+  "chapter": 7,
+  "verse": 13,
+  "text": "One like the Son of man came with the clouds of heaven.",
+  "themes": ["messiah", "kingdom-of-god"],
+  "entities": ["son-of-man"],
+  "cross_refs": ["matthew-024-30", "revelation-001-07"],
+  "gcb": {
+    "mirror": "The Son of Man reveals divine kingship.",
+    "water": "Kingdom prophecy orders future hope.",
+    "fire": "The coming kingdom burns away earthly empires."
+  },
+  "source": "data-source/source-old-testament.json",
+  "tradition": "ethiopian"
 }
+]
 ]
