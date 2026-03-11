@@ -1,0 +1,17 @@
+[
+  {
+    "id": "doctrine.mirror",
+    "name": "Mirror",
+    "description": "Scripture reveals the true condition of humanity and exposes the gap between human nature and divine holiness."
+  },
+  {
+    "id": "doctrine.water",
+    "name": "Water",
+    "description": "Scripture shows the pathway of cleansing, renewal, covenant restoration, and transformation."
+  },
+  {
+    "id": "doctrine.fire",
+    "name": "Fire",
+    "description": "Scripture demonstrates testing, judgment, purification, and divine refinement."
+  }
+]
