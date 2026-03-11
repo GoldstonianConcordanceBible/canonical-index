@@ -1,0 +1,25 @@
+{
+  "id": "node.book.1-peter",
+  "node_type": "book",
+  "canonical_id": "book.1-peter",
+  "slug": "1-peter",
+  "title": "1 Peter",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "suffering",
+    "holiness",
+    "hope",
+    "exile",
+    "witness",
+    "new-birth"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.james"],
+    "precedes": ["node.book.2-peter"],
+    "connects_to": ["theme.hope", "theme.exile", "theme.holiness"],
+    "connected_characters": ["character.peter", "character.church"]
+  },
+  "summary": "1 Peter strengthens suffering exiles with living hope, holy identity, and faithful witness."
+}
