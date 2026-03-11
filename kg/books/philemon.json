@@ -1,0 +1,25 @@
+{
+  "id": "node.book.philemon",
+  "node_type": "book",
+  "canonical_id": "book.philemon",
+  "slug": "philemon",
+  "title": "Philemon",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "reconciliation",
+    "forgiveness",
+    "brotherhood",
+    "grace",
+    "transformation",
+    "appeal"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.titus"],
+    "precedes": ["node.book.hebrews"],
+    "connects_to": ["theme.reconciliation", "theme.forgiveness", "theme.transformation"],
+    "connected_characters": ["character.paul", "character.philemon", "character.onesimus"]
+  },
+  "summary": "Philemon embodies the gospel through reconciliation, forgiveness, and transformed relationship."
+}
