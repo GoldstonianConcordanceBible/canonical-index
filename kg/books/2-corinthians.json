@@ -1,0 +1,25 @@
+{
+  "id": "node.book.2-corinthians",
+  "node_type": "book",
+  "canonical_id": "book.2-corinthians",
+  "slug": "2-corinthians",
+  "title": "2 Corinthians",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "weakness",
+    "comfort",
+    "ministry",
+    "reconciliation",
+    "suffering",
+    "generosity"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.1-corinthians"],
+    "precedes": ["node.book.galatians"],
+    "connects_to": ["theme.weakness", "theme.reconciliation", "theme.ministry"],
+    "connected_characters": ["character.paul", "character.titus", "character.corinthian-church"]
+  },
+  "summary": "2 Corinthians reveals apostolic ministry through weakness, suffering, comfort, and reconciliation."
+}
