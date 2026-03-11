@@ -1,0 +1,25 @@
+{
+  "id": "node.book.2-peter",
+  "node_type": "book",
+  "canonical_id": "book.2-peter",
+  "slug": "2-peter",
+  "title": "2 Peter",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "truth",
+    "false-teachers",
+    "judgment",
+    "growth",
+    "knowledge",
+    "day-of-the-lord"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.1-peter"],
+    "precedes": ["node.book.1-john"],
+    "connects_to": ["theme.truth", "theme.false-teachers", "theme.day-of-the-lord"],
+    "connected_characters": ["character.peter"]
+  },
+  "summary": "2 Peter calls believers to growth in true knowledge while warning against false teaching and final judgment."
+}
