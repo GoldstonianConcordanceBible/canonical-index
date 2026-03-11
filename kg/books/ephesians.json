@@ -1,0 +1,25 @@
+{
+  "id": "node.book.ephesians",
+  "node_type": "book",
+  "canonical_id": "book.ephesians",
+  "slug": "ephesians",
+  "title": "Ephesians",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "church",
+    "unity",
+    "heavenly-realms",
+    "grace",
+    "new-humanity",
+    "spiritual-warfare"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.galatians"],
+    "precedes": ["node.book.philippians"],
+    "connects_to": ["theme.unity", "theme.spiritual-warfare", "theme.church"],
+    "connected_characters": ["character.paul", "character.church"]
+  },
+  "summary": "Ephesians unveils the church as a unified new humanity formed by grace in the heavenly struggle."
+}
