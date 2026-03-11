@@ -1,0 +1,25 @@
+{
+  "id": "node.book.2-john",
+  "node_type": "book",
+  "canonical_id": "book.2-john",
+  "slug": "2-john",
+  "title": "2 John",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "truth",
+    "love",
+    "discernment",
+    "obedience",
+    "warning",
+    "walking"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.1-john"],
+    "precedes": ["node.book.3-john"],
+    "connects_to": ["theme.truth", "theme.love", "theme.discernment"],
+    "connected_characters": ["character.john", "character.elect-lady"]
+  },
+  "summary": "2 John holds truth and love together while warning against compromise and deception."
+}
