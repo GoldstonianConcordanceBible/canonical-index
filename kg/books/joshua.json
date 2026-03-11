@@ -1,0 +1,25 @@
+{
+  "id": "node.book.joshua",
+  "node_type": "book",
+  "canonical_id": "book.joshua",
+  "slug": "joshua",
+  "title": "Joshua",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "inheritance",
+    "conquest",
+    "covenant-faithfulness",
+    "leadership-transition",
+    "promise-fulfilled",
+    "obedience"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.deuteronomy"],
+    "precedes": ["node.book.judges"],
+    "fulfills": ["theme.inheritance", "theme.promise"],
+    "connected_characters": ["character.joshua", "character.rahab", "character.caleb"]
+  },
+  "summary": "Joshua moves the covenant people into inheritance, linking obedience to possession of promise."
+}
