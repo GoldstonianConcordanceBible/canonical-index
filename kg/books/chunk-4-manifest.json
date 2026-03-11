@@ -1,0 +1,41 @@
+{
+  "chunk": "kg-chunk-4",
+  "completed_groups": [
+    "new-testament"
+  ],
+  "book_nodes": [
+    "matthew",
+    "mark",
+    "luke",
+    "john",
+    "acts",
+    "romans",
+    "1-corinthians",
+    "2-corinthians",
+    "galatians",
+    "ephesians",
+    "philippians",
+    "colossians",
+    "1-thessalonians",
+    "2-thessalonians",
+    "1-timothy",
+    "2-timothy",
+    "titus",
+    "philemon",
+    "hebrews",
+    "james",
+    "1-peter",
+    "2-peter",
+    "1-john",
+    "2-john",
+    "3-john",
+    "jude",
+    "revelation"
+  ],
+  "edge_files": [
+    "kg/edges/chunk-4-sequence.json",
+    "kg/edges/chunk-4-thematic.json",
+    "kg/edges/chunk-4-doctrine.json"
+  ],
+  "source_authority": "canon/books/index.json"
+}
