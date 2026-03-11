@@ -993,5 +993,85 @@
   },
   "source": "data-source/source-new-testament.json",
   "tradition": "ethiopian"
+},
+{
+  "book": "1-thessalonians",
+  "chapter": 4,
+  "verse": 16,
+  "text": "For the Lord himself shall descend from heaven with a shout.",
+  "themes": ["second-coming", "resurrection", "hope"],
+  "entities": ["jesus"],
+  "cross_refs": ["matthew-024-30", "revelation-001-07"],
+  "gcb": {
+    "mirror": "The return of Christ reveals the final gathering of believers.",
+    "water": "Hope orders the church toward perseverance.",
+    "fire": "The coming of the Lord burns through despair."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "1-thessalonians",
+  "chapter": 5,
+  "verse": 2,
+  "text": "For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.",
+  "themes": ["day-of-the-lord", "watchfulness"],
+  "entities": ["lord"],
+  "cross_refs": ["matthew-024-43", "2-peter-003-10"],
+  "gcb": {
+    "mirror": "The day of the Lord reveals the urgency of readiness.",
+    "water": "Watchfulness orders life in expectation.",
+    "fire": "Sudden judgment burns through complacency."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "2-thessalonians",
+  "chapter": 2,
+  "verse": 3,
+  "text": "Let no man deceive you by any means: for that day shall not come, except there come a falling away first.",
+  "themes": ["apostasy", "end-times", "deception"],
+  "entities": ["paul"],
+  "cross_refs": ["matthew-024-11", "1-timothy-004-01"],
+  "gcb": {
+    "mirror": "Apostasy reveals the testing of faith before the end.",
+    "water": "Truth orders believers against deception.",
+    "fire": "Falsehood burns away before the final judgment."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "titus",
+  "chapter": 2,
+  "verse": 11,
+  "text": "For the grace of God that bringeth salvation hath appeared to all men.",
+  "themes": ["grace", "salvation"],
+  "entities": ["god"],
+  "cross_refs": ["ephesians-002-08"],
+  "gcb": {
+    "mirror": "Grace reveals God's saving initiative.",
+    "water": "Salvation orders life through gratitude and obedience.",
+    "fire": "Grace burns through condemnation."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "titus",
+  "chapter": 2,
+  "verse": 14,
+  "text": "Who gave himself for us, that he might redeem us from all iniquity.",
+  "themes": ["redemption", "grace", "holiness"],
+  "entities": ["jesus"],
+  "cross_refs": ["1-peter-001-18"],
+  "gcb": {
+    "mirror": "Redemption reveals the cost of salvation.",
+    "water": "Grace orders a people set apart.",
+    "fire": "Holiness burns away former corruption."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
 }
 ]
