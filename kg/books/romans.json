@@ -1,0 +1,25 @@
+{
+  "id": "node.book.romans",
+  "node_type": "book",
+  "canonical_id": "book.romans",
+  "slug": "romans",
+  "title": "Romans",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "justification",
+    "grace",
+    "faith",
+    "sin",
+    "righteousness",
+    "new-life"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.acts"],
+    "precedes": ["node.book.1-corinthians"],
+    "connects_to": ["theme.justification", "theme.grace", "theme.righteousness"],
+    "connected_characters": ["character.paul", "character.abraham", "character.adam"]
+  },
+  "summary": "Romans unfolds the gospel through sin, grace, justification, and transformed life in Christ."
+}
