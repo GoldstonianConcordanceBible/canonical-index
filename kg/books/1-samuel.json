@@ -1,0 +1,25 @@
+{
+  "id": "node.book.1-samuel",
+  "node_type": "book",
+  "canonical_id": "book.1-samuel",
+  "slug": "1-samuel",
+  "title": "1 Samuel",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "prophetic-transition",
+    "kingship",
+    "obedience",
+    "anointing",
+    "rejection",
+    "covenant-leadership"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.ruth"],
+    "precedes": ["node.book.2-samuel"],
+    "introduces": ["theme.kingship", "theme.anointing"],
+    "connected_characters": ["character.samuel", "character.saul", "character.david", "character.hannah"]
+  },
+  "summary": "1 Samuel narrates the shift from judges to monarchy and frames kingship under obedience to God."
+}
