@@ -1,0 +1,25 @@
+{
+  "id": "node.book.luke",
+  "node_type": "book",
+  "canonical_id": "book.luke",
+  "slug": "luke",
+  "title": "Luke",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "salvation",
+    "mercy",
+    "holy-spirit",
+    "prayer",
+    "outsiders",
+    "joy"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.mark"],
+    "precedes": ["node.book.john"],
+    "connects_to": ["theme.salvation", "theme.mercy", "theme.holy-spirit"],
+    "connected_characters": ["character.jesus", "character.mary", "character.elizabeth", "character.john-the-baptist", "character.disciples"]
+  },
+  "summary": "Luke frames Jesus as the Savior whose mercy reaches the outsider through the Spirit-filled plan of God."
+}
