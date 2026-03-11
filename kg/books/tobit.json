@@ -1,0 +1,25 @@
+{
+  "id": "node.book.tobit",
+  "node_type": "book",
+  "canonical_id": "book.tobit",
+  "slug": "tobit",
+  "title": "Tobit",
+  "group": "deuterocanonical-books",
+  "traditions": ["ethiopian", "catholic"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "faithfulness-in-exile",
+    "charity",
+    "angelic-guidance",
+    "healing",
+    "family-righteousness",
+    "providence"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.3-meqabyan"],
+    "precedes": ["node.book.judith"],
+    "connects_to": ["theme.providence", "theme.healing", "theme.angels"],
+    "connected_characters": ["character.tobit", "character.tobias", "character.sarah", "character.raphael"]
+  },
+  "summary": "Tobit presents faithful living in exile through charity, healing, providence, and angelic guidance."
+}
