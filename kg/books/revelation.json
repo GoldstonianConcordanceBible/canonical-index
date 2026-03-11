@@ -1,0 +1,24 @@
+{
+  "id": "node.book.revelation",
+  "node_type": "book",
+  "canonical_id": "book.revelation",
+  "slug": "revelation",
+  "title": "Revelation",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "apocalypse",
+    "victory",
+    "judgment",
+    "worship",
+    "new-creation",
+    "kingdom"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.jude"],
+    "connects_to": ["theme.apocalypse", "theme.victory", "theme.new-creation"],
+    "connected_characters": ["character.john", "character.lamb", "character.dragon", "character.witnesses"]
+  },
+  "summary": "Revelation unveils the final victory of God through judgment, worship, kingdom consummation, and new creation."
+}
