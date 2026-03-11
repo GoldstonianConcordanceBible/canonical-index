@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GCB Canon Book Registry Entry",
+  "type": "object",
+  "required": [
+    "id",
+    "slug",
+    "title",
+    "group",
+    "path",
+    "traditions",
+    "category"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^book\\.[a-z0-9-]+$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "group": {
+      "type": "string"
+    },
+    "path": {
+      "type": "string"
+    },
+    "traditions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "category": {
+      "type": "string"
+    }
+  }
+}
