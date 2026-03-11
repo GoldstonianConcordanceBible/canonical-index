@@ -1,0 +1,25 @@
+{
+  "id": "node.book.nehemiah",
+  "node_type": "book",
+  "canonical_id": "book.nehemiah",
+  "slug": "nehemiah",
+  "title": "Nehemiah",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "rebuilding",
+    "leadership",
+    "community-order",
+    "covenant-renewal",
+    "perseverance",
+    "restoration"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.ezra"],
+    "precedes": ["node.book.esther"],
+    "supports": ["theme.restoration", "theme.leadership"],
+    "connected_characters": ["character.nehemiah", "character.ezra"]
+  },
+  "summary": "Nehemiah reinforces restoration through disciplined leadership, rebuilding, and covenant order."
+}
