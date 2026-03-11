@@ -1,0 +1,25 @@
+{
+  "id": "node.book.galatians",
+  "node_type": "book",
+  "canonical_id": "book.galatians",
+  "slug": "galatians",
+  "title": "Galatians",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "freedom",
+    "grace",
+    "faith",
+    "law",
+    "spirit",
+    "sonship"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.2-corinthians"],
+    "precedes": ["node.book.ephesians"],
+    "connects_to": ["theme.freedom", "theme.grace", "theme.spirit"],
+    "connected_characters": ["character.paul", "character.abraham", "character.peter"]
+  },
+  "summary": "Galatians guards gospel freedom by opposing legal distortion and centering life in the Spirit."
+}
