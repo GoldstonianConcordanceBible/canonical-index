@@ -1,0 +1,17 @@
+[
+  { "id": "theme.wisdom", "type": "theme", "category": "wisdom-literature" },
+  { "id": "theme.suffering", "type": "theme", "category": "wisdom-literature" },
+  { "id": "theme.lament", "type": "theme", "category": "worship" },
+  { "id": "theme.praise", "type": "theme", "category": "worship" },
+  { "id": "theme.justice", "type": "theme", "category": "prophetic" },
+  { "id": "theme.judgment", "type": "theme", "category": "prophetic" },
+  { "id": "theme.remnant", "type": "theme", "category": "prophetic" },
+  { "id": "theme.restoration", "type": "theme", "category": "prophetic" },
+  { "id": "theme.day-of-the-lord", "type": "theme", "category": "prophetic" },
+  { "id": "theme.messiah", "type": "theme", "category": "messianic" },
+  { "id": "theme.kingdom", "type": "theme", "category": "messianic" },
+  { "id": "theme.new-covenant", "type": "theme", "category": "covenant" },
+  { "id": "theme.covenant", "type": "theme", "category": "covenant" },
+  { "id": "theme.temple", "type": "theme", "category": "worship" },
+  { "id": "theme.holiness", "type": "theme", "category": "law" }
+]
