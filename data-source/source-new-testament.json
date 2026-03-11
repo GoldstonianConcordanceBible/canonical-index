@@ -1233,5 +1233,85 @@
   },
   "source": "data-source/source-new-testament.json",
   "tradition": "ethiopian"
+},
+{
+  "book": "2-john",
+  "chapter": 1,
+  "verse": 6,
+  "text": "And this is love, that we walk after his commandments.",
+  "themes": ["love", "obedience", "truth"],
+  "entities": ["god", "believer"],
+  "cross_refs": ["john-014-15"],
+  "gcb": {
+    "mirror": "Love reveals itself through obedience.",
+    "water": "Truth orders love into faithful practice.",
+    "fire": "True love burns through hypocrisy."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "3-john",
+  "chapter": 1,
+  "verse": 11,
+  "text": "Beloved, follow not that which is evil, but that which is good.",
+  "themes": ["goodness", "discernment"],
+  "entities": ["believer"],
+  "cross_refs": ["romans-012-21"],
+  "gcb": {
+    "mirror": "Discernment reveals the difference between good and evil.",
+    "water": "Righteous living orders choices toward goodness.",
+    "fire": "Goodness burns through corruption."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "revelation",
+  "chapter": 1,
+  "verse": 7,
+  "text": "Behold, he cometh with clouds; and every eye shall see him.",
+  "themes": ["second-coming", "judgment"],
+  "entities": ["jesus"],
+  "cross_refs": ["daniel-007-13", "matthew-024-30"],
+  "gcb": {
+    "mirror": "The return of Christ reveals universal accountability.",
+    "water": "Expectation orders believers toward readiness.",
+    "fire": "The appearing of Christ burns through rebellion."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "revelation",
+  "chapter": 20,
+  "verse": 12,
+  "text": "And the dead were judged out of those things which were written in the books.",
+  "themes": ["judgment", "justice"],
+  "entities": ["god"],
+  "cross_refs": ["daniel-007-10"],
+  "gcb": {
+    "mirror": "Judgment reveals divine justice.",
+    "water": "Accountability orders human history.",
+    "fire": "Final judgment burns away hidden evil."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "revelation",
+  "chapter": 22,
+  "verse": 13,
+  "text": "I am Alpha and Omega, the beginning and the end.",
+  "themes": ["eternity", "lordship-of-christ"],
+  "entities": ["jesus"],
+  "cross_refs": ["revelation-001-08", "isaiah-044-06"],
+  "gcb": {
+    "mirror": "Christ reveals Himself as Lord over beginning and end.",
+    "water": "Eternity orders history under divine sovereignty.",
+    "fire": "The eternal Lord burns through every temporary throne."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
 }
 ]
