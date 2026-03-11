@@ -721,5 +721,102 @@
   },
   "source": "data-source/source-new-testament.json",
   "tradition": "ethiopian"
- }
+ },
+{
+  "book": "galatians",
+  "chapter": 3,
+  "verse": 11,
+  "text": "The just shall live by faith.",
+  "themes": ["justification", "faith", "grace"],
+  "entities": ["paul", "just-one"],
+  "cross_refs": ["habakkuk-002-04", "romans-001-17"],
+  "gcb": {
+    "mirror": "Grace reveals that life with God cannot be earned by law.",
+    "water": "Faith reorders covenant participation around promise.",
+    "fire": "Grace burns through legal boasting."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "galatians",
+  "chapter": 3,
+  "verse": 28,
+  "text": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.",
+  "themes": ["church", "unity", "grace"],
+  "entities": ["paul", "church", "christ"],
+  "cross_refs": ["ephesians-002-14", "colossians-003-11"],
+  "gcb": {
+    "mirror": "Union with Christ reveals a deeper identity than earthly divisions.",
+    "water": "Grace gathers the people of God into one body.",
+    "fire": "The gospel burns through false superiority."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "ephesians",
+  "chapter": 2,
+  "verse": 8,
+  "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.",
+  "themes": ["grace", "salvation", "faith"],
+  "entities": ["god", "church"],
+  "cross_refs": ["romans-003-24", "titus-003-05"],
+  "gcb": {
+    "mirror": "Salvation reveals the generosity of God, not the sufficiency of man.",
+    "water": "Grace cleanses salvation from works-righteousness.",
+    "fire": "Grace burns through self-credit."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "ephesians",
+  "chapter": 4,
+  "verse": 4,
+  "text": "There is one body, and one Spirit, even as ye are called in one hope of your calling.",
+  "themes": ["church", "unity", "holy-spirit"],
+  "entities": ["church", "holy-spirit"],
+  "cross_refs": ["acts-002-17", "1-corinthians-012-13"],
+  "gcb": {
+    "mirror": "The Church reveals its nature through unity in the Spirit.",
+    "water": "One body orders many members into shared life.",
+    "fire": "Unity burns through fragmentation and rivalry."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "1-peter",
+  "chapter": 1,
+  "verse": 16,
+  "text": "Be ye holy; for I am holy.",
+  "themes": ["sanctification", "holiness", "identity"],
+  "entities": ["god", "church"],
+  "cross_refs": ["leviticus-019-02"],
+  "gcb": {
+    "mirror": "Holiness reveals what it means to belong to God.",
+    "water": "Sanctification orders the people through consecration.",
+    "fire": "Holiness burns through compromise."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "1-peter",
+  "chapter": 2,
+  "verse": 9,
+  "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people.",
+  "themes": ["church", "identity", "priesthood"],
+  "entities": ["church", "god"],
+  "cross_refs": ["exodus-019-05", "deuteronomy-007-06"],
+  "gcb": {
+    "mirror": "The Church reveals covenant identity in Christ.",
+    "water": "Priesthood orders the people toward witness and holiness.",
+    "fire": "Chosen identity burns away assimilation."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+}
+
 ]
