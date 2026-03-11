@@ -1,0 +1,25 @@
+{
+  "id": "node.book.acts",
+  "node_type": "book",
+  "canonical_id": "book.acts",
+  "slug": "acts",
+  "title": "Acts",
+  "group": "new-testament",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "holy-spirit",
+    "church",
+    "mission",
+    "witness",
+    "kingdom",
+    "expansion"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.john"],
+    "precedes": ["node.book.romans"],
+    "connects_to": ["theme.holy-spirit", "theme.mission", "theme.witness"],
+    "connected_characters": ["character.peter", "character.paul", "character.stephen", "character.philip", "character.barnabas"]
+  },
+  "summary": "Acts traces the Spirit-empowered expansion of the church through witness, suffering, and mission."
+}
