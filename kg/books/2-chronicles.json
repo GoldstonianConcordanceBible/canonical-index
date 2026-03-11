@@ -1,0 +1,25 @@
+{
+  "id": "node.book.2-chronicles",
+  "node_type": "book",
+  "canonical_id": "book.2-chronicles",
+  "slug": "2-chronicles",
+  "title": "2 Chronicles",
+  "group": "historical-books",
+  "traditions": ["ethiopian", "catholic", "protestant"],
+  "doctrine_mapping": ["Mirror", "Water", "Fire"],
+  "themes": [
+    "temple",
+    "reform",
+    "judgment",
+    "repentance",
+    "exile",
+    "restoration-hope"
+  ],
+  "graph_relations": {
+    "follows": ["node.book.1-chronicles"],
+    "precedes": ["node.book.ezra"],
+    "bridges_to": ["theme.restoration", "theme.reform"],
+    "connected_characters": ["character.solomon", "character.asa", "character.jehoshaphat", "character.hezekiah", "character.josiah"]
+  },
+  "summary": "2 Chronicles retells Judah's history through temple-centered reform, judgment, and the hope of restoration."
+}
