@@ -1,15 +1,18 @@
 # Deprecations
-Status: CANONICAL
-Version: v2026-01-26
 
-## Purpose
-Track terms, titles, IDs, or files that must no longer be used, and provide the approved replacement.
+## Deprecated or unsafe canonical mappings
 
-## Format
-- Deprecated: <thing>
-- Replace with: <thing>
-- Reason:
-- Date:
+### Do not use
+- `1-maccabees` as an alias for `1-meqabyan`
+- `2-maccabees` as an alias for `2-meqabyan`
+- `3-maccabees` as an alias for `3-meqabyan`
 
-## Entries
-> None yet. Add deprecations here instead of silently changing names in multiple places.
+## Deprecated naming styles
+- Mixed-case canonical filenames for book records
+- Space-separated filenames
+- Implicit collapsing of Ethiopian distinct books into Catholic deuterocanon
+
+## Required replacement behavior
+- Use lowercase kebab-case slugs
+- Use explicit tradition-aware mapping
+- Preserve Ethiopian distinct canonical identity
