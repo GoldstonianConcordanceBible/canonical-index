@@ -1,0 +1,14 @@
+{
+  "forwarders": [
+    {
+      "legacy_path": "canon/genesis.json",
+      "canonical_slug": "genesis",
+      "canonical_id": "book.genesis",
+      "canonical_path": "canon/torah/genesis.json"
+    }
+  ],
+  "notes": [
+    "Forwarders exist only for backward compatibility.",
+    "Identity resolution must prefer canon/books/index.json."
+  ]
+}
