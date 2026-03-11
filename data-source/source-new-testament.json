@@ -897,6 +897,101 @@
   },
   "source": "data-source/source-new-testament.json",
   "tradition": "ethiopian"
+},
+{
+  "book": "philippians",
+  "chapter": 2,
+  "verse": 5,
+  "text": "Let this mind be in you, which was also in Christ Jesus.",
+  "themes": ["humility", "discipleship", "christ"],
+  "entities": ["jesus", "believer"],
+  "cross_refs": ["matthew-020-28"],
+  "gcb": {
+    "mirror": "Christ reveals the pattern of humility.",
+    "water": "Discipleship orders the heart toward service.",
+    "fire": "Humility burns through pride."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "philippians",
+  "chapter": 2,
+  "verse": 10,
+  "text": "That at the name of Jesus every knee should bow.",
+  "themes": ["lordship-of-christ", "worship"],
+  "entities": ["jesus"],
+  "cross_refs": ["isaiah-045-23", "revelation-005-13"],
+  "gcb": {
+    "mirror": "Christ reveals universal lordship.",
+    "water": "Worship orders all creation under His name.",
+    "fire": "Every rival authority burns before Christ."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "colossians",
+  "chapter": 1,
+  "verse": 16,
+  "text": "For by him were all things created, that are in heaven, and that are in earth.",
+  "themes": ["creation", "christ", "authority"],
+  "entities": ["jesus"],
+  "cross_refs": ["john-001-03", "genesis-001-01"],
+  "gcb": {
+    "mirror": "Christ reveals Himself as creator.",
+    "water": "Creation orders existence under divine authority.",
+    "fire": "The creator burns through every false power."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "colossians",
+  "chapter": 1,
+  "verse": 18,
+  "text": "And he is the head of the body, the church.",
+  "themes": ["church", "authority", "christ"],
+  "entities": ["jesus", "church"],
+  "cross_refs": ["ephesians-001-22"],
+  "gcb": {
+    "mirror": "Christ reveals Himself as the head of the church.",
+    "water": "Authority orders the body under one head.",
+    "fire": "False authority burns away before Christ."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "2-peter",
+  "chapter": 1,
+  "verse": 21,
+  "text": "Holy men of God spake as they were moved by the Holy Ghost.",
+  "themes": ["prophecy", "scripture", "holy-spirit"],
+  "entities": ["holy-spirit", "prophets"],
+  "cross_refs": ["2-timothy-003-16"],
+  "gcb": {
+    "mirror": "Scripture reveals divine inspiration.",
+    "water": "Prophecy orders truth through the Spirit.",
+    "fire": "Inspired truth burns through false teaching."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
+},
+{
+  "book": "2-peter",
+  "chapter": 3,
+  "verse": 13,
+  "text": "Nevertheless we, according to his promise, look for new heavens and a new earth.",
+  "themes": ["new-creation", "hope", "promise"],
+  "entities": ["god"],
+  "cross_refs": ["isaiah-065-17", "revelation-021-01"],
+  "gcb": {
+    "mirror": "Promise reveals the future restoration of creation.",
+    "water": "Hope orders perseverance through waiting.",
+    "fire": "New creation burns away the corruption of the old world."
+  },
+  "source": "data-source/source-new-testament.json",
+  "tradition": "ethiopian"
 }
-
 ]
