@@ -39,7 +39,7 @@ The **Mirror layer** represents self-reflection and recognition of divine law.
 
 Biblical basis:
 
-> “For if anyone is a hearer of the word and not a doer, he is like a man observing his natural face in a mirror.”  
+> “For if anyone is a hearer of The Word and not a doer, he is like a man observing his natural face in a mirror.”  
 > — James 1:23
 
 This layer focuses on recognition of truth and alignment with scripture.
