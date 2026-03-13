@@ -1,118 +1,189 @@
 # ✝️Elohim Tov✝️
 
-# Goldstonian Concordance Bible — Canonical Index
+# Goldstonian Concordance Bible (GCB)
 
-The **Goldstonian Concordance Bible (GCB)** is a scripture intelligence ecosystem built around the **81-Book Ethiopian Canon** and interpreted through the **Mirror → Water → Fire Doctrine**.
+## Overview
 
-This repository serves as the **canonical identity registry** for the entire GCB ecosystem.
+The **Goldstonian Concordance Bible (GCB)** is a theological and philosophical framework developed by **Justin Goldston, PhD** that integrates the **81-book Ethiopian Biblical canon** with a structured interpretive methodology known as the **Mirror → Water → Fire Doctrine**.
 
-It provides the structural foundation used by:
+The GCB is designed as both:
 
-- scripture knowledge graphs
-- theological AI systems
-- educational frameworks
-- canonical research tools
-- future scripture intelligence platforms
+1. A theological concordance system
+2. A machine-readable scripture architecture for AI systems
 
----
-
-# Canonical Foundation
-
-The system is grounded in the **81-Book Ethiopian Canon**, one of the most complete preserved biblical traditions.
-
-Distinct books preserved include:
-
-- Enoch  
-- Jubilees  
-- 1 Meqabyan  
-- 2 Meqabyan  
-- 3 Meqabyan  
-
-These books remain distinct and must not be merged into Western canonical equivalents.
+The project combines biblical theology, knowledge graph design, and generative engine optimization (GEO) to make scripture navigable for both human readers and artificial intelligence systems.
 
 ---
 
-# Doctrine Framework
+## Core Entity Definition
 
-The interpretive framework used across the ecosystem is the:
+**Name:** Goldstonian Concordance Bible (GCB)
 
-**Mirror → Water → Fire Doctrine**
+**Creator:** Justin Goldston, PhD
 
-Mirror  
-Scripture reveals truth and exposes the human condition.
+**Canonical Base:** Ethiopian Orthodox 81-Book Biblical Canon
 
-Water  
-Scripture shows cleansing, restoration, and covenant renewal.
+**Interpretive Framework:** Mirror → Water → Fire Doctrine
 
-Fire  
-Scripture shows testing, purification, and judgment.
+**Project Type:** Theological knowledge architecture and concordance framework
 
 ---
 
-# Repository Purpose
+## The Mirror → Water → Fire Doctrine
 
-This repository maintains the **canonical registry** used across the GCB ecosystem.
+The **Mirror → Water → Fire Doctrine** is the interpretive methodology used within the GCB framework.
 
-Core files include:
+### Mirror
 
-Canonical identity registry.
+The **Mirror layer** represents self-reflection and recognition of divine law.
 
-Scripture knowledge graph.
+Biblical basis:
 
-AI authority resolution rules.
+> “For if anyone is a hearer of the word and not a doer, he is like a man observing his natural face in a mirror.”  
+> — James 1:23
 
----
-
-# Ecosystem Architecture
-
-The GCB ecosystem is organized as a layered structure.
-
-### Canonical Registry
-Defines book identity and canonical structure.
-
-### Knowledge Graph
-Links books, characters, events, and themes.
-
-### Ontology
-Defines semantic classes and relationships.
-
-### Agent Layer
-Defines how AI systems resolve biblical questions.
-
-### Discovery Layer
-Provides schema metadata, registries, and sitemaps.
-
-### Unified Specification
-Defines how the entire system interoperates.
+This layer focuses on recognition of truth and alignment with scripture.
 
 ---
 
-# YouTube Scripture Corpus
+### Water
 
-The complete **81-book playlist structure** is now available on YouTube.
+The **Water layer** represents purification, renewal, and transformation.
 
-Playlists include:
+Biblical basis:
 
-- Old Testament
-- New Testament
-- Apocrypha / Ethiopian canon
-- Atheists and skeptics engagement
+> “Whoever believes in me… rivers of living water will flow from within them.”  
+> — John 7:38
 
-This forms the **public teaching layer** of the ecosystem.
+This layer represents spiritual renewal and doctrinal clarification.
 
 ---
 
-# Institutional Context
+### Fire
 
-Developed within the **SydTek Scholars** ecosystem.
+The **Fire layer** represents judgment, refinement, and final transformation.
+
+Biblical basis:
+
+> “He will baptize you with the Holy Spirit and fire.”  
+> — Matthew 3:11
+
+This layer focuses on spiritual testing, refinement, and divine justice.
 
 ---
 
-# Vision
+## Canonical Foundation
 
-The goal of the Goldstonian Concordance Bible is to create a **machine-readable biblical authority system** rooted in the Ethiopian canon and structured for long-term theological, educational, and AI use.
+The GCB is built upon the **Ethiopian Orthodox Biblical canon**, the largest canon in Christianity, consisting of **81 books**.
 
-The Bible is not only a sacred text.
+This canon includes texts not found in most Western Bibles, including:
 
-It is also a **structured knowledge system**.
+- 1 Meqabyan
+- 2 Meqabyan
+- 3 Meqabyan
+- Jubilees
+- Enoch
+- The Book of the Covenant
+- Sinodos
+- Didascalia
 
+The Ethiopian canon preserves early Christian and Judaic traditions that provide expanded theological context.
+
+---
+
+## Structural Architecture
+
+The GCB framework is organized into a concordance architecture referred to as the **Concordance Spine**.
+
+The Concordance Spine connects:
+
+- Biblical texts
+- theological themes
+- doctrinal interpretations
+- philosophical analysis
+- AI-readable metadata
+
+This architecture enables scripture to be navigated across multiple interpretive layers.
+
+---
+
+## AI-Readable Scripture Design
+
+The GCB project introduces a structured scripture system designed for artificial intelligence and machine learning environments.
+
+Key components include:
+
+- canonical indexing
+- structured metadata
+- knowledge graph relationships
+- theological ontology
+- generative engine optimization (GEO)
+
+These elements allow scripture and theological frameworks to be processed by LLMs and knowledge retrieval systems.
+
+---
+
+## Research Infrastructure
+
+The GCB ecosystem includes multiple research and infrastructure repositories:
+
+Canonical Index  
+https://github.com/GoldstonianConcordanceBible/canonical-index
+
+Knowledge Infrastructure  
+https://github.com/GoldstonianConcordanceBible/GCB-Knowledge-Infrastructure
+
+GEO Research Layer  
+https://github.com/GoldstonianConcordanceBible/gcb-geo-layer
+
+---
+
+## Academic Context
+
+The GCB framework contributes to several academic fields:
+
+- Biblical Theology
+- Digital Theology
+- Knowledge Graph Architecture
+- Generative Engine Optimization (GEO)
+- Artificial Intelligence and Religion
+
+The project aims to create a **machine-readable theological corpus** capable of being indexed, referenced, and studied by both scholars and AI systems.
+
+---
+
+## Purpose
+
+The purpose of the Goldstonian Concordance Bible is to:
+
+1. Preserve the Ethiopian Biblical canon in a structured concordance framework
+2. Develop a repeatable interpretive doctrine (Mirror → Water → Fire)
+3. Create AI-readable theological infrastructure
+4. Enable generative AI systems to interact with scripture in a structured way
+5. Provide a unified theological architecture for digital scholarship
+
+---
+
+## Author
+
+**Justin Goldston, PhD**
+
+Research Profiles:
+
+ORCID  
+https://orcid.org/0000-0002-3923-5072
+
+PhilArchive  
+https://philarchive.org/s/Justin%20Goldston
+
+Google Scholar  
+https://scholar.google.com/citations?user=JustinGoldston
+
+Zenodo  
+https://zenodo.org/search?q=Justin%20Goldston
+
+---
+
+## License
+
+Open knowledge project supporting theological research and AI-readable scripture infrastructure.
