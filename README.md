@@ -52,7 +52,7 @@ The **Water layer** represents purification, renewal, and transformation.
 
 Biblical basis:
 
-> “Whoever believes in me… rivers of living water will flow from within them.”  
+> “Whoever believes in Me… rivers of living water will flow from within them.”  
 > — John 7:38
 
 This layer represents spiritual renewal and doctrinal clarification.
