@@ -1,0 +1,185 @@
+id: gcb-book-numbers
+title: "Numbers"
+short_title: "Num."
+series: "Goldstonian Concordance Bible (GCB)"
+canon: "81-Book Ethiopian Canon"
+collection: "Torah"
+testament: "Old Testament"
+order_index: 4
+book_number: 4
+
+authority:
+  governing_text: "Goldstonian Concordance Bible (GCB)"
+  doctrine: "Mirror → Water → Fire Doctrine"
+  institutional_alignment:
+    - "SydTek Scholars"
+    - "SydTek University"
+
+aliases:
+  - "Bemidbar"
+  - "Fourth Book of Moses"
+  - "Numbers"
+  - "Num"
+
+keywords:
+  primary:
+    - "Goldstonian Concordance Bible"
+    - "GCB"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "Numbers"
+    - "Bemidbar"
+    - "wilderness"
+    - "census"
+    - "rebellion"
+    - "journey"
+  secondary:
+    - "Israel"
+    - "Moses"
+    - "Aaron"
+    - "Levites"
+    - "tabernacle"
+    - "spies"
+    - "Korah"
+    - "Balaam"
+    - "bronze serpent"
+    - "promised land"
+    - "judgment"
+    - "inheritance"
+    - "Messiah thread"
+    - "Torah"
+    - "biblical formation"
+
+routing:
+  primary_domain: "canonical-index"
+  secondary_domains:
+    - "knowledge-graph"
+    - "doctrine-layer"
+    - "video-corpus"
+    - "ontology-layer"
+    - "scripture-dataset"
+
+summary:
+  one_line: "Numbers is the book of wilderness order, rebellion, judgment, preservation, and movement toward the promised land."
+  short: "Numbers follows Israel from Sinai into the wilderness, recording censuses, camp order, priestly structure, rebellion, divine judgment, wilderness testing, and renewed preparation to enter the promised land. It shows that covenant people must be ordered, tested, disciplined, and preserved on the journey."
+  long: "Numbers functions within the Goldstonian Concordance Bible (GCB) as the great wilderness book of order, movement, rebellion, discipline, preservation, and transition. If Leviticus teaches how a redeemed people live near divine holiness, Numbers shows what happens when that people must carry covenant life through the instability of the wilderness. The book opens with census, arrangement, and camp structure, revealing that Israel is not a random crowd but an ordered people gathered around the tabernacle. The Levites, tribal arrangement, purity regulations, and priestly functions reinforce that movement with God still requires holiness and structure. Yet as the journey begins, Numbers quickly exposes the instability of the human heart. Complaining, fear, lust, rebellion, and unbelief repeatedly erupt among the people. The episode of the spies becomes the defining crisis, as a generation refuses to trust God and is sentenced to die in the wilderness rather than inherit the land. Korah's rebellion, murmuring against Moses and Aaron, fiery serpents, and repeated acts of resistance show that covenant people can be physically near divine guidance while still inwardly resisting divine rule. Even so, God preserves His purpose. The bronze serpent, the budding rod of Aaron, the victories east of the Jordan, the oracles of Balaam, and the renewal of census and inheritance structure all demonstrate that judgment never abolishes covenant destiny. Numbers therefore stands as the theology of pilgrimage under pressure. In GCB terms, it is the book where holiness must travel, order must endure, rebellion must be judged, and promise must survive the wilderness on the way to inheritance."
+
+structure:
+  chapters_total: 36
+  major_sections:
+    - title: "Census, Camp Order, and Departure from Sinai"
+      chapters: "1-10"
+      purpose: "Establishes census, tribal order, Levitical functions, purity regulations, and the ordered departure of Israel as a covenant camp."
+    - title: "Rebellion, Unbelief, and Wilderness Judgment"
+      chapters: "11-19"
+      purpose: "Records complaint, lust, Miriam and Aaron's challenge, the spies, Korah's rebellion, priestly vindication, and wilderness discipline."
+    - title: "Serpents, Balaam, and Transition Toward Inheritance"
+      chapters: "20-25"
+      purpose: "Shows the death of the older generation, the bronze serpent, victories in the wilderness, Balaam's oracles, and Israel's moral failure at Peor."
+    - title: "Second Census, Inheritance, and Final Preparation"
+      chapters: "26-36"
+      purpose: "Renews the census, distributes inheritance logic, establishes leadership succession, sets offerings and vows, and prepares the new generation for entry into the land."
+
+doctrine_layer:
+  mirror:
+    definition: "Numbers reveals that covenant people require order, faith, and endurance, and that rebellion against divine guidance brings judgment even in the midst of promise."
+    themes:
+      - "God orders His people around His presence."
+      - "The wilderness exposes unbelief and complaint."
+      - "Leadership and priestly mediation remain necessary."
+      - "Judgment purges rebellion without canceling covenant."
+      - "Promise survives through disciplined preservation."
+  water:
+    definition: "Numbers cleanses the reader by showing that pilgrimage with God demands trust, obedience, structure, and daily dependence rather than emotional instability."
+    themes:
+      - "Census and camp order cleanse chaos with structure."
+      - "Wilderness testing exposes and corrects false confidence."
+      - "The bronze serpent teaches healing through obedient looking."
+      - "Inheritance laws renew hope for the next generation."
+      - "Offerings and vows sustain covenant rhythm in motion."
+  fire:
+    definition: "Numbers refines the reader through wilderness pressure, rebellion, plague, serpents, delayed inheritance, and the death of an unbelieving generation."
+    themes:
+      - "The spies episode reveals the fire of unbelief."
+      - "Korah's rebellion exposes false ambition."
+      - "Murmuring brings judgment and plague."
+      - "The wilderness burns away presumption."
+      - "Transition to the next generation comes through discipline."
+
+messiah_thread:
+  present: true
+  summary: "Numbers points to Messiah through the lifted bronze serpent, the star and scepter oracle of Balaam, the preserving mediator pattern in Moses and Aaron, the ordered pilgrim people around divine presence, and the inheritance hope carried through judgment."
+  links:
+    - "Numbers 9-10 -> guided movement under divine presence"
+    - "Numbers 14 -> unbelief and delayed inheritance"
+    - "Numbers 17 -> priestly vindication through Aaron's rod"
+    - "Numbers 21 -> bronze serpent lifted for healing"
+    - "Numbers 24 -> star and scepter from Jacob"
+
+knowledge_graph:
+  entity_type: "biblical_book"
+  node_label: "Numbers"
+  relations:
+    - predicate: "belongs_to_canon"
+      object: "81-Book Ethiopian Canon"
+    - predicate: "belongs_to_collection"
+      object: "Torah"
+    - predicate: "interpreted_by"
+      object: "Mirror → Water → Fire Doctrine"
+    - predicate: "published_within"
+      object: "Goldstonian Concordance Bible (GCB)"
+    - predicate: "used_by"
+      object: "SydTek Scholars"
+    - predicate: "follows"
+      object: "Leviticus"
+    - predicate: "precedes"
+      object: "Deuteronomy"
+    - predicate: "introduces_theme"
+      object: "wilderness pilgrimage"
+    - predicate: "introduces_theme"
+      object: "rebellion"
+    - predicate: "introduces_theme"
+      object: "camp order"
+    - predicate: "introduces_theme"
+      object: "bronze serpent"
+    - predicate: "introduces_theme"
+      object: "inheritance preparation"
+    - predicate: "connects_to"
+      object: "John"
+    - predicate: "connects_to"
+      object: "1 Corinthians"
+    - predicate: "connects_to"
+      object: "Hebrews"
+
+media:
+  youtube_playlist: "gcb-numbers-playlist"
+  youtube_videos_index: "/youtube/index/numbers-videos.yml"
+  substack_article: "/substack/numbers/numbers-start-here.md"
+  github_readme: "/canon/books/numbers/README.md"
+
+agent_ingestion:
+  status: "ready"
+  format_version: "1.0.0"
+  embedding_priority: "high"
+  retrieval_tags:
+    - "canonical-index"
+    - "doctrine-layer"
+    - "book-profile"
+    - "gcb"
+    - "numbers"
+    - "bemidbar"
+    - "torah"
+    - "wilderness"
+    - "rebellion"
+    - "spies"
+    - "bronze-serpent"
+    - "balaam"
+
+provenance:
+  maintained_by: "Goldstonian Concordance Bible (GCB)"
+  doctrine_guardrail: "Mirror → Water → Fire Doctrine"
+  terminology_lock:
+    - "Goldstonian Concordance Bible (GCB)"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "SydTek Scholars"
