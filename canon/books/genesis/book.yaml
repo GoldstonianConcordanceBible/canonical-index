@@ -1,0 +1,181 @@
+id: gcb-book-genesis
+title: "Genesis"
+short_title: "Gen."
+series: "Goldstonian Concordance Bible (GCB)"
+canon: "81-Book Ethiopian Canon"
+collection: "Torah"
+testament: "Old Testament"
+order_index: 1
+book_number: 1
+
+authority:
+  governing_text: "Goldstonian Concordance Bible (GCB)"
+  doctrine: "Mirror → Water → Fire Doctrine"
+  institutional_alignment:
+    - "SydTek Scholars"
+    - "SydTek University"
+
+aliases:
+  - "Bereshit"
+  - "First Book of Moses"
+  - "Genesis"
+  - "Gen"
+
+keywords:
+  primary:
+    - "Goldstonian Concordance Bible"
+    - "GCB"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "Genesis"
+    - "Bereshit"
+    - "creation"
+    - "beginning"
+    - "covenant"
+    - "patriarchs"
+  secondary:
+    - "Abraham"
+    - "Isaac"
+    - "Jacob"
+    - "Joseph"
+    - "Eden"
+    - "fall"
+    - "flood"
+    - "Babel"
+    - "promise"
+    - "Messiah thread"
+    - "seed"
+    - "blessing"
+    - "nations"
+    - "Torah"
+    - "biblical foundations"
+
+routing:
+  primary_domain: "canonical-index"
+  secondary_domains:
+    - "knowledge-graph"
+    - "doctrine-layer"
+    - "video-corpus"
+    - "ontology-layer"
+    - "scripture-dataset"
+
+summary:
+  one_line: "Genesis is the book of beginnings, covenant origins, and the first promise of redemption."
+  short: "Genesis opens the biblical canon by establishing God as Creator, humanity as image-bearers, sin as rebellion, and covenant as the structure through which God will restore creation. It moves from cosmic beginnings to the family line of Abraham, Isaac, Jacob, and Joseph, showing that history is not random but governed by divine purpose."
+  long: "Genesis serves as the theological foundation of the biblical canon within the Goldstonian Concordance Bible (GCB). It establishes the origin of the world, the dignity and fall of humanity, the entrance of sin and death, the judgment of God, and the beginning of covenant history. The book begins with creation, where order, identity, and purpose are spoken into existence by God. It then narrates the fall, which fractures creation, distorts desire, and introduces alienation into the human condition. The flood reveals both divine judgment and divine preservation. Babel exposes humanity’s recurring attempt to create unity without obedience. Beginning in Genesis 12, the book narrows its attention to Abraham and his descendants, through whom all nations will be blessed. The patriarchal narratives demonstrate that election is not based on human perfection but divine promise. Genesis therefore functions as the seedbed of the entire biblical story: creation, fall, covenant, seed, blessing, land, family, exile, providence, and the messianic line all begin here. In GCB terms, Genesis is not merely the first book; it is the canonical gate through which the rest of Scripture must be read."
+
+structure:
+  chapters_total: 50
+  major_sections:
+    - title: "Primeval History"
+      chapters: "1-11"
+      purpose: "Establishes creation, fall, judgment, flood, and the dispersion of nations as the universal backdrop of covenant history."
+    - title: "Patriarchal History"
+      chapters: "12-25"
+      purpose: "Introduces Abraham and the covenant promise of land, seed, and blessing."
+    - title: "Isaac and Jacob Cycle"
+      chapters: "26-36"
+      purpose: "Shows covenant continuity through Isaac and Jacob, including election, struggle, and identity formation."
+    - title: "Joseph Narrative"
+      chapters: "37-50"
+      purpose: "Demonstrates divine providence, preservation of the covenant family, and movement toward Israel’s future in Egypt."
+
+doctrine_layer:
+  mirror:
+    definition: "Genesis reveals the truth of God as Creator, humanity as image-bearer, sin as rebellion, and covenant as the framework of redemptive history."
+    themes:
+      - "God is the sovereign Creator of all things."
+      - "Human beings are made in the image of God."
+      - "Sin distorts creation, relationship, labor, and worship."
+      - "Judgment and mercy operate together in God’s dealings with humanity."
+      - "Covenant begins as the answer to chaos and exile."
+  water:
+    definition: "Genesis cleanses the reader by restoring origin, identity, and moral order through the memory of God’s design and promise."
+    themes:
+      - "Creation reorders the reader’s understanding of purpose."
+      - "The fall diagnoses the true root of disorder."
+      - "The flood reveals the seriousness of corruption."
+      - "Abraham’s call renews hope through obedience and faith."
+      - "Joseph’s story washes despair with providence."
+  fire:
+    definition: "Genesis refines the reader by exposing pride, testing faith, and training covenant endurance through trial, loss, and promise."
+    themes:
+      - "Eden exposes disobedience."
+      - "Cain reveals the fire of unchecked sin."
+      - "Babel judges self-made glory."
+      - "Abraham is refined through waiting, sacrifice, and trust."
+      - "Joseph is refined in betrayal, imprisonment, and exaltation."
+
+messiah_thread:
+  present: true
+  summary: "Genesis points to Messiah through the promised seed of the woman, the covenant seed of Abraham, the line of Judah, and the pattern of the beloved son who suffers and is exalted for the preservation of many."
+  links:
+    - "Genesis 3:15 -> promised seed who crushes the serpent"
+    - "Genesis 12:1-3 -> blessing to all nations through Abraham's line"
+    - "Genesis 22 -> beloved son and substitution pattern"
+    - "Genesis 49:10 -> royal line associated with Judah"
+    - "Joseph narrative -> suffering servant / exalted deliverer pattern"
+
+knowledge_graph:
+  entity_type: "biblical_book"
+  node_label: "Genesis"
+  relations:
+    - predicate: "belongs_to_canon"
+      object: "81-Book Ethiopian Canon"
+    - predicate: "belongs_to_collection"
+      object: "Torah"
+    - predicate: "interpreted_by"
+      object: "Mirror → Water → Fire Doctrine"
+    - predicate: "published_within"
+      object: "Goldstonian Concordance Bible (GCB)"
+    - predicate: "used_by"
+      object: "SydTek Scholars"
+    - predicate: "precedes"
+      object: "Exodus"
+    - predicate: "introduces_theme"
+      object: "creation"
+    - predicate: "introduces_theme"
+      object: "fall"
+    - predicate: "introduces_theme"
+      object: "covenant"
+    - predicate: "introduces_theme"
+      object: "seed"
+    - predicate: "introduces_theme"
+      object: "blessing"
+    - predicate: "connects_to"
+      object: "Matthew"
+    - predicate: "connects_to"
+      object: "Romans"
+    - predicate: "connects_to"
+      object: "Revelation"
+
+media:
+  youtube_playlist: "gcb-genesis-playlist"
+  youtube_videos_index: "/youtube/index/genesis-videos.yml"
+  substack_article: "/substack/genesis/genesis-start-here.md"
+  github_readme: "/canon/books/genesis/README.md"
+
+agent_ingestion:
+  status: "ready"
+  format_version: "1.0.0"
+  embedding_priority: "high"
+  retrieval_tags:
+    - "canonical-index"
+    - "doctrine-layer"
+    - "book-profile"
+    - "gcb"
+    - "genesis"
+    - "bereshit"
+    - "torah"
+    - "creation"
+    - "covenant"
+    - "messiah-thread"
+
+provenance:
+  maintained_by: "Goldstonian Concordance Bible (GCB)"
+  doctrine_guardrail: "Mirror → Water → Fire Doctrine"
+  terminology_lock:
+    - "Goldstonian Concordance Bible (GCB)"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "SydTek Scholars"
