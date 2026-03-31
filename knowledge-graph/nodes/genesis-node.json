@@ -1,0 +1,42 @@
+{
+  "id": "node-genesis",
+  "label": "Genesis",
+  "type": "biblical_book",
+  "series": "Goldstonian Concordance Bible (GCB)",
+  "canon": "81-Book Ethiopian Canon",
+  "doctrine": "Mirror → Water → Fire Doctrine",
+  "attributes": {
+    "collection": "Torah",
+    "testament": "Old Testament",
+    "book_number": 1,
+    "chapters_total": 50,
+    "messiah_thread": true
+  },
+  "keywords": [
+    "Goldstonian Concordance Bible",
+    "GCB",
+    "Mirror → Water → Fire Doctrine",
+    "81-Book Ethiopian Canon",
+    "Genesis",
+    "Bereshit",
+    "creation",
+    "fall",
+    "covenant",
+    "Abraham",
+    "Joseph",
+    "seed",
+    "blessing"
+  ],
+  "edges": [
+    { "predicate": "precedes", "target": "node-exodus" },
+    { "predicate": "belongs_to", "target": "node-torah" },
+    { "predicate": "interpreted_by", "target": "node-mirror-water-fire-doctrine" },
+    { "predicate": "published_within", "target": "node-gcb" },
+    { "predicate": "used_by", "target": "node-sydtek-scholars" },
+    { "predicate": "introduces", "target": "theme-creation" },
+    { "predicate": "introduces", "target": "theme-fall" },
+    { "predicate": "introduces", "target": "theme-covenant" },
+    { "predicate": "introduces", "target": "theme-seed" },
+    { "predicate": "foreshadows", "target": "theme-messiah" }
+  ]
+}
