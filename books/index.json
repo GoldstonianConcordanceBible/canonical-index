@@ -1,21 +1,36 @@
 {
- "canon": "ethiopian",
- "books_total": 81,
- "books": [
-  {
-   "id": "genesis",
-   "order": 1,
-   "testament": "old"
-  },
-  {
-   "id": "exodus",
-   "order": 2,
-   "testament": "old"
-  },
-  {
-   "id": "leviticus",
-   "order": 3,
-   "testament": "old"
-  }
- ]
+  "books": [
+    {
+      "id": "gcb-book-genesis",
+      "title": "Genesis",
+      "slug": "genesis",
+      "collection": "Torah",
+      "testament": "Old Testament",
+      "canon": "81-Book Ethiopian Canon",
+      "series": "Goldstonian Concordance Bible (GCB)",
+      "doctrine": "Mirror → Water → Fire Doctrine",
+      "book_number": 1,
+      "chapters_total": 50,
+      "keywords": [
+        "Genesis",
+        "Bereshit",
+        "creation",
+        "fall",
+        "covenant",
+        "Abraham",
+        "Joseph",
+        "seed",
+        "blessing"
+      ],
+      "paths": {
+        "book_yaml": "/canon/books/genesis/book.yaml",
+        "readme": "/canon/books/genesis/README.md",
+        "ontology": "/canon/books/genesis/ontology.json",
+        "chapters_index": "/canon/books/genesis/chapters/index.json",
+        "longform_script": "/canon/books/genesis/longform-script.md",
+        "doctrine_layer": "/doctrine-layer/books/genesis.md",
+        "knowledge_graph_node": "/knowledge-graph/nodes/genesis-node.json"
+      }
+    }
+  ]
 }
