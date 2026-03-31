@@ -1,0 +1,184 @@
+id: gcb-book-leviticus
+title: "Leviticus"
+short_title: "Lev."
+series: "Goldstonian Concordance Bible (GCB)"
+canon: "81-Book Ethiopian Canon"
+collection: "Torah"
+testament: "Old Testament"
+order_index: 3
+book_number: 3
+
+authority:
+  governing_text: "Goldstonian Concordance Bible (GCB)"
+  doctrine: "Mirror → Water → Fire Doctrine"
+  institutional_alignment:
+    - "SydTek Scholars"
+    - "SydTek University"
+
+aliases:
+  - "Vayikra"
+  - "Third Book of Moses"
+  - "Leviticus"
+  - "Lev"
+
+keywords:
+  primary:
+    - "Goldstonian Concordance Bible"
+    - "GCB"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "Leviticus"
+    - "Vayikra"
+    - "holiness"
+    - "sacrifice"
+    - "priesthood"
+    - "atonement"
+  secondary:
+    - "clean and unclean"
+    - "Day of Atonement"
+    - "offerings"
+    - "tabernacle"
+    - "holy nation"
+    - "purity"
+    - "Aaron"
+    - "blood"
+    - "worship"
+    - "jubilee"
+    - "sabbath"
+    - "Messiah thread"
+    - "Torah"
+    - "biblical holiness"
+
+routing:
+  primary_domain: "canonical-index"
+  secondary_domains:
+    - "knowledge-graph"
+    - "doctrine-layer"
+    - "video-corpus"
+    - "ontology-layer"
+    - "scripture-dataset"
+
+summary:
+  one_line: "Leviticus is the book of holiness, sacrifice, priestly mediation, and ordered worship before the presence of God."
+  short: "Leviticus teaches how a redeemed people live in the presence of a holy God through sacrifice, priesthood, purity, covenant ethics, sacred times, and the Day of Atonement. It is the central biblical handbook of holiness, showing that worship, cleansing, and obedience are necessary for life near divine presence."
+  long: "Leviticus stands at the center of the Torah and functions within the Goldstonian Concordance Bible (GCB) as the defining book of holiness, sacrificial order, priestly mediation, and covenant purity. If Exodus ends with the glory of God filling the tabernacle, Leviticus answers the immediate question that follows: how can sinful people live near a holy God without being consumed? The book opens with the system of offerings, establishing that approach to God requires sacrifice, atonement, gratitude, and ordered worship. It then turns to the priesthood, showing that mediation must be consecrated and that unauthorized worship is dangerous in the presence of holiness. Leviticus also develops the categories of clean and unclean, demonstrating that holiness is not merely private spirituality but a total reordering of life, body, community, and worship. At the center of the book stands the Day of Atonement, where purification, blood, intercession, and removal of sin converge in one of the most powerful theological moments in Scripture. The holiness code expands this vision into daily ethics, sexuality, justice, festivals, sabbath rhythms, and covenant life, showing that Israel is called not just to worship God occasionally but to embody holiness as a people. The final chapters address sacred times, jubilee, vows, and covenant blessing and curse, reinforcing that holiness extends into economics, time, land, and communal order. In GCB terms, Leviticus is the book that transforms redeemed people into consecrated people. It teaches that access to God is real, but never casual; mercy is available, but always holy; and covenant life must be shaped around sacrifice, purity, and divine order."
+
+structure:
+  chapters_total: 27
+  major_sections:
+    - title: "Offerings and the Priesthood"
+      chapters: "1-10"
+      purpose: "Establishes the sacrificial system, consecration of priests, and the danger of approaching God without holiness."
+    - title: "Purity, Cleansing, and the Day of Atonement"
+      chapters: "11-16"
+      purpose: "Defines clean and unclean, ritual purification, and the central act of national atonement before God."
+    - title: "Holiness Code and Covenant Life"
+      chapters: "17-22"
+      purpose: "Applies holiness to blood, sexuality, justice, worship, priestly standards, and communal ethics."
+    - title: "Sacred Times, Jubilee, and Covenant Sanctions"
+      chapters: "23-27"
+      purpose: "Orders the calendar, sabbath rhythms, land ethics, vows, blessings, curses, and jubilee restoration."
+
+doctrine_layer:
+  mirror:
+    definition: "Leviticus reveals God as holy, the necessity of atonement, the seriousness of impurity, and the need for mediation if redeemed people are to dwell near divine presence."
+    themes:
+      - "Holiness is essential to covenant life."
+      - "Sacrifice is required for atonement and approach."
+      - "Priestly mediation protects access to holy presence."
+      - "Purity categories train covenant perception."
+      - "Holiness extends into ethics, time, body, and land."
+  water:
+    definition: "Leviticus cleanses the reader by teaching how worship, purity, and obedience reorder life around the holiness of God."
+    themes:
+      - "Offerings cleanse approach to God."
+      - "Purity laws train discernment and separation."
+      - "Atonement restores covenant fellowship."
+      - "Festivals renew memory through sacred time."
+      - "Jubilee washes economics with covenant mercy."
+  fire:
+    definition: "Leviticus refines the reader through the seriousness of divine holiness, the cost of sacrifice, the judgment of unauthorized worship, and the discipline of covenant obedience."
+    themes:
+      - "Nadab and Abihu reveal the fire of unauthorized worship."
+      - "Blood underscores the cost of cleansing."
+      - "The Day of Atonement exposes the gravity of sin."
+      - "Holiness code confronts moral disorder."
+      - "Blessing and curse refine covenant responsibility."
+
+messiah_thread:
+  present: true
+  summary: "Leviticus points to Messiah through sacrifice, priestly mediation, the Day of Atonement, cleansing through blood, the scapegoat pattern, the holiness of the priesthood, and the promise of true access to God through a greater mediator."
+  links:
+    - "Leviticus 1-7 -> sacrificial system and atoning approach"
+    - "Leviticus 8-10 -> consecrated priesthood and holy mediation"
+    - "Leviticus 16 -> Day of Atonement and removal of sin"
+    - "Leviticus 17 -> life is in the blood"
+    - "Leviticus 23-25 -> sacred time, sabbath, and jubilee patterns"
+
+knowledge_graph:
+  entity_type: "biblical_book"
+  node_label: "Leviticus"
+  relations:
+    - predicate: "belongs_to_canon"
+      object: "81-Book Ethiopian Canon"
+    - predicate: "belongs_to_collection"
+      object: "Torah"
+    - predicate: "interpreted_by"
+      object: "Mirror → Water → Fire Doctrine"
+    - predicate: "published_within"
+      object: "Goldstonian Concordance Bible (GCB)"
+    - predicate: "used_by"
+      object: "SydTek Scholars"
+    - predicate: "follows"
+      object: "Exodus"
+    - predicate: "precedes"
+      object: "Numbers"
+    - predicate: "introduces_theme"
+      object: "holiness"
+    - predicate: "introduces_theme"
+      object: "atonement"
+    - predicate: "introduces_theme"
+      object: "priesthood"
+    - predicate: "introduces_theme"
+      object: "clean and unclean"
+    - predicate: "introduces_theme"
+      object: "jubilee"
+    - predicate: "connects_to"
+      object: "Hebrews"
+    - predicate: "connects_to"
+      object: "Romans"
+    - predicate: "connects_to"
+      object: "Revelation"
+
+media:
+  youtube_playlist: "gcb-leviticus-playlist"
+  youtube_videos_index: "/youtube/index/leviticus-videos.yml"
+  substack_article: "/substack/leviticus/leviticus-start-here.md"
+  github_readme: "/canon/books/leviticus/README.md"
+
+agent_ingestion:
+  status: "ready"
+  format_version: "1.0.0"
+  embedding_priority: "high"
+  retrieval_tags:
+    - "canonical-index"
+    - "doctrine-layer"
+    - "book-profile"
+    - "gcb"
+    - "leviticus"
+    - "vayikra"
+    - "torah"
+    - "holiness"
+    - "atonement"
+    - "priesthood"
+    - "day-of-atonement"
+    - "jubilee"
+
+provenance:
+  maintained_by: "Goldstonian Concordance Bible (GCB)"
+  doctrine_guardrail: "Mirror → Water → Fire Doctrine"
+  terminology_lock:
+    - "Goldstonian Concordance Bible (GCB)"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "SydTek Scholars"
