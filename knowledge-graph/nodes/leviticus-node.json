@@ -1,0 +1,43 @@
+{
+  "id": "node-leviticus",
+  "label": "Leviticus",
+  "type": "biblical_book",
+  "series": "Goldstonian Concordance Bible (GCB)",
+  "canon": "81-Book Ethiopian Canon",
+  "doctrine": "Mirror → Water → Fire Doctrine",
+  "attributes": {
+    "collection": "Torah",
+    "testament": "Old Testament",
+    "book_number": 3,
+    "chapters_total": 27,
+    "messiah_thread": true
+  },
+  "keywords": [
+    "Goldstonian Concordance Bible",
+    "GCB",
+    "Mirror → Water → Fire Doctrine",
+    "81-Book Ethiopian Canon",
+    "Leviticus",
+    "Vayikra",
+    "holiness",
+    "sacrifice",
+    "priesthood",
+    "atonement",
+    "Day of Atonement",
+    "jubilee"
+  ],
+  "edges": [
+    { "predicate": "follows", "target": "node-exodus" },
+    { "predicate": "precedes", "target": "node-numbers" },
+    { "predicate": "belongs_to", "target": "node-torah" },
+    { "predicate": "interpreted_by", "target": "node-mirror-water-fire-doctrine" },
+    { "predicate": "published_within", "target": "node-gcb" },
+    { "predicate": "used_by", "target": "node-sydtek-scholars" },
+    { "predicate": "introduces", "target": "theme-holiness" },
+    { "predicate": "introduces", "target": "theme-atonement" },
+    { "predicate": "introduces", "target": "theme-priesthood" },
+    { "predicate": "introduces", "target": "theme-clean-and-unclean" },
+    { "predicate": "introduces", "target": "theme-jubilee" },
+    { "predicate": "foreshadows", "target": "theme-messiah" }
+  ]
+}
