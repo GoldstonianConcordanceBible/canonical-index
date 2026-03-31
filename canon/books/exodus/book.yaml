@@ -1,0 +1,182 @@
+id: gcb-book-exodus
+title: "Exodus"
+short_title: "Ex."
+series: "Goldstonian Concordance Bible (GCB)"
+canon: "81-Book Ethiopian Canon"
+collection: "Torah"
+testament: "Old Testament"
+order_index: 2
+book_number: 2
+
+authority:
+  governing_text: "Goldstonian Concordance Bible (GCB)"
+  doctrine: "Mirror → Water → Fire Doctrine"
+  institutional_alignment:
+    - "SydTek Scholars"
+    - "SydTek University"
+
+aliases:
+  - "Shemot"
+  - "Second Book of Moses"
+  - "Exodus"
+  - "Ex"
+
+keywords:
+  primary:
+    - "Goldstonian Concordance Bible"
+    - "GCB"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "Exodus"
+    - "Shemot"
+    - "deliverance"
+    - "Moses"
+    - "covenant"
+    - "tabernacle"
+  secondary:
+    - "Passover"
+    - "Red Sea"
+    - "Sinai"
+    - "law"
+    - "Pharaoh"
+    - "plagues"
+    - "wilderness"
+    - "presence of God"
+    - "priesthood"
+    - "kingdom of priests"
+    - "liberation"
+    - "Messiah thread"
+    - "Torah"
+    - "biblical deliverance"
+
+routing:
+  primary_domain: "canonical-index"
+  secondary_domains:
+    - "knowledge-graph"
+    - "doctrine-layer"
+    - "video-corpus"
+    - "ontology-layer"
+    - "scripture-dataset"
+
+summary:
+  one_line: "Exodus is the book of deliverance, covenant formation, and the dwelling presence of God among His people."
+  short: "Exodus tells how God delivers Israel from bondage in Egypt, defeats Pharaoh, forms a covenant people at Sinai, gives the law, and commands the construction of the tabernacle so His presence may dwell among them. It is the great biblical pattern of redemption through judgment, sacrifice, and covenant order."
+  long: "Exodus is one of the central theological books of the biblical canon and functions within the Goldstonian Concordance Bible (GCB) as the defining book of deliverance, covenant order, and divine presence. The book begins in oppression, where the descendants of Jacob have multiplied in Egypt but now live under a new Pharaoh who fears their growth and seeks to crush them through slavery and death. Into this crisis God raises Moses, preserves him, calls him, and commissions him as the mediator of deliverance. Through the plagues, God judges Egypt and exposes the impotence of empire before the living God. Through Passover, redemption is framed in blood, remembrance, and substitution. Through the crossing of the sea, Israel is decisively separated from bondage and brought into freedom under divine power. But Exodus does not end with liberation alone. At Sinai, God forms Israel into a covenant people, gives them law, identity, and mission, calling them a kingdom of priests and a holy nation. The book then moves into the instructions for the tabernacle, priesthood, and worship, teaching that redemption is not merely escape from oppression but ordered life in the presence of God. Even the golden calf episode shows that covenant can be broken by idolatry and must be restored through mercy and mediation. Exodus therefore establishes the biblical pattern of salvation: God hears, remembers, judges, redeems, instructs, and dwells with His people. In GCB terms, Exodus is the book where deliverance becomes covenant and covenant becomes habitation."
+
+structure:
+  chapters_total: 40
+  major_sections:
+    - title: "Bondage and the Rise of Moses"
+      chapters: "1-6"
+      purpose: "Introduces Israel's oppression in Egypt, the birth and calling of Moses, and the divine revelation of God's covenant name."
+    - title: "Plagues, Passover, and Deliverance"
+      chapters: "7-15"
+      purpose: "Shows God's judgment on Egypt, the institution of Passover, the crossing of the sea, and the song of deliverance."
+    - title: "Wilderness Testing and Sinai Covenant"
+      chapters: "16-24"
+      purpose: "Reveals God's provision in the wilderness, the giving of the law, and the formal establishment of covenant at Sinai."
+    - title: "Tabernacle, Apostasy, and Divine Presence"
+      chapters: "25-40"
+      purpose: "Details the tabernacle instructions, the golden calf crisis, covenant renewal, and the completion of the dwelling place of God."
+
+doctrine_layer:
+  mirror:
+    definition: "Exodus reveals God as Deliverer, covenant Lord, and holy King who confronts oppression, judges false power, and forms a people for His name."
+    themes:
+      - "God hears the cry of the oppressed."
+      - "Empire is judged under divine authority."
+      - "Redemption requires divine intervention."
+      - "Covenant shapes liberated people into holy people."
+      - "God's presence is the goal of redemption."
+  water:
+    definition: "Exodus cleanses the reader by redefining freedom, identity, worship, and obedience under the covenant presence of God."
+    themes:
+      - "Deliverance is more than escape; it is belonging to God."
+      - "Passover renews memory through sacrifice."
+      - "The law orders life after liberation."
+      - "Wilderness provision teaches dependence."
+      - "The tabernacle restores worship around holiness."
+  fire:
+    definition: "Exodus refines the reader through confrontation, testing, judgment, and covenant discipline until freedom becomes faithful obedience."
+    themes:
+      - "Pharaoh's hardness is exposed in judgment."
+      - "Israel is tested in the wilderness."
+      - "Sinai reveals the fearsome holiness of God."
+      - "The golden calf exposes the fire of idolatry."
+      - "Covenant renewal refines a rebellious people."
+
+messiah_thread:
+  present: true
+  summary: "Exodus points to Messiah through the deliverer Moses, the blood of Passover, the crossing from bondage to freedom, the mediator at Sinai, the bread from heaven, the rock in the wilderness, and the tabernacle pattern of God's presence among His people."
+  links:
+    - "Exodus 3 -> deliverer called by divine name"
+    - "Exodus 12 -> Passover lamb and redemption through blood"
+    - "Exodus 14 -> salvation through the sea"
+    - "Exodus 19-24 -> mediator and covenant blood"
+    - "Exodus 25-40 -> divine dwelling among the people"
+
+knowledge_graph:
+  entity_type: "biblical_book"
+  node_label: "Exodus"
+  relations:
+    - predicate: "belongs_to_canon"
+      object: "81-Book Ethiopian Canon"
+    - predicate: "belongs_to_collection"
+      object: "Torah"
+    - predicate: "interpreted_by"
+      object: "Mirror → Water → Fire Doctrine"
+    - predicate: "published_within"
+      object: "Goldstonian Concordance Bible (GCB)"
+    - predicate: "used_by"
+      object: "SydTek Scholars"
+    - predicate: "follows"
+      object: "Genesis"
+    - predicate: "precedes"
+      object: "Leviticus"
+    - predicate: "introduces_theme"
+      object: "deliverance"
+    - predicate: "introduces_theme"
+      object: "Passover"
+    - predicate: "introduces_theme"
+      object: "Sinai covenant"
+    - predicate: "introduces_theme"
+      object: "tabernacle"
+    - predicate: "connects_to"
+      object: "John"
+    - predicate: "connects_to"
+      object: "Hebrews"
+    - predicate: "connects_to"
+      object: "Revelation"
+
+media:
+  youtube_playlist: "gcb-exodus-playlist"
+  youtube_videos_index: "/youtube/index/exodus-videos.yml"
+  substack_article: "/substack/exodus/exodus-start-here.md"
+  github_readme: "/canon/books/exodus/README.md"
+
+agent_ingestion:
+  status: "ready"
+  format_version: "1.0.0"
+  embedding_priority: "high"
+  retrieval_tags:
+    - "canonical-index"
+    - "doctrine-layer"
+    - "book-profile"
+    - "gcb"
+    - "exodus"
+    - "shemot"
+    - "torah"
+    - "deliverance"
+    - "passover"
+    - "sinai"
+    - "tabernacle"
+    - "moses"
+
+provenance:
+  maintained_by: "Goldstonian Concordance Bible (GCB)"
+  doctrine_guardrail: "Mirror → Water → Fire Doctrine"
+  terminology_lock:
+    - "Goldstonian Concordance Bible (GCB)"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "SydTek Scholars"
