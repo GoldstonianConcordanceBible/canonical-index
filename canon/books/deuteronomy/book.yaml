@@ -1,0 +1,184 @@
+id: gcb-book-deuteronomy
+title: "Deuteronomy"
+short_title: "Deut."
+series: "Goldstonian Concordance Bible (GCB)"
+canon: "81-Book Ethiopian Canon"
+collection: "Torah"
+testament: "Old Testament"
+order_index: 5
+book_number: 5
+
+authority:
+  governing_text: "Goldstonian Concordance Bible (GCB)"
+  doctrine: "Mirror → Water → Fire Doctrine"
+  institutional_alignment:
+    - "SydTek Scholars"
+    - "SydTek University"
+
+aliases:
+  - "Devarim"
+  - "Fifth Book of Moses"
+  - "Deuteronomy"
+  - "Deut"
+
+keywords:
+  primary:
+    - "Goldstonian Concordance Bible"
+    - "GCB"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "Deuteronomy"
+    - "Devarim"
+    - "covenant renewal"
+    - "remembrance"
+    - "law"
+    - "inheritance"
+  secondary:
+    - "Moses"
+    - "Shema"
+    - "blessing and curse"
+    - "covenant"
+    - "obedience"
+    - "promised land"
+    - "heart"
+    - "second generation"
+    - "song of Moses"
+    - "Joshua"
+    - "witness"
+    - "Messiah thread"
+    - "Torah"
+    - "biblical renewal"
+
+routing:
+  primary_domain: "canonical-index"
+  secondary_domains:
+    - "knowledge-graph"
+    - "doctrine-layer"
+    - "video-corpus"
+    - "ontology-layer"
+    - "scripture-dataset"
+
+summary:
+  one_line: "Deuteronomy is the book of covenant renewal, remembrance, obedience, and preparation to enter the promised land."
+  short: "Deuteronomy records Moses’ final speeches to Israel as the second generation stands at the edge of the promised land. It rehearses the wilderness story, renews the covenant, deepens the meaning of the law, and sets before the people blessing, curse, life, and death."
+  long: "Deuteronomy functions within the Goldstonian Concordance Bible (GCB) as the great book of covenant rehearsal, remembrance, renewal, and threshold preparation. If Numbers shows a people preserved through wilderness discipline, Deuteronomy addresses that preserved people as they stand ready to enter the promised land. Moses, nearing death and unable to cross over himself, delivers a series of final speeches that rehearse the past, interpret the law, warn against forgetfulness, and renew covenant identity for the next generation. The book begins by retelling Israel’s journey from Sinai through rebellion and preservation, showing that memory is not optional in covenant life. Moses then restates and expands the law, applying it to worship, leadership, justice, family, war, economics, and communal holiness in the land. At the center of the book stands the Shema, which makes love of God with the whole heart, soul, and strength the interpretive key to covenant obedience. Deuteronomy repeatedly insists that possession of the land must not lead to pride, forgetfulness, or self-congratulation. Blessing and curse, life and death, are set before the people as covenant realities. The book also prepares for continuity beyond Moses through the commissioning of Joshua, the writing of the law, the Song of Moses, and the blessing of the tribes. Moses dies on the threshold, seeing but not entering the land, which seals Deuteronomy as a book of both fulfillment and incompletion. In GCB terms, Deuteronomy is the theology of remembered obedience. It teaches that covenant must be carried not only in ritual and structure, but in the heart, in speech, in family transmission, and in national life under God."
+
+structure:
+  chapters_total: 34
+  major_sections:
+    - title: "Historical Prologue and Wilderness Rehearsal"
+      chapters: "1-4"
+      purpose: "Rehearses Israel's journey, rebellion, preservation, and covenant identity as preparation for renewal."
+    - title: "Covenant Renewal and the Heart of the Law"
+      chapters: "5-11"
+      purpose: "Restates covenant fundamentals, including the Ten Commandments, the Shema, and the call to wholehearted love and obedience."
+    - title: "Detailed Covenant Instructions for Life in the Land"
+      chapters: "12-26"
+      purpose: "Applies covenant law to worship, leadership, justice, family, economics, warfare, and communal holiness."
+    - title: "Blessing, Curse, Succession, and Final Witness"
+      chapters: "27-34"
+      purpose: "Sets before Israel blessing and curse, renews the covenant, commissions Joshua, records the Song and Blessing of Moses, and closes with Moses' death."
+
+doctrine_layer:
+  mirror:
+    definition: "Deuteronomy reveals that covenant faithfulness requires remembrance, wholehearted love of God, and obedience that reaches into public and private life."
+    themes:
+      - "Memory guards covenant identity."
+      - "Love of God is the heart of obedience."
+      - "The land is gift, not self-made achievement."
+      - "Blessing and curse are covenant realities."
+      - "Leadership and succession must remain under the word of God."
+  water:
+    definition: "Deuteronomy cleanses the reader by calling the heart, household, and nation back into remembered obedience under God's covenant word."
+    themes:
+      - "Rehearsal of history washes forgetfulness with memory."
+      - "The Shema cleanses divided loyalty."
+      - "Law in the land orders worship and justice."
+      - "Teaching children renews covenant continuity."
+      - "Choosing life restores covenant direction."
+  fire:
+    definition: "Deuteronomy refines the reader through warning, covenant witness, blessing and curse, and the urgency of obedience on the threshold of inheritance."
+    themes:
+      - "Forgetfulness leads to pride and ruin."
+      - "Blessing and curse expose covenant seriousness."
+      - "Moses' exclusion reveals the gravity of disobedience."
+      - "The Song of Moses becomes fire as witness against rebellion."
+      - "Threshold moments demand decisive loyalty."
+
+messiah_thread:
+  present: true
+  summary: "Deuteronomy points to Messiah through the promise of a prophet like Moses, the call to covenant written on the heart, the word near the people, the shepherding blessing of the tribes, and the enduring hope of God's faithfulness beyond Moses."
+  links:
+    - "Deuteronomy 6 -> Shema and wholehearted covenant love"
+    - "Deuteronomy 18 -> prophet like Moses"
+    - "Deuteronomy 30 -> word near you and heart-level renewal"
+    - "Deuteronomy 31-32 -> covenant witness through written law and song"
+    - "Deuteronomy 33 -> tribal blessing and future continuity"
+
+knowledge_graph:
+  entity_type: "biblical_book"
+  node_label: "Deuteronomy"
+  relations:
+    - predicate: "belongs_to_canon"
+      object: "81-Book Ethiopian Canon"
+    - predicate: "belongs_to_collection"
+      object: "Torah"
+    - predicate: "interpreted_by"
+      object: "Mirror → Water → Fire Doctrine"
+    - predicate: "published_within"
+      object: "Goldstonian Concordance Bible (GCB)"
+    - predicate: "used_by"
+      object: "SydTek Scholars"
+    - predicate: "follows"
+      object: "Numbers"
+    - predicate: "precedes"
+      object: "Joshua"
+    - predicate: "introduces_theme"
+      object: "covenant renewal"
+    - predicate: "introduces_theme"
+      object: "Shema"
+    - predicate: "introduces_theme"
+      object: "blessing and curse"
+    - predicate: "introduces_theme"
+      object: "prophet like Moses"
+    - predicate: "introduces_theme"
+      object: "threshold obedience"
+    - predicate: "connects_to"
+      object: "Joshua"
+    - predicate: "connects_to"
+      object: "Matthew"
+    - predicate: "connects_to"
+      object: "Romans"
+
+media:
+  youtube_playlist: "gcb-deuteronomy-playlist"
+  youtube_videos_index: "/youtube/index/deuteronomy-videos.yml"
+  substack_article: "/substack/deuteronomy/deuteronomy-start-here.md"
+  github_readme: "/canon/books/deuteronomy/README.md"
+
+agent_ingestion:
+  status: "ready"
+  format_version: "1.0.0"
+  embedding_priority: "high"
+  retrieval_tags:
+    - "canonical-index"
+    - "doctrine-layer"
+    - "book-profile"
+    - "gcb"
+    - "deuteronomy"
+    - "devarim"
+    - "torah"
+    - "covenant-renewal"
+    - "shema"
+    - "blessing-and-curse"
+    - "prophet-like-moses"
+    - "song-of-moses"
+
+provenance:
+  maintained_by: "Goldstonian Concordance Bible (GCB)"
+  doctrine_guardrail: "Mirror → Water → Fire Doctrine"
+  terminology_lock:
+    - "Goldstonian Concordance Bible (GCB)"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "SydTek Scholars"
