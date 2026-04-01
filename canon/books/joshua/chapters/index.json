@@ -1,0 +1,31 @@
+{
+  "book_id": "gcb-book-joshua",
+  "book_title": "Joshua",
+  "chapters_total": 24,
+  "chapter_nodes": [
+    { "chapter": 1, "slug": "joshua-01", "theme": "Joshua commissioned and charged to be strong" },
+    { "chapter": 2, "slug": "joshua-02", "theme": "Rahab, the spies, and covenant mercy" },
+    { "chapter": 3, "slug": "joshua-03", "theme": "crossing the Jordan under divine presence" },
+    { "chapter": 4, "slug": "joshua-04", "theme": "memorial stones and covenant remembrance" },
+    { "chapter": 5, "slug": "joshua-05", "theme": "circumcision, Passover, and captain of the Lord's host" },
+    { "chapter": 6, "slug": "joshua-06", "theme": "Jericho and victory by divine command" },
+    { "chapter": 7, "slug": "joshua-07", "theme": "Achan, hidden sin, and disrupted inheritance" },
+    { "chapter": 8, "slug": "joshua-08", "theme": "Ai, restored victory, and covenant reading" },
+    { "chapter": 9, "slug": "joshua-09", "theme": "Gibeon deception and covenant complexity" },
+    { "chapter": 10, "slug": "joshua-10", "theme": "southern campaign and day of prolonged victory" },
+    { "chapter": 11, "slug": "joshua-11", "theme": "northern campaign and conquest completion" },
+    { "chapter": 12, "slug": "joshua-12", "theme": "defeated kings and conquest summary" },
+    { "chapter": 13, "slug": "joshua-13", "theme": "remaining land and inheritance assignments begin" },
+    { "chapter": 14, "slug": "joshua-14", "theme": "Caleb's inheritance and persevering faith" },
+    { "chapter": 15, "slug": "joshua-15", "theme": "Judah's allotment and covenant boundaries" },
+    { "chapter": 16, "slug": "joshua-16", "theme": "Ephraim's allotment" },
+    { "chapter": 17, "slug": "joshua-17", "theme": "Manasseh's allotment and unfinished obedience" },
+    { "chapter": 18, "slug": "joshua-18", "theme": "remaining tribes surveyed and assigned" },
+    { "chapter": 19, "slug": "joshua-19", "theme": "final tribal inheritances and Joshua's portion" },
+    { "chapter": 20, "slug": "joshua-20", "theme": "cities of refuge and covenant justice" },
+    { "chapter": 21, "slug": "joshua-21", "theme": "Levitical cities and fulfilled promise" },
+    { "chapter": 22, "slug": "joshua-22", "theme": "altar controversy and tribal unity" },
+    { "chapter": 23, "slug": "joshua-23", "theme": "Joshua's farewell and warning against compromise" },
+    { "chapter": 24, "slug": "joshua-24", "theme": "Shechem covenant renewal and choose this day" }
+  ]
+}
