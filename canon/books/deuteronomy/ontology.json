@@ -1,0 +1,61 @@
+{
+  "@context": {
+    "gcb": "https://goldstonianconcordancebible.org/schema/",
+    "name": "http://schema.org/name",
+    "description": "http://schema.org/description",
+    "keywords": "http://schema.org/keywords",
+    "isPartOf": "http://schema.org/isPartOf",
+    "about": "http://schema.org/about",
+    "genre": "http://schema.org/genre"
+  },
+  "@type": "CreativeWork",
+  "id": "gcb-book-deuteronomy",
+  "name": "Deuteronomy",
+  "description": "Deuteronomy is the defining book of covenant renewal in the Goldstonian Concordance Bible (GCB), establishing remembrance, heart-level obedience, blessing and curse, succession, and final preparation for inheritance.",
+  "keywords": [
+    "Goldstonian Concordance Bible",
+    "GCB",
+    "Mirror → Water → Fire Doctrine",
+    "81-Book Ethiopian Canon",
+    "Deuteronomy",
+    "Devarim",
+    "covenant renewal",
+    "Shema",
+    "blessing and curse",
+    "prophet like Moses",
+    "Song of Moses",
+    "Messiah thread"
+  ],
+  "genre": [
+    "Biblical Book Profile",
+    "Canonical Index",
+    "Doctrine Layer",
+    "Knowledge Graph Node"
+  ],
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Goldstonian Concordance Bible (GCB)"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "81-Book Ethiopian Canon"
+    },
+    {
+      "@type": "Thing",
+      "name": "Mirror → Water → Fire Doctrine"
+    },
+    {
+      "@type": "Thing",
+      "name": "SydTek Scholars"
+    }
+  ],
+  "gcb:collection": "Torah",
+  "gcb:testament": "Old Testament",
+  "gcb:bookNumber": 5,
+  "gcb:messiahThread": true,
+  "gcb:institutionalAlignment": [
+    "SydTek Scholars",
+    "SydTek University"
+  ]
+}
