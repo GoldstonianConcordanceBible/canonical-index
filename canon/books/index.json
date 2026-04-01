@@ -1,835 +1,127 @@
 {
-  "registry_name": "GCB Canon Books Authority Registry",
-  "authority_label": "Goldstonian Concordance Bible Canonical Book Registry",
-  "version": "v4.0.0-books-registry",
-  "primary_tradition": "81-Book Ethiopian Canon",
-  "total_books": 81,
-  "description": "Central authority registry for canonical book records used by the GCB canon, graph, ontology, search, and agent layers.",
-  "groups": {
-    "torah": [
-      "genesis",
-      "exodus",
-      "leviticus",
-      "numbers",
-      "deuteronomy"
-    ],
-    "historical-books": [
-      "joshua",
-      "judges",
-      "ruth",
-      "1-samuel",
-      "2-samuel",
-      "1-kings",
-      "2-kings",
-      "1-chronicles",
-      "2-chronicles",
-      "ezra",
-      "nehemiah",
-      "esther"
-    ],
-    "wisdom-literature": [
-      "job",
-      "psalms",
-      "proverbs",
-      "ecclesiastes",
-      "song-of-solomon",
-      "wisdom-of-solomon",
-      "sirach"
-    ],
-    "major-prophets": [
-      "isaiah",
-      "jeremiah",
-      "lamentations",
-      "baruch",
-      "ezekiel",
-      "daniel"
-    ],
-    "minor-prophets": [
-      "hosea",
-      "joel",
-      "amos",
-      "obadiah",
-      "jonah",
-      "micah",
-      "nahum",
-      "habakkuk",
-      "zephaniah",
-      "haggai",
-      "zechariah",
-      "malachi"
-    ],
-    "deuterocanonical-books": [
-      "tobit",
-      "judith",
-      "greek-esther",
-      "1-maccabees",
-      "2-maccabees"
-    ],
-    "ethiopian-canon": [
-      "enoch",
-      "jubilees",
-      "1-meqabyan",
-      "2-meqabyan",
-      "3-meqabyan"
-    ],
-    "new-testament": [
-      "matthew",
-      "mark",
-      "luke",
-      "john",
-      "acts",
-      "romans",
-      "1-corinthians",
-      "2-corinthians",
-      "galatians",
-      "ephesians",
-      "philippians",
-      "colossians",
-      "1-thessalonians",
-      "2-thessalonians",
-      "1-timothy",
-      "2-timothy",
-      "titus",
-      "philemon",
-      "hebrews",
-      "james",
-      "1-peter",
-      "2-peter",
-      "1-john",
-      "2-john",
-      "3-john",
-      "jude",
-      "revelation"
-    ]
-  },
   "books": [
     {
-      "id": "book.genesis",
-      "slug": "genesis",
+      "id": "gcb-book-genesis",
       "title": "Genesis",
-      "group": "torah",
-      "path": "canon/torah/genesis.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
+      "slug": "genesis",
+      "collection": "Torah",
+      "testament": "Old Testament",
+      "canon": "81-Book Ethiopian Canon",
+      "series": "Goldstonian Concordance Bible (GCB)",
+      "doctrine": "Mirror → Water → Fire Doctrine",
+      "book_number": 1,
+      "chapters_total": 50,
+      "keywords": [
+        "Genesis",
+        "Bereshit",
+        "creation",
+        "fall",
+        "covenant",
+        "Abraham",
+        "Joseph",
+        "seed",
+        "blessing"
+      ],
+      "paths": {
+        "book_yaml": "/canon/books/genesis/book.yaml",
+        "readme": "/canon/books/genesis/README.md",
+        "ontology": "/canon/books/genesis/ontology.json",
+        "chapters_index": "/canon/books/genesis/chapters/index.json",
+        "longform_script": "/canon/books/genesis/longform-script.md",
+        "doctrine_layer": "/doctrine-layer/books/genesis.md",
+        "knowledge_graph_node": "/knowledge-graph/nodes/genesis-node.json"
+      }
     },
     {
-      "id": "book.exodus",
-      "slug": "exodus",
+      "id": "gcb-book-exodus",
       "title": "Exodus",
-      "group": "torah",
-      "path": "canon/torah/exodus.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
+      "slug": "exodus",
+      "collection": "Torah",
+      "testament": "Old Testament",
+      "canon": "81-Book Ethiopian Canon",
+      "series": "Goldstonian Concordance Bible (GCB)",
+      "doctrine": "Mirror → Water → Fire Doctrine",
+      "book_number": 2,
+      "chapters_total": 40,
+      "keywords": [
+        "Exodus",
+        "Shemot",
+        "Moses",
+        "deliverance",
+        "Passover",
+        "Red Sea",
+        "Sinai",
+        "tabernacle"
+      ],
+      "paths": {
+        "book_yaml": "/canon/books/exodus/book.yaml",
+        "readme": "/canon/books/exodus/README.md",
+        "ontology": "/canon/books/exodus/ontology.json",
+        "chapters_index": "/canon/books/exodus/chapters/index.json",
+        "longform_script": "/canon/books/exodus/longform-script.md",
+        "doctrine_layer": "/doctrine-layer/books/exodus.md",
+        "knowledge_graph_node": "/knowledge-graph/nodes/exodus-node.json"
+      }
     },
     {
-      "id": "book.leviticus",
-      "slug": "leviticus",
+      "id": "gcb-book-leviticus",
       "title": "Leviticus",
-      "group": "torah",
-      "path": "canon/torah/leviticus.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
+      "slug": "leviticus",
+      "collection": "Torah",
+      "testament": "Old Testament",
+      "canon": "81-Book Ethiopian Canon",
+      "series": "Goldstonian Concordance Bible (GCB)",
+      "doctrine": "Mirror → Water → Fire Doctrine",
+      "book_number": 3,
+      "chapters_total": 27,
+      "keywords": [
+        "Leviticus",
+        "Vayikra",
+        "holiness",
+        "sacrifice",
+        "priesthood",
+        "atonement",
+        "Day of Atonement",
+        "jubilee"
+      ],
+      "paths": {
+        "book_yaml": "/canon/books/leviticus/book.yaml",
+        "readme": "/canon/books/leviticus/README.md",
+        "ontology": "/canon/books/leviticus/ontology.json",
+        "chapters_index": "/canon/books/leviticus/chapters/index.json",
+        "doctrine_layer": "/doctrine-layer/books/leviticus.md",
+        "knowledge_graph_node": "/knowledge-graph/nodes/leviticus-node.json"
+      }
     },
     {
-      "id": "book.numbers",
-      "slug": "numbers",
+      "id": "gcb-book-numbers",
       "title": "Numbers",
-      "group": "torah",
-      "path": "canon/torah/numbers.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.deuteronomy",
-      "slug": "deuteronomy",
-      "title": "Deuteronomy",
-      "group": "torah",
-      "path": "canon/torah/deuteronomy.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-
-    {
-      "id": "book.joshua",
-      "slug": "joshua",
-      "title": "Joshua",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/joshua.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.judges",
-      "slug": "judges",
-      "title": "Judges",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/judges.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.ruth",
-      "slug": "ruth",
-      "title": "Ruth",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/ruth.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.1-samuel",
-      "slug": "1-samuel",
-      "title": "1 Samuel",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/1-samuel.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.2-samuel",
-      "slug": "2-samuel",
-      "title": "2 Samuel",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/2-samuel.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.1-kings",
-      "slug": "1-kings",
-      "title": "1 Kings",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/1-kings.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.2-kings",
-      "slug": "2-kings",
-      "title": "2 Kings",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/2-kings.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.1-chronicles",
-      "slug": "1-chronicles",
-      "title": "1 Chronicles",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/1-chronicles.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.2-chronicles",
-      "slug": "2-chronicles",
-      "title": "2 Chronicles",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/2-chronicles.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.ezra",
-      "slug": "ezra",
-      "title": "Ezra",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/ezra.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.nehemiah",
-      "slug": "nehemiah",
-      "title": "Nehemiah",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/nehemiah.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.esther",
-      "slug": "esther",
-      "title": "Esther",
-      "group": "historical-books",
-      "path": "canon/Historical_Books/esther.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared_with_variants"
-    },
-
-    {
-      "id": "book.job",
-      "slug": "job",
-      "title": "Job",
-      "group": "wisdom-literature",
-      "path": "canon/Wisdom_Literature/job.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.psalms",
-      "slug": "psalms",
-      "title": "Psalms",
-      "group": "wisdom-literature",
-      "path": "canon/Wisdom_Literature/psalms.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.proverbs",
-      "slug": "proverbs",
-      "title": "Proverbs",
-      "group": "wisdom-literature",
-      "path": "canon/Wisdom_Literature/proverbs.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.ecclesiastes",
-      "slug": "ecclesiastes",
-      "title": "Ecclesiastes",
-      "group": "wisdom-literature",
-      "path": "canon/Wisdom_Literature/ecclesiastes.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.song-of-solomon",
-      "slug": "song-of-solomon",
-      "title": "Song of Solomon",
-      "group": "wisdom-literature",
-      "path": "canon/Wisdom_Literature/song-of-solomon.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.wisdom-of-solomon",
-      "slug": "wisdom-of-solomon",
-      "title": "Wisdom of Solomon",
-      "group": "wisdom-literature",
-      "path": "canon/Wisdom_Literature/wisdom-of-solomon.json",
-      "traditions": ["ethiopian", "catholic"],
-      "category": "ethiopian_catholic_shared"
-    },
-    {
-      "id": "book.sirach",
-      "slug": "sirach",
-      "title": "Sirach",
-      "group": "wisdom-literature",
-      "path": "canon/Wisdom_Literature/sirach.json",
-      "traditions": ["ethiopian", "catholic"],
-      "category": "ethiopian_catholic_shared"
-    },
-
-    {
-      "id": "book.isaiah",
-      "slug": "isaiah",
-      "title": "Isaiah",
-      "group": "major-prophets",
-      "path": "canon/Major_Prophets/isaiah.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.jeremiah",
-      "slug": "jeremiah",
-      "title": "Jeremiah",
-      "group": "major-prophets",
-      "path": "canon/Major_Prophets/jeremiah.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.lamentations",
-      "slug": "lamentations",
-      "title": "Lamentations",
-      "group": "major-prophets",
-      "path": "canon/Major_Prophets/lamentations.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.baruch",
-      "slug": "baruch",
-      "title": "Baruch",
-      "group": "major-prophets",
-      "path": "canon/Major_Prophets/baruch.json",
-      "traditions": ["ethiopian", "catholic"],
-      "category": "ethiopian_catholic_shared"
-    },
-    {
-      "id": "book.ezekiel",
-      "slug": "ezekiel",
-      "title": "Ezekiel",
-      "group": "major-prophets",
-      "path": "canon/Major_Prophets/ezekiel.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.daniel",
-      "slug": "daniel",
-      "title": "Daniel",
-      "group": "major-prophets",
-      "path": "canon/Major_Prophets/daniel.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared_with_variants"
-    },
-
-    {
-      "id": "book.hosea",
-      "slug": "hosea",
-      "title": "Hosea",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/hosea.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.joel",
-      "slug": "joel",
-      "title": "Joel",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/joel.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.amos",
-      "slug": "amos",
-      "title": "Amos",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/amos.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.obadiah",
-      "slug": "obadiah",
-      "title": "Obadiah",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/obadiah.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.jonah",
-      "slug": "jonah",
-      "title": "Jonah",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/jonah.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.micah",
-      "slug": "micah",
-      "title": "Micah",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/micah.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.nahum",
-      "slug": "nahum",
-      "title": "Nahum",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/nahum.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.habakkuk",
-      "slug": "habakkuk",
-      "title": "Habakkuk",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/habakkuk.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.zephaniah",
-      "slug": "zephaniah",
-      "title": "Zephaniah",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/zephaniah.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.haggai",
-      "slug": "haggai",
-      "title": "Haggai",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/haggai.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.zechariah",
-      "slug": "zechariah",
-      "title": "Zechariah",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/zechariah.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.malachi",
-      "slug": "malachi",
-      "title": "Malachi",
-      "group": "minor-prophets",
-      "path": "canon/Minor_Prophets/malachi.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-
-    {
-      "id": "book.tobit",
-      "slug": "tobit",
-      "title": "Tobit",
-      "group": "deuterocanonical-books",
-      "path": "canon/Deuterocanonical_Books/tobit.json",
-      "traditions": ["ethiopian", "catholic"],
-      "category": "ethiopian_catholic_shared"
-    },
-    {
-      "id": "book.judith",
-      "slug": "judith",
-      "title": "Judith",
-      "group": "deuterocanonical-books",
-      "path": "canon/Deuterocanonical_Books/judith.json",
-      "traditions": ["ethiopian", "catholic"],
-      "category": "ethiopian_catholic_shared"
-    },
-    {
-      "id": "book.greek-esther",
-      "slug": "greek-esther",
-      "title": "Greek Esther",
-      "group": "deuterocanonical-books",
-      "path": "canon/Deuterocanonical_Books/greek-esther.json",
-      "traditions": ["ethiopian", "catholic"],
-      "category": "ethiopian_catholic_shared"
-    },
-    {
-      "id": "book.1-maccabees",
-      "slug": "1-maccabees",
-      "title": "1 Maccabees",
-      "group": "deuterocanonical-books",
-      "path": "canon/Deuterocanonical_Books/1-maccabees.json",
-      "traditions": ["catholic"],
-      "category": "non-ethiopian-reference"
-    },
-    {
-      "id": "book.2-maccabees",
-      "slug": "2-maccabees",
-      "title": "2 Maccabees",
-      "group": "deuterocanonical-books",
-      "path": "canon/Deuterocanonical_Books/2-maccabees.json",
-      "traditions": ["catholic"],
-      "category": "non-ethiopian-reference"
-    },
-
-    {
-      "id": "book.enoch",
-      "slug": "enoch",
-      "title": "Enoch",
-      "group": "ethiopian-canon",
-      "path": "canon/ethiopian-canon/enoch.json",
-      "traditions": ["ethiopian"],
-      "category": "ethiopian_distinct"
-    },
-    {
-      "id": "book.jubilees",
-      "slug": "jubilees",
-      "title": "Jubilees",
-      "group": "ethiopian-canon",
-      "path": "canon/ethiopian-canon/jubilees.json",
-      "traditions": ["ethiopian"],
-      "category": "ethiopian_distinct"
-    },
-    {
-      "id": "book.1-meqabyan",
-      "slug": "1-meqabyan",
-      "title": "1 Meqabyan",
-      "group": "ethiopian-canon",
-      "path": "canon/ethiopian-canon/1-meqabyan.json",
-      "traditions": ["ethiopian"],
-      "category": "ethiopian_distinct"
-    },
-    {
-      "id": "book.2-meqabyan",
-      "slug": "2-meqabyan",
-      "title": "2 Meqabyan",
-      "group": "ethiopian-canon",
-      "path": "canon/ethiopian-canon/2-meqabyan.json",
-      "traditions": ["ethiopian"],
-      "category": "ethiopian_distinct"
-    },
-    {
-      "id": "book.3-meqabyan",
-      "slug": "3-meqabyan",
-      "title": "3 Meqabyan",
-      "group": "ethiopian-canon",
-      "path": "canon/ethiopian-canon/3-meqabyan.json",
-      "traditions": ["ethiopian"],
-      "category": "ethiopian_distinct"
-    },
-
-    {
-      "id": "book.matthew",
-      "slug": "matthew",
-      "title": "Matthew",
-      "group": "new-testament",
-      "path": "canon/New_Testament/matthew.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.mark",
-      "slug": "mark",
-      "title": "Mark",
-      "group": "new-testament",
-      "path": "canon/New_Testament/mark.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.luke",
-      "slug": "luke",
-      "title": "Luke",
-      "group": "new-testament",
-      "path": "canon/New_Testament/luke.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.john",
-      "slug": "john",
-      "title": "John",
-      "group": "new-testament",
-      "path": "canon/New_Testament/john.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.acts",
-      "slug": "acts",
-      "title": "Acts",
-      "group": "new-testament",
-      "path": "canon/New_Testament/acts.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.romans",
-      "slug": "romans",
-      "title": "Romans",
-      "group": "new-testament",
-      "path": "canon/New_Testament/romans.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.1-corinthians",
-      "slug": "1-corinthians",
-      "title": "1 Corinthians",
-      "group": "new-testament",
-      "path": "canon/New_Testament/1-corinthians.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.2-corinthians",
-      "slug": "2-corinthians",
-      "title": "2 Corinthians",
-      "group": "new-testament",
-      "path": "canon/New_Testament/2-corinthians.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.galatians",
-      "slug": "galatians",
-      "title": "Galatians",
-      "group": "new-testament",
-      "path": "canon/New_Testament/galatians.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.ephesians",
-      "slug": "ephesians",
-      "title": "Ephesians",
-      "group": "new-testament",
-      "path": "canon/New_Testament/ephesians.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.philippians",
-      "slug": "philippians",
-      "title": "Philippians",
-      "group": "new-testament",
-      "path": "canon/New_Testament/philippians.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.colossians",
-      "slug": "colossians",
-      "title": "Colossians",
-      "group": "new-testament",
-      "path": "canon/New_Testament/colossians.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.1-thessalonians",
-      "slug": "1-thessalonians",
-      "title": "1 Thessalonians",
-      "group": "new-testament",
-      "path": "canon/New_Testament/1-thessalonians.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.2-thessalonians",
-      "slug": "2-thessalonians",
-      "title": "2 Thessalonians",
-      "group": "new-testament",
-      "path": "canon/New_Testament/2-thessalonians.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.1-timothy",
-      "slug": "1-timothy",
-      "title": "1 Timothy",
-      "group": "new-testament",
-      "path": "canon/New_Testament/1-timothy.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.2-timothy",
-      "slug": "2-timothy",
-      "title": "2 Timothy",
-      "group": "new-testament",
-      "path": "canon/New_Testament/2-timothy.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.titus",
-      "slug": "titus",
-      "title": "Titus",
-      "group": "new-testament",
-      "path": "canon/New_Testament/titus.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.philemon",
-      "slug": "philemon",
-      "title": "Philemon",
-      "group": "new-testament",
-      "path": "canon/New_Testament/philemon.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.hebrews",
-      "slug": "hebrews",
-      "title": "Hebrews",
-      "group": "new-testament",
-      "path": "canon/New_Testament/hebrews.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.james",
-      "slug": "james",
-      "title": "James",
-      "group": "new-testament",
-      "path": "canon/New_Testament/james.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.1-peter",
-      "slug": "1-peter",
-      "title": "1 Peter",
-      "group": "new-testament",
-      "path": "canon/New_Testament/1-peter.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.2-peter",
-      "slug": "2-peter",
-      "title": "2 Peter",
-      "group": "new-testament",
-      "path": "canon/New_Testament/2-peter.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.1-john",
-      "slug": "1-john",
-      "title": "1 John",
-      "group": "new-testament",
-      "path": "canon/New_Testament/1-john.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.2-john",
-      "slug": "2-john",
-      "title": "2 John",
-      "group": "new-testament",
-      "path": "canon/New_Testament/2-john.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.3-john",
-      "slug": "3-john",
-      "title": "3 John",
-      "group": "new-testament",
-      "path": "canon/New_Testament/3-john.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.jude",
-      "slug": "jude",
-      "title": "Jude",
-      "group": "new-testament",
-      "path": "canon/New_Testament/jude.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
-    },
-    {
-      "id": "book.revelation",
-      "slug": "revelation",
-      "title": "Revelation",
-      "group": "new-testament",
-      "path": "canon/New_Testament/revelation.json",
-      "traditions": ["ethiopian", "catholic", "protestant"],
-      "category": "shared"
+      "slug": "numbers",
+      "collection": "Torah",
+      "testament": "Old Testament",
+      "canon": "81-Book Ethiopian Canon",
+      "series": "Goldstonian Concordance Bible (GCB)",
+      "doctrine": "Mirror → Water → Fire Doctrine",
+      "book_number": 4,
+      "chapters_total": 36,
+      "keywords": [
+        "Numbers",
+        "Bemidbar",
+        "wilderness",
+        "census",
+        "rebellion",
+        "spies",
+        "bronze serpent",
+        "Balaam"
+      ],
+      "paths": {
+        "book_yaml": "/canon/books/numbers/book.yaml",
+        "readme": "/canon/books/numbers/README.md",
+        "ontology": "/canon/books/numbers/ontology.json",
+        "chapters_index": "/canon/books/numbers/chapters/index.json",
+        "doctrine_layer": "/doctrine-layer/books/numbers.md",
+        "knowledge_graph_node": "/knowledge-graph/nodes/numbers-node.json"
+      }
     }
-  ],
-  "rules": {
-    "slug_style": "lowercase-kebab-case",
-    "id_style": "book.<slug>",
-    "path_rule": "canonical book path must point to one authoritative file",
-    "no_silent_merges": [
-      "1-meqabyan != 1-maccabees",
-      "2-meqabyan != 2-maccabees",
-      "3-meqabyan != 3-maccabees"
-    ]
-  }
+  ]
 }
