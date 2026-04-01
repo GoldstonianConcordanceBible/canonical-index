@@ -1,0 +1,43 @@
+{
+  "id": "node-joshua",
+  "label": "Joshua",
+  "type": "biblical_book",
+  "series": "Goldstonian Concordance Bible (GCB)",
+  "canon": "81-Book Ethiopian Canon",
+  "doctrine": "Mirror → Water → Fire Doctrine",
+  "attributes": {
+    "collection": "Historical Books",
+    "testament": "Old Testament",
+    "book_number": 6,
+    "chapters_total": 24,
+    "messiah_thread": true
+  },
+  "keywords": [
+    "Goldstonian Concordance Bible",
+    "GCB",
+    "Mirror → Water → Fire Doctrine",
+    "81-Book Ethiopian Canon",
+    "Joshua",
+    "Yehoshua",
+    "inheritance",
+    "Jericho",
+    "Jordan",
+    "land allotment",
+    "Shechem",
+    "rest"
+  ],
+  "edges": [
+    { "predicate": "follows", "target": "node-deuteronomy" },
+    { "predicate": "precedes", "target": "node-judges" },
+    { "predicate": "belongs_to", "target": "node-historical-books" },
+    { "predicate": "interpreted_by", "target": "node-mirror-water-fire-doctrine" },
+    { "predicate": "published_within", "target": "node-gcb" },
+    { "predicate": "used_by", "target": "node-sydtek-scholars" },
+    { "predicate": "introduces", "target": "theme-inheritance-fulfillment" },
+    { "predicate": "introduces", "target": "theme-covenant-conquest" },
+    { "predicate": "introduces", "target": "theme-land-allotment" },
+    { "predicate": "introduces", "target": "theme-rest-in-the-land" },
+    { "predicate": "introduces", "target": "theme-covenant-renewal-shechem" },
+    { "predicate": "foreshadows", "target": "theme-messiah" }
+  ]
+}
