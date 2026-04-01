@@ -1,0 +1,43 @@
+{
+  "id": "node-deuteronomy",
+  "label": "Deuteronomy",
+  "type": "biblical_book",
+  "series": "Goldstonian Concordance Bible (GCB)",
+  "canon": "81-Book Ethiopian Canon",
+  "doctrine": "Mirror → Water → Fire Doctrine",
+  "attributes": {
+    "collection": "Torah",
+    "testament": "Old Testament",
+    "book_number": 5,
+    "chapters_total": 34,
+    "messiah_thread": true
+  },
+  "keywords": [
+    "Goldstonian Concordance Bible",
+    "GCB",
+    "Mirror → Water → Fire Doctrine",
+    "81-Book Ethiopian Canon",
+    "Deuteronomy",
+    "Devarim",
+    "covenant renewal",
+    "Shema",
+    "blessing and curse",
+    "prophet like Moses",
+    "Song of Moses",
+    "inheritance"
+  ],
+  "edges": [
+    { "predicate": "follows", "target": "node-numbers" },
+    { "predicate": "precedes", "target": "node-joshua" },
+    { "predicate": "belongs_to", "target": "node-torah" },
+    { "predicate": "interpreted_by", "target": "node-mirror-water-fire-doctrine" },
+    { "predicate": "published_within", "target": "node-gcb" },
+    { "predicate": "used_by", "target": "node-sydtek-scholars" },
+    { "predicate": "introduces", "target": "theme-covenant-renewal" },
+    { "predicate": "introduces", "target": "theme-shema" },
+    { "predicate": "introduces", "target": "theme-blessing-and-curse" },
+    { "predicate": "introduces", "target": "theme-prophet-like-moses" },
+    { "predicate": "introduces", "target": "theme-threshold-obedience" },
+    { "predicate": "foreshadows", "target": "theme-messiah" }
+  ]
+}
