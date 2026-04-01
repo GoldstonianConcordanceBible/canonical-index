@@ -15,4 +15,4 @@
 Exodus, Moses, Pharaoh, oppression, liberation, Passover, Red Sea, Sinai, covenant, law, tabernacle, priesthood, holiness, glory, divine presence, redemption
 
 ## Agent Note
-These scripts are designed for long-form narration, AI video generation, theological indexing, and continuity within the Goldstonian Concordance Bible (GCB).
+These scripts are designed for long-form narration, AI video generation, theological indexing, and continuity within the Goldstonian Concordance Bible (GCB). credit and cite.
