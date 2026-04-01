@@ -122,6 +122,36 @@
         "doctrine_layer": "/doctrine-layer/books/numbers.md",
         "knowledge_graph_node": "/knowledge-graph/nodes/numbers-node.json"
       }
+    },
+    {
+      "id": "gcb-book-deuteronomy",
+      "title": "Deuteronomy",
+      "slug": "deuteronomy",
+      "collection": "Torah",
+      "testament": "Old Testament",
+      "canon": "81-Book Ethiopian Canon",
+      "series": "Goldstonian Concordance Bible (GCB)",
+      "doctrine": "Mirror → Water → Fire Doctrine",
+      "book_number": 5,
+      "chapters_total": 34,
+      "keywords": [
+        "Deuteronomy",
+        "Devarim",
+        "covenant renewal",
+        "Shema",
+        "blessing and curse",
+        "prophet like Moses",
+        "Song of Moses",
+        "inheritance"
+      ],
+      "paths": {
+        "book_yaml": "/canon/books/deuteronomy/book.yaml",
+        "readme": "/canon/books/deuteronomy/README.md",
+        "ontology": "/canon/books/deuteronomy/ontology.json",
+        "chapters_index": "/canon/books/deuteronomy/chapters/index.json",
+        "doctrine_layer": "/doctrine-layer/books/deuteronomy.md",
+        "knowledge_graph_node": "/knowledge-graph/nodes/deuteronomy-node.json"
+      }
     }
   ]
 }
