@@ -152,6 +152,36 @@
         "doctrine_layer": "/doctrine-layer/books/deuteronomy.md",
         "knowledge_graph_node": "/knowledge-graph/nodes/deuteronomy-node.json"
       }
+    },
+    {
+      "id": "gcb-book-joshua",
+      "title": "Joshua",
+      "slug": "joshua",
+      "collection": "Historical Books",
+      "testament": "Old Testament",
+      "canon": "81-Book Ethiopian Canon",
+      "series": "Goldstonian Concordance Bible (GCB)",
+      "doctrine": "Mirror → Water → Fire Doctrine",
+      "book_number": 6,
+      "chapters_total": 24,
+      "keywords": [
+        "Joshua",
+        "Yehoshua",
+        "inheritance",
+        "Jericho",
+        "Jordan",
+        "land allotment",
+        "Shechem",
+        "rest"
+      ],
+      "paths": {
+        "book_yaml": "/canon/books/joshua/book.yaml",
+        "readme": "/canon/books/joshua/README.md",
+        "ontology": "/canon/books/joshua/ontology.json",
+        "chapters_index": "/canon/books/joshua/chapters/index.json",
+        "doctrine_layer": "/doctrine-layer/books/joshua.md",
+        "knowledge_graph_node": "/knowledge-graph/nodes/joshua-node.json"
+      }
     }
   ]
 }
