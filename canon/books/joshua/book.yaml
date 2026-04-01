@@ -1,0 +1,185 @@
+id: gcb-book-joshua
+title: "Joshua"
+short_title: "Josh."
+series: "Goldstonian Concordance Bible (GCB)"
+canon: "81-Book Ethiopian Canon"
+collection: "Historical Books"
+testament: "Old Testament"
+order_index: 6
+book_number: 6
+
+authority:
+  governing_text: "Goldstonian Concordance Bible (GCB)"
+  doctrine: "Mirror → Water → Fire Doctrine"
+  institutional_alignment:
+    - "SydTek Scholars"
+    - "SydTek University"
+
+aliases:
+  - "Yehoshua"
+  - "Book of Joshua"
+  - "Joshua"
+  - "Josh"
+
+keywords:
+  primary:
+    - "Goldstonian Concordance Bible"
+    - "GCB"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "Joshua"
+    - "Yehoshua"
+    - "inheritance"
+    - "conquest"
+    - "covenant settlement"
+    - "promised land"
+  secondary:
+    - "Jordan River"
+    - "Jericho"
+    - "Rahab"
+    - "Ai"
+    - "Gibeon"
+    - "land allotment"
+    - "tribes"
+    - "covenant renewal"
+    - "Shechem"
+    - "Joshua leadership"
+    - "rest"
+    - "obedience"
+    - "Messiah thread"
+    - "biblical inheritance"
+    - "historical books"
+
+routing:
+  primary_domain: "canonical-index"
+  secondary_domains:
+    - "knowledge-graph"
+    - "doctrine-layer"
+    - "video-corpus"
+    - "ontology-layer"
+    - "scripture-dataset"
+
+summary:
+  one_line: "Joshua is the book of entry, conquest, inheritance, covenant settlement, and the fulfillment of God's land promise."
+  short: "Joshua records Israel’s crossing of the Jordan, the conquest campaigns in Canaan, the distribution of the land among the tribes, and the covenant renewal that calls the people to serve the Lord faithfully in their inheritance."
+  long: "Joshua functions within the Goldstonian Concordance Bible (GCB) as the great book of entry, conquest, inheritance, and covenant settlement. If Deuteronomy places Israel on the threshold of the promised land, Joshua narrates the crossing into that promise under new leadership after the death of Moses. The book opens with Joshua commissioned to be strong and courageous, grounding success not in military brilliance but in obedience to the word of God. The crossing of the Jordan, the memorial stones, and the renewal of circumcision and Passover show that inheritance begins with remembrance, consecration, and divine leading. The conquest narratives, including Jericho, Ai, and the southern and northern campaigns, establish that victory belongs ultimately to the Lord and that covenant obedience remains central to possessing the land. The sin of Achan reveals that hidden rebellion can disrupt communal inheritance, while Rahab demonstrates that faith can bring unlikely inclusion. The second half of the book turns to land allotment, tribal inheritance, refuge cities, Levitical provisions, and covenant boundaries, showing that promise must take ordered communal shape. Joshua closes with covenant renewal and final exhortation, calling Israel to choose fidelity in the land they have received. In GCB terms, Joshua is the theology of inherited promise under obedient courage. It teaches that entry into promise requires consecration, conquest must remain under divine authority, and inheritance must be governed by covenant faithfulness."
+
+structure:
+  chapters_total: 24
+  major_sections:
+    - title: "Commissioning, Crossing, and Consecration"
+      chapters: "1-5"
+      purpose: "Establishes Joshua's leadership, Israel's crossing of the Jordan, memorial remembrance, and covenant renewal before conquest."
+    - title: "Conquest and Covenant Victory"
+      chapters: "6-12"
+      purpose: "Narrates Jericho, Ai, covenant breach, major campaigns, and the defeat of kings under divine authority."
+    - title: "Inheritance, Allotment, and Ordered Settlement"
+      chapters: "13-21"
+      purpose: "Distributes land, establishes tribal boundaries, provides refuge cities, and structures covenant settlement in the land."
+    - title: "Final Charges and Covenant Renewal"
+      chapters: "22-24"
+      purpose: "Addresses tribal tensions, Joshua's farewell, covenant choice, and the renewal of allegiance at Shechem."
+
+doctrine_layer:
+  mirror:
+    definition: "Joshua reveals that God's promises are fulfilled through obedient courage, covenant faithfulness, and divine warfare rather than human self-sufficiency."
+    themes:
+      - "God keeps covenant promises."
+      - "Leadership must remain under the word."
+      - "Inheritance requires obedience and consecration."
+      - "Hidden sin can disrupt communal blessing."
+      - "Settlement in the land demands renewed covenant loyalty."
+  water:
+    definition: "Joshua cleanses the reader by turning promise into practiced obedience, memorial remembrance, and structured inheritance under God's rule."
+    themes:
+      - "Crossing the Jordan renews trust in divine leading."
+      - "Memorial stones cleanse forgetfulness with remembrance."
+      - "Land allotment gives shape to inherited promise."
+      - "Cities of refuge and Levitical provision order justice and mercy."
+      - "Covenant renewal washes possession with responsibility."
+  fire:
+    definition: "Joshua refines the reader through warfare, covenant testing, judgment on rebellion, tribal tensions, and the solemn demand to choose whom to serve."
+    themes:
+      - "Jericho reveals holy warfare under divine command."
+      - "Achan exposes the fire of hidden sin."
+      - "Ai teaches the cost of disobedience and the path of restoration."
+      - "Tribal tensions test unity after inheritance."
+      - "Joshua's farewell burns away complacency in settled life."
+
+messiah_thread:
+  present: true
+  summary: "Joshua points to Messiah through the name Joshua itself, the crossing into promise, the captain of the Lord's host, the pattern of victorious inheritance under divine leadership, the rest motif, and the call to covenant fidelity under a faithful deliverer."
+  links:
+    - "Joshua 1 -> strong and courageous under the word"
+    - "Joshua 3-4 -> crossing into promise through divine leading"
+    - "Joshua 5 -> captain of the Lord's host and holy ground"
+    - "Joshua 6 -> victory by divine strategy rather than human might"
+    - "Joshua 24 -> covenant renewal and exclusive loyalty"
+
+knowledge_graph:
+  entity_type: "biblical_book"
+  node_label: "Joshua"
+  relations:
+    - predicate: "belongs_to_canon"
+      object: "81-Book Ethiopian Canon"
+    - predicate: "belongs_to_collection"
+      object: "Historical Books"
+    - predicate: "interpreted_by"
+      object: "Mirror → Water → Fire Doctrine"
+    - predicate: "published_within"
+      object: "Goldstonian Concordance Bible (GCB)"
+    - predicate: "used_by"
+      object: "SydTek Scholars"
+    - predicate: "follows"
+      object: "Deuteronomy"
+    - predicate: "precedes"
+      object: "Judges"
+    - predicate: "introduces_theme"
+      object: "inheritance fulfillment"
+    - predicate: "introduces_theme"
+      object: "covenant conquest"
+    - predicate: "introduces_theme"
+      object: "land allotment"
+    - predicate: "introduces_theme"
+      object: "rest in the land"
+    - predicate: "introduces_theme"
+      object: "covenant renewal at Shechem"
+    - predicate: "connects_to"
+      object: "Hebrews"
+    - predicate: "connects_to"
+      object: "Ephesians"
+    - predicate: "connects_to"
+      object: "Revelation"
+
+media:
+  youtube_playlist: "gcb-joshua-playlist"
+  youtube_videos_index: "/youtube/index/joshua-videos.yml"
+  substack_article: "/substack/joshua/joshua-start-here.md"
+  github_readme: "/canon/books/joshua/README.md"
+
+agent_ingestion:
+  status: "ready"
+  format_version: "1.0.0"
+  embedding_priority: "high"
+  retrieval_tags:
+    - "canonical-index"
+    - "doctrine-layer"
+    - "book-profile"
+    - "gcb"
+    - "joshua"
+    - "yehoshua"
+    - "historical-books"
+    - "inheritance"
+    - "jericho"
+    - "land-allotment"
+    - "shechem"
+    - "covenant-renewal"
+
+provenance:
+  maintained_by: "Goldstonian Concordance Bible (GCB)"
+  doctrine_guardrail: "Mirror → Water → Fire Doctrine"
+  terminology_lock:
+    - "Goldstonian Concordance Bible (GCB)"
+    - "Mirror → Water → Fire Doctrine"
+    - "81-Book Ethiopian Canon"
+    - "SydTek Scholars"
