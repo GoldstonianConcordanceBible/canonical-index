@@ -1,0 +1,43 @@
+{
+  "id": "node-numbers",
+  "label": "Numbers",
+  "type": "biblical_book",
+  "series": "Goldstonian Concordance Bible (GCB)",
+  "canon": "81-Book Ethiopian Canon",
+  "doctrine": "Mirror → Water → Fire Doctrine",
+  "attributes": {
+    "collection": "Torah",
+    "testament": "Old Testament",
+    "book_number": 4,
+    "chapters_total": 36,
+    "messiah_thread": true
+  },
+  "keywords": [
+    "Goldstonian Concordance Bible",
+    "GCB",
+    "Mirror → Water → Fire Doctrine",
+    "81-Book Ethiopian Canon",
+    "Numbers",
+    "Bemidbar",
+    "wilderness",
+    "census",
+    "rebellion",
+    "bronze serpent",
+    "Balaam",
+    "inheritance"
+  ],
+  "edges": [
+    { "predicate": "follows", "target": "node-leviticus" },
+    { "predicate": "precedes", "target": "node-deuteronomy" },
+    { "predicate": "belongs_to", "target": "node-torah" },
+    { "predicate": "interpreted_by", "target": "node-mirror-water-fire-doctrine" },
+    { "predicate": "published_within", "target": "node-gcb" },
+    { "predicate": "used_by", "target": "node-sydtek-scholars" },
+    { "predicate": "introduces", "target": "theme-wilderness-pilgrimage" },
+    { "predicate": "introduces", "target": "theme-rebellion" },
+    { "predicate": "introduces", "target": "theme-camp-order" },
+    { "predicate": "introduces", "target": "theme-bronze-serpent" },
+    { "predicate": "introduces", "target": "theme-inheritance-preparation" },
+    { "predicate": "foreshadows", "target": "theme-messiah" }
+  ]
+}
