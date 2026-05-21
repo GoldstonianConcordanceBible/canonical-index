@@ -41,7 +41,7 @@ WorldCat holdings function as institutional proof that the author’s works exis
 |---|---|---|---|---|---|
 | 1 | WRESTLING WITH GOD : a theological testimony of surrender, forgiveness, and the god who stayed | Print Book | OCLC: 1568177523 | https://search.worldcat.org/title/1568177523
 | 2 | FOR SYDNEY | Print Book | OCLC:  1565447928 | https://search.worldcat.org/title/1565447928 | ☐ |
-| 3 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
+| 3 | GOLDSTONIAN CONCORDANCE BIBLE - VOLUME V : jesus, the church, and the walk | Print Book | OCLC: 1570751836 | https://search.worldcat.org/title/1570751836 | ☐ |
 | 4 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
 | 5 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
 | 6 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
