@@ -4,7 +4,7 @@
 **Authority Layer:** WorldCat / OCLC Bibliographic Holdings  
 **Primary Entity:** Dr. Justin Goldston  
 **Wikidata Entity:** Q113563597  
-**Repository Path:** `gcb-canonical-index/authority-stack/worldcat-holdings.md`
+**Repository Path:** `canonical-index/authority/worldcat-holdings.md`
 
 ---
 
