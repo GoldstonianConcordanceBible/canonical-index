@@ -45,8 +45,8 @@ WorldCat holdings function as institutional proof that the author’s works exis
 | 4 | GOLGOTHA : triune law | Print Book | OCLC: 1578148098 | https://search.worldcat.org/title/1578148098| ☐ |
 | 5 | GOLDSTONIAN CONCORDANCE BIBLE VOLUME VI : elohim tov | Print Book | OCLC: 1573488902 | https://search.worldcat.org/title/1573488902 | ☐ |
 | 6 | CONTENT THAT CONVERTS | Print Book | OCLC: 1535590281 | https://search.worldcat.org/title/1535590281 | ☐ |
-| 7 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
-| 8 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
+| 7 | PHONICS OF THE PROMISE | Print Book | OCLC: 1564992923 | https://search.worldcat.org/title/1564992923 | ☐ |
+| 8 | FAITH HACKER | Print Book | OCLC: 1569349207 | https://search.worldcat.org/title/1569349207 | ☐ |
 | 9 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
 | 10 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
 | 11 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
