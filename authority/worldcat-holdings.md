@@ -43,7 +43,7 @@ WorldCat holdings function as institutional proof that the author’s works exis
 | 2 | FOR SYDNEY | Print Book | OCLC:  1565447928 | https://search.worldcat.org/title/1565447928 | ☐ |
 | 3 | GOLDSTONIAN CONCORDANCE BIBLE - VOLUME V : jesus, the church, and the walk | Print Book | OCLC: 1570751836 | https://search.worldcat.org/title/1570751836 | ☐ |
 | 4 | GOLGOTHA : triune law | Print Book | OCLC: 1578148098 | https://search.worldcat.org/title/1578148098| ☐ |
-| 5 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
+| 5 | GOLDSTONIAN CONCORDANCE BIBLE VOLUME VI : elohim tov | Print Book | OCLC: 1573488902 | https://search.worldcat.org/title/1573488902 | ☐ |
 | 6 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
 | 7 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
 | 8 | TBD | Print Book | OCLC: TBD | https://search.worldcat.org/oclc/TBD | ☐ |
